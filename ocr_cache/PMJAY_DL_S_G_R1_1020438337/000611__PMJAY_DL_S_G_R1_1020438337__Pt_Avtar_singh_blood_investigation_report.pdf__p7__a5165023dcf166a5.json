@@ -1,0 +1,278 @@
+{
+  "text": "Visit ID\nRC124354\nRegistration\n23/3an/2026.03:10PM\nUHID/MR NO\n: RCI.0000021563\nCollected\n: 23/lan/2026.03:12PM\nPatient Name\nReceived\n23/Jan/2026-03.13PM\nAge/Gender\n58Y0M0D/M\nReported\n: 23/3Jan/2026 05:01PM\nRef Doctor\n: Dr.COMMANDER HOSPITAL\nStatus\n: Final Report\nClient Name\n: COMMANDER HOSPITAL\nClient Code\n320\nClient Add\n: SHIV VIHAR WEST, HASTAAL\nBarcode No\n: 10082595\nDEPARTMENT OF BIOCHEMISTRY\nTest Name\nResult\nUnit\nBio. Ref. Range\nMethod\nC-REACTIVE PROTEIN (CRP)\nL\nSample Type: SERUM\nC-REACTIVE PROTEIN\n38.60\nmg/t\n0.0-5.0\nTURBIDOMETRY\nINTERPRETATION:\nCRP is one of the proteins commonly referred to as acute phase reactants. CRP is distinguished by its\nrapid response to trauma or infection, CRP levels returns to normal auickly at the end of the acute\neprsode. Measurement of CRP aids in evaluation of the amount of injury to body tissues.\nIncreased In:\nAcute inflammation, Rheumatoid arthritis, lupus, Cardiovascular disease, atherosclerosis, Oral\ncontraceptives, Inflammatory bowel disease, Giant cell arthritis, Osteomyelitis, Cancer of the lymph\nnodes, Pregnancy,\nDecreased In:\nPatients treated with carboxypenicillins, Liver failure\n4885.OCD\nConsutart Pathalogut\nPage 2 t s",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 1185,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Visit ID",
+      "bbox": null,
+      "confidence": 0.9961425065994263
+    },
+    {
+      "text": "RC124354",
+      "bbox": null,
+      "confidence": 0.9586582183837891
+    },
+    {
+      "text": "Registration",
+      "bbox": null,
+      "confidence": 0.9841817021369934
+    },
+    {
+      "text": "23/3an/2026.03:10PM",
+      "bbox": null,
+      "confidence": 0.9589403867721558
+    },
+    {
+      "text": "UHID/MR NO",
+      "bbox": null,
+      "confidence": 0.9540910720825195
+    },
+    {
+      "text": ": RCI.0000021563",
+      "bbox": null,
+      "confidence": 0.9769436120986938
+    },
+    {
+      "text": "Collected",
+      "bbox": null,
+      "confidence": 0.972227931022644
+    },
+    {
+      "text": ": 23/lan/2026.03:12PM",
+      "bbox": null,
+      "confidence": 0.9586302638053894
+    },
+    {
+      "text": "Patient Name",
+      "bbox": null,
+      "confidence": 0.9984488487243652
+    },
+    {
+      "text": "Received",
+      "bbox": null,
+      "confidence": 0.9495143890380859
+    },
+    {
+      "text": "23/Jan/2026-03.13PM",
+      "bbox": null,
+      "confidence": 0.8667266368865967
+    },
+    {
+      "text": "Age/Gender",
+      "bbox": null,
+      "confidence": 0.9991544485092163
+    },
+    {
+      "text": "58Y0M0D/M",
+      "bbox": null,
+      "confidence": 0.8811435699462891
+    },
+    {
+      "text": "Reported",
+      "bbox": null,
+      "confidence": 0.9998887181282043
+    },
+    {
+      "text": ": 23/3Jan/2026 05:01PM",
+      "bbox": null,
+      "confidence": 0.8911422491073608
+    },
+    {
+      "text": "Ref Doctor",
+      "bbox": null,
+      "confidence": 0.9831591844558716
+    },
+    {
+      "text": ": Dr.COMMANDER HOSPITAL",
+      "bbox": null,
+      "confidence": 0.9028205871582031
+    },
+    {
+      "text": "Status",
+      "bbox": null,
+      "confidence": 0.9994275569915771
+    },
+    {
+      "text": ": Final Report",
+      "bbox": null,
+      "confidence": 0.9932764172554016
+    },
+    {
+      "text": "Client Name",
+      "bbox": null,
+      "confidence": 0.9764772653579712
+    },
+    {
+      "text": ": COMMANDER HOSPITAL",
+      "bbox": null,
+      "confidence": 0.9958536028862
+    },
+    {
+      "text": "Client Code",
+      "bbox": null,
+      "confidence": 0.9319965839385986
+    },
+    {
+      "text": "320",
+      "bbox": null,
+      "confidence": 0.999650776386261
+    },
+    {
+      "text": "Client Add",
+      "bbox": null,
+      "confidence": 0.9576317071914673
+    },
+    {
+      "text": ": SHIV VIHAR WEST, HASTAAL",
+      "bbox": null,
+      "confidence": 0.9671287536621094
+    },
+    {
+      "text": "Barcode No",
+      "bbox": null,
+      "confidence": 0.9994467496871948
+    },
+    {
+      "text": ": 10082595",
+      "bbox": null,
+      "confidence": 0.9813734889030457
+    },
+    {
+      "text": "DEPARTMENT OF BIOCHEMISTRY",
+      "bbox": null,
+      "confidence": 0.9688923358917236
+    },
+    {
+      "text": "Test Name",
+      "bbox": null,
+      "confidence": 0.9995065331459045
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9981576800346375
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9938361644744873
+    },
+    {
+      "text": "Bio. Ref. Range",
+      "bbox": null,
+      "confidence": 0.9831932187080383
+    },
+    {
+      "text": "Method",
+      "bbox": null,
+      "confidence": 0.9524666666984558
+    },
+    {
+      "text": "C-REACTIVE PROTEIN (CRP)",
+      "bbox": null,
+      "confidence": 0.9576961398124695
+    },
+    {
+      "text": "L",
+      "bbox": null,
+      "confidence": 0.13926419615745544
+    },
+    {
+      "text": "Sample Type: SERUM",
+      "bbox": null,
+      "confidence": 0.9859662652015686
+    },
+    {
+      "text": "C-REACTIVE PROTEIN",
+      "bbox": null,
+      "confidence": 0.9949419498443604
+    },
+    {
+      "text": "38.60",
+      "bbox": null,
+      "confidence": 0.9992003440856934
+    },
+    {
+      "text": "mg/t",
+      "bbox": null,
+      "confidence": 0.9405803680419922
+    },
+    {
+      "text": "0.0-5.0",
+      "bbox": null,
+      "confidence": 0.8729714155197144
+    },
+    {
+      "text": "TURBIDOMETRY",
+      "bbox": null,
+      "confidence": 0.9994948506355286
+    },
+    {
+      "text": "INTERPRETATION:",
+      "bbox": null,
+      "confidence": 0.9983693361282349
+    },
+    {
+      "text": "CRP is one of the proteins commonly referred to as acute phase reactants. CRP is distinguished by its",
+      "bbox": null,
+      "confidence": 0.987999439239502
+    },
+    {
+      "text": "rapid response to trauma or infection, CRP levels returns to normal auickly at the end of the acute",
+      "bbox": null,
+      "confidence": 0.9684988260269165
+    },
+    {
+      "text": "eprsode. Measurement of CRP aids in evaluation of the amount of injury to body tissues.",
+      "bbox": null,
+      "confidence": 0.9841347336769104
+    },
+    {
+      "text": "Increased In:",
+      "bbox": null,
+      "confidence": 0.9991161823272705
+    },
+    {
+      "text": "Acute inflammation, Rheumatoid arthritis, lupus, Cardiovascular disease, atherosclerosis, Oral",
+      "bbox": null,
+      "confidence": 0.9858000874519348
+    },
+    {
+      "text": "contraceptives, Inflammatory bowel disease, Giant cell arthritis, Osteomyelitis, Cancer of the lymph",
+      "bbox": null,
+      "confidence": 0.9933303594589233
+    },
+    {
+      "text": "nodes, Pregnancy,",
+      "bbox": null,
+      "confidence": 0.9349414706230164
+    },
+    {
+      "text": "Decreased In:",
+      "bbox": null,
+      "confidence": 0.996540904045105
+    },
+    {
+      "text": "Patients treated with carboxypenicillins, Liver failure",
+      "bbox": null,
+      "confidence": 0.9824842214584351
+    },
+    {
+      "text": "4885.OCD",
+      "bbox": null,
+      "confidence": 0.5824023485183716
+    },
+    {
+      "text": "Consutart Pathalogut",
+      "bbox": null,
+      "confidence": 0.8731319308280945
+    },
+    {
+      "text": "Page 2 t s",
+      "bbox": null,
+      "confidence": 0.6574423313140869
+    }
+  ]
+}

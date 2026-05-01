@@ -1,0 +1,417 @@
+Problem Statement 1: Output Guidelines
+Participants are required to produce a JSON output with the following
+standardized keys.
+Each key represents the presence, absence, or classification of mandatory
+documents and clinical findings as per the STG reference.
+Note:
+• Solutions that do not strictly adhere to the specified output format will
+be rejected without evaluation.
+• Solution is only acceptable if it is solved for all 4 packages.
+A) Package Code: MG064A, Condition: Severe Anemia
+Output Json:
+[
+{
+"case_id": "C1",
+"link": "Bucket_name/document.pdf",
+"procedure_code": "MG064A",
+"page_number": 1,
+"clinical_notes": 0,
+"cbc_hb_report": 1,
+"indoor_case": 0,
+"treatment_details": 0,
+"post_hb_report": 0,
+"discharge_summary": 0,
+"severe_anemia": 1,
+"common_signs": 0,
+"significant_signs": 0,
+"life_threatening_signs": 0,
+"extra_document": 0,
+"document_rank": 2
+},
+{
+"case_id": "C2",
+"link": "Bucket_name/document.pdf",
+"procedure_code": "MG064A",
+"page_number": 2,
+"clinical_notes": 0,
+"cbc_hb_report": 0,
+"indoor_case": 0,
+"treatment_details": 0,
+"post_hb_report": 0,
+"discharge_summary": 0,
+"severe_anemia": 0,
+"common_signs": 0,
+"significant_signs": 0,
+"life_threatening_signs": 0,
+"extra_document": 1,
+"document_rank": 99
+}
+]
+A.1. Case & Document Identification
+Key: case_id
+• Description: Unique identifier for the case
+• Source: Folder name
+• Type: String
+Key: S3_link
+• Description: S3 link of the document being analyzed
+• Type: String (URL)
+Key: procedure_code
+• Description: Treatment / Package code
+• Expected Value: "MG064A"
+• Type: String
+• Rule: Must match the assigned package exactly
+Key: page_number
+• Description: Page number within the document
+• Type: Integer
+• Rules:
+o If the document is a single-page image, page number is always 1
+o If the document is a multi-page PDF, page number increments
+sequentially
+A.2. Mandatory Clinical Documents (Presence Check)
+STG Reference: Page 3 – PPD / CPD, Section 2.2
+Use 1 = Present, 0 = Absent
+Key: clinical_notes
+• Reference: Page 3, PPD, Section 2.2.a
+• Description: Clinical note documenting patient condition
+• Mandatory: Yes
+Key: cbc_hb_report
+• Reference: Page 3, PPD, Section 2.2.b
+• Description: CBC / Hemoglobin investigation report
+• Mandatory: Yes
+Key: indoor_case
+• Reference: Page 3, CPD, Section 2.2.a
+• Description: Indoor case / admission documentation
+• Mandatory: Yes
+Key: treatment_details
+• Reference: Page 3, CPD, Section 2.2.b
+• Description: Treatment or transfusion details
+• Mandatory: Yes
+Key: post_hb_report
+• Reference: Page 3, CPD, Section 2.2.c
+• Description: Post-treatment Hemoglobin report
+• Mandatory: Yes
+Key: discharge_summary
+• Reference: Page 3, CPD, Section 2.2.d
+• Description: Discharge summary after treatment
+• Mandatory: Yes
+A.3. Clinical Condition Classification
+Key: severe_anemia
+• Reference: Section 3.2 (STG Criteria)
+• Type: Binary
+• Rule:
+o 1 → Severe anemia criteria satisfied
+o 0 → Criteria not satisfied
+A.4. Clinical Signs Assessment
+STG Reference: Pages 1–2, Section 1.2 – Clinical Key Pointers
+Mark 1 if present, 0 if absent
+Key: common_signs
+• Reference: Pages 1–2
+• Examples: Pallor, fatigue, weakness (as per STG)
+• Rule:
+o If any common sign is documented, mark 1
+o If no common signs are documented, mark 0
+Key: significant_signs
+• Reference: Page 2
+• Examples: Tachycardia, breathlessness, etc.
+• Rule: Same as above
+Key: life_threatening_signs
+• Reference: Page 2
+• Examples: Cardiac failure, severe hypoxia, shock
+• Rule: Same as above
+A.5. Document Completeness Check
+Key: extra_document
+• Description: Presence of documents outside STG-listed requirements
+• Type: Binary
+• Rule:
+o 0 → No extra documents
+o 1 → Any additional document present (e.g., consent forms,
+unrelated lab reports)
+A.6. Document Timeline Ranking
+Key: document_rank
+• Description: Chronological position of the document
+• Type: Integer
+• Rule: Assign ranking based on clinical timeline
+• Rank 99: Assign 99 Rank in case of Extra Documents
+Note:
+If a document spans multiple pages (e.g., a multi-page PDF such as an investigation report), the
+same document_rank must be assigned to all pages of that document.
+For example, if an investigation report is ranked as 3, then all pages belonging to that
+investigation PDF must have document_rank = 3.
+Typical Order Example
+1. Clinical Notes
+2. Investigations (CBC / Hb reports)
+3. Treatment Details
+4. Post Hb Report
+5. Discharge Summary
+• Lower number = earlier document
+• Higher number = later document
+• Rank 99=Extra Document
+B) Package Code: SG039C, Condition: Cholecystectomy
+Output Json:
+[
+{
+"case_id": "MAV/GJ/R3/2026032310030008",
+"S3_link/DocumentName": "Bucket_name/document.pdf",
+"procedure_code": "SG039C",
+"page_number": 1,
+"clinical_notes": 0,
+"usg_report": 0,
+"lft_report": 0,
+"operative_notes": 0,
+"pre_anesthesia": 0,
+"discharge_summary": 1,
+"photo_evidence": 0,
+"histopathology": 0,
+"clinical_condition": 1,
+"usg_calculi": 0,
+"pain_present": 1,
+"previous_surgery": 0,
+"extra_document": 0,
+"document_rank": 5
+},
+{
+"case_id": "MAV/GJ/R3/2026032310030008",
+"S3_link/DocumentName": "Bucket_name/document.pdf",
+"procedure_code": "SG039C",
+"page_number": 2,
+"clinical_notes": 0,
+"usg_report": 0,
+"lft_report": 0,
+"operative_notes": 0,
+"pre_anesthesia": 0,
+"discharge_summary": 1,
+"photo_evidence": 0,
+"histopathology": 0,
+"clinical_condition": 0,
+"usg_calculi": 0,
+"pain_present": 0,
+"previous_surgery": 0,
+"extra_document": 0,
+"document_rank": 5
+}
+]
+B.1. For Key: Case_id, S3_link, procedure_code, page_number
+Refer guidelines mentioned in Section A.1., i.e. Case & Document
+Identification, Package Name would change to Cholecystectomy package i.e.
+SG039C
+B.2. Mandatory Clinical Documents (Presence Check)
+For Keys:
+clinical_notes, usg_report, lft_report, operative_notes, pre_anesthesia,
+discharge_summary, photo_evidence, histopathology
+STG Reference: Page 3 – PPD / CPD, Section 2.2
+Use 1 = Present, 0 = Absent
+B.3. Clinical Condition Classification
+For Keys: clinical_condition
+STG Reference: Page 2- Section 1.2
+Use 1 = Present, 0 = Absent
+Rule: If any of the condition is present out of 5 consider it as Present else
+absent
+B.4. Clinical Signs Assessment
+For Keys: usg_calculi, pain_present, previous_surgery
+STG Reference: Page 3, Section 3.2
+Use 1 = Present, 0 = Absent
+B.5. Extra document and Document Rank
+For Keys: extra_document and document_rank- Refer Section A.5 and A.6
+Respectively
+C) Package Code: MG006A, Condition: Enteric Fever
+Output Json:
+[
+{
+"case_id": "C1",
+"S3_link": "Bucket_name/document.pdf",
+"procedure_code": "MG006A",
+"page_number": 1,
+"clinical_notes": 0,
+"investigation_pre": 1,
+"pre_date": "6/2/26",
+"vitals_treatment": 0,
+"investigation_post": 0,
+"post_date": null,
+"discharge_summary": 0,
+"poor_quality": 1,
+"fever": 0,
+"symptoms": 0,
+"extra_document": 0,
+"document_rank": 6
+},{
+"case_id": "C2",
+"S3_link": "Bucket_name/document.pdf",
+"procedure_code": "MG006A",
+"page_number": 2,
+"clinical_notes": 0,
+"investigation_pre": 1,
+"pre_date": "6/2/26",
+"vitals_treatment": 0,
+"investigation_post": 0,
+"post_date": null,
+"discharge_summary": 0,
+"poor_quality": 1,
+"fever": 0,
+"symptoms": 0,
+"extra_document": 0,
+"document_rank": 2
+}]
+C.1. For Key: Case_id, S3_link, procedure_code, page_number
+Refer guidelines mentioned in Section A.1., i.e. Case & Document
+Identification, Package Name would change to Cholecystectomy package i.e.
+MG006A
+C.2. Mandatory Clinical Documents (Presence Check)
+For Keys: clinical_notes, invesagaaon_pre, pre_date (DD-MM-YYYY),
+vitals_treatment, invesagaaon_post, post_date (DD-MM-YYYY),
+discharge_summary
+STG Reference: Page 3 – PPD / CPD, Section 2.2
+Use 1 = Present, 0 = Absent
+For date keys extract date from the respective pre and post investigation
+reports only.
+C.3. Clinical Condition Classification
+For Key: Fever
+STG Reference: Page number 4, section 3.2.1
+Use 1 = Present, 0 = Absent
+C.4. Clinical Signs Assessment
+For Key: symptoms
+STG Reference: Page number 2, section 1.2
+Use 1 = Present, 0 = Absent
+Rule: If any of the condiaon is present out of 3 consider it as Present else
+absent
+C.5. Extra document and Document Rank
+For Keys: extra_document and document_rank- Refer Section A.5 and A.6
+Respectively
+D) Package Code: SB039A, Condition: Total Knee Replacement
+[
+{
+"case_id": "C1",
+"s3_link": "Bucket_name/document.pdf",
+"procedure_code": "SB039A",
+"page_number": 1,
+"clinical_notes": 0,
+"xray_ct_knee": 0,
+"indoor_case": 0,
+"operative_notes": 0,
+"implant_invoice": 0,
+"post_op_photo": 0,
+"post_op_xray": 0,
+"discharge_summary": 0,
+"doa": null,
+"dod": null,
+"arthritis_type": 0,
+"post_op_implant_present": 0,
+"age_valid": 0,
+"extra_document": 1,
+"document_rank": 99
+},
+{
+"case_id": "C2",
+"s3_link": "Bucket_name/document.pdf",
+"procedure_code": "SB039A",
+"page_number": 2,
+"clinical_notes": 0,
+"xray_ct_knee": 0,
+"indoor_case": 0,
+"operative_notes": 0,
+"implant_invoice": 0,
+"post_op_photo": 0,
+"post_op_xray": 0,
+"discharge_summary": 0,
+"doa": null,
+"dod": null,
+"arthritis_type": 0,
+"post_op_implant_present": 0,
+"age_valid": 0,
+"extra_document": 1,
+"document_rank": 99
+}
+]
+D.1. For Key: Case_id, S3_link, procedure_code, page_number
+Refer guidelines mentioned in Section A.1., i.e. Case & Document
+Identification, Package Name would change to Cholecystectomy package i.e.
+SB039A
+D.2. Mandatory Clinical Documents (Presence Check)
+For Keys: clinical_notes, xray_ct_knee, indoor_case, operaave_notes,
+implant_invoice, post_op_photo, post_op_xray, discharge_summary,
+STG Reference: Page 3 – PPD / CPD, Section 1.3
+Use 1 = Present, 0 = Absent
+For Keys: doa and dod, extract admission date and discharge date from
+discharge summary and store it in DD-MM-YYYY format
+D.3. Clinical Signs Classification
+For Key: arthritis_type
+STG Reference: Page number 1,2 section 1.2
+Use 1 = Present, 0 = Absent
+If any of the clinical condition justifies in documents say 1 else 0
+D.4. Clinical Report and Age Assessment
+For Key: post_op_implant_present
+STG Reference: Page number 4, section 3.2.2
+Use 1 = Present, 0 = Absent
+For Key: age_valid
+STG Reference: Page number 4, section 3.2.3
+Use 1 = Justifies, 0 = Absent
+D.5. Extra document and Document Rank
+For Keys: extra_document and document_rank- Refer Section A.5 and A.6
+Respectively
+
+This is the detailed description of the ps1-> Problem Statement Title
+
+Automatically read mixed quality healthcare documents, extract key data, detect mandatory visual elements (like stamps / signatures), and check compliance with standard treatment/policy rules — then produce an explainable Pass / Conditional / Fail decision with reasons based on Standard Treatment Guidelines (STG) provided by NHA for each package code.
+
+
+
+Core Problem Statement
+
+Reads documents even if blurry or in different languages.
+
+Finds important fields (patient name, diagnosis, procedures, amounts).
+
+Detects visual cues (hospital stamp, doctor signature, implant stickers, QR/barcodes).
+
+Checks claims against rules (eligibility, diagnostics, length of stay, package logic).
+
+Explains decisions with confidence and evidence source.
+
+Constructs an episode timeline and validates chronology.
+
+Highlights extra or non-required documents.
+
+
+
+Expected Solution
+
+Document intake: PDFs/images (low to high quality), multilingual.
+
+OCR & layout understanding: text + structure (sections / tables / line items).
+
+Visual element detection: stamps, signatures, implant stickers, QR/barcodes, invoice items.
+
+Data structuring: standard schema (patient, diagnosis, procedures, dates, costs).
+
+Rules engine: encode STG/policy checks (eligibility, contraindications, length of stay).
+
+Explainability: confidence scores + provenance (page number, bounding box, source doc ID).
+
+Decisioning: Pass / Conditional (needs more info) / Fail with prioritized flags.
+
+
+
+Human-readable Summary — Sample Table
+
+Claim IDFilePageDocument ClassificationClaim Clinical Rules ChecksCN001D1.pdf1Discharge summaryAdmission date is after surgery date ‖ Clinical rules as per STG are not matchingCN001D1.pdf2Clinical noteCN001D1.pdf3Angioplasty reportCN001D2.pdf1X-rayCN001D3.pdf1CT ScanCN001d4.png1Patient PhotoCN001d4.png1AngioplastyNot required for clinical or claim validation
+
+Sequence sample output expected:
+
+SequenceEvent TypeDateSource DocumentTemporal Validity1Admission02-Feb-26Discharge SummaryValid2Diagnostic Investigation02-Feb-26CT Scan / X-rayBefore procedure3Procedure (Package)03-Feb-26Angioplasty ReportValid4Post‑Procedure Monitoring04–05 Feb 2026Clinical NotesValid5Discharge06-Feb-26Discharge SummaryAfter treatment
+
+
+
+Scoring
+
+Awards will be given to the best 3 teams based on overall score. Minimum qualification score ≥ 70%.
+
+CategoryWeightageRank 1Rank 2Rank 3Document Classification40%F1 ≥ 0.950.90 ≤ F1 < 0.950.85 ≤ F1 < 0.90Rule creation logic & Provenance detection40%F1 ≥ 0.960.90 ≤ F1 < 0.960.85 ≤ F1 < 0.90Design of the solution20%F1 ≥ 0.930.88 ≤ F1 < 0.930.80 ≤ F1 < 0.88                 This is the dataset description of the ps 1.  Problem Statement 1
+
+
+
+
+
+AI to process healthcare claims from PDFs/images, extract key data, verify STG compliance, detect visual proofs, flag extras, build timelines, and output explainable pass/conditional/fail decisions
+
+DatasetHackathon
+
+Building an AI-assisted claim validation system for healthcare documents that can read mixed-quality PDFs, scans, and images, extract important medical and administrative details, detect mandatory visual evidence like stamps, signatures, implant stickers, and QR/barcodes, and then check whether the submitted claim complies with package-specific Standard Treatment Guidelines (STG). The system must also generate an explainable Pass, Conditional, or Fail outcome, identify unnecessary extra documents, and construct a chronological treatment timeline from admission to discharge.   

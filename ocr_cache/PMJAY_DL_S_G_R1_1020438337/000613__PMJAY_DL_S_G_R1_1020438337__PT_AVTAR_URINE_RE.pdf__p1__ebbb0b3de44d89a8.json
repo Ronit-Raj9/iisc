@@ -1,0 +1,398 @@
+{
+  "text": "PATIENT NAME\n:\nCOLLECTED\n: 22-01-2026 10:50PM\nAGE /GENDER\n: 58YRS/M\nRECEIVED\n: 22-01-2026 10:55PM\nREF. DOCTOR\n:\nREPORTED\nUHID\n: 23-01-2026 12:35AM\n: 1767/UHIDHNO\nSTATUS\nIPD\n: FINAL REPORT\n: 165/IPD25HO\nCATEGORY\nDATE\n: ICU\n: 22-01-2026\nLAB SERIAL NO\n: COHO2072\nURINE ANALYSIS:\nTest Name\nResults\nUNIT\nBio Ref Interval\nURINE ROUTINE & MICROSCOPY:\nPHYSICAL EXAMINATION\nCOLOUR\nDARK YELLOW\nVOLUME\n30\nml\nTRANSPARENCY\nTURBID\nCLEAR\nCHEMICAL EXAMINATION\nPH\n6.8\nPROTEIN\n5.5-7.5\nNEGATIVE\nGLUCOSE\nNEGATIVE\nNEGATIVE\nMICROSCOPIC EXAMINATIO N\nNEGATIVE\nPUS CELLS\nABUNDANCE\nRBCS\n/HPF\n0-5\n8-10\nEPITHELIAL CELLS\n/HPF\n9-12\n/HPF\nCASTS\n0-5\nNIL\n/HPF\nCRYSTALS\nNIL\nNIL\n/HPF\nBACTERIA\nNIL\nPERSENT (+++)\nOTHERS\n/HPF\nABSENT\nNIL\n/HPF\nNIL\n(MD PATHOLOGIST)",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 723,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "PATIENT NAME",
+      "bbox": null,
+      "confidence": 0.9994304776191711
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.9997082352638245
+    },
+    {
+      "text": "COLLECTED",
+      "bbox": null,
+      "confidence": 0.9998656511306763
+    },
+    {
+      "text": ": 22-01-2026 10:50PM",
+      "bbox": null,
+      "confidence": 0.9990426301956177
+    },
+    {
+      "text": "AGE /GENDER",
+      "bbox": null,
+      "confidence": 0.9795070886611938
+    },
+    {
+      "text": ": 58YRS/M",
+      "bbox": null,
+      "confidence": 0.9951643347740173
+    },
+    {
+      "text": "RECEIVED",
+      "bbox": null,
+      "confidence": 0.9997917413711548
+    },
+    {
+      "text": ": 22-01-2026 10:55PM",
+      "bbox": null,
+      "confidence": 0.9694126844406128
+    },
+    {
+      "text": "REF. DOCTOR",
+      "bbox": null,
+      "confidence": 0.9905815124511719
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.9986530542373657
+    },
+    {
+      "text": "REPORTED",
+      "bbox": null,
+      "confidence": 0.9999186396598816
+    },
+    {
+      "text": "UHID",
+      "bbox": null,
+      "confidence": 0.9996902942657471
+    },
+    {
+      "text": ": 23-01-2026 12:35AM",
+      "bbox": null,
+      "confidence": 0.9947181940078735
+    },
+    {
+      "text": ": 1767/UHIDHNO",
+      "bbox": null,
+      "confidence": 0.9947280883789062
+    },
+    {
+      "text": "STATUS",
+      "bbox": null,
+      "confidence": 0.9998683929443359
+    },
+    {
+      "text": "IPD",
+      "bbox": null,
+      "confidence": 0.9999150633811951
+    },
+    {
+      "text": ": FINAL REPORT",
+      "bbox": null,
+      "confidence": 0.9812685251235962
+    },
+    {
+      "text": ": 165/IPD25HO",
+      "bbox": null,
+      "confidence": 0.9684019088745117
+    },
+    {
+      "text": "CATEGORY",
+      "bbox": null,
+      "confidence": 0.9998644590377808
+    },
+    {
+      "text": "DATE",
+      "bbox": null,
+      "confidence": 0.9998123049736023
+    },
+    {
+      "text": ": ICU",
+      "bbox": null,
+      "confidence": 0.978875994682312
+    },
+    {
+      "text": ": 22-01-2026",
+      "bbox": null,
+      "confidence": 0.9900520443916321
+    },
+    {
+      "text": "LAB SERIAL NO",
+      "bbox": null,
+      "confidence": 0.9998629093170166
+    },
+    {
+      "text": ": COHO2072",
+      "bbox": null,
+      "confidence": 0.9799841642379761
+    },
+    {
+      "text": "URINE ANALYSIS:",
+      "bbox": null,
+      "confidence": 0.9997137188911438
+    },
+    {
+      "text": "Test Name",
+      "bbox": null,
+      "confidence": 0.9996615648269653
+    },
+    {
+      "text": "Results",
+      "bbox": null,
+      "confidence": 0.9999529123306274
+    },
+    {
+      "text": "UNIT",
+      "bbox": null,
+      "confidence": 0.999916672706604
+    },
+    {
+      "text": "Bio Ref Interval",
+      "bbox": null,
+      "confidence": 0.9973944425582886
+    },
+    {
+      "text": "URINE ROUTINE & MICROSCOPY:",
+      "bbox": null,
+      "confidence": 0.9963098168373108
+    },
+    {
+      "text": "PHYSICAL EXAMINATION",
+      "bbox": null,
+      "confidence": 0.9993572235107422
+    },
+    {
+      "text": "COLOUR",
+      "bbox": null,
+      "confidence": 0.9997883439064026
+    },
+    {
+      "text": "DARK YELLOW",
+      "bbox": null,
+      "confidence": 0.9955875277519226
+    },
+    {
+      "text": "VOLUME",
+      "bbox": null,
+      "confidence": 0.9998058676719666
+    },
+    {
+      "text": "30",
+      "bbox": null,
+      "confidence": 0.9998089075088501
+    },
+    {
+      "text": "ml",
+      "bbox": null,
+      "confidence": 0.9988282322883606
+    },
+    {
+      "text": "TRANSPARENCY",
+      "bbox": null,
+      "confidence": 0.9999284148216248
+    },
+    {
+      "text": "TURBID",
+      "bbox": null,
+      "confidence": 0.9999585151672363
+    },
+    {
+      "text": "CLEAR",
+      "bbox": null,
+      "confidence": 0.9998090863227844
+    },
+    {
+      "text": "CHEMICAL EXAMINATION",
+      "bbox": null,
+      "confidence": 0.9800581932067871
+    },
+    {
+      "text": "PH",
+      "bbox": null,
+      "confidence": 0.999829888343811
+    },
+    {
+      "text": "6.8",
+      "bbox": null,
+      "confidence": 0.9994931221008301
+    },
+    {
+      "text": "PROTEIN",
+      "bbox": null,
+      "confidence": 0.9998134970664978
+    },
+    {
+      "text": "5.5-7.5",
+      "bbox": null,
+      "confidence": 0.9999307990074158
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9998569488525391
+    },
+    {
+      "text": "GLUCOSE",
+      "bbox": null,
+      "confidence": 0.9998760223388672
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9409767389297485
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9998860359191895
+    },
+    {
+      "text": "MICROSCOPIC EXAMINATIO N",
+      "bbox": null,
+      "confidence": 0.9932925701141357
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9998936057090759
+    },
+    {
+      "text": "PUS CELLS",
+      "bbox": null,
+      "confidence": 0.999871551990509
+    },
+    {
+      "text": "ABUNDANCE",
+      "bbox": null,
+      "confidence": 0.9998407363891602
+    },
+    {
+      "text": "RBCS",
+      "bbox": null,
+      "confidence": 0.889186680316925
+    },
+    {
+      "text": "/HPF",
+      "bbox": null,
+      "confidence": 0.9981797337532043
+    },
+    {
+      "text": "0-5",
+      "bbox": null,
+      "confidence": 0.9996412396430969
+    },
+    {
+      "text": "8-10",
+      "bbox": null,
+      "confidence": 0.9999508857727051
+    },
+    {
+      "text": "EPITHELIAL CELLS",
+      "bbox": null,
+      "confidence": 0.9998980164527893
+    },
+    {
+      "text": "/HPF",
+      "bbox": null,
+      "confidence": 0.9654443264007568
+    },
+    {
+      "text": "9-12",
+      "bbox": null,
+      "confidence": 0.9999516010284424
+    },
+    {
+      "text": "/HPF",
+      "bbox": null,
+      "confidence": 0.9953197240829468
+    },
+    {
+      "text": "CASTS",
+      "bbox": null,
+      "confidence": 0.9998489618301392
+    },
+    {
+      "text": "0-5",
+      "bbox": null,
+      "confidence": 0.9998591542243958
+    },
+    {
+      "text": "NIL",
+      "bbox": null,
+      "confidence": 0.9998406767845154
+    },
+    {
+      "text": "/HPF",
+      "bbox": null,
+      "confidence": 0.9969335198402405
+    },
+    {
+      "text": "CRYSTALS",
+      "bbox": null,
+      "confidence": 0.9998379945755005
+    },
+    {
+      "text": "NIL",
+      "bbox": null,
+      "confidence": 0.9999061226844788
+    },
+    {
+      "text": "NIL",
+      "bbox": null,
+      "confidence": 0.9999218583106995
+    },
+    {
+      "text": "/HPF",
+      "bbox": null,
+      "confidence": 0.9934836030006409
+    },
+    {
+      "text": "BACTERIA",
+      "bbox": null,
+      "confidence": 0.9998523592948914
+    },
+    {
+      "text": "NIL",
+      "bbox": null,
+      "confidence": 0.9998992085456848
+    },
+    {
+      "text": "PERSENT (+++)",
+      "bbox": null,
+      "confidence": 0.994870126247406
+    },
+    {
+      "text": "OTHERS",
+      "bbox": null,
+      "confidence": 0.9996239542961121
+    },
+    {
+      "text": "/HPF",
+      "bbox": null,
+      "confidence": 0.9771999716758728
+    },
+    {
+      "text": "ABSENT",
+      "bbox": null,
+      "confidence": 0.9997664093971252
+    },
+    {
+      "text": "NIL",
+      "bbox": null,
+      "confidence": 0.9998739361763
+    },
+    {
+      "text": "/HPF",
+      "bbox": null,
+      "confidence": 0.9938741326332092
+    },
+    {
+      "text": "NIL",
+      "bbox": null,
+      "confidence": 0.999889075756073
+    },
+    {
+      "text": "(MD PATHOLOGIST)",
+      "bbox": null,
+      "confidence": 0.9995644688606262
+    }
+  ]
+}

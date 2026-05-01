@@ -1,0 +1,143 @@
+{
+  "text": "Name\nPatlent ID\n1767\nAccession No\nAge/Gender\n56y/M\nReferred By\nDate\n22/01/2026\nX-RAY - CHEST PA VIEW\nBSERVATION:\nRight hila is prominent.\nThe trachea is central.\nThe mediastinal and cardiac silhouette are normal.\nCardiothoracic ratio is normal.\nCardiophrenic and costophrenic angles are normal.\nLeft hila are normal.\nLung zones are clear.\nBones of the thoracic cage are normal.\nSoft tissues of the chest wrall are normal\nMPRESSION:\nPlease clinical correlation.\n(MBBS M.D Consultant Radiologist)\nMCI/09-34285\nD\nutilized for any medico legal purpose. In case of any discrepancy due to typing error or machinery error please get it rectified immediately\nely",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 654,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Name",
+      "bbox": null,
+      "confidence": 0.999872088432312
+    },
+    {
+      "text": "Patlent ID",
+      "bbox": null,
+      "confidence": 0.9693797826766968
+    },
+    {
+      "text": "1767",
+      "bbox": null,
+      "confidence": 0.9997810125350952
+    },
+    {
+      "text": "Accession No",
+      "bbox": null,
+      "confidence": 0.9968722462654114
+    },
+    {
+      "text": "Age/Gender",
+      "bbox": null,
+      "confidence": 0.9997007250785828
+    },
+    {
+      "text": "56y/M",
+      "bbox": null,
+      "confidence": 0.9989646077156067
+    },
+    {
+      "text": "Referred By",
+      "bbox": null,
+      "confidence": 0.9994512796401978
+    },
+    {
+      "text": "Date",
+      "bbox": null,
+      "confidence": 0.9998121857643127
+    },
+    {
+      "text": "22/01/2026",
+      "bbox": null,
+      "confidence": 0.9998394846916199
+    },
+    {
+      "text": "X-RAY - CHEST PA VIEW",
+      "bbox": null,
+      "confidence": 0.9761048555374146
+    },
+    {
+      "text": "BSERVATION:",
+      "bbox": null,
+      "confidence": 0.9990902543067932
+    },
+    {
+      "text": "Right hila is prominent.",
+      "bbox": null,
+      "confidence": 0.995040237903595
+    },
+    {
+      "text": "The trachea is central.",
+      "bbox": null,
+      "confidence": 0.999721348285675
+    },
+    {
+      "text": "The mediastinal and cardiac silhouette are normal.",
+      "bbox": null,
+      "confidence": 0.9913731217384338
+    },
+    {
+      "text": "Cardiothoracic ratio is normal.",
+      "bbox": null,
+      "confidence": 0.9994947910308838
+    },
+    {
+      "text": "Cardiophrenic and costophrenic angles are normal.",
+      "bbox": null,
+      "confidence": 0.9868751764297485
+    },
+    {
+      "text": "Left hila are normal.",
+      "bbox": null,
+      "confidence": 0.9887408018112183
+    },
+    {
+      "text": "Lung zones are clear.",
+      "bbox": null,
+      "confidence": 0.9993752241134644
+    },
+    {
+      "text": "Bones of the thoracic cage are normal.",
+      "bbox": null,
+      "confidence": 0.9994279146194458
+    },
+    {
+      "text": "Soft tissues of the chest wrall are normal",
+      "bbox": null,
+      "confidence": 0.978425145149231
+    },
+    {
+      "text": "MPRESSION:",
+      "bbox": null,
+      "confidence": 0.9973806142807007
+    },
+    {
+      "text": "Please clinical correlation.",
+      "bbox": null,
+      "confidence": 0.9904647469520569
+    },
+    {
+      "text": "(MBBS M.D Consultant Radiologist)",
+      "bbox": null,
+      "confidence": 0.9840818643569946
+    },
+    {
+      "text": "MCI/09-34285",
+      "bbox": null,
+      "confidence": 0.9943539500236511
+    },
+    {
+      "text": "D",
+      "bbox": null,
+      "confidence": 0.5124474167823792
+    },
+    {
+      "text": "utilized for any medico legal purpose. In case of any discrepancy due to typing error or machinery error please get it rectified immediately",
+      "bbox": null,
+      "confidence": 0.8714053630828857
+    },
+    {
+      "text": "ely",
+      "bbox": null,
+      "confidence": 0.994701087474823
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "text": "uo\nPROGRESS NOTES\n.480862\nDate &\nTime\nInvestigation\nClinical Findings\nTreatment\ne\n2\nSu\nM\nNoreel\n1\nAe\nDchpoye\nbc0fue laong1BD\nIpeN\nT\n50s\nolurs oufa dhg\nsalous str chs\n54 640091\n2\n*\n.\nL\nHEALING HANDS, CARING HEARTS\n(15)",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 217,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "uo",
+      "bbox": null,
+      "confidence": 0.4100579619407654
+    },
+    {
+      "text": "PROGRESS NOTES",
+      "bbox": null,
+      "confidence": 0.9997031092643738
+    },
+    {
+      "text": ".480862",
+      "bbox": null,
+      "confidence": 0.7851062417030334
+    },
+    {
+      "text": "Date &",
+      "bbox": null,
+      "confidence": 0.9996368288993835
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9939440488815308
+    },
+    {
+      "text": "Investigation",
+      "bbox": null,
+      "confidence": 0.9999369382858276
+    },
+    {
+      "text": "Clinical Findings",
+      "bbox": null,
+      "confidence": 0.9969032406806946
+    },
+    {
+      "text": "Treatment",
+      "bbox": null,
+      "confidence": 0.999843180179596
+    },
+    {
+      "text": "e",
+      "bbox": null,
+      "confidence": 0.21552112698554993
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.9954389929771423
+    },
+    {
+      "text": "Su",
+      "bbox": null,
+      "confidence": 0.3710061311721802
+    },
+    {
+      "text": "M",
+      "bbox": null,
+      "confidence": 0.7628688216209412
+    },
+    {
+      "text": "Noreel",
+      "bbox": null,
+      "confidence": 0.6721751093864441
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.5056159496307373
+    },
+    {
+      "text": "Ae",
+      "bbox": null,
+      "confidence": 0.7630798816680908
+    },
+    {
+      "text": "Dchpoye",
+      "bbox": null,
+      "confidence": 0.7661344408988953
+    },
+    {
+      "text": "bc0fue laong1BD",
+      "bbox": null,
+      "confidence": 0.49922990798950195
+    },
+    {
+      "text": "IpeN",
+      "bbox": null,
+      "confidence": 0.7408012747764587
+    },
+    {
+      "text": "T",
+      "bbox": null,
+      "confidence": 0.6895860433578491
+    },
+    {
+      "text": "50s",
+      "bbox": null,
+      "confidence": 0.5858690738677979
+    },
+    {
+      "text": "olurs oufa dhg",
+      "bbox": null,
+      "confidence": 0.5997344255447388
+    },
+    {
+      "text": "salous str chs",
+      "bbox": null,
+      "confidence": 0.45362186431884766
+    },
+    {
+      "text": "54 640091",
+      "bbox": null,
+      "confidence": 0.5694788694381714
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.7697850465774536
+    },
+    {
+      "text": "*",
+      "bbox": null,
+      "confidence": 0.4500913918018341
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.8034775257110596
+    },
+    {
+      "text": "L",
+      "bbox": null,
+      "confidence": 0.32828840613365173
+    },
+    {
+      "text": "HEALING HANDS, CARING HEARTS",
+      "bbox": null,
+      "confidence": 0.9763957858085632
+    },
+    {
+      "text": "(15)",
+      "bbox": null,
+      "confidence": 0.9960958361625671
+    }
+  ]
+}

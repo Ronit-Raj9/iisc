@@ -1,0 +1,208 @@
+{
+  "text": "P2\nINITIAL ASSESSMENT BY DOCTOR\nCASE HISTORY & PHYSICAL EXAMINAYION\nPreventive Aspect of\nCare\nDiet & Regimen\nNer Aile funther aduie\nProvisional Diagnosis\nEnfieric beven\nHerlien hion.\nPlan of Care\nDesired Outcome\nSocial Support\nYes\nNo\nDISCHARGE\nHome Equipment\nYes\nNo\nPLANNING (Identify\nPhysiotherapy\nYes\nNo\npossible needs at\nWound Care\nYes\nNo\nhome after discharge)\nAny other need anticipated\n.\nExpected Date Of\nDischarge\nw0s(t\nExamination By Dr.\nDate & Time of Assessment:\n(FULL SIGNATURE)\nDate & Time:\nCounter Signed By\nTreating Doctor\n(FULL SIGNATURE)",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 552,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "P2",
+      "bbox": null,
+      "confidence": 0.9979438185691833
+    },
+    {
+      "text": "INITIAL ASSESSMENT BY DOCTOR",
+      "bbox": null,
+      "confidence": 0.9931098222732544
+    },
+    {
+      "text": "CASE HISTORY & PHYSICAL EXAMINAYION",
+      "bbox": null,
+      "confidence": 0.954651415348053
+    },
+    {
+      "text": "Preventive Aspect of",
+      "bbox": null,
+      "confidence": 0.9945828318595886
+    },
+    {
+      "text": "Care",
+      "bbox": null,
+      "confidence": 0.9993807673454285
+    },
+    {
+      "text": "Diet & Regimen",
+      "bbox": null,
+      "confidence": 0.9847354888916016
+    },
+    {
+      "text": "Ner Aile funther aduie",
+      "bbox": null,
+      "confidence": 0.620111882686615
+    },
+    {
+      "text": "Provisional Diagnosis",
+      "bbox": null,
+      "confidence": 0.9820778965950012
+    },
+    {
+      "text": "Enfieric beven",
+      "bbox": null,
+      "confidence": 0.6827214360237122
+    },
+    {
+      "text": "Herlien hion.",
+      "bbox": null,
+      "confidence": 0.8221115469932556
+    },
+    {
+      "text": "Plan of Care",
+      "bbox": null,
+      "confidence": 0.9990783333778381
+    },
+    {
+      "text": "Desired Outcome",
+      "bbox": null,
+      "confidence": 0.99962317943573
+    },
+    {
+      "text": "Social Support",
+      "bbox": null,
+      "confidence": 0.9989152550697327
+    },
+    {
+      "text": "Yes",
+      "bbox": null,
+      "confidence": 0.9998152852058411
+    },
+    {
+      "text": "No",
+      "bbox": null,
+      "confidence": 0.9998648166656494
+    },
+    {
+      "text": "DISCHARGE",
+      "bbox": null,
+      "confidence": 0.999902069568634
+    },
+    {
+      "text": "Home Equipment",
+      "bbox": null,
+      "confidence": 0.9996816515922546
+    },
+    {
+      "text": "Yes",
+      "bbox": null,
+      "confidence": 0.999819815158844
+    },
+    {
+      "text": "No",
+      "bbox": null,
+      "confidence": 0.999920129776001
+    },
+    {
+      "text": "PLANNING (Identify",
+      "bbox": null,
+      "confidence": 0.9725484848022461
+    },
+    {
+      "text": "Physiotherapy",
+      "bbox": null,
+      "confidence": 0.9999086856842041
+    },
+    {
+      "text": "Yes",
+      "bbox": null,
+      "confidence": 0.999661386013031
+    },
+    {
+      "text": "No",
+      "bbox": null,
+      "confidence": 0.9998834133148193
+    },
+    {
+      "text": "possible needs at",
+      "bbox": null,
+      "confidence": 0.9968655705451965
+    },
+    {
+      "text": "Wound Care",
+      "bbox": null,
+      "confidence": 0.999415397644043
+    },
+    {
+      "text": "Yes",
+      "bbox": null,
+      "confidence": 0.9998254179954529
+    },
+    {
+      "text": "No",
+      "bbox": null,
+      "confidence": 0.9999483227729797
+    },
+    {
+      "text": "home after discharge)",
+      "bbox": null,
+      "confidence": 0.9894291162490845
+    },
+    {
+      "text": "Any other need anticipated",
+      "bbox": null,
+      "confidence": 0.9901018738746643
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.8302500247955322
+    },
+    {
+      "text": "Expected Date Of",
+      "bbox": null,
+      "confidence": 0.9740309715270996
+    },
+    {
+      "text": "Discharge",
+      "bbox": null,
+      "confidence": 0.9999603629112244
+    },
+    {
+      "text": "w0s(t",
+      "bbox": null,
+      "confidence": 0.4621226191520691
+    },
+    {
+      "text": "Examination By Dr.",
+      "bbox": null,
+      "confidence": 0.9864899516105652
+    },
+    {
+      "text": "Date & Time of Assessment:",
+      "bbox": null,
+      "confidence": 0.980959951877594
+    },
+    {
+      "text": "(FULL SIGNATURE)",
+      "bbox": null,
+      "confidence": 0.9694417715072632
+    },
+    {
+      "text": "Date & Time:",
+      "bbox": null,
+      "confidence": 0.9977310299873352
+    },
+    {
+      "text": "Counter Signed By",
+      "bbox": null,
+      "confidence": 0.9993137121200562
+    },
+    {
+      "text": "Treating Doctor",
+      "bbox": null,
+      "confidence": 0.9997484683990479
+    },
+    {
+      "text": "(FULL SIGNATURE)",
+      "bbox": null,
+      "confidence": 0.9968349933624268
+    }
+  ]
+}

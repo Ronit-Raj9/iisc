@@ -1,0 +1,128 @@
+{
+  "text": "TEMPERATURE CHART\nPatient Name:-\nAge:60\nDate\nTemperature\nPulse\nRespiration\nRemarks\n21/02/26\n10M'F\n78\n22/02/26\n100·F\n76\n23/02/26\n99F\n9\n2A102/26\n99°F\n72\n25102/26\n98°F\n72\nSign by",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 175,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "TEMPERATURE CHART",
+      "bbox": null,
+      "confidence": 0.9968844056129456
+    },
+    {
+      "text": "Patient Name:-",
+      "bbox": null,
+      "confidence": 0.9648752808570862
+    },
+    {
+      "text": "Age:60",
+      "bbox": null,
+      "confidence": 0.9583768248558044
+    },
+    {
+      "text": "Date",
+      "bbox": null,
+      "confidence": 0.9997169971466064
+    },
+    {
+      "text": "Temperature",
+      "bbox": null,
+      "confidence": 0.9599054455757141
+    },
+    {
+      "text": "Pulse",
+      "bbox": null,
+      "confidence": 0.9994945526123047
+    },
+    {
+      "text": "Respiration",
+      "bbox": null,
+      "confidence": 0.9543527960777283
+    },
+    {
+      "text": "Remarks",
+      "bbox": null,
+      "confidence": 0.9996442794799805
+    },
+    {
+      "text": "21/02/26",
+      "bbox": null,
+      "confidence": 0.9675662517547607
+    },
+    {
+      "text": "10M'F",
+      "bbox": null,
+      "confidence": 0.7774855494499207
+    },
+    {
+      "text": "78",
+      "bbox": null,
+      "confidence": 0.9511895775794983
+    },
+    {
+      "text": "22/02/26",
+      "bbox": null,
+      "confidence": 0.8870307803153992
+    },
+    {
+      "text": "100·F",
+      "bbox": null,
+      "confidence": 0.9473787546157837
+    },
+    {
+      "text": "76",
+      "bbox": null,
+      "confidence": 0.5287472009658813
+    },
+    {
+      "text": "23/02/26",
+      "bbox": null,
+      "confidence": 0.9818999767303467
+    },
+    {
+      "text": "99F",
+      "bbox": null,
+      "confidence": 0.9920807480812073
+    },
+    {
+      "text": "9",
+      "bbox": null,
+      "confidence": 0.9007142782211304
+    },
+    {
+      "text": "2A102/26",
+      "bbox": null,
+      "confidence": 0.8191943168640137
+    },
+    {
+      "text": "99°F",
+      "bbox": null,
+      "confidence": 0.8596791625022888
+    },
+    {
+      "text": "72",
+      "bbox": null,
+      "confidence": 0.9946296215057373
+    },
+    {
+      "text": "25102/26",
+      "bbox": null,
+      "confidence": 0.9281567335128784
+    },
+    {
+      "text": "98°F",
+      "bbox": null,
+      "confidence": 0.8208993673324585
+    },
+    {
+      "text": "72",
+      "bbox": null,
+      "confidence": 0.9993550777435303
+    },
+    {
+      "text": "Sign by",
+      "bbox": null,
+      "confidence": 0.9997506737709045
+    }
+  ]
+}

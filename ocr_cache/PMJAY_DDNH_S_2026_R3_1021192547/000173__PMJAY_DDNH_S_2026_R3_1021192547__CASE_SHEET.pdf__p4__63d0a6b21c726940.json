@@ -1,0 +1,193 @@
+{
+  "text": "IPD No.\nHeight/ Weight\n2159\nTemp\nPulse\n110\nBP\nResp. Rate\n22101\nIcterus\nOdema\nLethargic\nClubbing\nCyanosis\nOthers\nSYSTEMIC EXAMINATION\nCardiovascular System\n552h\nRespiratory System\nAm\nG. I. System\non\nGenitourinary System\nU\nCentral Nervous System\nGait\nMental Status\nMotor\nRt.\nLt.\nCranial Nerves\nReflexes: Superficial\nDeep\nSensory\nProvisional Diagnosis\nHEALING HANDS, CARING HEARTS\n(8)",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 381,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "IPD No.",
+      "bbox": null,
+      "confidence": 0.9967981576919556
+    },
+    {
+      "text": "Height/ Weight",
+      "bbox": null,
+      "confidence": 0.9730893969535828
+    },
+    {
+      "text": "2159",
+      "bbox": null,
+      "confidence": 0.62586909532547
+    },
+    {
+      "text": "Temp",
+      "bbox": null,
+      "confidence": 0.9996894001960754
+    },
+    {
+      "text": "Pulse",
+      "bbox": null,
+      "confidence": 0.9129802584648132
+    },
+    {
+      "text": "110",
+      "bbox": null,
+      "confidence": 0.4801451861858368
+    },
+    {
+      "text": "BP",
+      "bbox": null,
+      "confidence": 0.9995318651199341
+    },
+    {
+      "text": "Resp. Rate",
+      "bbox": null,
+      "confidence": 0.9986041188240051
+    },
+    {
+      "text": "22101",
+      "bbox": null,
+      "confidence": 0.7171456813812256
+    },
+    {
+      "text": "Icterus",
+      "bbox": null,
+      "confidence": 0.9617754817008972
+    },
+    {
+      "text": "Odema",
+      "bbox": null,
+      "confidence": 0.9982172846794128
+    },
+    {
+      "text": "Lethargic",
+      "bbox": null,
+      "confidence": 0.9884809851646423
+    },
+    {
+      "text": "Clubbing",
+      "bbox": null,
+      "confidence": 0.9871439337730408
+    },
+    {
+      "text": "Cyanosis",
+      "bbox": null,
+      "confidence": 0.9997828006744385
+    },
+    {
+      "text": "Others",
+      "bbox": null,
+      "confidence": 0.968665361404419
+    },
+    {
+      "text": "SYSTEMIC EXAMINATION",
+      "bbox": null,
+      "confidence": 0.999838650226593
+    },
+    {
+      "text": "Cardiovascular System",
+      "bbox": null,
+      "confidence": 0.9992244243621826
+    },
+    {
+      "text": "552h",
+      "bbox": null,
+      "confidence": 0.5561952590942383
+    },
+    {
+      "text": "Respiratory System",
+      "bbox": null,
+      "confidence": 0.971534013748169
+    },
+    {
+      "text": "Am",
+      "bbox": null,
+      "confidence": 0.8947718739509583
+    },
+    {
+      "text": "G. I. System",
+      "bbox": null,
+      "confidence": 0.9420769214630127
+    },
+    {
+      "text": "on",
+      "bbox": null,
+      "confidence": 0.7207976579666138
+    },
+    {
+      "text": "Genitourinary System",
+      "bbox": null,
+      "confidence": 0.9746949076652527
+    },
+    {
+      "text": "U",
+      "bbox": null,
+      "confidence": 0.5921716690063477
+    },
+    {
+      "text": "Central Nervous System",
+      "bbox": null,
+      "confidence": 0.999359130859375
+    },
+    {
+      "text": "Gait",
+      "bbox": null,
+      "confidence": 0.999855637550354
+    },
+    {
+      "text": "Mental Status",
+      "bbox": null,
+      "confidence": 0.9994636178016663
+    },
+    {
+      "text": "Motor",
+      "bbox": null,
+      "confidence": 0.999763011932373
+    },
+    {
+      "text": "Rt.",
+      "bbox": null,
+      "confidence": 0.9712321162223816
+    },
+    {
+      "text": "Lt.",
+      "bbox": null,
+      "confidence": 0.9962976574897766
+    },
+    {
+      "text": "Cranial Nerves",
+      "bbox": null,
+      "confidence": 0.9997848868370056
+    },
+    {
+      "text": "Reflexes: Superficial",
+      "bbox": null,
+      "confidence": 0.9922476410865784
+    },
+    {
+      "text": "Deep",
+      "bbox": null,
+      "confidence": 0.9996920824050903
+    },
+    {
+      "text": "Sensory",
+      "bbox": null,
+      "confidence": 0.9995204210281372
+    },
+    {
+      "text": "Provisional Diagnosis",
+      "bbox": null,
+      "confidence": 0.976460337638855
+    },
+    {
+      "text": "HEALING HANDS, CARING HEARTS",
+      "bbox": null,
+      "confidence": 0.9994565844535828
+    },
+    {
+      "text": "(8)",
+      "bbox": null,
+      "confidence": 0.992804765701294
+    }
+  ]
+}

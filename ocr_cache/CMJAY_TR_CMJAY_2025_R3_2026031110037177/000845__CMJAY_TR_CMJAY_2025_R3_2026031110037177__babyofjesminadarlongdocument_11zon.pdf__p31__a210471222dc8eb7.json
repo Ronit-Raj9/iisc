@@ -1,0 +1,473 @@
+{
+  "text": "DOA111/03/2026 02:30 PM\nAwano Fio 121D\nwhe\nFCONUAN\nNe\nCHAPMNT\nCWH\nNALT\nTA\n00.\ncomHDee\nOUTUT\nANED\nDEATERIY\neasiud\nERETA\nwniohel\nGpo\npreina\nHEHARS\nLMUROUANORHIE\nmaiotion\nWOROO\nDOME\n1UD\nYES\nNO\n36004\nIMUELRTIDATION\nUE\nNO\nMAO\nRkEcuk\nPOO\n7U\nYC\nHeE\n-W\npuo\nNO\nKO\nMU\nRO\nHNE\nOEESUOE\nyu\nNTES\nYe\nMFUR\nN\nMiL\nSEPEORUL\nNO\nEVENNS\n-\n>81001\nPROCEDUREOA\nO\nNO\nni\nsundoy\nOUE\nMO\nRE Repoll\nTANT\nA1O\ndut\nTEr\nTME\nN21/00B1--\nMBEA05E\nFACALRETUSTION\n$0bt\nBieHORS\nF1\nREN\nH2OK\nQN\nayal\n31014\nomepunoia\nureppow\nB peuda\nEeaad\nCNTU\nHYH EUNE\nPeo Vmirdia W\nCHUEED\nHe\nJER\nrUyE%\nFAmserla.pom Sp\nFAm",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 560,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "DOA111/03/2026 02:30 PM",
+      "bbox": null,
+      "confidence": 0.8248619437217712
+    },
+    {
+      "text": "Awano Fio 121D",
+      "bbox": null,
+      "confidence": 0.45150497555732727
+    },
+    {
+      "text": "whe",
+      "bbox": null,
+      "confidence": 0.42786455154418945
+    },
+    {
+      "text": "FCONUAN",
+      "bbox": null,
+      "confidence": 0.44835472106933594
+    },
+    {
+      "text": "Ne",
+      "bbox": null,
+      "confidence": 0.2923412322998047
+    },
+    {
+      "text": "CHAPMNT",
+      "bbox": null,
+      "confidence": 0.5563837885856628
+    },
+    {
+      "text": "CWH",
+      "bbox": null,
+      "confidence": 0.2807867228984833
+    },
+    {
+      "text": "NALT",
+      "bbox": null,
+      "confidence": 0.6304704546928406
+    },
+    {
+      "text": "TA",
+      "bbox": null,
+      "confidence": 0.21886372566223145
+    },
+    {
+      "text": "00.",
+      "bbox": null,
+      "confidence": 0.39710333943367004
+    },
+    {
+      "text": "comHDee",
+      "bbox": null,
+      "confidence": 0.36807867884635925
+    },
+    {
+      "text": "OUTUT",
+      "bbox": null,
+      "confidence": 0.5394876599311829
+    },
+    {
+      "text": "ANED",
+      "bbox": null,
+      "confidence": 0.41979897022247314
+    },
+    {
+      "text": "DEATERIY",
+      "bbox": null,
+      "confidence": 0.43268853425979614
+    },
+    {
+      "text": "easiud",
+      "bbox": null,
+      "confidence": 0.6723180413246155
+    },
+    {
+      "text": "ERETA",
+      "bbox": null,
+      "confidence": 0.4389668107032776
+    },
+    {
+      "text": "wniohel",
+      "bbox": null,
+      "confidence": 0.4172826111316681
+    },
+    {
+      "text": "Gpo",
+      "bbox": null,
+      "confidence": 0.2941780388355255
+    },
+    {
+      "text": "preina",
+      "bbox": null,
+      "confidence": 0.40864717960357666
+    },
+    {
+      "text": "HEHARS",
+      "bbox": null,
+      "confidence": 0.4592360556125641
+    },
+    {
+      "text": "LMUROUANORHIE",
+      "bbox": null,
+      "confidence": 0.5090216398239136
+    },
+    {
+      "text": "maiotion",
+      "bbox": null,
+      "confidence": 0.6048609018325806
+    },
+    {
+      "text": "WOROO",
+      "bbox": null,
+      "confidence": 0.36350423097610474
+    },
+    {
+      "text": "DOME",
+      "bbox": null,
+      "confidence": 0.7095612287521362
+    },
+    {
+      "text": "1UD",
+      "bbox": null,
+      "confidence": 0.3484962284564972
+    },
+    {
+      "text": "YES",
+      "bbox": null,
+      "confidence": 0.9014818072319031
+    },
+    {
+      "text": "NO",
+      "bbox": null,
+      "confidence": 0.8994146585464478
+    },
+    {
+      "text": "36004",
+      "bbox": null,
+      "confidence": 0.6820878982543945
+    },
+    {
+      "text": "IMUELRTIDATION",
+      "bbox": null,
+      "confidence": 0.6633606553077698
+    },
+    {
+      "text": "UE",
+      "bbox": null,
+      "confidence": 0.5202730894088745
+    },
+    {
+      "text": "NO",
+      "bbox": null,
+      "confidence": 0.7753514051437378
+    },
+    {
+      "text": "MAO",
+      "bbox": null,
+      "confidence": 0.6725873947143555
+    },
+    {
+      "text": "RkEcuk",
+      "bbox": null,
+      "confidence": 0.5389784574508667
+    },
+    {
+      "text": "POO",
+      "bbox": null,
+      "confidence": 0.6637517809867859
+    },
+    {
+      "text": "7U",
+      "bbox": null,
+      "confidence": 0.46149373054504395
+    },
+    {
+      "text": "YC",
+      "bbox": null,
+      "confidence": 0.5438433885574341
+    },
+    {
+      "text": "HeE",
+      "bbox": null,
+      "confidence": 0.6396229267120361
+    },
+    {
+      "text": "-W",
+      "bbox": null,
+      "confidence": 0.43256810307502747
+    },
+    {
+      "text": "puo",
+      "bbox": null,
+      "confidence": 0.49389758706092834
+    },
+    {
+      "text": "NO",
+      "bbox": null,
+      "confidence": 0.8702861666679382
+    },
+    {
+      "text": "KO",
+      "bbox": null,
+      "confidence": 0.6052281260490417
+    },
+    {
+      "text": "MU",
+      "bbox": null,
+      "confidence": 0.4514073133468628
+    },
+    {
+      "text": "RO",
+      "bbox": null,
+      "confidence": 0.4701763987541199
+    },
+    {
+      "text": "HNE",
+      "bbox": null,
+      "confidence": 0.5523753762245178
+    },
+    {
+      "text": "OEESUOE",
+      "bbox": null,
+      "confidence": 0.34622183442115784
+    },
+    {
+      "text": "yu",
+      "bbox": null,
+      "confidence": 0.794132649898529
+    },
+    {
+      "text": "NTES",
+      "bbox": null,
+      "confidence": 0.7522246837615967
+    },
+    {
+      "text": "Ye",
+      "bbox": null,
+      "confidence": 0.47572869062423706
+    },
+    {
+      "text": "MFUR",
+      "bbox": null,
+      "confidence": 0.5050967931747437
+    },
+    {
+      "text": "N",
+      "bbox": null,
+      "confidence": 0.7949275374412537
+    },
+    {
+      "text": "MiL",
+      "bbox": null,
+      "confidence": 0.3929288685321808
+    },
+    {
+      "text": "SEPEORUL",
+      "bbox": null,
+      "confidence": 0.48275226354599
+    },
+    {
+      "text": "NO",
+      "bbox": null,
+      "confidence": 0.9386096000671387
+    },
+    {
+      "text": "EVENNS",
+      "bbox": null,
+      "confidence": 0.5530562996864319
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.25561895966529846
+    },
+    {
+      "text": ">81001",
+      "bbox": null,
+      "confidence": 0.8088834881782532
+    },
+    {
+      "text": "PROCEDUREOA",
+      "bbox": null,
+      "confidence": 0.7123830318450928
+    },
+    {
+      "text": "O",
+      "bbox": null,
+      "confidence": 0.42523348331451416
+    },
+    {
+      "text": "NO",
+      "bbox": null,
+      "confidence": 0.7295433282852173
+    },
+    {
+      "text": "ni",
+      "bbox": null,
+      "confidence": 0.5063252449035645
+    },
+    {
+      "text": "sundoy",
+      "bbox": null,
+      "confidence": 0.5205654501914978
+    },
+    {
+      "text": "OUE",
+      "bbox": null,
+      "confidence": 0.6484281420707703
+    },
+    {
+      "text": "MO",
+      "bbox": null,
+      "confidence": 0.41304439306259155
+    },
+    {
+      "text": "RE Repoll",
+      "bbox": null,
+      "confidence": 0.7773959636688232
+    },
+    {
+      "text": "TANT",
+      "bbox": null,
+      "confidence": 0.5016342401504517
+    },
+    {
+      "text": "A1O",
+      "bbox": null,
+      "confidence": 0.46082010865211487
+    },
+    {
+      "text": "dut",
+      "bbox": null,
+      "confidence": 0.80953449010849
+    },
+    {
+      "text": "TEr",
+      "bbox": null,
+      "confidence": 0.5049576163291931
+    },
+    {
+      "text": "TME",
+      "bbox": null,
+      "confidence": 0.5195682048797607
+    },
+    {
+      "text": "N21/00B1--",
+      "bbox": null,
+      "confidence": 0.37894517183303833
+    },
+    {
+      "text": "MBEA05E",
+      "bbox": null,
+      "confidence": 0.5898651480674744
+    },
+    {
+      "text": "FACALRETUSTION",
+      "bbox": null,
+      "confidence": 0.6024141907691956
+    },
+    {
+      "text": "$0bt",
+      "bbox": null,
+      "confidence": 0.41837987303733826
+    },
+    {
+      "text": "BieHORS",
+      "bbox": null,
+      "confidence": 0.7282587289810181
+    },
+    {
+      "text": "F1",
+      "bbox": null,
+      "confidence": 0.28578153252601624
+    },
+    {
+      "text": "REN",
+      "bbox": null,
+      "confidence": 0.44866588711738586
+    },
+    {
+      "text": "H2OK",
+      "bbox": null,
+      "confidence": 0.4846556782722473
+    },
+    {
+      "text": "QN",
+      "bbox": null,
+      "confidence": 0.9869627952575684
+    },
+    {
+      "text": "ayal",
+      "bbox": null,
+      "confidence": 0.5525552034378052
+    },
+    {
+      "text": "31014",
+      "bbox": null,
+      "confidence": 0.4657727777957916
+    },
+    {
+      "text": "omepunoia",
+      "bbox": null,
+      "confidence": 0.42216357588768005
+    },
+    {
+      "text": "ureppow",
+      "bbox": null,
+      "confidence": 0.3620505928993225
+    },
+    {
+      "text": "B peuda",
+      "bbox": null,
+      "confidence": 0.5200604200363159
+    },
+    {
+      "text": "Eeaad",
+      "bbox": null,
+      "confidence": 0.4107714295387268
+    },
+    {
+      "text": "CNTU",
+      "bbox": null,
+      "confidence": 0.4268846809864044
+    },
+    {
+      "text": "HYH EUNE",
+      "bbox": null,
+      "confidence": 0.44598227739334106
+    },
+    {
+      "text": "Peo Vmirdia W",
+      "bbox": null,
+      "confidence": 0.44747036695480347
+    },
+    {
+      "text": "CHUEED",
+      "bbox": null,
+      "confidence": 0.585563600063324
+    },
+    {
+      "text": "He",
+      "bbox": null,
+      "confidence": 0.5540770888328552
+    },
+    {
+      "text": "JER",
+      "bbox": null,
+      "confidence": 0.5303252339363098
+    },
+    {
+      "text": "rUyE%",
+      "bbox": null,
+      "confidence": 0.35084277391433716
+    },
+    {
+      "text": "FAmserla.pom Sp",
+      "bbox": null,
+      "confidence": 0.5822088718414307
+    },
+    {
+      "text": "FAm",
+      "bbox": null,
+      "confidence": 0.6338484883308411
+    }
+  ]
+}

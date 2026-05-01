@@ -1,0 +1,348 @@
+{
+  "text": "Empaneldh ushmn horatSch\nDISCHARGE SUMMARY\nAge/Gender\n: 1Y/Female\nName\nAdmit Date & Time\n: 11/03/2026 2:30 PM\nIPD No\n: IP/25/1382\nDischarge Date\n: 14/03/2026 11:00 AM\nConsultant\nContact No\nUHID\n:UH-15678\nPaticnt Category\n: AYUSHMAN BHARAT (PMJAY /CMJAY)\nAddress\nBed Number\n: PICU BED -1\nBed Type\n:PICU\nCompany Name\n:\nChief Complaint\n: Cough and intermittent fever since last 2 weeks\nDid not pass stool for consecutive 4 days following which cnema was given (outside)\nHistory of Illness\n:  Paticnt presented with above mentioned compaints\nH/O vomiting induced by persistent cough\nWIDAL TEST- Salmonella typhi O an H - reactive\nOn-Examination\n: Conscious, irritable\nPR- 123 bpm\nRR-37 B/M\nSpO2- 93 % in RA\nTemp- 97.8 degree F\nChest- NAD\nCVS-NAD\nP/A-NAD\nInvestigation\n: Enclosed\nDiagnosis\n: Enteric fever\nTreatment Type\n: Medication\nTreatment Details\n: 1. INJ XONE 500MG IV/BD X 4 DAYS\n2INJ AMIKACIN 150MG IV/OD X 4 DAYS\n3SYP ZN 20 5ML OD X 4 DAYS\n4. SYP TUMMYSOFT 5ML BD X 4 DAYS\nCondition on\nHR- B/M,RR- B/M,SPO2- %,TEMP- F,CHEST/CVS/PA- NAD\nDischarge\nAdvice on Discharge\n1.SYP TAXIM FORTE (20MG/KG)\n5ML TWICE DAILY 7 DAYS\n2.SYP ZN 20\n5ML ONCE DAILY 10 DAYS\n3.SYP TUMMY SOFT\n5ML TWICE DAILY AFTER FOOD 5 DAYS\n4.SYP CRIZ M\n5 ML AT BED TIME 5 DAYS\n5.LIRICAL LOTION APPLY 2 TIMES 5-7 DAYS\n:Follow up after 7 days or SOS\nFollow-up\nSpecial Note ( if any )\n:",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 1350,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Empaneldh ushmn horatSch",
+      "bbox": null,
+      "confidence": 0.6904603838920593
+    },
+    {
+      "text": "DISCHARGE SUMMARY",
+      "bbox": null,
+      "confidence": 0.9998527765274048
+    },
+    {
+      "text": "Age/Gender",
+      "bbox": null,
+      "confidence": 0.9956453442573547
+    },
+    {
+      "text": ": 1Y/Female",
+      "bbox": null,
+      "confidence": 0.979532778263092
+    },
+    {
+      "text": "Name",
+      "bbox": null,
+      "confidence": 0.9999033212661743
+    },
+    {
+      "text": "Admit Date & Time",
+      "bbox": null,
+      "confidence": 0.9971903562545776
+    },
+    {
+      "text": ": 11/03/2026 2:30 PM",
+      "bbox": null,
+      "confidence": 0.9930156469345093
+    },
+    {
+      "text": "IPD No",
+      "bbox": null,
+      "confidence": 0.9958827495574951
+    },
+    {
+      "text": ": IP/25/1382",
+      "bbox": null,
+      "confidence": 0.9467804431915283
+    },
+    {
+      "text": "Discharge Date",
+      "bbox": null,
+      "confidence": 0.9863496422767639
+    },
+    {
+      "text": ": 14/03/2026 11:00 AM",
+      "bbox": null,
+      "confidence": 0.9749138355255127
+    },
+    {
+      "text": "Consultant",
+      "bbox": null,
+      "confidence": 0.9998264312744141
+    },
+    {
+      "text": "Contact No",
+      "bbox": null,
+      "confidence": 0.9962524175643921
+    },
+    {
+      "text": "UHID",
+      "bbox": null,
+      "confidence": 0.9986727237701416
+    },
+    {
+      "text": ":UH-15678",
+      "bbox": null,
+      "confidence": 0.9898514151573181
+    },
+    {
+      "text": "Paticnt Category",
+      "bbox": null,
+      "confidence": 0.9815254211425781
+    },
+    {
+      "text": ": AYUSHMAN BHARAT (PMJAY /CMJAY)",
+      "bbox": null,
+      "confidence": 0.9903726577758789
+    },
+    {
+      "text": "Address",
+      "bbox": null,
+      "confidence": 0.9996777176856995
+    },
+    {
+      "text": "Bed Number",
+      "bbox": null,
+      "confidence": 0.9987982511520386
+    },
+    {
+      "text": ": PICU BED -1",
+      "bbox": null,
+      "confidence": 0.968210756778717
+    },
+    {
+      "text": "Bed Type",
+      "bbox": null,
+      "confidence": 0.9992008209228516
+    },
+    {
+      "text": ":PICU",
+      "bbox": null,
+      "confidence": 0.9656652212142944
+    },
+    {
+      "text": "Company Name",
+      "bbox": null,
+      "confidence": 0.9981780052185059
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.9904662370681763
+    },
+    {
+      "text": "Chief Complaint",
+      "bbox": null,
+      "confidence": 0.9681596159934998
+    },
+    {
+      "text": ": Cough and intermittent fever since last 2 weeks",
+      "bbox": null,
+      "confidence": 0.9742171764373779
+    },
+    {
+      "text": "Did not pass stool for consecutive 4 days following which cnema was given (outside)",
+      "bbox": null,
+      "confidence": 0.9754226803779602
+    },
+    {
+      "text": "History of Illness",
+      "bbox": null,
+      "confidence": 0.9603700637817383
+    },
+    {
+      "text": ":  Paticnt presented with above mentioned compaints",
+      "bbox": null,
+      "confidence": 0.9747601747512817
+    },
+    {
+      "text": "H/O vomiting induced by persistent cough",
+      "bbox": null,
+      "confidence": 0.9904890060424805
+    },
+    {
+      "text": "WIDAL TEST- Salmonella typhi O an H - reactive",
+      "bbox": null,
+      "confidence": 0.9944717288017273
+    },
+    {
+      "text": "On-Examination",
+      "bbox": null,
+      "confidence": 0.9997288584709167
+    },
+    {
+      "text": ": Conscious, irritable",
+      "bbox": null,
+      "confidence": 0.9774412512779236
+    },
+    {
+      "text": "PR- 123 bpm",
+      "bbox": null,
+      "confidence": 0.9960474371910095
+    },
+    {
+      "text": "RR-37 B/M",
+      "bbox": null,
+      "confidence": 0.9340816140174866
+    },
+    {
+      "text": "SpO2- 93 % in RA",
+      "bbox": null,
+      "confidence": 0.9672157764434814
+    },
+    {
+      "text": "Temp- 97.8 degree F",
+      "bbox": null,
+      "confidence": 0.9857356548309326
+    },
+    {
+      "text": "Chest- NAD",
+      "bbox": null,
+      "confidence": 0.9678159952163696
+    },
+    {
+      "text": "CVS-NAD",
+      "bbox": null,
+      "confidence": 0.9989882111549377
+    },
+    {
+      "text": "P/A-NAD",
+      "bbox": null,
+      "confidence": 0.9988246560096741
+    },
+    {
+      "text": "Investigation",
+      "bbox": null,
+      "confidence": 0.9997107982635498
+    },
+    {
+      "text": ": Enclosed",
+      "bbox": null,
+      "confidence": 0.9942933320999146
+    },
+    {
+      "text": "Diagnosis",
+      "bbox": null,
+      "confidence": 0.9999237060546875
+    },
+    {
+      "text": ": Enteric fever",
+      "bbox": null,
+      "confidence": 0.9899625778198242
+    },
+    {
+      "text": "Treatment Type",
+      "bbox": null,
+      "confidence": 0.9882904887199402
+    },
+    {
+      "text": ": Medication",
+      "bbox": null,
+      "confidence": 0.9665214419364929
+    },
+    {
+      "text": "Treatment Details",
+      "bbox": null,
+      "confidence": 0.993685245513916
+    },
+    {
+      "text": ": 1. INJ XONE 500MG IV/BD X 4 DAYS",
+      "bbox": null,
+      "confidence": 0.9599601626396179
+    },
+    {
+      "text": "2INJ AMIKACIN 150MG IV/OD X 4 DAYS",
+      "bbox": null,
+      "confidence": 0.9914495944976807
+    },
+    {
+      "text": "3SYP ZN 20 5ML OD X 4 DAYS",
+      "bbox": null,
+      "confidence": 0.9327167272567749
+    },
+    {
+      "text": "4. SYP TUMMYSOFT 5ML BD X 4 DAYS",
+      "bbox": null,
+      "confidence": 0.9662758111953735
+    },
+    {
+      "text": "Condition on",
+      "bbox": null,
+      "confidence": 0.9828788638114929
+    },
+    {
+      "text": "HR- B/M,RR- B/M,SPO2- %,TEMP- F,CHEST/CVS/PA- NAD",
+      "bbox": null,
+      "confidence": 0.9895637035369873
+    },
+    {
+      "text": "Discharge",
+      "bbox": null,
+      "confidence": 0.9999704360961914
+    },
+    {
+      "text": "Advice on Discharge",
+      "bbox": null,
+      "confidence": 0.9997366070747375
+    },
+    {
+      "text": "1.SYP TAXIM FORTE (20MG/KG)",
+      "bbox": null,
+      "confidence": 0.9882001280784607
+    },
+    {
+      "text": "5ML TWICE DAILY 7 DAYS",
+      "bbox": null,
+      "confidence": 0.9685350060462952
+    },
+    {
+      "text": "2.SYP ZN 20",
+      "bbox": null,
+      "confidence": 0.960138738155365
+    },
+    {
+      "text": "5ML ONCE DAILY 10 DAYS",
+      "bbox": null,
+      "confidence": 0.9842401146888733
+    },
+    {
+      "text": "3.SYP TUMMY SOFT",
+      "bbox": null,
+      "confidence": 0.9930230975151062
+    },
+    {
+      "text": "5ML TWICE DAILY AFTER FOOD 5 DAYS",
+      "bbox": null,
+      "confidence": 0.986575722694397
+    },
+    {
+      "text": "4.SYP CRIZ M",
+      "bbox": null,
+      "confidence": 0.964364230632782
+    },
+    {
+      "text": "5 ML AT BED TIME 5 DAYS",
+      "bbox": null,
+      "confidence": 0.9659368395805359
+    },
+    {
+      "text": "5.LIRICAL LOTION APPLY 2 TIMES 5-7 DAYS",
+      "bbox": null,
+      "confidence": 0.9842361211776733
+    },
+    {
+      "text": ":Follow up after 7 days or SOS",
+      "bbox": null,
+      "confidence": 0.9688974022865295
+    },
+    {
+      "text": "Follow-up",
+      "bbox": null,
+      "confidence": 0.9999509453773499
+    },
+    {
+      "text": "Special Note ( if any )",
+      "bbox": null,
+      "confidence": 0.9914150238037109
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.9966989159584045
+    }
+  ]
+}

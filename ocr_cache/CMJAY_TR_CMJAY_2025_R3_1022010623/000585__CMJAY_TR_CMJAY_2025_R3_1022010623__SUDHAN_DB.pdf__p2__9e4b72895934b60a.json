@@ -1,0 +1,98 @@
+{
+  "text": "TEMPERATURE CHART\nPatient Name:-\n.Age. 60\nDate\nTemperature\nPulse\nRespiration\nRemarks\n21/02/26\n101'F\n78\n22/0α/R6\n100'F\n78\n23/02/26\n99'F\nf9\nSign by",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 145,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "TEMPERATURE CHART",
+      "bbox": null,
+      "confidence": 0.9997038245201111
+    },
+    {
+      "text": "Patient Name:-",
+      "bbox": null,
+      "confidence": 0.9991642832756042
+    },
+    {
+      "text": ".Age. 60",
+      "bbox": null,
+      "confidence": 0.6701780557632446
+    },
+    {
+      "text": "Date",
+      "bbox": null,
+      "confidence": 0.9994326233863831
+    },
+    {
+      "text": "Temperature",
+      "bbox": null,
+      "confidence": 0.9998878836631775
+    },
+    {
+      "text": "Pulse",
+      "bbox": null,
+      "confidence": 0.9996217489242554
+    },
+    {
+      "text": "Respiration",
+      "bbox": null,
+      "confidence": 0.9613406658172607
+    },
+    {
+      "text": "Remarks",
+      "bbox": null,
+      "confidence": 0.9972129464149475
+    },
+    {
+      "text": "21/02/26",
+      "bbox": null,
+      "confidence": 0.9265782833099365
+    },
+    {
+      "text": "101'F",
+      "bbox": null,
+      "confidence": 0.8208085894584656
+    },
+    {
+      "text": "78",
+      "bbox": null,
+      "confidence": 0.9866818189620972
+    },
+    {
+      "text": "22/0α/R6",
+      "bbox": null,
+      "confidence": 0.8719303607940674
+    },
+    {
+      "text": "100'F",
+      "bbox": null,
+      "confidence": 0.8799322247505188
+    },
+    {
+      "text": "78",
+      "bbox": null,
+      "confidence": 0.6822146773338318
+    },
+    {
+      "text": "23/02/26",
+      "bbox": null,
+      "confidence": 0.9541698098182678
+    },
+    {
+      "text": "99'F",
+      "bbox": null,
+      "confidence": 0.8746436238288879
+    },
+    {
+      "text": "f9",
+      "bbox": null,
+      "confidence": 0.7888115644454956
+    },
+    {
+      "text": "Sign by",
+      "bbox": null,
+      "confidence": 0.9997608065605164
+    }
+  ]
+}

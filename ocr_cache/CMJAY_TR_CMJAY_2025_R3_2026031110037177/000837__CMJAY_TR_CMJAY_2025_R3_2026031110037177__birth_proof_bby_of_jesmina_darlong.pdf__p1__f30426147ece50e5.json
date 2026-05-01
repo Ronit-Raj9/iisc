@@ -1,0 +1,163 @@
+{
+  "text": "101\nBIRTH CERTIFICATE\n37\nGT\nINDER\nGISTRATION OF BIRTHS & DEATHS RULES 1999)\nH O C MH T NN   B  T T  I\nTEN TN HHV N   TN T I IN N I I HE\nHIN V I I  I  E\nn ak\n02\n/ /XY\nPLACE OF BIRTH/EUH:\nAMOOTMDTHER/ZT\nNAME OF FATHER/FT2:\nBAALNUMBEROFMOTIER/TUISRERHE\nAADHAAR NUMBER OF FATHER/ SNEN\nLOIDRESS OF PARENTS AT THE TIME OF BIRTH OF THE CHILD / SIEE\nPERMANENTADDRESS OF PARENTS/ESLTO H\nFEGISTRATION NUMBER/AHETO\nDATE OF REGISTRATION / PREGT O\n07-06-2024\nEMARKS (OFANY) /80 (CO)\nJATEOFISSUEFO\nDO/m\np4ate4 0n : 07-06-2024 11:45:59\nThis gR cade can be uaed to check the authenticity of the\nmiflcate\n\"ENGURE REGISTRATION OF EVERY BIRTH AND DEATH / OOD Y O Y\nAROT\nAASR",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 655,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "101",
+      "bbox": null,
+      "confidence": 0.5527466535568237
+    },
+    {
+      "text": "BIRTH CERTIFICATE",
+      "bbox": null,
+      "confidence": 0.998443067073822
+    },
+    {
+      "text": "37",
+      "bbox": null,
+      "confidence": 0.9865847229957581
+    },
+    {
+      "text": "GT",
+      "bbox": null,
+      "confidence": 0.45776844024658203
+    },
+    {
+      "text": "INDER",
+      "bbox": null,
+      "confidence": 0.8969432711601257
+    },
+    {
+      "text": "GISTRATION OF BIRTHS & DEATHS RULES 1999)",
+      "bbox": null,
+      "confidence": 0.9705383777618408
+    },
+    {
+      "text": "H O C MH T NN   B  T T  I",
+      "bbox": null,
+      "confidence": 0.5175164937973022
+    },
+    {
+      "text": "TEN TN HHV N   TN T I IN N I I HE",
+      "bbox": null,
+      "confidence": 0.4737687110900879
+    },
+    {
+      "text": "HIN V I I  I  E",
+      "bbox": null,
+      "confidence": 0.5203806757926941
+    },
+    {
+      "text": "n ak",
+      "bbox": null,
+      "confidence": 0.581414520740509
+    },
+    {
+      "text": "02",
+      "bbox": null,
+      "confidence": 0.4969821870326996
+    },
+    {
+      "text": "/ /XY",
+      "bbox": null,
+      "confidence": 0.5993040800094604
+    },
+    {
+      "text": "PLACE OF BIRTH/EUH:",
+      "bbox": null,
+      "confidence": 0.9409087300300598
+    },
+    {
+      "text": "AMOOTMDTHER/ZT",
+      "bbox": null,
+      "confidence": 0.7163456678390503
+    },
+    {
+      "text": "NAME OF FATHER/FT2:",
+      "bbox": null,
+      "confidence": 0.8670578002929688
+    },
+    {
+      "text": "BAALNUMBEROFMOTIER/TUISRERHE",
+      "bbox": null,
+      "confidence": 0.7317891716957092
+    },
+    {
+      "text": "AADHAAR NUMBER OF FATHER/ SNEN",
+      "bbox": null,
+      "confidence": 0.9031066298484802
+    },
+    {
+      "text": "LOIDRESS OF PARENTS AT THE TIME OF BIRTH OF THE CHILD / SIEE",
+      "bbox": null,
+      "confidence": 0.9130159616470337
+    },
+    {
+      "text": "PERMANENTADDRESS OF PARENTS/ESLTO H",
+      "bbox": null,
+      "confidence": 0.9026762843132019
+    },
+    {
+      "text": "FEGISTRATION NUMBER/AHETO",
+      "bbox": null,
+      "confidence": 0.8091638088226318
+    },
+    {
+      "text": "DATE OF REGISTRATION / PREGT O",
+      "bbox": null,
+      "confidence": 0.9274135828018188
+    },
+    {
+      "text": "07-06-2024",
+      "bbox": null,
+      "confidence": 0.9994322061538696
+    },
+    {
+      "text": "EMARKS (OFANY) /80 (CO)",
+      "bbox": null,
+      "confidence": 0.6586609482765198
+    },
+    {
+      "text": "JATEOFISSUEFO",
+      "bbox": null,
+      "confidence": 0.6620497107505798
+    },
+    {
+      "text": "DO/m",
+      "bbox": null,
+      "confidence": 0.31366869807243347
+    },
+    {
+      "text": "p4ate4 0n : 07-06-2024 11:45:59",
+      "bbox": null,
+      "confidence": 0.8316662907600403
+    },
+    {
+      "text": "This gR cade can be uaed to check the authenticity of the",
+      "bbox": null,
+      "confidence": 0.9518105983734131
+    },
+    {
+      "text": "miflcate",
+      "bbox": null,
+      "confidence": 0.7210583686828613
+    },
+    {
+      "text": "\"ENGURE REGISTRATION OF EVERY BIRTH AND DEATH / OOD Y O Y",
+      "bbox": null,
+      "confidence": 0.9056689143180847
+    },
+    {
+      "text": "AROT",
+      "bbox": null,
+      "confidence": 0.3361002504825592
+    },
+    {
+      "text": "AASR",
+      "bbox": null,
+      "confidence": 0.653003454208374
+    }
+  ]
+}

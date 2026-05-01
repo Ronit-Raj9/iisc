@@ -1,0 +1,228 @@
+{
+  "text": "ID: I\nBPL\n23-01-2026\n09:08:44 AM\nHR\n72\nbpm\nDiagnosis Information:\nMalc 58Ycars\nP\n118\nms\nSinus rhythm\nPR\n158\nPossible right atrial abnormality\nQRS\n88\nAnterolateral ST elevation is nonspecific\nQT/QTcBz\n374/410\nBorderline ECG\nPIQRS/T\n78/77/74\nRVS/SVI\n1.208/0.897 mV\nN\nReport Confirmed by:\nVI1\nG\nM\nv\nMM\nVYYMYY\nTTTMYTT\n0.67-45Hz AC50 25mm/s 10mm/mV 2*5.0s+1r CARDIART 9108  V1.47 GlasgoW V28.6.7\nI\naVF\n0.67~45Hz\nAC50\n25\nID: 1\nMale\n58Years",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 433,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "ID: I",
+      "bbox": null,
+      "confidence": 0.8841465711593628
+    },
+    {
+      "text": "BPL",
+      "bbox": null,
+      "confidence": 0.9264216423034668
+    },
+    {
+      "text": "23-01-2026",
+      "bbox": null,
+      "confidence": 0.9996242523193359
+    },
+    {
+      "text": "09:08:44 AM",
+      "bbox": null,
+      "confidence": 0.984994649887085
+    },
+    {
+      "text": "HR",
+      "bbox": null,
+      "confidence": 0.9995677471160889
+    },
+    {
+      "text": "72",
+      "bbox": null,
+      "confidence": 0.9999242424964905
+    },
+    {
+      "text": "bpm",
+      "bbox": null,
+      "confidence": 0.9994305968284607
+    },
+    {
+      "text": "Diagnosis Information:",
+      "bbox": null,
+      "confidence": 0.9978823065757751
+    },
+    {
+      "text": "Malc 58Ycars",
+      "bbox": null,
+      "confidence": 0.9404823780059814
+    },
+    {
+      "text": "P",
+      "bbox": null,
+      "confidence": 0.999076247215271
+    },
+    {
+      "text": "118",
+      "bbox": null,
+      "confidence": 0.9997952580451965
+    },
+    {
+      "text": "ms",
+      "bbox": null,
+      "confidence": 0.9997339248657227
+    },
+    {
+      "text": "Sinus rhythm",
+      "bbox": null,
+      "confidence": 0.9900713562965393
+    },
+    {
+      "text": "PR",
+      "bbox": null,
+      "confidence": 0.9994878768920898
+    },
+    {
+      "text": "158",
+      "bbox": null,
+      "confidence": 0.9999114871025085
+    },
+    {
+      "text": "Possible right atrial abnormality",
+      "bbox": null,
+      "confidence": 0.9900352954864502
+    },
+    {
+      "text": "QRS",
+      "bbox": null,
+      "confidence": 0.9991495013237
+    },
+    {
+      "text": "88",
+      "bbox": null,
+      "confidence": 0.999114990234375
+    },
+    {
+      "text": "Anterolateral ST elevation is nonspecific",
+      "bbox": null,
+      "confidence": 0.9833053946495056
+    },
+    {
+      "text": "QT/QTcBz",
+      "bbox": null,
+      "confidence": 0.9945127367973328
+    },
+    {
+      "text": "374/410",
+      "bbox": null,
+      "confidence": 0.9995148777961731
+    },
+    {
+      "text": "Borderline ECG",
+      "bbox": null,
+      "confidence": 0.9987999796867371
+    },
+    {
+      "text": "PIQRS/T",
+      "bbox": null,
+      "confidence": 0.9648537635803223
+    },
+    {
+      "text": "78/77/74",
+      "bbox": null,
+      "confidence": 0.9535818099975586
+    },
+    {
+      "text": "RVS/SVI",
+      "bbox": null,
+      "confidence": 0.9670095443725586
+    },
+    {
+      "text": "1.208/0.897 mV",
+      "bbox": null,
+      "confidence": 0.9940701723098755
+    },
+    {
+      "text": "N",
+      "bbox": null,
+      "confidence": 0.1106104925274849
+    },
+    {
+      "text": "Report Confirmed by:",
+      "bbox": null,
+      "confidence": 0.9972208142280579
+    },
+    {
+      "text": "VI1",
+      "bbox": null,
+      "confidence": 0.60100257396698
+    },
+    {
+      "text": "G",
+      "bbox": null,
+      "confidence": 0.23345446586608887
+    },
+    {
+      "text": "M",
+      "bbox": null,
+      "confidence": 0.24699848890304565
+    },
+    {
+      "text": "v",
+      "bbox": null,
+      "confidence": 0.3092975616455078
+    },
+    {
+      "text": "MM",
+      "bbox": null,
+      "confidence": 0.5286657214164734
+    },
+    {
+      "text": "VYYMYY",
+      "bbox": null,
+      "confidence": 0.33099356293678284
+    },
+    {
+      "text": "TTTMYTT",
+      "bbox": null,
+      "confidence": 0.4226696491241455
+    },
+    {
+      "text": "0.67-45Hz AC50 25mm/s 10mm/mV 2*5.0s+1r CARDIART 9108  V1.47 GlasgoW V28.6.7",
+      "bbox": null,
+      "confidence": 0.945631206035614
+    },
+    {
+      "text": "I",
+      "bbox": null,
+      "confidence": 0.6315149664878845
+    },
+    {
+      "text": "aVF",
+      "bbox": null,
+      "confidence": 0.9153000712394714
+    },
+    {
+      "text": "0.67~45Hz",
+      "bbox": null,
+      "confidence": 0.989232063293457
+    },
+    {
+      "text": "AC50",
+      "bbox": null,
+      "confidence": 0.9998208284378052
+    },
+    {
+      "text": "25",
+      "bbox": null,
+      "confidence": 0.9995934367179871
+    },
+    {
+      "text": "ID: 1",
+      "bbox": null,
+      "confidence": 0.8973113298416138
+    },
+    {
+      "text": "Male",
+      "bbox": null,
+      "confidence": 0.9550153017044067
+    },
+    {
+      "text": "58Years",
+      "bbox": null,
+      "confidence": 0.9622483253479004
+    }
+  ]
+}

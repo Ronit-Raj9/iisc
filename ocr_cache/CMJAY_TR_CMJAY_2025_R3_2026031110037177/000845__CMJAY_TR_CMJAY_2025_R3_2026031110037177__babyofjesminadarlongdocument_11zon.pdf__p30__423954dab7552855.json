@@ -1,0 +1,438 @@
+{
+  "text": "CHILDREN WARD\nAgN/Se IY WM IDIF\nDO4:11/03/2076.0230FM\nM\nADPPOION DAMLU/PIOD\nEPOHDIE\nile\nmE7\nWTNT\nAur\nTOULE\nFURSOUEUN\nmaintin Mattaly\nnain\nICHANS\nBXCUNIE\nHONNND\nRO9\nNU\n1\\q}$\nFAO\naoteamom\nB4\nNO\nAN\n1510\nRHONGPOH\nA\nNO\nhot\n116\nNin\nNtO\nSTO\nNO\nNO\nNO\nHEISRE\nHEOKO\ny\nHe\nYes\nWADOS\nAC\nMaT\nNIO\nWidh\nONTAN\nI\n-1p10019\n0o tunda5a4\ncOil\nrit\nURGUR\npase 1p36\nSE\nPLAN\nMi\n[ast, stool\npassd 12|0-20\nDLTKIDSLEMS/D/DEE\nTN\nat5 pm\nBROWNEDTRON\nOndemem\nHUGHA\nAEECUICODIE\n-\nplan D\nRmpintan\nRacleck\nHESSAGEE\nfommoral.\nJEaDin\nHUPNOE\nHhep\nUha\nWE\nTHOTD\n(20\nR5\n86\nHARPOWH THFE\nA2\nSypm\n80m",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 555,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "CHILDREN WARD",
+      "bbox": null,
+      "confidence": 0.9755149483680725
+    },
+    {
+      "text": "AgN/Se IY WM IDIF",
+      "bbox": null,
+      "confidence": 0.5593692660331726
+    },
+    {
+      "text": "DO4:11/03/2076.0230FM",
+      "bbox": null,
+      "confidence": 0.7940470576286316
+    },
+    {
+      "text": "M",
+      "bbox": null,
+      "confidence": 0.22976411879062653
+    },
+    {
+      "text": "ADPPOION DAMLU/PIOD",
+      "bbox": null,
+      "confidence": 0.6966015100479126
+    },
+    {
+      "text": "EPOHDIE",
+      "bbox": null,
+      "confidence": 0.6470686793327332
+    },
+    {
+      "text": "ile",
+      "bbox": null,
+      "confidence": 0.5113055109977722
+    },
+    {
+      "text": "mE7",
+      "bbox": null,
+      "confidence": 0.3885161578655243
+    },
+    {
+      "text": "WTNT",
+      "bbox": null,
+      "confidence": 0.47726425528526306
+    },
+    {
+      "text": "Aur",
+      "bbox": null,
+      "confidence": 0.3008194863796234
+    },
+    {
+      "text": "TOULE",
+      "bbox": null,
+      "confidence": 0.41359567642211914
+    },
+    {
+      "text": "FURSOUEUN",
+      "bbox": null,
+      "confidence": 0.7002633810043335
+    },
+    {
+      "text": "maintin Mattaly",
+      "bbox": null,
+      "confidence": 0.5861442685127258
+    },
+    {
+      "text": "nain",
+      "bbox": null,
+      "confidence": 0.6947804093360901
+    },
+    {
+      "text": "ICHANS",
+      "bbox": null,
+      "confidence": 0.6655970215797424
+    },
+    {
+      "text": "BXCUNIE",
+      "bbox": null,
+      "confidence": 0.653703510761261
+    },
+    {
+      "text": "HONNND",
+      "bbox": null,
+      "confidence": 0.7291693091392517
+    },
+    {
+      "text": "RO9",
+      "bbox": null,
+      "confidence": 0.28168985247612
+    },
+    {
+      "text": "NU",
+      "bbox": null,
+      "confidence": 0.8353296518325806
+    },
+    {
+      "text": "1\\q}$",
+      "bbox": null,
+      "confidence": 0.5804327726364136
+    },
+    {
+      "text": "FAO",
+      "bbox": null,
+      "confidence": 0.5319884419441223
+    },
+    {
+      "text": "aoteamom",
+      "bbox": null,
+      "confidence": 0.6092107892036438
+    },
+    {
+      "text": "B4",
+      "bbox": null,
+      "confidence": 0.6552011966705322
+    },
+    {
+      "text": "NO",
+      "bbox": null,
+      "confidence": 0.7349259853363037
+    },
+    {
+      "text": "AN",
+      "bbox": null,
+      "confidence": 0.2782745659351349
+    },
+    {
+      "text": "1510",
+      "bbox": null,
+      "confidence": 0.6006243228912354
+    },
+    {
+      "text": "RHONGPOH",
+      "bbox": null,
+      "confidence": 0.4131322503089905
+    },
+    {
+      "text": "A",
+      "bbox": null,
+      "confidence": 0.8060798048973083
+    },
+    {
+      "text": "NO",
+      "bbox": null,
+      "confidence": 0.5873500108718872
+    },
+    {
+      "text": "hot",
+      "bbox": null,
+      "confidence": 0.38298025727272034
+    },
+    {
+      "text": "116",
+      "bbox": null,
+      "confidence": 0.5569722056388855
+    },
+    {
+      "text": "Nin",
+      "bbox": null,
+      "confidence": 0.786385715007782
+    },
+    {
+      "text": "NtO",
+      "bbox": null,
+      "confidence": 0.6303187012672424
+    },
+    {
+      "text": "STO",
+      "bbox": null,
+      "confidence": 0.7056905627250671
+    },
+    {
+      "text": "NO",
+      "bbox": null,
+      "confidence": 0.6282049417495728
+    },
+    {
+      "text": "NO",
+      "bbox": null,
+      "confidence": 0.6133276224136353
+    },
+    {
+      "text": "NO",
+      "bbox": null,
+      "confidence": 0.8661738634109497
+    },
+    {
+      "text": "HEISRE",
+      "bbox": null,
+      "confidence": 0.6605181694030762
+    },
+    {
+      "text": "HEOKO",
+      "bbox": null,
+      "confidence": 0.5859346389770508
+    },
+    {
+      "text": "y",
+      "bbox": null,
+      "confidence": 0.7559639811515808
+    },
+    {
+      "text": "He",
+      "bbox": null,
+      "confidence": 0.544728696346283
+    },
+    {
+      "text": "Yes",
+      "bbox": null,
+      "confidence": 0.49479541182518005
+    },
+    {
+      "text": "WADOS",
+      "bbox": null,
+      "confidence": 0.3436177372932434
+    },
+    {
+      "text": "AC",
+      "bbox": null,
+      "confidence": 0.4372284412384033
+    },
+    {
+      "text": "MaT",
+      "bbox": null,
+      "confidence": 0.6634778380393982
+    },
+    {
+      "text": "NIO",
+      "bbox": null,
+      "confidence": 0.6933884620666504
+    },
+    {
+      "text": "Widh",
+      "bbox": null,
+      "confidence": 0.5195897817611694
+    },
+    {
+      "text": "ONTAN",
+      "bbox": null,
+      "confidence": 0.5056852698326111
+    },
+    {
+      "text": "I",
+      "bbox": null,
+      "confidence": 0.7711597681045532
+    },
+    {
+      "text": "-1p10019",
+      "bbox": null,
+      "confidence": 0.7660501003265381
+    },
+    {
+      "text": "0o tunda5a4",
+      "bbox": null,
+      "confidence": 0.4236791431903839
+    },
+    {
+      "text": "cOil",
+      "bbox": null,
+      "confidence": 0.3206879794597626
+    },
+    {
+      "text": "rit",
+      "bbox": null,
+      "confidence": 0.5808483362197876
+    },
+    {
+      "text": "URGUR",
+      "bbox": null,
+      "confidence": 0.434713751077652
+    },
+    {
+      "text": "pase 1p36",
+      "bbox": null,
+      "confidence": 0.5499675273895264
+    },
+    {
+      "text": "SE",
+      "bbox": null,
+      "confidence": 0.2581573724746704
+    },
+    {
+      "text": "PLAN",
+      "bbox": null,
+      "confidence": 0.6631100177764893
+    },
+    {
+      "text": "Mi",
+      "bbox": null,
+      "confidence": 0.547583818435669
+    },
+    {
+      "text": "[ast, stool",
+      "bbox": null,
+      "confidence": 0.8090054988861084
+    },
+    {
+      "text": "passd 12|0-20",
+      "bbox": null,
+      "confidence": 0.5682917833328247
+    },
+    {
+      "text": "DLTKIDSLEMS/D/DEE",
+      "bbox": null,
+      "confidence": 0.5121170878410339
+    },
+    {
+      "text": "TN",
+      "bbox": null,
+      "confidence": 0.581960916519165
+    },
+    {
+      "text": "at5 pm",
+      "bbox": null,
+      "confidence": 0.7864804863929749
+    },
+    {
+      "text": "BROWNEDTRON",
+      "bbox": null,
+      "confidence": 0.6427913308143616
+    },
+    {
+      "text": "Ondemem",
+      "bbox": null,
+      "confidence": 0.8110825419425964
+    },
+    {
+      "text": "HUGHA",
+      "bbox": null,
+      "confidence": 0.6212639808654785
+    },
+    {
+      "text": "AEECUICODIE",
+      "bbox": null,
+      "confidence": 0.4551089406013489
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.3525834381580353
+    },
+    {
+      "text": "plan D",
+      "bbox": null,
+      "confidence": 0.9213908314704895
+    },
+    {
+      "text": "Rmpintan",
+      "bbox": null,
+      "confidence": 0.35565197467803955
+    },
+    {
+      "text": "Racleck",
+      "bbox": null,
+      "confidence": 0.5233206748962402
+    },
+    {
+      "text": "HESSAGEE",
+      "bbox": null,
+      "confidence": 0.5252242684364319
+    },
+    {
+      "text": "fommoral.",
+      "bbox": null,
+      "confidence": 0.8150932788848877
+    },
+    {
+      "text": "JEaDin",
+      "bbox": null,
+      "confidence": 0.5352175235748291
+    },
+    {
+      "text": "HUPNOE",
+      "bbox": null,
+      "confidence": 0.4687671661376953
+    },
+    {
+      "text": "Hhep",
+      "bbox": null,
+      "confidence": 0.42772039771080017
+    },
+    {
+      "text": "Uha",
+      "bbox": null,
+      "confidence": 0.32102563977241516
+    },
+    {
+      "text": "WE",
+      "bbox": null,
+      "confidence": 0.3503909409046173
+    },
+    {
+      "text": "THOTD",
+      "bbox": null,
+      "confidence": 0.4319307208061218
+    },
+    {
+      "text": "(20",
+      "bbox": null,
+      "confidence": 0.54547518491745
+    },
+    {
+      "text": "R5",
+      "bbox": null,
+      "confidence": 0.29798758029937744
+    },
+    {
+      "text": "86",
+      "bbox": null,
+      "confidence": 0.5855944156646729
+    },
+    {
+      "text": "HARPOWH THFE",
+      "bbox": null,
+      "confidence": 0.770129382610321
+    },
+    {
+      "text": "A2",
+      "bbox": null,
+      "confidence": 0.869346022605896
+    },
+    {
+      "text": "Sypm",
+      "bbox": null,
+      "confidence": 0.7479889988899231
+    },
+    {
+      "text": "80m",
+      "bbox": null,
+      "confidence": 0.6898853182792664
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "text": "Patient's Name ..\nFather's/ Husband's Namo..\nUHID No.\nCU.\nWard....!\nBed No. ....\nCONSULTANT NOTES SHEET\nHISTORY & EXAMINATION\n:\n.\nAecclrated Afpntensin I2R7\n23\n01\n2076\nEntncfaa.BASE.UTD\nM\nomit - Depisahe di norig\nNamca  Headache /Nitigo tt)\natreh sitter.\nCnn i uxfuctiralin\nApett- Rr\n2epsdes of booe lotf)\nBP - 201/116nq PR - 102/ni.\nSPO- 91%2 RA\n(nt-Bl hebese cet\nP/A - buadipJ. Tendee ① oa.\negasitsivn.\nCNS 6 WNL\nes\n9 Monicaf Im Br\nJy Stemedil.\n. Go Mef Dö BD\nB_\nIu Ran 0 B\nNibulatin uh\n. FnJe  g B\nDat ot-B.\n0 thnpy 3f5\n. Fy PcM 1gnBD\n.Jy'R2 O0.0t0nf/tr.\n. TatAe.00\ne\n. Jy Cuet tp TDs\nD BY MOHIMA HEALTH CARE PVT LTD",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 619,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Patient's Name ..",
+      "bbox": null,
+      "confidence": 0.9199259281158447
+    },
+    {
+      "text": "Father's/ Husband's Namo..",
+      "bbox": null,
+      "confidence": 0.9695812463760376
+    },
+    {
+      "text": "UHID No.",
+      "bbox": null,
+      "confidence": 0.9877848029136658
+    },
+    {
+      "text": "CU.",
+      "bbox": null,
+      "confidence": 0.7166531085968018
+    },
+    {
+      "text": "Ward....!",
+      "bbox": null,
+      "confidence": 0.8040869235992432
+    },
+    {
+      "text": "Bed No. ....",
+      "bbox": null,
+      "confidence": 0.8410806059837341
+    },
+    {
+      "text": "CONSULTANT NOTES SHEET",
+      "bbox": null,
+      "confidence": 0.9783626794815063
+    },
+    {
+      "text": "HISTORY & EXAMINATION",
+      "bbox": null,
+      "confidence": 0.9960973858833313
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.9741766452789307
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.3359013497829437
+    },
+    {
+      "text": "Aecclrated Afpntensin I2R7",
+      "bbox": null,
+      "confidence": 0.6583977341651917
+    },
+    {
+      "text": "23",
+      "bbox": null,
+      "confidence": 0.9980848431587219
+    },
+    {
+      "text": "01",
+      "bbox": null,
+      "confidence": 0.8560963869094849
+    },
+    {
+      "text": "2076",
+      "bbox": null,
+      "confidence": 0.8292845487594604
+    },
+    {
+      "text": "Entncfaa.BASE.UTD",
+      "bbox": null,
+      "confidence": 0.6092950105667114
+    },
+    {
+      "text": "M",
+      "bbox": null,
+      "confidence": 0.6549707055091858
+    },
+    {
+      "text": "omit - Depisahe di norig",
+      "bbox": null,
+      "confidence": 0.5824820399284363
+    },
+    {
+      "text": "Namca  Headache /Nitigo tt)",
+      "bbox": null,
+      "confidence": 0.6585553288459778
+    },
+    {
+      "text": "atreh sitter.",
+      "bbox": null,
+      "confidence": 0.7634280323982239
+    },
+    {
+      "text": "Cnn i uxfuctiralin",
+      "bbox": null,
+      "confidence": 0.6801583766937256
+    },
+    {
+      "text": "Apett- Rr",
+      "bbox": null,
+      "confidence": 0.612448513507843
+    },
+    {
+      "text": "2epsdes of booe lotf)",
+      "bbox": null,
+      "confidence": 0.5872895121574402
+    },
+    {
+      "text": "BP - 201/116nq PR - 102/ni.",
+      "bbox": null,
+      "confidence": 0.7530312538146973
+    },
+    {
+      "text": "SPO- 91%2 RA",
+      "bbox": null,
+      "confidence": 0.7361087799072266
+    },
+    {
+      "text": "(nt-Bl hebese cet",
+      "bbox": null,
+      "confidence": 0.570068359375
+    },
+    {
+      "text": "P/A - buadipJ. Tendee ① oa.",
+      "bbox": null,
+      "confidence": 0.6388856172561646
+    },
+    {
+      "text": "egasitsivn.",
+      "bbox": null,
+      "confidence": 0.6724597811698914
+    },
+    {
+      "text": "CNS 6 WNL",
+      "bbox": null,
+      "confidence": 0.8307802677154541
+    },
+    {
+      "text": "es",
+      "bbox": null,
+      "confidence": 0.5913434624671936
+    },
+    {
+      "text": "9 Monicaf Im Br",
+      "bbox": null,
+      "confidence": 0.7153421640396118
+    },
+    {
+      "text": "Jy Stemedil.",
+      "bbox": null,
+      "confidence": 0.6747129559516907
+    },
+    {
+      "text": ". Go Mef Dö BD",
+      "bbox": null,
+      "confidence": 0.6082271337509155
+    },
+    {
+      "text": "B_",
+      "bbox": null,
+      "confidence": 0.8100131750106812
+    },
+    {
+      "text": "Iu Ran 0 B",
+      "bbox": null,
+      "confidence": 0.5819494724273682
+    },
+    {
+      "text": "Nibulatin uh",
+      "bbox": null,
+      "confidence": 0.5854062438011169
+    },
+    {
+      "text": ". FnJe  g B",
+      "bbox": null,
+      "confidence": 0.5540847778320312
+    },
+    {
+      "text": "Dat ot-B.",
+      "bbox": null,
+      "confidence": 0.6889517307281494
+    },
+    {
+      "text": "0 thnpy 3f5",
+      "bbox": null,
+      "confidence": 0.5903342366218567
+    },
+    {
+      "text": ". Fy PcM 1gnBD",
+      "bbox": null,
+      "confidence": 0.6566831469535828
+    },
+    {
+      "text": ".Jy'R2 O0.0t0nf/tr.",
+      "bbox": null,
+      "confidence": 0.5960128307342529
+    },
+    {
+      "text": ". TatAe.00",
+      "bbox": null,
+      "confidence": 0.5530410408973694
+    },
+    {
+      "text": "e",
+      "bbox": null,
+      "confidence": 0.40909287333488464
+    },
+    {
+      "text": ". Jy Cuet tp TDs",
+      "bbox": null,
+      "confidence": 0.5984313488006592
+    },
+    {
+      "text": "D BY MOHIMA HEALTH CARE PVT LTD",
+      "bbox": null,
+      "confidence": 0.9782837629318237
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "text": "UH LSH-15678\nAQH/SbOJY SHODIF\nSer Mep\nName\n00A:11/03/2026 02-30199\n10117/21382\nLiHD\nBed Nm\nCamufta\nINVESTIGATION REPORTS CHART\nDalis\n1\nHEMATOLOEY\nHUS\nPr\nTenCrum\nLF NNY\nCAR\nRLC\n4O1\nPiatolen\nT\n8Tmira\nOTmuna\n(RT\nPiee\nP1LA9n\nWtrphls\nL9D\nLyinehocYies\nLA\nMenooy\n05\nBasophils\nFonncphils\nMrSmear\nGIOCHEMISTAYA\nRSToOn\n1B6 mod\nPP6-amgia\n1471\ndrea\nrmm\nLL\n0899102\nMG\nChlond\nPhosphut\nCalcium\nBiciomae\nMagnesm\nTneAo\nToual Proien\nAlcynurt\nralobulin\nHsubn otal\nBinmn hotne\nscor\nSGFT\nGAT\nAkalingPhce\nLETH\nu\nChalestoral\nLOL\nindaiycerdes\nHUSA\nFAROLOCY\nTHV\nTntatned Bys\nLIEB\nIniomedy",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 563,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "UH LSH-15678",
+      "bbox": null,
+      "confidence": 0.766172468662262
+    },
+    {
+      "text": "AQH/SbOJY SHODIF",
+      "bbox": null,
+      "confidence": 0.6009503602981567
+    },
+    {
+      "text": "Ser Mep",
+      "bbox": null,
+      "confidence": 0.5122721791267395
+    },
+    {
+      "text": "Name",
+      "bbox": null,
+      "confidence": 0.9060190916061401
+    },
+    {
+      "text": "00A:11/03/2026 02-30199",
+      "bbox": null,
+      "confidence": 0.7273739576339722
+    },
+    {
+      "text": "10117/21382",
+      "bbox": null,
+      "confidence": 0.6371241211891174
+    },
+    {
+      "text": "LiHD",
+      "bbox": null,
+      "confidence": 0.7895458936691284
+    },
+    {
+      "text": "Bed Nm",
+      "bbox": null,
+      "confidence": 0.6038592457771301
+    },
+    {
+      "text": "Camufta",
+      "bbox": null,
+      "confidence": 0.5526438355445862
+    },
+    {
+      "text": "INVESTIGATION REPORTS CHART",
+      "bbox": null,
+      "confidence": 0.9870822429656982
+    },
+    {
+      "text": "Dalis",
+      "bbox": null,
+      "confidence": 0.5941979885101318
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.4876144528388977
+    },
+    {
+      "text": "HEMATOLOEY",
+      "bbox": null,
+      "confidence": 0.8981115221977234
+    },
+    {
+      "text": "HUS",
+      "bbox": null,
+      "confidence": 0.6567664742469788
+    },
+    {
+      "text": "Pr",
+      "bbox": null,
+      "confidence": 0.7831827998161316
+    },
+    {
+      "text": "TenCrum",
+      "bbox": null,
+      "confidence": 0.665118396282196
+    },
+    {
+      "text": "LF NNY",
+      "bbox": null,
+      "confidence": 0.42564961314201355
+    },
+    {
+      "text": "CAR",
+      "bbox": null,
+      "confidence": 0.38605746626853943
+    },
+    {
+      "text": "RLC",
+      "bbox": null,
+      "confidence": 0.6684396862983704
+    },
+    {
+      "text": "4O1",
+      "bbox": null,
+      "confidence": 0.44905197620391846
+    },
+    {
+      "text": "Piatolen",
+      "bbox": null,
+      "confidence": 0.6311412453651428
+    },
+    {
+      "text": "T",
+      "bbox": null,
+      "confidence": 0.9110492467880249
+    },
+    {
+      "text": "8Tmira",
+      "bbox": null,
+      "confidence": 0.6211267113685608
+    },
+    {
+      "text": "OTmuna",
+      "bbox": null,
+      "confidence": 0.618215024471283
+    },
+    {
+      "text": "(RT",
+      "bbox": null,
+      "confidence": 0.3873003423213959
+    },
+    {
+      "text": "Piee",
+      "bbox": null,
+      "confidence": 0.39465072751045227
+    },
+    {
+      "text": "P1LA9n",
+      "bbox": null,
+      "confidence": 0.37353217601776123
+    },
+    {
+      "text": "Wtrphls",
+      "bbox": null,
+      "confidence": 0.6478865742683411
+    },
+    {
+      "text": "L9D",
+      "bbox": null,
+      "confidence": 0.5308992862701416
+    },
+    {
+      "text": "LyinehocYies",
+      "bbox": null,
+      "confidence": 0.6505149602890015
+    },
+    {
+      "text": "LA",
+      "bbox": null,
+      "confidence": 0.2591902017593384
+    },
+    {
+      "text": "Menooy",
+      "bbox": null,
+      "confidence": 0.7530238032341003
+    },
+    {
+      "text": "05",
+      "bbox": null,
+      "confidence": 0.768520712852478
+    },
+    {
+      "text": "Basophils",
+      "bbox": null,
+      "confidence": 0.7172219753265381
+    },
+    {
+      "text": "Fonncphils",
+      "bbox": null,
+      "confidence": 0.48757725954055786
+    },
+    {
+      "text": "MrSmear",
+      "bbox": null,
+      "confidence": 0.5946527123451233
+    },
+    {
+      "text": "GIOCHEMISTAYA",
+      "bbox": null,
+      "confidence": 0.8326123356819153
+    },
+    {
+      "text": "RSToOn",
+      "bbox": null,
+      "confidence": 0.44402822852134705
+    },
+    {
+      "text": "1B6 mod",
+      "bbox": null,
+      "confidence": 0.42851072549819946
+    },
+    {
+      "text": "PP6-amgia",
+      "bbox": null,
+      "confidence": 0.5931907892227173
+    },
+    {
+      "text": "1471",
+      "bbox": null,
+      "confidence": 0.5962653756141663
+    },
+    {
+      "text": "drea",
+      "bbox": null,
+      "confidence": 0.7418049573898315
+    },
+    {
+      "text": "rmm",
+      "bbox": null,
+      "confidence": 0.26256081461906433
+    },
+    {
+      "text": "LL",
+      "bbox": null,
+      "confidence": 0.36524635553359985
+    },
+    {
+      "text": "0899102",
+      "bbox": null,
+      "confidence": 0.6593867540359497
+    },
+    {
+      "text": "MG",
+      "bbox": null,
+      "confidence": 0.1548466682434082
+    },
+    {
+      "text": "Chlond",
+      "bbox": null,
+      "confidence": 0.8515772223472595
+    },
+    {
+      "text": "Phosphut",
+      "bbox": null,
+      "confidence": 0.758876621723175
+    },
+    {
+      "text": "Calcium",
+      "bbox": null,
+      "confidence": 0.8223801851272583
+    },
+    {
+      "text": "Biciomae",
+      "bbox": null,
+      "confidence": 0.5508560538291931
+    },
+    {
+      "text": "Magnesm",
+      "bbox": null,
+      "confidence": 0.3849208950996399
+    },
+    {
+      "text": "TneAo",
+      "bbox": null,
+      "confidence": 0.4974077641963959
+    },
+    {
+      "text": "Toual Proien",
+      "bbox": null,
+      "confidence": 0.7346082329750061
+    },
+    {
+      "text": "Alcynurt",
+      "bbox": null,
+      "confidence": 0.5888568162918091
+    },
+    {
+      "text": "ralobulin",
+      "bbox": null,
+      "confidence": 0.5937548279762268
+    },
+    {
+      "text": "Hsubn otal",
+      "bbox": null,
+      "confidence": 0.4172699451446533
+    },
+    {
+      "text": "Binmn hotne",
+      "bbox": null,
+      "confidence": 0.5363038778305054
+    },
+    {
+      "text": "scor",
+      "bbox": null,
+      "confidence": 0.4510054588317871
+    },
+    {
+      "text": "SGFT",
+      "bbox": null,
+      "confidence": 0.7343555092811584
+    },
+    {
+      "text": "GAT",
+      "bbox": null,
+      "confidence": 0.7153129577636719
+    },
+    {
+      "text": "AkalingPhce",
+      "bbox": null,
+      "confidence": 0.7385263442993164
+    },
+    {
+      "text": "LETH",
+      "bbox": null,
+      "confidence": 0.5157018303871155
+    },
+    {
+      "text": "u",
+      "bbox": null,
+      "confidence": 0.3461676239967346
+    },
+    {
+      "text": "Chalestoral",
+      "bbox": null,
+      "confidence": 0.850795328617096
+    },
+    {
+      "text": "LOL",
+      "bbox": null,
+      "confidence": 0.5043371915817261
+    },
+    {
+      "text": "indaiycerdes",
+      "bbox": null,
+      "confidence": 0.7220937609672546
+    },
+    {
+      "text": "HUSA",
+      "bbox": null,
+      "confidence": 0.7255755662918091
+    },
+    {
+      "text": "FAROLOCY",
+      "bbox": null,
+      "confidence": 0.7373354434967041
+    },
+    {
+      "text": "THV",
+      "bbox": null,
+      "confidence": 0.6820487976074219
+    },
+    {
+      "text": "Tntatned Bys",
+      "bbox": null,
+      "confidence": 0.6743617057800293
+    },
+    {
+      "text": "LIEB",
+      "bbox": null,
+      "confidence": 0.3292257785797119
+    },
+    {
+      "text": "Iniomedy",
+      "bbox": null,
+      "confidence": 0.5598458051681519
+    }
+  ]
+}

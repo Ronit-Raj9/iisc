@@ -1,0 +1,508 @@
+{
+  "text": "Visit ID\n: RC124354\nRegistration\n:23/Jan/2026 03:10PM\nUHID/MR NO\n: RC1.0000021563\nCallected\n: 23/)an/2026 01 12PM\nPatient Name\nRecerved\n: 23/3an/202603 13PM\nAge/Gender\n5BY0MOD/M\nReported\n: 23/)an/202605:01PM\nRef Doctor\nStatus\n. Final Report\nClient Name\nChient Code\n320\nClient Add\nBarcode No\n: 10082595\nDEPARTMENT OF BIOCHEMISTRY\nTest Name\nResult\nUnit\nBio. Ref. Range\nMethod\nLIVER FUNCTION TEST\nSample Type : SERUM\nTOTAL BILIRUBIN\n0.82\nmg/©\n0.1-1.2\nDiazotized, Sulfanilic\nCONJUGATED (D, Bilirubin)\n0.22\nmg/d\n<0.3\nJendrassik & Gralf\nUNCONJUGATED ( I.D. BillirubIn)\n0.6\nSGOT\n20\nU/\nc35\nEncymatic, IFFC\nS.G.P.T\n23\nU/L\n0-45\nEnzymatic,IFFC\nALKALINE PHOSPHATASE\n91\nU/L\n30-120\nKinetic, IFCC\n8\nTOTAL PROTEINS\n6.50\ngm/dl\n6.6-8.3\nBiuret\n©\nALBUMIN\n3.50\ngm/dl\n3.5-5.3\nBCG\nGLOBULIN\n3\ngm/d)\n20-4.1\nCalculated\nA/G RATIO\n1.17\n10·2.0\nCalculated\n©\n©\nGGT\n27\nU/L\n<55\nColorimetric Method\nNote- I. in an asymptomatic potient, Non alcoholic famy liver disense (NAFLD) is the most common\ncause of increased AST. AL.T levels. NAFLD is considered as hepatic manifestation of.membolic\nsyndrome.\nIn most type of liverdisease, AL.T activity is higher than thut of AST; excention may be seen in Alcoholic\nHepatitis. Hepatie Cirhosis, and Liver neoplasia. In a patient with Chronic liver diseuse, AST:AL. T ratio>1\nis highily suggestive of advaniced liver fibrosis.\n3. In known cases of Chronic Liver discase due to Viral Hepatitis B & C. Alcoholic liver disease or\nNAFLD, Linlcanced liver fibrosis (ELF) test may be used to evalsate liver fibrosis.\n4. In a patient with Chronic Liver disense, AFP and Des-gamma carboxyprothrombin (DCPyPIVKA II\ncan be used to assess risk for development of Hepatocellular Carcinoma.\nMBBS,DCP\nConsuhant Pathalngist\nPegs 1 i",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 1723,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Visit ID",
+      "bbox": null,
+      "confidence": 0.9278616309165955
+    },
+    {
+      "text": ": RC124354",
+      "bbox": null,
+      "confidence": 0.942707359790802
+    },
+    {
+      "text": "Registration",
+      "bbox": null,
+      "confidence": 0.9997997283935547
+    },
+    {
+      "text": ":23/Jan/2026 03:10PM",
+      "bbox": null,
+      "confidence": 0.9418333172798157
+    },
+    {
+      "text": "UHID/MR NO",
+      "bbox": null,
+      "confidence": 0.9535555839538574
+    },
+    {
+      "text": ": RC1.0000021563",
+      "bbox": null,
+      "confidence": 0.9817261695861816
+    },
+    {
+      "text": "Callected",
+      "bbox": null,
+      "confidence": 0.9628899693489075
+    },
+    {
+      "text": ": 23/)an/2026 01 12PM",
+      "bbox": null,
+      "confidence": 0.9347363710403442
+    },
+    {
+      "text": "Patient Name",
+      "bbox": null,
+      "confidence": 0.9967255592346191
+    },
+    {
+      "text": "Recerved",
+      "bbox": null,
+      "confidence": 0.9512306451797485
+    },
+    {
+      "text": ": 23/3an/202603 13PM",
+      "bbox": null,
+      "confidence": 0.9705083966255188
+    },
+    {
+      "text": "Age/Gender",
+      "bbox": null,
+      "confidence": 0.9963951110839844
+    },
+    {
+      "text": "5BY0MOD/M",
+      "bbox": null,
+      "confidence": 0.8382360935211182
+    },
+    {
+      "text": "Reported",
+      "bbox": null,
+      "confidence": 0.9985859394073486
+    },
+    {
+      "text": ": 23/)an/202605:01PM",
+      "bbox": null,
+      "confidence": 0.9707951545715332
+    },
+    {
+      "text": "Ref Doctor",
+      "bbox": null,
+      "confidence": 0.9875472784042358
+    },
+    {
+      "text": "Status",
+      "bbox": null,
+      "confidence": 0.9897470474243164
+    },
+    {
+      "text": ". Final Report",
+      "bbox": null,
+      "confidence": 0.9686614274978638
+    },
+    {
+      "text": "Client Name",
+      "bbox": null,
+      "confidence": 0.9316508769989014
+    },
+    {
+      "text": "Chient Code",
+      "bbox": null,
+      "confidence": 0.9672351479530334
+    },
+    {
+      "text": "320",
+      "bbox": null,
+      "confidence": 0.9968636631965637
+    },
+    {
+      "text": "Client Add",
+      "bbox": null,
+      "confidence": 0.9635270237922668
+    },
+    {
+      "text": "Barcode No",
+      "bbox": null,
+      "confidence": 0.9973201751708984
+    },
+    {
+      "text": ": 10082595",
+      "bbox": null,
+      "confidence": 0.9562190771102905
+    },
+    {
+      "text": "DEPARTMENT OF BIOCHEMISTRY",
+      "bbox": null,
+      "confidence": 0.9969879984855652
+    },
+    {
+      "text": "Test Name",
+      "bbox": null,
+      "confidence": 0.9988694787025452
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9983816742897034
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9938280582427979
+    },
+    {
+      "text": "Bio. Ref. Range",
+      "bbox": null,
+      "confidence": 0.9862750172615051
+    },
+    {
+      "text": "Method",
+      "bbox": null,
+      "confidence": 0.9400972723960876
+    },
+    {
+      "text": "LIVER FUNCTION TEST",
+      "bbox": null,
+      "confidence": 0.9745291471481323
+    },
+    {
+      "text": "Sample Type : SERUM",
+      "bbox": null,
+      "confidence": 0.9796288013458252
+    },
+    {
+      "text": "TOTAL BILIRUBIN",
+      "bbox": null,
+      "confidence": 0.9979426860809326
+    },
+    {
+      "text": "0.82",
+      "bbox": null,
+      "confidence": 0.959387481212616
+    },
+    {
+      "text": "mg/©",
+      "bbox": null,
+      "confidence": 0.7087814211845398
+    },
+    {
+      "text": "0.1-1.2",
+      "bbox": null,
+      "confidence": 0.9417151212692261
+    },
+    {
+      "text": "Diazotized, Sulfanilic",
+      "bbox": null,
+      "confidence": 0.9629095196723938
+    },
+    {
+      "text": "CONJUGATED (D, Bilirubin)",
+      "bbox": null,
+      "confidence": 0.9449446201324463
+    },
+    {
+      "text": "0.22",
+      "bbox": null,
+      "confidence": 0.9995152950286865
+    },
+    {
+      "text": "mg/d",
+      "bbox": null,
+      "confidence": 0.8469594717025757
+    },
+    {
+      "text": "<0.3",
+      "bbox": null,
+      "confidence": 0.8754114508628845
+    },
+    {
+      "text": "Jendrassik & Gralf",
+      "bbox": null,
+      "confidence": 0.9689996242523193
+    },
+    {
+      "text": "UNCONJUGATED ( I.D. BillirubIn)",
+      "bbox": null,
+      "confidence": 0.9300251007080078
+    },
+    {
+      "text": "0.6",
+      "bbox": null,
+      "confidence": 0.998516321182251
+    },
+    {
+      "text": "SGOT",
+      "bbox": null,
+      "confidence": 0.9346621632575989
+    },
+    {
+      "text": "20",
+      "bbox": null,
+      "confidence": 0.9998438358306885
+    },
+    {
+      "text": "U/",
+      "bbox": null,
+      "confidence": 0.6326817870140076
+    },
+    {
+      "text": "c35",
+      "bbox": null,
+      "confidence": 0.9139981269836426
+    },
+    {
+      "text": "Encymatic, IFFC",
+      "bbox": null,
+      "confidence": 0.8986321687698364
+    },
+    {
+      "text": "S.G.P.T",
+      "bbox": null,
+      "confidence": 0.8865907788276672
+    },
+    {
+      "text": "23",
+      "bbox": null,
+      "confidence": 0.9990419149398804
+    },
+    {
+      "text": "U/L",
+      "bbox": null,
+      "confidence": 0.8462598323822021
+    },
+    {
+      "text": "0-45",
+      "bbox": null,
+      "confidence": 0.9753033518791199
+    },
+    {
+      "text": "Enzymatic,IFFC",
+      "bbox": null,
+      "confidence": 0.9471462368965149
+    },
+    {
+      "text": "ALKALINE PHOSPHATASE",
+      "bbox": null,
+      "confidence": 0.9978645443916321
+    },
+    {
+      "text": "91",
+      "bbox": null,
+      "confidence": 0.9990863800048828
+    },
+    {
+      "text": "U/L",
+      "bbox": null,
+      "confidence": 0.9820213317871094
+    },
+    {
+      "text": "30-120",
+      "bbox": null,
+      "confidence": 0.9992286562919617
+    },
+    {
+      "text": "Kinetic, IFCC",
+      "bbox": null,
+      "confidence": 0.9622423648834229
+    },
+    {
+      "text": "8",
+      "bbox": null,
+      "confidence": 0.9037505388259888
+    },
+    {
+      "text": "TOTAL PROTEINS",
+      "bbox": null,
+      "confidence": 0.9972851872444153
+    },
+    {
+      "text": "6.50",
+      "bbox": null,
+      "confidence": 0.9988373517990112
+    },
+    {
+      "text": "gm/dl",
+      "bbox": null,
+      "confidence": 0.9308725595474243
+    },
+    {
+      "text": "6.6-8.3",
+      "bbox": null,
+      "confidence": 0.9837242364883423
+    },
+    {
+      "text": "Biuret",
+      "bbox": null,
+      "confidence": 0.9967198967933655
+    },
+    {
+      "text": "©",
+      "bbox": null,
+      "confidence": 0.41173237562179565
+    },
+    {
+      "text": "ALBUMIN",
+      "bbox": null,
+      "confidence": 0.9976466298103333
+    },
+    {
+      "text": "3.50",
+      "bbox": null,
+      "confidence": 0.8975505232810974
+    },
+    {
+      "text": "gm/dl",
+      "bbox": null,
+      "confidence": 0.9491397142410278
+    },
+    {
+      "text": "3.5-5.3",
+      "bbox": null,
+      "confidence": 0.9910811185836792
+    },
+    {
+      "text": "BCG",
+      "bbox": null,
+      "confidence": 0.9968865513801575
+    },
+    {
+      "text": "GLOBULIN",
+      "bbox": null,
+      "confidence": 0.9937491416931152
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.969433069229126
+    },
+    {
+      "text": "gm/d)",
+      "bbox": null,
+      "confidence": 0.6833721399307251
+    },
+    {
+      "text": "20-4.1",
+      "bbox": null,
+      "confidence": 0.9972819685935974
+    },
+    {
+      "text": "Calculated",
+      "bbox": null,
+      "confidence": 0.9988333582878113
+    },
+    {
+      "text": "A/G RATIO",
+      "bbox": null,
+      "confidence": 0.9569350481033325
+    },
+    {
+      "text": "1.17",
+      "bbox": null,
+      "confidence": 0.9898363351821899
+    },
+    {
+      "text": "10·2.0",
+      "bbox": null,
+      "confidence": 0.887343168258667
+    },
+    {
+      "text": "Calculated",
+      "bbox": null,
+      "confidence": 0.997369647026062
+    },
+    {
+      "text": "©",
+      "bbox": null,
+      "confidence": 0.22660963237285614
+    },
+    {
+      "text": "©",
+      "bbox": null,
+      "confidence": 0.5226540565490723
+    },
+    {
+      "text": "GGT",
+      "bbox": null,
+      "confidence": 0.9994586110115051
+    },
+    {
+      "text": "27",
+      "bbox": null,
+      "confidence": 0.9997587203979492
+    },
+    {
+      "text": "U/L",
+      "bbox": null,
+      "confidence": 0.6374689936637878
+    },
+    {
+      "text": "<55",
+      "bbox": null,
+      "confidence": 0.9831528067588806
+    },
+    {
+      "text": "Colorimetric Method",
+      "bbox": null,
+      "confidence": 0.9835165143013
+    },
+    {
+      "text": "Note- I. in an asymptomatic potient, Non alcoholic famy liver disense (NAFLD) is the most common",
+      "bbox": null,
+      "confidence": 0.9437659382820129
+    },
+    {
+      "text": "cause of increased AST. AL.T levels. NAFLD is considered as hepatic manifestation of.membolic",
+      "bbox": null,
+      "confidence": 0.9403460025787354
+    },
+    {
+      "text": "syndrome.",
+      "bbox": null,
+      "confidence": 0.86797696352005
+    },
+    {
+      "text": "In most type of liverdisease, AL.T activity is higher than thut of AST; excention may be seen in Alcoholic",
+      "bbox": null,
+      "confidence": 0.9403548836708069
+    },
+    {
+      "text": "Hepatitis. Hepatie Cirhosis, and Liver neoplasia. In a patient with Chronic liver diseuse, AST:AL. T ratio>1",
+      "bbox": null,
+      "confidence": 0.9353061318397522
+    },
+    {
+      "text": "is highily suggestive of advaniced liver fibrosis.",
+      "bbox": null,
+      "confidence": 0.9695224761962891
+    },
+    {
+      "text": "3. In known cases of Chronic Liver discase due to Viral Hepatitis B & C. Alcoholic liver disease or",
+      "bbox": null,
+      "confidence": 0.9745455384254456
+    },
+    {
+      "text": "NAFLD, Linlcanced liver fibrosis (ELF) test may be used to evalsate liver fibrosis.",
+      "bbox": null,
+      "confidence": 0.9456352591514587
+    },
+    {
+      "text": "4. In a patient with Chronic Liver disense, AFP and Des-gamma carboxyprothrombin (DCPyPIVKA II",
+      "bbox": null,
+      "confidence": 0.9740877151489258
+    },
+    {
+      "text": "can be used to assess risk for development of Hepatocellular Carcinoma.",
+      "bbox": null,
+      "confidence": 0.9784032106399536
+    },
+    {
+      "text": "MBBS,DCP",
+      "bbox": null,
+      "confidence": 0.7500264644622803
+    },
+    {
+      "text": "Consuhant Pathalngist",
+      "bbox": null,
+      "confidence": 0.8144195079803467
+    },
+    {
+      "text": "Pegs 1 i",
+      "bbox": null,
+      "confidence": 0.5610488653182983
+    }
+  ]
+}

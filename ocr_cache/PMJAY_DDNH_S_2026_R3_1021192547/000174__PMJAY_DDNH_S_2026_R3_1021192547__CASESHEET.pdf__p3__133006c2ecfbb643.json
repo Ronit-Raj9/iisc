@@ -1,0 +1,148 @@
+{
+  "text": "MRD No.\nTreatment\nDate\nInvestigation\nClinical Findings\n&\nTime\nSB1Oa80\nHR-104\nbcoteu\nRR-24\nCou\nPIA-So\nAd\n-y2etun\nLgmIVBD.\n8ypAmbrodyssmlTD8\nT5 PONFoong I sGs\n82\n8s for Ceo oms\n8.10pm\nhopw\nUryIsh\nC7\nKx\nhutauta\n3\n.",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 211,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "MRD No.",
+      "bbox": null,
+      "confidence": 0.9703660607337952
+    },
+    {
+      "text": "Treatment",
+      "bbox": null,
+      "confidence": 0.9995318651199341
+    },
+    {
+      "text": "Date",
+      "bbox": null,
+      "confidence": 0.9864479303359985
+    },
+    {
+      "text": "Investigation",
+      "bbox": null,
+      "confidence": 0.9876700639724731
+    },
+    {
+      "text": "Clinical Findings",
+      "bbox": null,
+      "confidence": 0.9796661138534546
+    },
+    {
+      "text": "&",
+      "bbox": null,
+      "confidence": 0.990549623966217
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9944254159927368
+    },
+    {
+      "text": "SB1Oa80",
+      "bbox": null,
+      "confidence": 0.5296152830123901
+    },
+    {
+      "text": "HR-104",
+      "bbox": null,
+      "confidence": 0.92864990234375
+    },
+    {
+      "text": "bcoteu",
+      "bbox": null,
+      "confidence": 0.7385343909263611
+    },
+    {
+      "text": "RR-24",
+      "bbox": null,
+      "confidence": 0.7191137075424194
+    },
+    {
+      "text": "Cou",
+      "bbox": null,
+      "confidence": 0.703819751739502
+    },
+    {
+      "text": "PIA-So",
+      "bbox": null,
+      "confidence": 0.7306117415428162
+    },
+    {
+      "text": "Ad",
+      "bbox": null,
+      "confidence": 0.9946962594985962
+    },
+    {
+      "text": "-y2etun",
+      "bbox": null,
+      "confidence": 0.5566466450691223
+    },
+    {
+      "text": "LgmIVBD.",
+      "bbox": null,
+      "confidence": 0.8448190689086914
+    },
+    {
+      "text": "8ypAmbrodyssmlTD8",
+      "bbox": null,
+      "confidence": 0.7023206949234009
+    },
+    {
+      "text": "T5 PONFoong I sGs",
+      "bbox": null,
+      "confidence": 0.5215420722961426
+    },
+    {
+      "text": "82",
+      "bbox": null,
+      "confidence": 0.9742580652236938
+    },
+    {
+      "text": "8s for Ceo oms",
+      "bbox": null,
+      "confidence": 0.5550845265388489
+    },
+    {
+      "text": "8.10pm",
+      "bbox": null,
+      "confidence": 0.774206817150116
+    },
+    {
+      "text": "hopw",
+      "bbox": null,
+      "confidence": 0.7159075140953064
+    },
+    {
+      "text": "UryIsh",
+      "bbox": null,
+      "confidence": 0.40130555629730225
+    },
+    {
+      "text": "C7",
+      "bbox": null,
+      "confidence": 0.3614963889122009
+    },
+    {
+      "text": "Kx",
+      "bbox": null,
+      "confidence": 0.5682456493377686
+    },
+    {
+      "text": "hutauta",
+      "bbox": null,
+      "confidence": 0.5860147476196289
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.34806200861930847
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.6693670153617859
+    }
+  ]
+}

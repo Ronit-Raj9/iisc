@@ -1,0 +1,258 @@
+{
+  "text": "Dear: Abdul Rehman Alauddin Shaikh\nBeneficiary ID: PSO2P0SKS\nPackage Code: [MG006A]\nHospital Name: Government Hospital Marwad\nDaman( HOSP25G00698 )- DAMAN\nHospital ID: 30738\n/FEEDBACK FORM\nsdbu\n4.434//34\n3342314374\nWere hospital doctors/ staff/ nurses cooperative\nto you and gave you proper time during your stay\nin the hospital?\nf/Yes\nπ\nT/No\nITH 30141?\n5.333\n2  $   (h\na  c   n\nMe enD\nDoe o oood Jo wo oo Au A no pe\nr o b o  oe\ne/\n/Yes\nT/No\nTef/No\na 3y 3r4dc  scsige\n6.2141 3141314341 20154\nre you satisfied with the treatment you received\n34616 2 2?\nt the hospital?\n/Yes\nDid hospital provide sufficient medicine for the\ntreatment you availed?\nL\n/No\n/Yes\n2\n/N\nH 3\nA?\n7.a314 3143f\nju3  ?\nDid Pradhan Mantri Arogya Mitra (PMAM)\nrovide you with necessary information and\nDid the hospital serve you with quality food\nissistance during your hospitalization?\nduring the stay at the hospital?\nt /Yes\nf / YesY\n/No\nT/No\n3 3fa ufd / Any other feedback:\n/Beneficiary' Signature\nRase FR/Mobile Number",
+  "embedded_text_chars": 173,
+  "ocr_text_chars": 815,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "/FEEDBACK FORM",
+      "bbox": null,
+      "confidence": 0.920445442199707
+    },
+    {
+      "text": "sdbu",
+      "bbox": null,
+      "confidence": 0.30401498079299927
+    },
+    {
+      "text": "4.434//34",
+      "bbox": null,
+      "confidence": 0.605354368686676
+    },
+    {
+      "text": "3342314374",
+      "bbox": null,
+      "confidence": 0.6342503428459167
+    },
+    {
+      "text": "Were hospital doctors/ staff/ nurses cooperative",
+      "bbox": null,
+      "confidence": 0.9803903698921204
+    },
+    {
+      "text": "to you and gave you proper time during your stay",
+      "bbox": null,
+      "confidence": 0.9890623092651367
+    },
+    {
+      "text": "in the hospital?",
+      "bbox": null,
+      "confidence": 0.9758231043815613
+    },
+    {
+      "text": "f/Yes",
+      "bbox": null,
+      "confidence": 0.7790328860282898
+    },
+    {
+      "text": "π",
+      "bbox": null,
+      "confidence": 0.2805314064025879
+    },
+    {
+      "text": "T/No",
+      "bbox": null,
+      "confidence": 0.8005756735801697
+    },
+    {
+      "text": "ITH 30141?",
+      "bbox": null,
+      "confidence": 0.7191041707992554
+    },
+    {
+      "text": "5.333",
+      "bbox": null,
+      "confidence": 0.6942480206489563
+    },
+    {
+      "text": "2  $   (h",
+      "bbox": null,
+      "confidence": 0.4975561201572418
+    },
+    {
+      "text": "a  c   n",
+      "bbox": null,
+      "confidence": 0.47718197107315063
+    },
+    {
+      "text": "Me enD",
+      "bbox": null,
+      "confidence": 0.3518524467945099
+    },
+    {
+      "text": "Doe o oood Jo wo oo Au A no pe",
+      "bbox": null,
+      "confidence": 0.4375760853290558
+    },
+    {
+      "text": "r o b o  oe",
+      "bbox": null,
+      "confidence": 0.4442455470561981
+    },
+    {
+      "text": "e/",
+      "bbox": null,
+      "confidence": 0.40023815631866455
+    },
+    {
+      "text": "/Yes",
+      "bbox": null,
+      "confidence": 0.9730976819992065
+    },
+    {
+      "text": "T/No",
+      "bbox": null,
+      "confidence": 0.7436956763267517
+    },
+    {
+      "text": "Tef/No",
+      "bbox": null,
+      "confidence": 0.6160760521888733
+    },
+    {
+      "text": "a 3y 3r4dc  scsige",
+      "bbox": null,
+      "confidence": 0.5285573601722717
+    },
+    {
+      "text": "6.2141 3141314341 20154",
+      "bbox": null,
+      "confidence": 0.5816522240638733
+    },
+    {
+      "text": "re you satisfied with the treatment you received",
+      "bbox": null,
+      "confidence": 0.9769183993339539
+    },
+    {
+      "text": "34616 2 2?",
+      "bbox": null,
+      "confidence": 0.5730732083320618
+    },
+    {
+      "text": "t the hospital?",
+      "bbox": null,
+      "confidence": 0.9945851564407349
+    },
+    {
+      "text": "/Yes",
+      "bbox": null,
+      "confidence": 0.9869670867919922
+    },
+    {
+      "text": "Did hospital provide sufficient medicine for the",
+      "bbox": null,
+      "confidence": 0.9913384914398193
+    },
+    {
+      "text": "treatment you availed?",
+      "bbox": null,
+      "confidence": 0.9969945549964905
+    },
+    {
+      "text": "L",
+      "bbox": null,
+      "confidence": 0.4833140969276428
+    },
+    {
+      "text": "/No",
+      "bbox": null,
+      "confidence": 0.8676558136940002
+    },
+    {
+      "text": "/Yes",
+      "bbox": null,
+      "confidence": 0.9489070773124695
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.25990861654281616
+    },
+    {
+      "text": "/N",
+      "bbox": null,
+      "confidence": 0.876402735710144
+    },
+    {
+      "text": "H 3",
+      "bbox": null,
+      "confidence": 0.49677562713623047
+    },
+    {
+      "text": "A?",
+      "bbox": null,
+      "confidence": 0.673971951007843
+    },
+    {
+      "text": "7.a314 3143f",
+      "bbox": null,
+      "confidence": 0.5336015820503235
+    },
+    {
+      "text": "ju3  ?",
+      "bbox": null,
+      "confidence": 0.5319512486457825
+    },
+    {
+      "text": "Did Pradhan Mantri Arogya Mitra (PMAM)",
+      "bbox": null,
+      "confidence": 0.9865260720252991
+    },
+    {
+      "text": "rovide you with necessary information and",
+      "bbox": null,
+      "confidence": 0.9959287643432617
+    },
+    {
+      "text": "Did the hospital serve you with quality food",
+      "bbox": null,
+      "confidence": 0.9967499375343323
+    },
+    {
+      "text": "issistance during your hospitalization?",
+      "bbox": null,
+      "confidence": 0.9741595387458801
+    },
+    {
+      "text": "during the stay at the hospital?",
+      "bbox": null,
+      "confidence": 0.9939751625061035
+    },
+    {
+      "text": "t /Yes",
+      "bbox": null,
+      "confidence": 0.6138381958007812
+    },
+    {
+      "text": "f / YesY",
+      "bbox": null,
+      "confidence": 0.6003111004829407
+    },
+    {
+      "text": "/No",
+      "bbox": null,
+      "confidence": 0.6982948184013367
+    },
+    {
+      "text": "T/No",
+      "bbox": null,
+      "confidence": 0.7625781297683716
+    },
+    {
+      "text": "3 3fa ufd / Any other feedback:",
+      "bbox": null,
+      "confidence": 0.8528226613998413
+    },
+    {
+      "text": "/Beneficiary' Signature",
+      "bbox": null,
+      "confidence": 0.9101954102516174
+    },
+    {
+      "text": "Rase FR/Mobile Number",
+      "bbox": null,
+      "confidence": 0.8120266795158386
+    }
+  ]
+}

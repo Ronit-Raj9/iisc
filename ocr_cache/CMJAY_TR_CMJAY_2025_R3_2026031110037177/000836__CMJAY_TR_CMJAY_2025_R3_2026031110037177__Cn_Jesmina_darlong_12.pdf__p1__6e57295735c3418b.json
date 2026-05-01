@@ -1,0 +1,208 @@
+{
+  "text": "UHID TUH\nINITIAL ASSESSMENT BY DOCTOR\nAge/SeXI 1Y 9M OD /P\nDOA : 11/03/2026 02:30 PM\nIP NO 1 IP/25/1382\nPatient Name\nUHID no.t I..Dr. Nan\nA:0g/26.Time of Arrival\nVital Signs:\nTemperature: ulsn.\nmmHG\nRespiration:/min\nCB: .2oght: 6. Cm Wogh93/\nHISTORY TAKEN FORM\nthistony of infecmitlent hever dinee load doveck\nDidolt peas abol fon consee Bire ades follorolg\nChlef Complaints\nwhich anema ans gimes ontiole the baspitel.\nBapind ppernted aisk ihe abane\nHistory of Present Illness\nnenfni wmglob\nmlo: vomiting inldneed by penaistent congh\nDrug History\nNA\nPast Medical & Surgical\nMA\nHistory\nFamily & Marital & Obstetric\nHistory\nNA\nConnseions  aleat\nPhysical Examination &\ncheaf : βl chan.\nClinical Findings\ncus 8,3,\nPH'NAD.\nSp0 93.\nInvestigation Ordered\nEmelsed.\nContd....",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 766,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "UHID TUH",
+      "bbox": null,
+      "confidence": 0.7828710079193115
+    },
+    {
+      "text": "INITIAL ASSESSMENT BY DOCTOR",
+      "bbox": null,
+      "confidence": 0.9758647084236145
+    },
+    {
+      "text": "Age/SeXI 1Y 9M OD /P",
+      "bbox": null,
+      "confidence": 0.8314897418022156
+    },
+    {
+      "text": "DOA : 11/03/2026 02:30 PM",
+      "bbox": null,
+      "confidence": 0.9245039224624634
+    },
+    {
+      "text": "IP NO 1 IP/25/1382",
+      "bbox": null,
+      "confidence": 0.9251341223716736
+    },
+    {
+      "text": "Patient Name",
+      "bbox": null,
+      "confidence": 0.9635496735572815
+    },
+    {
+      "text": "UHID no.t I..Dr. Nan",
+      "bbox": null,
+      "confidence": 0.748020589351654
+    },
+    {
+      "text": "A:0g/26.Time of Arrival",
+      "bbox": null,
+      "confidence": 0.7661936283111572
+    },
+    {
+      "text": "Vital Signs:",
+      "bbox": null,
+      "confidence": 0.9891302585601807
+    },
+    {
+      "text": "Temperature: ulsn.",
+      "bbox": null,
+      "confidence": 0.7204166650772095
+    },
+    {
+      "text": "mmHG",
+      "bbox": null,
+      "confidence": 0.9920480847358704
+    },
+    {
+      "text": "Respiration:/min",
+      "bbox": null,
+      "confidence": 0.8410366177558899
+    },
+    {
+      "text": "CB: .2oght: 6. Cm Wogh93/",
+      "bbox": null,
+      "confidence": 0.6446530818939209
+    },
+    {
+      "text": "HISTORY TAKEN FORM",
+      "bbox": null,
+      "confidence": 0.9966156482696533
+    },
+    {
+      "text": "thistony of infecmitlent hever dinee load doveck",
+      "bbox": null,
+      "confidence": 0.6826587319374084
+    },
+    {
+      "text": "Didolt peas abol fon consee Bire ades follorolg",
+      "bbox": null,
+      "confidence": 0.6962645649909973
+    },
+    {
+      "text": "Chlef Complaints",
+      "bbox": null,
+      "confidence": 0.9705758094787598
+    },
+    {
+      "text": "which anema ans gimes ontiole the baspitel.",
+      "bbox": null,
+      "confidence": 0.7141759991645813
+    },
+    {
+      "text": "Bapind ppernted aisk ihe abane",
+      "bbox": null,
+      "confidence": 0.6647671461105347
+    },
+    {
+      "text": "History of Present Illness",
+      "bbox": null,
+      "confidence": 0.9924694299697876
+    },
+    {
+      "text": "nenfni wmglob",
+      "bbox": null,
+      "confidence": 0.5833250880241394
+    },
+    {
+      "text": "mlo: vomiting inldneed by penaistent congh",
+      "bbox": null,
+      "confidence": 0.7819449305534363
+    },
+    {
+      "text": "Drug History",
+      "bbox": null,
+      "confidence": 0.999655544757843
+    },
+    {
+      "text": "NA",
+      "bbox": null,
+      "confidence": 0.9654119610786438
+    },
+    {
+      "text": "Past Medical & Surgical",
+      "bbox": null,
+      "confidence": 0.9868125319480896
+    },
+    {
+      "text": "MA",
+      "bbox": null,
+      "confidence": 0.9408693909645081
+    },
+    {
+      "text": "History",
+      "bbox": null,
+      "confidence": 0.9995959997177124
+    },
+    {
+      "text": "Family & Marital & Obstetric",
+      "bbox": null,
+      "confidence": 0.9905239939689636
+    },
+    {
+      "text": "History",
+      "bbox": null,
+      "confidence": 0.999779999256134
+    },
+    {
+      "text": "NA",
+      "bbox": null,
+      "confidence": 0.9969878196716309
+    },
+    {
+      "text": "Connseions  aleat",
+      "bbox": null,
+      "confidence": 0.7744960784912109
+    },
+    {
+      "text": "Physical Examination &",
+      "bbox": null,
+      "confidence": 0.9864041805267334
+    },
+    {
+      "text": "cheaf : βl chan.",
+      "bbox": null,
+      "confidence": 0.6143816113471985
+    },
+    {
+      "text": "Clinical Findings",
+      "bbox": null,
+      "confidence": 0.9962818026542664
+    },
+    {
+      "text": "cus 8,3,",
+      "bbox": null,
+      "confidence": 0.6202774047851562
+    },
+    {
+      "text": "PH'NAD.",
+      "bbox": null,
+      "confidence": 0.857925295829773
+    },
+    {
+      "text": "Sp0 93.",
+      "bbox": null,
+      "confidence": 0.6637272238731384
+    },
+    {
+      "text": "Investigation Ordered",
+      "bbox": null,
+      "confidence": 0.9992644786834717
+    },
+    {
+      "text": "Emelsed.",
+      "bbox": null,
+      "confidence": 0.8135839104652405
+    },
+    {
+      "text": "Contd....",
+      "bbox": null,
+      "confidence": 0.8927069902420044
+    }
+  ]
+}

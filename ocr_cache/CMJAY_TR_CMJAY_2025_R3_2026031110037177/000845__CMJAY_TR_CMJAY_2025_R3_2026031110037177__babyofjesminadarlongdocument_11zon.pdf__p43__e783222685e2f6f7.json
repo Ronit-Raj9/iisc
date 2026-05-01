@@ -1,0 +1,248 @@
+{
+  "text": "Uo\nAge Genia\nYCaFem\nEmtan Tym\nCaa Nio\n1LA02500ON\nA Dy\nCase Date\nC1828644\ncorodN\nSampl Dale\n11/00902904188M\nHleport Dhrt\n: 110202 on2070\nTil\nRemk\nthit\nHedogica not Rarge\nKIDNEY FUNCTION TEST (KFT)\n(Serye Semum)\nLLOOD LREA\n14.2\nmigpla!\n(15-48)\nSERUMCREATINIE\n0.23\ninigtal\n(0.0=13)\nCee b\nBERUMURECACO\n35\nmpid.\n(2-es)\nmCE\n1,39.0\nUL\n(125-101)\nSOOUM\n4.0\nmmuit\n(a1-31)\nPOTASSUM\nEnd ofPlaped\nye\n. MUSENJA\nUAO\n0O\nWelle tied Aenlyut",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 422,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Uo",
+      "bbox": null,
+      "confidence": 0.3087337017059326
+    },
+    {
+      "text": "Age Genia",
+      "bbox": null,
+      "confidence": 0.7184215188026428
+    },
+    {
+      "text": "YCaFem",
+      "bbox": null,
+      "confidence": 0.5248143672943115
+    },
+    {
+      "text": "Emtan Tym",
+      "bbox": null,
+      "confidence": 0.6664578914642334
+    },
+    {
+      "text": "Caa Nio",
+      "bbox": null,
+      "confidence": 0.7914153337478638
+    },
+    {
+      "text": "1LA02500ON",
+      "bbox": null,
+      "confidence": 0.6337400674819946
+    },
+    {
+      "text": "A Dy",
+      "bbox": null,
+      "confidence": 0.4887147545814514
+    },
+    {
+      "text": "Case Date",
+      "bbox": null,
+      "confidence": 0.8015611171722412
+    },
+    {
+      "text": "C1828644",
+      "bbox": null,
+      "confidence": 0.4532540738582611
+    },
+    {
+      "text": "corodN",
+      "bbox": null,
+      "confidence": 0.6227286458015442
+    },
+    {
+      "text": "Sampl Dale",
+      "bbox": null,
+      "confidence": 0.7689786553382874
+    },
+    {
+      "text": "11/00902904188M",
+      "bbox": null,
+      "confidence": 0.695807158946991
+    },
+    {
+      "text": "Hleport Dhrt",
+      "bbox": null,
+      "confidence": 0.6797683835029602
+    },
+    {
+      "text": ": 110202 on2070",
+      "bbox": null,
+      "confidence": 0.6072739958763123
+    },
+    {
+      "text": "Til",
+      "bbox": null,
+      "confidence": 0.621844470500946
+    },
+    {
+      "text": "Remk",
+      "bbox": null,
+      "confidence": 0.6405723094940186
+    },
+    {
+      "text": "thit",
+      "bbox": null,
+      "confidence": 0.760726273059845
+    },
+    {
+      "text": "Hedogica not Rarge",
+      "bbox": null,
+      "confidence": 0.5515289902687073
+    },
+    {
+      "text": "KIDNEY FUNCTION TEST (KFT)",
+      "bbox": null,
+      "confidence": 0.9777039289474487
+    },
+    {
+      "text": "(Serye Semum)",
+      "bbox": null,
+      "confidence": 0.6130853891372681
+    },
+    {
+      "text": "LLOOD LREA",
+      "bbox": null,
+      "confidence": 0.6842395663261414
+    },
+    {
+      "text": "14.2",
+      "bbox": null,
+      "confidence": 0.9953214526176453
+    },
+    {
+      "text": "migpla!",
+      "bbox": null,
+      "confidence": 0.47242471575737
+    },
+    {
+      "text": "(15-48)",
+      "bbox": null,
+      "confidence": 0.7575093507766724
+    },
+    {
+      "text": "SERUMCREATINIE",
+      "bbox": null,
+      "confidence": 0.9168142676353455
+    },
+    {
+      "text": "0.23",
+      "bbox": null,
+      "confidence": 0.908409595489502
+    },
+    {
+      "text": "inigtal",
+      "bbox": null,
+      "confidence": 0.6798329949378967
+    },
+    {
+      "text": "(0.0=13)",
+      "bbox": null,
+      "confidence": 0.6324776411056519
+    },
+    {
+      "text": "Cee b",
+      "bbox": null,
+      "confidence": 0.4044436514377594
+    },
+    {
+      "text": "BERUMURECACO",
+      "bbox": null,
+      "confidence": 0.8465668559074402
+    },
+    {
+      "text": "35",
+      "bbox": null,
+      "confidence": 0.7638916969299316
+    },
+    {
+      "text": "mpid.",
+      "bbox": null,
+      "confidence": 0.6634242534637451
+    },
+    {
+      "text": "(2-es)",
+      "bbox": null,
+      "confidence": 0.8313788771629333
+    },
+    {
+      "text": "mCE",
+      "bbox": null,
+      "confidence": 0.5250014662742615
+    },
+    {
+      "text": "1,39.0",
+      "bbox": null,
+      "confidence": 0.8347640037536621
+    },
+    {
+      "text": "UL",
+      "bbox": null,
+      "confidence": 0.4727879762649536
+    },
+    {
+      "text": "(125-101)",
+      "bbox": null,
+      "confidence": 0.7598360776901245
+    },
+    {
+      "text": "SOOUM",
+      "bbox": null,
+      "confidence": 0.8561546206474304
+    },
+    {
+      "text": "4.0",
+      "bbox": null,
+      "confidence": 0.9572822451591492
+    },
+    {
+      "text": "mmuit",
+      "bbox": null,
+      "confidence": 0.5494200587272644
+    },
+    {
+      "text": "(a1-31)",
+      "bbox": null,
+      "confidence": 0.7700384855270386
+    },
+    {
+      "text": "POTASSUM",
+      "bbox": null,
+      "confidence": 0.9344927072525024
+    },
+    {
+      "text": "End ofPlaped",
+      "bbox": null,
+      "confidence": 0.6457443833351135
+    },
+    {
+      "text": "ye",
+      "bbox": null,
+      "confidence": 0.6411556601524353
+    },
+    {
+      "text": ". MUSENJA",
+      "bbox": null,
+      "confidence": 0.4401577115058899
+    },
+    {
+      "text": "UAO",
+      "bbox": null,
+      "confidence": 0.4330930709838867
+    },
+    {
+      "text": "0O",
+      "bbox": null,
+      "confidence": 0.2188694179058075
+    },
+    {
+      "text": "Welle tied Aenlyut",
+      "bbox": null,
+      "confidence": 0.4352509081363678
+    }
+  ]
+}

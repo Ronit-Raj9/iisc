@@ -1,0 +1,873 @@
+{
+  "text": "Babey of J\nUHID EU\nPatlent Namy\nAguTe4\nDOA1E\nConsultant:\nTadE\nmre\nNO.\nAle /5ne:\nHed No5\nMGNS CHART\nBlood\nDate\nTimy\nPressure\nTomp\nRlisp\nPulse\nSFOa\nConsclous\n34\nLauel\nsbe\n3An\nlacd\nSabbm\n150b/in\n967\n15\nAn\nn5o\n3ab\n1s11\nnC2\nLE\nIAmn\n4\n12205\n1o1\n96\n4\nliAm\nET\n35\n134\n-\n937\nH\n12Pm\nhay\n91\n199\n167\n4\nJ\nNah\n1D0F\n167\nL4\n2 pn\n4ad4\n1267n\n939\nv\n4\n125OLH\n12\nZru\n$\n4\nLEBb\nW463\nZECT\n666\n9\n13.59\n1209\nSr\n3m\n979%\n4\n4EM\n99\n29m\n129/01\npe\n976\n4\n-4\n$30$\\m$\nHp\n12870\n9390\n+\nBrom\n219f\n3041h\n122\nta\n99\nTET\napm\nS\n303/m\n125tm\n91/4\n1f\nC5\n1opm\n36kg\n130kym\n99%\nle\nnm\n.4\n326m\n1326\n98%\nT\nu1\n078n\nHs'A\nCub/m\n13061\n96%\n1l3\n11\nA3S\n11m\n301f\n131b\n497.\nn\n-\n20m\n4897\n294/\n12b/m\n97%\n$\n3Am\nR\n30m\n1276/m\n93%\n1\n1A\n5-37\nsub/m\n328b/m\n93t/\n\"1\n441-84\n40m\na\n32.6lm\n1300m\n987\n5Bm\n4t\n98:F\n37k/m\n93/\ni$\n£Rm\n1205i/m\n92\n304\n192blm\n987\nFom\n41",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 785,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Babey of J",
+      "bbox": null,
+      "confidence": 0.6571202874183655
+    },
+    {
+      "text": "UHID EU",
+      "bbox": null,
+      "confidence": 0.6428816914558411
+    },
+    {
+      "text": "Patlent Namy",
+      "bbox": null,
+      "confidence": 0.9489221572875977
+    },
+    {
+      "text": "AguTe4",
+      "bbox": null,
+      "confidence": 0.42400240898132324
+    },
+    {
+      "text": "DOA1E",
+      "bbox": null,
+      "confidence": 0.47071775794029236
+    },
+    {
+      "text": "Consultant:",
+      "bbox": null,
+      "confidence": 0.9791761636734009
+    },
+    {
+      "text": "TadE",
+      "bbox": null,
+      "confidence": 0.4174330532550812
+    },
+    {
+      "text": "mre",
+      "bbox": null,
+      "confidence": 0.6795006394386292
+    },
+    {
+      "text": "NO.",
+      "bbox": null,
+      "confidence": 0.8286798596382141
+    },
+    {
+      "text": "Ale /5ne:",
+      "bbox": null,
+      "confidence": 0.4752770960330963
+    },
+    {
+      "text": "Hed No5",
+      "bbox": null,
+      "confidence": 0.6761592030525208
+    },
+    {
+      "text": "MGNS CHART",
+      "bbox": null,
+      "confidence": 0.9525831341743469
+    },
+    {
+      "text": "Blood",
+      "bbox": null,
+      "confidence": 0.8329387903213501
+    },
+    {
+      "text": "Date",
+      "bbox": null,
+      "confidence": 0.9788180589675903
+    },
+    {
+      "text": "Timy",
+      "bbox": null,
+      "confidence": 0.8042886853218079
+    },
+    {
+      "text": "Pressure",
+      "bbox": null,
+      "confidence": 0.9645512104034424
+    },
+    {
+      "text": "Tomp",
+      "bbox": null,
+      "confidence": 0.7650565505027771
+    },
+    {
+      "text": "Rlisp",
+      "bbox": null,
+      "confidence": 0.9094549417495728
+    },
+    {
+      "text": "Pulse",
+      "bbox": null,
+      "confidence": 0.8181685209274292
+    },
+    {
+      "text": "SFOa",
+      "bbox": null,
+      "confidence": 0.46886083483695984
+    },
+    {
+      "text": "Consclous",
+      "bbox": null,
+      "confidence": 0.821498453617096
+    },
+    {
+      "text": "34",
+      "bbox": null,
+      "confidence": 0.3215866684913635
+    },
+    {
+      "text": "Lauel",
+      "bbox": null,
+      "confidence": 0.7506639361381531
+    },
+    {
+      "text": "sbe",
+      "bbox": null,
+      "confidence": 0.8796892166137695
+    },
+    {
+      "text": "3An",
+      "bbox": null,
+      "confidence": 0.5239261984825134
+    },
+    {
+      "text": "lacd",
+      "bbox": null,
+      "confidence": 0.7575901746749878
+    },
+    {
+      "text": "Sabbm",
+      "bbox": null,
+      "confidence": 0.49600449204444885
+    },
+    {
+      "text": "150b/in",
+      "bbox": null,
+      "confidence": 0.6239250302314758
+    },
+    {
+      "text": "967",
+      "bbox": null,
+      "confidence": 0.9265962243080139
+    },
+    {
+      "text": "15",
+      "bbox": null,
+      "confidence": 0.5795257687568665
+    },
+    {
+      "text": "An",
+      "bbox": null,
+      "confidence": 0.8478674292564392
+    },
+    {
+      "text": "n5o",
+      "bbox": null,
+      "confidence": 0.30361515283584595
+    },
+    {
+      "text": "3ab",
+      "bbox": null,
+      "confidence": 0.8751869797706604
+    },
+    {
+      "text": "1s11",
+      "bbox": null,
+      "confidence": 0.5742738246917725
+    },
+    {
+      "text": "nC2",
+      "bbox": null,
+      "confidence": 0.40164947509765625
+    },
+    {
+      "text": "LE",
+      "bbox": null,
+      "confidence": 0.6302101016044617
+    },
+    {
+      "text": "IAmn",
+      "bbox": null,
+      "confidence": 0.2946428656578064
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.25630781054496765
+    },
+    {
+      "text": "12205",
+      "bbox": null,
+      "confidence": 0.5783650279045105
+    },
+    {
+      "text": "1o1",
+      "bbox": null,
+      "confidence": 0.3336475193500519
+    },
+    {
+      "text": "96",
+      "bbox": null,
+      "confidence": 0.7245018482208252
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.25568535923957825
+    },
+    {
+      "text": "liAm",
+      "bbox": null,
+      "confidence": 0.615223228931427
+    },
+    {
+      "text": "ET",
+      "bbox": null,
+      "confidence": 0.20279043912887573
+    },
+    {
+      "text": "35",
+      "bbox": null,
+      "confidence": 0.6012586355209351
+    },
+    {
+      "text": "134",
+      "bbox": null,
+      "confidence": 0.6318807005882263
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.1949981302022934
+    },
+    {
+      "text": "937",
+      "bbox": null,
+      "confidence": 0.5806449055671692
+    },
+    {
+      "text": "H",
+      "bbox": null,
+      "confidence": 0.09721668064594269
+    },
+    {
+      "text": "12Pm",
+      "bbox": null,
+      "confidence": 0.8496074676513672
+    },
+    {
+      "text": "hay",
+      "bbox": null,
+      "confidence": 0.3985433578491211
+    },
+    {
+      "text": "91",
+      "bbox": null,
+      "confidence": 0.7493318319320679
+    },
+    {
+      "text": "199",
+      "bbox": null,
+      "confidence": 0.4252985417842865
+    },
+    {
+      "text": "167",
+      "bbox": null,
+      "confidence": 0.6810868382453918
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.8307834267616272
+    },
+    {
+      "text": "J",
+      "bbox": null,
+      "confidence": 0.31571072340011597
+    },
+    {
+      "text": "Nah",
+      "bbox": null,
+      "confidence": 0.4700109660625458
+    },
+    {
+      "text": "1D0F",
+      "bbox": null,
+      "confidence": 0.4562200605869293
+    },
+    {
+      "text": "167",
+      "bbox": null,
+      "confidence": 0.7593915462493896
+    },
+    {
+      "text": "L4",
+      "bbox": null,
+      "confidence": 0.6655116081237793
+    },
+    {
+      "text": "2 pn",
+      "bbox": null,
+      "confidence": 0.5944210290908813
+    },
+    {
+      "text": "4ad4",
+      "bbox": null,
+      "confidence": 0.42699986696243286
+    },
+    {
+      "text": "1267n",
+      "bbox": null,
+      "confidence": 0.8459718823432922
+    },
+    {
+      "text": "939",
+      "bbox": null,
+      "confidence": 0.6044599413871765
+    },
+    {
+      "text": "v",
+      "bbox": null,
+      "confidence": 0.4306754171848297
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.193426713347435
+    },
+    {
+      "text": "125OLH",
+      "bbox": null,
+      "confidence": 0.3661769926548004
+    },
+    {
+      "text": "12",
+      "bbox": null,
+      "confidence": 0.4865514039993286
+    },
+    {
+      "text": "Zru",
+      "bbox": null,
+      "confidence": 0.39942970871925354
+    },
+    {
+      "text": "$",
+      "bbox": null,
+      "confidence": 0.5613974332809448
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.26388686895370483
+    },
+    {
+      "text": "LEBb",
+      "bbox": null,
+      "confidence": 0.6944465637207031
+    },
+    {
+      "text": "W463",
+      "bbox": null,
+      "confidence": 0.6749709844589233
+    },
+    {
+      "text": "ZECT",
+      "bbox": null,
+      "confidence": 0.6576932072639465
+    },
+    {
+      "text": "666",
+      "bbox": null,
+      "confidence": 0.7028077244758606
+    },
+    {
+      "text": "9",
+      "bbox": null,
+      "confidence": 0.14081664383411407
+    },
+    {
+      "text": "13.59",
+      "bbox": null,
+      "confidence": 0.5520211458206177
+    },
+    {
+      "text": "1209",
+      "bbox": null,
+      "confidence": 0.8782367706298828
+    },
+    {
+      "text": "Sr",
+      "bbox": null,
+      "confidence": 0.6411967277526855
+    },
+    {
+      "text": "3m",
+      "bbox": null,
+      "confidence": 0.39681777358055115
+    },
+    {
+      "text": "979%",
+      "bbox": null,
+      "confidence": 0.7517502307891846
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.3916359543800354
+    },
+    {
+      "text": "4EM",
+      "bbox": null,
+      "confidence": 0.3317153751850128
+    },
+    {
+      "text": "99",
+      "bbox": null,
+      "confidence": 0.708655595779419
+    },
+    {
+      "text": "29m",
+      "bbox": null,
+      "confidence": 0.7306771278381348
+    },
+    {
+      "text": "129/01",
+      "bbox": null,
+      "confidence": 0.7188817858695984
+    },
+    {
+      "text": "pe",
+      "bbox": null,
+      "confidence": 0.34856876730918884
+    },
+    {
+      "text": "976",
+      "bbox": null,
+      "confidence": 0.8855153918266296
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.4316527247428894
+    },
+    {
+      "text": "-4",
+      "bbox": null,
+      "confidence": 0.46625077724456787
+    },
+    {
+      "text": "$30$\\m$",
+      "bbox": null,
+      "confidence": 0.6493439674377441
+    },
+    {
+      "text": "Hp",
+      "bbox": null,
+      "confidence": 0.6327769160270691
+    },
+    {
+      "text": "12870",
+      "bbox": null,
+      "confidence": 0.6012473702430725
+    },
+    {
+      "text": "9390",
+      "bbox": null,
+      "confidence": 0.864810585975647
+    },
+    {
+      "text": "+",
+      "bbox": null,
+      "confidence": 0.20640410482883453
+    },
+    {
+      "text": "Brom",
+      "bbox": null,
+      "confidence": 0.4876477122306824
+    },
+    {
+      "text": "219f",
+      "bbox": null,
+      "confidence": 0.4978761672973633
+    },
+    {
+      "text": "3041h",
+      "bbox": null,
+      "confidence": 0.7578474879264832
+    },
+    {
+      "text": "122",
+      "bbox": null,
+      "confidence": 0.746692419052124
+    },
+    {
+      "text": "ta",
+      "bbox": null,
+      "confidence": 0.2990228831768036
+    },
+    {
+      "text": "99",
+      "bbox": null,
+      "confidence": 0.4714074730873108
+    },
+    {
+      "text": "TET",
+      "bbox": null,
+      "confidence": 0.7731818556785583
+    },
+    {
+      "text": "apm",
+      "bbox": null,
+      "confidence": 0.5805959701538086
+    },
+    {
+      "text": "S",
+      "bbox": null,
+      "confidence": 0.15818385779857635
+    },
+    {
+      "text": "303/m",
+      "bbox": null,
+      "confidence": 0.5267903208732605
+    },
+    {
+      "text": "125tm",
+      "bbox": null,
+      "confidence": 0.7661111950874329
+    },
+    {
+      "text": "91/4",
+      "bbox": null,
+      "confidence": 0.7141499519348145
+    },
+    {
+      "text": "1f",
+      "bbox": null,
+      "confidence": 0.4952049255371094
+    },
+    {
+      "text": "C5",
+      "bbox": null,
+      "confidence": 0.1758245825767517
+    },
+    {
+      "text": "1opm",
+      "bbox": null,
+      "confidence": 0.6356799602508545
+    },
+    {
+      "text": "36kg",
+      "bbox": null,
+      "confidence": 0.5748893618583679
+    },
+    {
+      "text": "130kym",
+      "bbox": null,
+      "confidence": 0.8515140414237976
+    },
+    {
+      "text": "99%",
+      "bbox": null,
+      "confidence": 0.906560480594635
+    },
+    {
+      "text": "le",
+      "bbox": null,
+      "confidence": 0.50203937292099
+    },
+    {
+      "text": "nm",
+      "bbox": null,
+      "confidence": 0.4416160583496094
+    },
+    {
+      "text": ".4",
+      "bbox": null,
+      "confidence": 0.7114834189414978
+    },
+    {
+      "text": "326m",
+      "bbox": null,
+      "confidence": 0.7690392136573792
+    },
+    {
+      "text": "1326",
+      "bbox": null,
+      "confidence": 0.8659385442733765
+    },
+    {
+      "text": "98%",
+      "bbox": null,
+      "confidence": 0.9649495482444763
+    },
+    {
+      "text": "T",
+      "bbox": null,
+      "confidence": 0.26326093077659607
+    },
+    {
+      "text": "u1",
+      "bbox": null,
+      "confidence": 0.2688944339752197
+    },
+    {
+      "text": "078n",
+      "bbox": null,
+      "confidence": 0.604354739189148
+    },
+    {
+      "text": "Hs'A",
+      "bbox": null,
+      "confidence": 0.3357884883880615
+    },
+    {
+      "text": "Cub/m",
+      "bbox": null,
+      "confidence": 0.580848753452301
+    },
+    {
+      "text": "13061",
+      "bbox": null,
+      "confidence": 0.6258995532989502
+    },
+    {
+      "text": "96%",
+      "bbox": null,
+      "confidence": 0.9247749447822571
+    },
+    {
+      "text": "1l3",
+      "bbox": null,
+      "confidence": 0.5574759244918823
+    },
+    {
+      "text": "11",
+      "bbox": null,
+      "confidence": 0.5752493739128113
+    },
+    {
+      "text": "A3S",
+      "bbox": null,
+      "confidence": 0.34103336930274963
+    },
+    {
+      "text": "11m",
+      "bbox": null,
+      "confidence": 0.7213128209114075
+    },
+    {
+      "text": "301f",
+      "bbox": null,
+      "confidence": 0.72609943151474
+    },
+    {
+      "text": "131b",
+      "bbox": null,
+      "confidence": 0.7331302165985107
+    },
+    {
+      "text": "497.",
+      "bbox": null,
+      "confidence": 0.6765658855438232
+    },
+    {
+      "text": "n",
+      "bbox": null,
+      "confidence": 0.9607647657394409
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.7351823449134827
+    },
+    {
+      "text": "20m",
+      "bbox": null,
+      "confidence": 0.8352605700492859
+    },
+    {
+      "text": "4897",
+      "bbox": null,
+      "confidence": 0.7865902185440063
+    },
+    {
+      "text": "294/",
+      "bbox": null,
+      "confidence": 0.7097175121307373
+    },
+    {
+      "text": "12b/m",
+      "bbox": null,
+      "confidence": 0.885633647441864
+    },
+    {
+      "text": "97%",
+      "bbox": null,
+      "confidence": 0.6462655067443848
+    },
+    {
+      "text": "$",
+      "bbox": null,
+      "confidence": 0.2911502718925476
+    },
+    {
+      "text": "3Am",
+      "bbox": null,
+      "confidence": 0.845674991607666
+    },
+    {
+      "text": "R",
+      "bbox": null,
+      "confidence": 0.6833841800689697
+    },
+    {
+      "text": "30m",
+      "bbox": null,
+      "confidence": 0.7071983218193054
+    },
+    {
+      "text": "1276/m",
+      "bbox": null,
+      "confidence": 0.7911460399627686
+    },
+    {
+      "text": "93%",
+      "bbox": null,
+      "confidence": 0.8343486189842224
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.41640010476112366
+    },
+    {
+      "text": "1A",
+      "bbox": null,
+      "confidence": 0.6207706928253174
+    },
+    {
+      "text": "5-37",
+      "bbox": null,
+      "confidence": 0.49813297390937805
+    },
+    {
+      "text": "sub/m",
+      "bbox": null,
+      "confidence": 0.6989277005195618
+    },
+    {
+      "text": "328b/m",
+      "bbox": null,
+      "confidence": 0.8933064937591553
+    },
+    {
+      "text": "93t/",
+      "bbox": null,
+      "confidence": 0.5663070678710938
+    },
+    {
+      "text": "\"1",
+      "bbox": null,
+      "confidence": 0.6805940866470337
+    },
+    {
+      "text": "441-84",
+      "bbox": null,
+      "confidence": 0.8322320580482483
+    },
+    {
+      "text": "40m",
+      "bbox": null,
+      "confidence": 0.7040176391601562
+    },
+    {
+      "text": "a",
+      "bbox": null,
+      "confidence": 0.4369918406009674
+    },
+    {
+      "text": "32.6lm",
+      "bbox": null,
+      "confidence": 0.7665586471557617
+    },
+    {
+      "text": "1300m",
+      "bbox": null,
+      "confidence": 0.68891441822052
+    },
+    {
+      "text": "987",
+      "bbox": null,
+      "confidence": 0.9083919525146484
+    },
+    {
+      "text": "5Bm",
+      "bbox": null,
+      "confidence": 0.6191279292106628
+    },
+    {
+      "text": "4t",
+      "bbox": null,
+      "confidence": 0.5702399015426636
+    },
+    {
+      "text": "98:F",
+      "bbox": null,
+      "confidence": 0.7726275324821472
+    },
+    {
+      "text": "37k/m",
+      "bbox": null,
+      "confidence": 0.754573404788971
+    },
+    {
+      "text": "93/",
+      "bbox": null,
+      "confidence": 0.6165686845779419
+    },
+    {
+      "text": "i$",
+      "bbox": null,
+      "confidence": 0.42632004618644714
+    },
+    {
+      "text": "£Rm",
+      "bbox": null,
+      "confidence": 0.3470287024974823
+    },
+    {
+      "text": "1205i/m",
+      "bbox": null,
+      "confidence": 0.6659368276596069
+    },
+    {
+      "text": "92",
+      "bbox": null,
+      "confidence": 0.4919666647911072
+    },
+    {
+      "text": "304",
+      "bbox": null,
+      "confidence": 0.8434524536132812
+    },
+    {
+      "text": "192blm",
+      "bbox": null,
+      "confidence": 0.8708032965660095
+    },
+    {
+      "text": "987",
+      "bbox": null,
+      "confidence": 0.794445276260376
+    },
+    {
+      "text": "Fom",
+      "bbox": null,
+      "confidence": 0.5988325476646423
+    },
+    {
+      "text": "41",
+      "bbox": null,
+      "confidence": 0.4410671889781952
+    }
+  ]
+}

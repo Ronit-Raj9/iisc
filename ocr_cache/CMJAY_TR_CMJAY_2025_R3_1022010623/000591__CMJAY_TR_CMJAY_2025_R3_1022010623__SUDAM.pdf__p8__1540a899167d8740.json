@@ -1,0 +1,113 @@
+{
+  "text": "23\nfne\n6\nPan.\na\nLn pun tuhn\n29220\nco b\nAxn\n1W\nU\n7\nBD\nQ\nInpom\nD2-62\nLoy pen\nE\nloh\nIvin\nP",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 87,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "23",
+      "bbox": null,
+      "confidence": 0.9995405673980713
+    },
+    {
+      "text": "fne",
+      "bbox": null,
+      "confidence": 0.47973307967185974
+    },
+    {
+      "text": "6",
+      "bbox": null,
+      "confidence": 0.17280374467372894
+    },
+    {
+      "text": "Pan.",
+      "bbox": null,
+      "confidence": 0.7162743210792542
+    },
+    {
+      "text": "a",
+      "bbox": null,
+      "confidence": 0.38361915946006775
+    },
+    {
+      "text": "Ln pun tuhn",
+      "bbox": null,
+      "confidence": 0.5143679976463318
+    },
+    {
+      "text": "29220",
+      "bbox": null,
+      "confidence": 0.7028933763504028
+    },
+    {
+      "text": "co b",
+      "bbox": null,
+      "confidence": 0.6557255983352661
+    },
+    {
+      "text": "Axn",
+      "bbox": null,
+      "confidence": 0.6902416348457336
+    },
+    {
+      "text": "1W",
+      "bbox": null,
+      "confidence": 0.45565593242645264
+    },
+    {
+      "text": "U",
+      "bbox": null,
+      "confidence": 0.443927139043808
+    },
+    {
+      "text": "7",
+      "bbox": null,
+      "confidence": 0.2825236916542053
+    },
+    {
+      "text": "BD",
+      "bbox": null,
+      "confidence": 0.9026432633399963
+    },
+    {
+      "text": "Q",
+      "bbox": null,
+      "confidence": 0.47908034920692444
+    },
+    {
+      "text": "Inpom",
+      "bbox": null,
+      "confidence": 0.5100794434547424
+    },
+    {
+      "text": "D2-62",
+      "bbox": null,
+      "confidence": 0.6592153310775757
+    },
+    {
+      "text": "Loy pen",
+      "bbox": null,
+      "confidence": 0.5714958906173706
+    },
+    {
+      "text": "E",
+      "bbox": null,
+      "confidence": 0.3644781708717346
+    },
+    {
+      "text": "loh",
+      "bbox": null,
+      "confidence": 0.44894662499427795
+    },
+    {
+      "text": "Ivin",
+      "bbox": null,
+      "confidence": 0.4958482086658478
+    },
+    {
+      "text": "P",
+      "bbox": null,
+      "confidence": 0.9376141428947449
+    }
+  ]
+}

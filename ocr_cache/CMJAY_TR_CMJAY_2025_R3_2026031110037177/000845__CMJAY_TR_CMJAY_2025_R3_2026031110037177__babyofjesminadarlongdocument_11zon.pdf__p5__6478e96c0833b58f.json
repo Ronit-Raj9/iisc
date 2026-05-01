@@ -1,0 +1,393 @@
+{
+  "text": "Trug H\n1752414326\nNEBO NS\n(C)\nRoute\nT5\nDas\nMse pa\n31\nBr\nTima\n14\nschae\n2h\n401\nTime\nDs\n1E72\n11324\n2\nFILRASRPNAUKCSPOU\nDat\nN0O\nHauts\n106\nLT\nWU\n3t\n*\nDe& Tile\ntr 5\n21\n2A\nUDY\nLE\nCrugHema\nS\nE17\nUste\nTiime\n117\nDerA Tate\nD.1\n83\nE\n2\nOrug Yame:\nCapi\nfaute\nRote\nTume\nM\nDe ATh\nB ign\n22\n34\nDrug Neme\n—\n2ot\nTime\n1\nDr Sign\nu1\nThate a The\nED\nDrug Neve\nEa\nRoute\nDon\nLE\nTiml\n1\n18\nDoir A THtc\nDr.Sign\n22\n24",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 386,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Trug H",
+      "bbox": null,
+      "confidence": 0.5028795599937439
+    },
+    {
+      "text": "1752414326",
+      "bbox": null,
+      "confidence": 0.6260966062545776
+    },
+    {
+      "text": "NEBO NS",
+      "bbox": null,
+      "confidence": 0.7412859797477722
+    },
+    {
+      "text": "(C)",
+      "bbox": null,
+      "confidence": 0.5761058926582336
+    },
+    {
+      "text": "Route",
+      "bbox": null,
+      "confidence": 0.8261055946350098
+    },
+    {
+      "text": "T5",
+      "bbox": null,
+      "confidence": 0.49416106939315796
+    },
+    {
+      "text": "Das",
+      "bbox": null,
+      "confidence": 0.479438453912735
+    },
+    {
+      "text": "Mse pa",
+      "bbox": null,
+      "confidence": 0.6817817091941833
+    },
+    {
+      "text": "31",
+      "bbox": null,
+      "confidence": 0.4500719904899597
+    },
+    {
+      "text": "Br",
+      "bbox": null,
+      "confidence": 0.5245764255523682
+    },
+    {
+      "text": "Tima",
+      "bbox": null,
+      "confidence": 0.8092409372329712
+    },
+    {
+      "text": "14",
+      "bbox": null,
+      "confidence": 0.9152361750602722
+    },
+    {
+      "text": "schae",
+      "bbox": null,
+      "confidence": 0.5717284083366394
+    },
+    {
+      "text": "2h",
+      "bbox": null,
+      "confidence": 0.905987024307251
+    },
+    {
+      "text": "401",
+      "bbox": null,
+      "confidence": 0.4679100513458252
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9498586654663086
+    },
+    {
+      "text": "Ds",
+      "bbox": null,
+      "confidence": 0.23669081926345825
+    },
+    {
+      "text": "1E72",
+      "bbox": null,
+      "confidence": 0.6729373335838318
+    },
+    {
+      "text": "11324",
+      "bbox": null,
+      "confidence": 0.6250479221343994
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.668222963809967
+    },
+    {
+      "text": "FILRASRPNAUKCSPOU",
+      "bbox": null,
+      "confidence": 0.4847557544708252
+    },
+    {
+      "text": "Dat",
+      "bbox": null,
+      "confidence": 0.4090235233306885
+    },
+    {
+      "text": "N0O",
+      "bbox": null,
+      "confidence": 0.5263366103172302
+    },
+    {
+      "text": "Hauts",
+      "bbox": null,
+      "confidence": 0.5565163493156433
+    },
+    {
+      "text": "106",
+      "bbox": null,
+      "confidence": 0.24882793426513672
+    },
+    {
+      "text": "LT",
+      "bbox": null,
+      "confidence": 0.4551546573638916
+    },
+    {
+      "text": "WU",
+      "bbox": null,
+      "confidence": 0.5426837205886841
+    },
+    {
+      "text": "3t",
+      "bbox": null,
+      "confidence": 0.5311132669448853
+    },
+    {
+      "text": "*",
+      "bbox": null,
+      "confidence": 0.2203279286623001
+    },
+    {
+      "text": "De& Tile",
+      "bbox": null,
+      "confidence": 0.695682168006897
+    },
+    {
+      "text": "tr 5",
+      "bbox": null,
+      "confidence": 0.43844467401504517
+    },
+    {
+      "text": "21",
+      "bbox": null,
+      "confidence": 0.701583981513977
+    },
+    {
+      "text": "2A",
+      "bbox": null,
+      "confidence": 0.5440106987953186
+    },
+    {
+      "text": "UDY",
+      "bbox": null,
+      "confidence": 0.2528373897075653
+    },
+    {
+      "text": "LE",
+      "bbox": null,
+      "confidence": 0.6552643775939941
+    },
+    {
+      "text": "CrugHema",
+      "bbox": null,
+      "confidence": 0.6182965636253357
+    },
+    {
+      "text": "S",
+      "bbox": null,
+      "confidence": 0.18781642615795135
+    },
+    {
+      "text": "E17",
+      "bbox": null,
+      "confidence": 0.5072981715202332
+    },
+    {
+      "text": "Uste",
+      "bbox": null,
+      "confidence": 0.3582299053668976
+    },
+    {
+      "text": "Tiime",
+      "bbox": null,
+      "confidence": 0.7069369554519653
+    },
+    {
+      "text": "117",
+      "bbox": null,
+      "confidence": 0.2322089821100235
+    },
+    {
+      "text": "DerA Tate",
+      "bbox": null,
+      "confidence": 0.612866222858429
+    },
+    {
+      "text": "D.1",
+      "bbox": null,
+      "confidence": 0.4178372919559479
+    },
+    {
+      "text": "83",
+      "bbox": null,
+      "confidence": 0.32622891664505005
+    },
+    {
+      "text": "E",
+      "bbox": null,
+      "confidence": 0.3868642747402191
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.3446241021156311
+    },
+    {
+      "text": "Orug Yame:",
+      "bbox": null,
+      "confidence": 0.6806193590164185
+    },
+    {
+      "text": "Capi",
+      "bbox": null,
+      "confidence": 0.4126904308795929
+    },
+    {
+      "text": "faute",
+      "bbox": null,
+      "confidence": 0.733925998210907
+    },
+    {
+      "text": "Rote",
+      "bbox": null,
+      "confidence": 0.5642687082290649
+    },
+    {
+      "text": "Tume",
+      "bbox": null,
+      "confidence": 0.7387254238128662
+    },
+    {
+      "text": "M",
+      "bbox": null,
+      "confidence": 0.7809837460517883
+    },
+    {
+      "text": "De ATh",
+      "bbox": null,
+      "confidence": 0.5663549304008484
+    },
+    {
+      "text": "B ign",
+      "bbox": null,
+      "confidence": 0.5893638134002686
+    },
+    {
+      "text": "22",
+      "bbox": null,
+      "confidence": 0.6836985349655151
+    },
+    {
+      "text": "34",
+      "bbox": null,
+      "confidence": 0.805729866027832
+    },
+    {
+      "text": "Drug Neme",
+      "bbox": null,
+      "confidence": 0.8342537879943848
+    },
+    {
+      "text": "—",
+      "bbox": null,
+      "confidence": 0.45214757323265076
+    },
+    {
+      "text": "2ot",
+      "bbox": null,
+      "confidence": 0.3031805753707886
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9397037625312805
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.36304304003715515
+    },
+    {
+      "text": "Dr Sign",
+      "bbox": null,
+      "confidence": 0.8308500647544861
+    },
+    {
+      "text": "u1",
+      "bbox": null,
+      "confidence": 0.47481071949005127
+    },
+    {
+      "text": "Thate a The",
+      "bbox": null,
+      "confidence": 0.7512772083282471
+    },
+    {
+      "text": "ED",
+      "bbox": null,
+      "confidence": 0.4835623800754547
+    },
+    {
+      "text": "Drug Neve",
+      "bbox": null,
+      "confidence": 0.8466097712516785
+    },
+    {
+      "text": "Ea",
+      "bbox": null,
+      "confidence": 0.3381726145744324
+    },
+    {
+      "text": "Route",
+      "bbox": null,
+      "confidence": 0.9062792658805847
+    },
+    {
+      "text": "Don",
+      "bbox": null,
+      "confidence": 0.7234775424003601
+    },
+    {
+      "text": "LE",
+      "bbox": null,
+      "confidence": 0.4759848713874817
+    },
+    {
+      "text": "Timl",
+      "bbox": null,
+      "confidence": 0.8346575498580933
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.9815261363983154
+    },
+    {
+      "text": "18",
+      "bbox": null,
+      "confidence": 0.5624246597290039
+    },
+    {
+      "text": "Doir A THtc",
+      "bbox": null,
+      "confidence": 0.6733116507530212
+    },
+    {
+      "text": "Dr.Sign",
+      "bbox": null,
+      "confidence": 0.9049712419509888
+    },
+    {
+      "text": "22",
+      "bbox": null,
+      "confidence": 0.9947855472564697
+    },
+    {
+      "text": "24",
+      "bbox": null,
+      "confidence": 0.9975265264511108
+    }
+  ]
+}

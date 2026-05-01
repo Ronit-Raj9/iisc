@@ -1,0 +1,158 @@
+{
+  "text": "MMRDY FON\neationt Name:\nIP NO.:\nDrept./Unit:\nAgE\nStee\nHad o\nor Nom\nFIOSESWESRERD\nCCA0NONE\nTDTC1SO\nEVALUATION/OUTCOME\np) has -fever E\n) to improved\naysess the baby healt\n) pd is an -treadment\ninitable reladed\np4.condition\ncondifion.\nto disease condifid\nprital sigin chacked d\nrecosded.\noll medication given\nas per arn aduiead.\n5to chand maidain\nSchaek temp\nDOFOR8 sof\neied.\nW01413N\nScanned with OMEN Scanner",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 406,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "MMRDY FON",
+      "bbox": null,
+      "confidence": 0.45805951952934265
+    },
+    {
+      "text": "eationt Name:",
+      "bbox": null,
+      "confidence": 0.7978381514549255
+    },
+    {
+      "text": "IP NO.:",
+      "bbox": null,
+      "confidence": 0.8635596036911011
+    },
+    {
+      "text": "Drept./Unit:",
+      "bbox": null,
+      "confidence": 0.9041110873222351
+    },
+    {
+      "text": "AgE",
+      "bbox": null,
+      "confidence": 0.5962433218955994
+    },
+    {
+      "text": "Stee",
+      "bbox": null,
+      "confidence": 0.66478031873703
+    },
+    {
+      "text": "Had o",
+      "bbox": null,
+      "confidence": 0.39854884147644043
+    },
+    {
+      "text": "or Nom",
+      "bbox": null,
+      "confidence": 0.4401679039001465
+    },
+    {
+      "text": "FIOSESWESRERD",
+      "bbox": null,
+      "confidence": 0.3971455991268158
+    },
+    {
+      "text": "CCA0NONE",
+      "bbox": null,
+      "confidence": 0.4364846348762512
+    },
+    {
+      "text": "TDTC1SO",
+      "bbox": null,
+      "confidence": 0.24316830933094025
+    },
+    {
+      "text": "EVALUATION/OUTCOME",
+      "bbox": null,
+      "confidence": 0.9707351326942444
+    },
+    {
+      "text": "p) has -fever E",
+      "bbox": null,
+      "confidence": 0.8308130502700806
+    },
+    {
+      "text": ") to improved",
+      "bbox": null,
+      "confidence": 0.9239086508750916
+    },
+    {
+      "text": "aysess the baby healt",
+      "bbox": null,
+      "confidence": 0.7890158891677856
+    },
+    {
+      "text": ") pd is an -treadment",
+      "bbox": null,
+      "confidence": 0.7481930255889893
+    },
+    {
+      "text": "initable reladed",
+      "bbox": null,
+      "confidence": 0.8776348829269409
+    },
+    {
+      "text": "p4.condition",
+      "bbox": null,
+      "confidence": 0.8943211436271667
+    },
+    {
+      "text": "condifion.",
+      "bbox": null,
+      "confidence": 0.8671299815177917
+    },
+    {
+      "text": "to disease condifid",
+      "bbox": null,
+      "confidence": 0.8882012367248535
+    },
+    {
+      "text": "prital sigin chacked d",
+      "bbox": null,
+      "confidence": 0.7399437427520752
+    },
+    {
+      "text": "recosded.",
+      "bbox": null,
+      "confidence": 0.7899564504623413
+    },
+    {
+      "text": "oll medication given",
+      "bbox": null,
+      "confidence": 0.9345119595527649
+    },
+    {
+      "text": "as per arn aduiead.",
+      "bbox": null,
+      "confidence": 0.7103844285011292
+    },
+    {
+      "text": "5to chand maidain",
+      "bbox": null,
+      "confidence": 0.7679886817932129
+    },
+    {
+      "text": "Schaek temp",
+      "bbox": null,
+      "confidence": 0.8701057434082031
+    },
+    {
+      "text": "DOFOR8 sof",
+      "bbox": null,
+      "confidence": 0.7753921747207642
+    },
+    {
+      "text": "eied.",
+      "bbox": null,
+      "confidence": 0.8016313314437866
+    },
+    {
+      "text": "W01413N",
+      "bbox": null,
+      "confidence": 0.4082367420196533
+    },
+    {
+      "text": "Scanned with OMEN Scanner",
+      "bbox": null,
+      "confidence": 0.9244211316108704
+    }
+  ]
+}

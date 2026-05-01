@@ -1,0 +1,113 @@
+{
+  "text": ". MLRTL ontome fwo\nPatient Afebile .\nGyoptonati hitt Cngh ath\neectoration\nAppetite - far\nWaal engotin .seilyi lay\nmtonip hoo.\nVertigs  hi lanly monig\nNme. No. Uoill.N. psoe y\nLose slodl.\nChst- B/ Ceqt  (ocilly)\nscollud\nP/r Soft, Tendenen  aeunblci\nCNSPWNL\nevs\nPR -86/ni.\n172/88ntt\n91%RA\nR4. ND otrnin. Dnps i bit n\n1O\nConbne vt sane medcatü",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 340,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": ". MLRTL ontome fwo",
+      "bbox": null,
+      "confidence": 0.5258541107177734
+    },
+    {
+      "text": "Patient Afebile .",
+      "bbox": null,
+      "confidence": 0.8764148950576782
+    },
+    {
+      "text": "Gyoptonati hitt Cngh ath",
+      "bbox": null,
+      "confidence": 0.6445233821868896
+    },
+    {
+      "text": "eectoration",
+      "bbox": null,
+      "confidence": 0.7405540943145752
+    },
+    {
+      "text": "Appetite - far",
+      "bbox": null,
+      "confidence": 0.7524078488349915
+    },
+    {
+      "text": "Waal engotin .seilyi lay",
+      "bbox": null,
+      "confidence": 0.5878161191940308
+    },
+    {
+      "text": "mtonip hoo.",
+      "bbox": null,
+      "confidence": 0.7515947222709656
+    },
+    {
+      "text": "Vertigs  hi lanly monig",
+      "bbox": null,
+      "confidence": 0.6858354806900024
+    },
+    {
+      "text": "Nme. No. Uoill.N. psoe y",
+      "bbox": null,
+      "confidence": 0.5360075831413269
+    },
+    {
+      "text": "Lose slodl.",
+      "bbox": null,
+      "confidence": 0.6895728707313538
+    },
+    {
+      "text": "Chst- B/ Ceqt  (ocilly)",
+      "bbox": null,
+      "confidence": 0.6531713604927063
+    },
+    {
+      "text": "scollud",
+      "bbox": null,
+      "confidence": 0.735258936882019
+    },
+    {
+      "text": "P/r Soft, Tendenen  aeunblci",
+      "bbox": null,
+      "confidence": 0.5544167757034302
+    },
+    {
+      "text": "CNSPWNL",
+      "bbox": null,
+      "confidence": 0.8058500289916992
+    },
+    {
+      "text": "evs",
+      "bbox": null,
+      "confidence": 0.8927153944969177
+    },
+    {
+      "text": "PR -86/ni.",
+      "bbox": null,
+      "confidence": 0.7406803965568542
+    },
+    {
+      "text": "172/88ntt",
+      "bbox": null,
+      "confidence": 0.778480052947998
+    },
+    {
+      "text": "91%RA",
+      "bbox": null,
+      "confidence": 0.7774742841720581
+    },
+    {
+      "text": "R4. ND otrnin. Dnps i bit n",
+      "bbox": null,
+      "confidence": 0.551179051399231
+    },
+    {
+      "text": "1O",
+      "bbox": null,
+      "confidence": 0.39847230911254883
+    },
+    {
+      "text": "Conbne vt sane medcatü",
+      "bbox": null,
+      "confidence": 0.6170275211334229
+    }
+  ]
+}

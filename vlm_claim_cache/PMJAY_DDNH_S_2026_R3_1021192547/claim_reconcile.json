@@ -1,0 +1,25 @@
+{
+  "suggested_timeline_flags": [
+    "pre_date_matches_discharge_date",
+    "investigation_dates_consistent",
+    "discharge_date_within_reasonable_length_of_stay"
+  ],
+  "manual_review_notes": [
+    "Multiple case sheets present, review for consistency in details (diagnosis, treatment).",
+    "Clinical notes contain repetitive text blocks, verify clinical relevance.",
+    "Urine analysis and malaria parasite investigation reports are present, confirm alignment with clinical notes.",
+    "FEDD document indicates patient returned home after recovery, cross-reference with discharge summary."
+  ],
+  "duplicate_upload_groups": [
+    [
+      "000173__PMJAY_DDNH_S_2026_R3_1021192547__CASE_SHEET.pdf",
+      "000174__PMJAY_DDNH_S_2026_R3_1021192547__CASESHEET.pdf"
+    ]
+  ],
+  "evidence_alignment_notes": [
+    "Diagnosis of enteric fever is consistently mentioned across multiple clinical notes and case sheets.",
+    "Investigation reports (Urine Analysis, Malaria Parasite) should be reviewed to confirm findings related to the diagnosis.",
+    "Treatment details (Fluids, Antibiotics) are mentioned in case sheets and clinical notes; verify dosage and duration.",
+    "Discharge date (07/02/2026) is consistent across discharge summary and case sheets."
+  ]
+}

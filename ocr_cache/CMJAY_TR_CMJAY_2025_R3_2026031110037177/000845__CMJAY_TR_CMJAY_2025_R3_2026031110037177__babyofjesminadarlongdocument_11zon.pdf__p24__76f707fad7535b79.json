@@ -1,0 +1,558 @@
+{
+  "text": "ent Na\nAg/3m1Y2M 00)F\nUHID NO.\nD04:11/00/002562:201M\nWards\nIP NO.:\nAge I Sen\nled Wo\nVITAL SIGNS CHART\nDate\nBlood\nTemp\nResp\nConscious\nPressure\nPulle\n-SPG2\nStgp\nJ0-o26\nLavel\n3poo\n978\n3%\n123 Yn\n920/0\ncouscluAndit\nipam\nF\n15\nprarkion\n94010\n26\nMasya\nne\nspo0\n9761\nAnirdfth\n3\n12344\nErm\n#\n96°\n3a14\n178\naen\n6744\n97l\n122-yor\n9790\n3psm\nfrieya\n1205m\n99/\n928035\nApm\n984\n9.4734\n128W/m\ntopiny\n94%\n986F381m\n126 wfm\nupm\n344\na8y-\nIK\n1830\n13sWm\n13/70)\n957\n1\nhem\n40\n30dm\n126a/m\n12846\n96/\n20m\nU\n6936\n344\n97%\nU1\n120b/m\nK\n3ar\n48.6D\n30dH\n3204\n1305\n95%\n49m\n48.11\n1\n920\n34k\n1351lm\na5)\nsam —\n1I\n1320/m\n96%\n98:57\n34\ncom\n12.5wm\na5%\na3sp\n324m\n20m",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 615,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "ent Na",
+      "bbox": null,
+      "confidence": 0.7769207954406738
+    },
+    {
+      "text": "Ag/3m1Y2M 00)F",
+      "bbox": null,
+      "confidence": 0.5675016641616821
+    },
+    {
+      "text": "UHID NO.",
+      "bbox": null,
+      "confidence": 0.91661536693573
+    },
+    {
+      "text": "D04:11/00/002562:201M",
+      "bbox": null,
+      "confidence": 0.7713537812232971
+    },
+    {
+      "text": "Wards",
+      "bbox": null,
+      "confidence": 0.8724700808525085
+    },
+    {
+      "text": "IP NO.:",
+      "bbox": null,
+      "confidence": 0.804850697517395
+    },
+    {
+      "text": "Age I Sen",
+      "bbox": null,
+      "confidence": 0.6758705973625183
+    },
+    {
+      "text": "led Wo",
+      "bbox": null,
+      "confidence": 0.8139029145240784
+    },
+    {
+      "text": "VITAL SIGNS CHART",
+      "bbox": null,
+      "confidence": 0.990519106388092
+    },
+    {
+      "text": "Date",
+      "bbox": null,
+      "confidence": 0.9909347295761108
+    },
+    {
+      "text": "Blood",
+      "bbox": null,
+      "confidence": 0.9906002283096313
+    },
+    {
+      "text": "Temp",
+      "bbox": null,
+      "confidence": 0.9931325912475586
+    },
+    {
+      "text": "Resp",
+      "bbox": null,
+      "confidence": 0.9933114647865295
+    },
+    {
+      "text": "Conscious",
+      "bbox": null,
+      "confidence": 0.6560303568840027
+    },
+    {
+      "text": "Pressure",
+      "bbox": null,
+      "confidence": 0.9903351664543152
+    },
+    {
+      "text": "Pulle",
+      "bbox": null,
+      "confidence": 0.8325133323669434
+    },
+    {
+      "text": "-SPG2",
+      "bbox": null,
+      "confidence": 0.8218388557434082
+    },
+    {
+      "text": "Stgp",
+      "bbox": null,
+      "confidence": 0.6956520676612854
+    },
+    {
+      "text": "J0-o26",
+      "bbox": null,
+      "confidence": 0.43840423226356506
+    },
+    {
+      "text": "Lavel",
+      "bbox": null,
+      "confidence": 0.8394685983657837
+    },
+    {
+      "text": "3poo",
+      "bbox": null,
+      "confidence": 0.598293125629425
+    },
+    {
+      "text": "978",
+      "bbox": null,
+      "confidence": 0.5489435791969299
+    },
+    {
+      "text": "3%",
+      "bbox": null,
+      "confidence": 0.7086920738220215
+    },
+    {
+      "text": "123 Yn",
+      "bbox": null,
+      "confidence": 0.7299413681030273
+    },
+    {
+      "text": "920/0",
+      "bbox": null,
+      "confidence": 0.6966673135757446
+    },
+    {
+      "text": "couscluAndit",
+      "bbox": null,
+      "confidence": 0.5483803153038025
+    },
+    {
+      "text": "ipam",
+      "bbox": null,
+      "confidence": 0.2807495594024658
+    },
+    {
+      "text": "F",
+      "bbox": null,
+      "confidence": 0.3801373541355133
+    },
+    {
+      "text": "15",
+      "bbox": null,
+      "confidence": 0.2347356081008911
+    },
+    {
+      "text": "prarkion",
+      "bbox": null,
+      "confidence": 0.48995447158813477
+    },
+    {
+      "text": "94010",
+      "bbox": null,
+      "confidence": 0.947965145111084
+    },
+    {
+      "text": "26",
+      "bbox": null,
+      "confidence": 0.8087822198867798
+    },
+    {
+      "text": "Masya",
+      "bbox": null,
+      "confidence": 0.6983714699745178
+    },
+    {
+      "text": "ne",
+      "bbox": null,
+      "confidence": 0.3720322847366333
+    },
+    {
+      "text": "spo0",
+      "bbox": null,
+      "confidence": 0.2766355574131012
+    },
+    {
+      "text": "9761",
+      "bbox": null,
+      "confidence": 0.5927934646606445
+    },
+    {
+      "text": "Anirdfth",
+      "bbox": null,
+      "confidence": 0.7191845178604126
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.5600638389587402
+    },
+    {
+      "text": "12344",
+      "bbox": null,
+      "confidence": 0.8741196393966675
+    },
+    {
+      "text": "Erm",
+      "bbox": null,
+      "confidence": 0.440493106842041
+    },
+    {
+      "text": "#",
+      "bbox": null,
+      "confidence": 0.535731315612793
+    },
+    {
+      "text": "96°",
+      "bbox": null,
+      "confidence": 0.7360818982124329
+    },
+    {
+      "text": "3a14",
+      "bbox": null,
+      "confidence": 0.5216148495674133
+    },
+    {
+      "text": "178",
+      "bbox": null,
+      "confidence": 0.7376431822776794
+    },
+    {
+      "text": "aen",
+      "bbox": null,
+      "confidence": 0.5824236273765564
+    },
+    {
+      "text": "6744",
+      "bbox": null,
+      "confidence": 0.5090943574905396
+    },
+    {
+      "text": "97l",
+      "bbox": null,
+      "confidence": 0.6420058608055115
+    },
+    {
+      "text": "122-yor",
+      "bbox": null,
+      "confidence": 0.6368216276168823
+    },
+    {
+      "text": "9790",
+      "bbox": null,
+      "confidence": 0.9241459965705872
+    },
+    {
+      "text": "3psm",
+      "bbox": null,
+      "confidence": 0.6688685417175293
+    },
+    {
+      "text": "frieya",
+      "bbox": null,
+      "confidence": 0.4222681522369385
+    },
+    {
+      "text": "1205m",
+      "bbox": null,
+      "confidence": 0.7396426200866699
+    },
+    {
+      "text": "99/",
+      "bbox": null,
+      "confidence": 0.43115317821502686
+    },
+    {
+      "text": "928035",
+      "bbox": null,
+      "confidence": 0.48875781893730164
+    },
+    {
+      "text": "Apm",
+      "bbox": null,
+      "confidence": 0.7976492047309875
+    },
+    {
+      "text": "984",
+      "bbox": null,
+      "confidence": 0.6669158935546875
+    },
+    {
+      "text": "9.4734",
+      "bbox": null,
+      "confidence": 0.4446450173854828
+    },
+    {
+      "text": "128W/m",
+      "bbox": null,
+      "confidence": 0.7665181756019592
+    },
+    {
+      "text": "topiny",
+      "bbox": null,
+      "confidence": 0.5587994456291199
+    },
+    {
+      "text": "94%",
+      "bbox": null,
+      "confidence": 0.7095401883125305
+    },
+    {
+      "text": "986F381m",
+      "bbox": null,
+      "confidence": 0.7928025722503662
+    },
+    {
+      "text": "126 wfm",
+      "bbox": null,
+      "confidence": 0.6689161658287048
+    },
+    {
+      "text": "upm",
+      "bbox": null,
+      "confidence": 0.7755324244499207
+    },
+    {
+      "text": "344",
+      "bbox": null,
+      "confidence": 0.8317593932151794
+    },
+    {
+      "text": "a8y-",
+      "bbox": null,
+      "confidence": 0.8209826946258545
+    },
+    {
+      "text": "IK",
+      "bbox": null,
+      "confidence": 0.5710137486457825
+    },
+    {
+      "text": "1830",
+      "bbox": null,
+      "confidence": 0.4560679495334625
+    },
+    {
+      "text": "13sWm",
+      "bbox": null,
+      "confidence": 0.32315993309020996
+    },
+    {
+      "text": "13/70)",
+      "bbox": null,
+      "confidence": 0.4490227997303009
+    },
+    {
+      "text": "957",
+      "bbox": null,
+      "confidence": 0.5777049660682678
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.4591802656650543
+    },
+    {
+      "text": "hem",
+      "bbox": null,
+      "confidence": 0.7281281352043152
+    },
+    {
+      "text": "40",
+      "bbox": null,
+      "confidence": 0.38699114322662354
+    },
+    {
+      "text": "30dm",
+      "bbox": null,
+      "confidence": 0.714148759841919
+    },
+    {
+      "text": "126a/m",
+      "bbox": null,
+      "confidence": 0.7890681624412537
+    },
+    {
+      "text": "12846",
+      "bbox": null,
+      "confidence": 0.7710368633270264
+    },
+    {
+      "text": "96/",
+      "bbox": null,
+      "confidence": 0.824190080165863
+    },
+    {
+      "text": "20m",
+      "bbox": null,
+      "confidence": 0.7377722859382629
+    },
+    {
+      "text": "U",
+      "bbox": null,
+      "confidence": 0.4777691662311554
+    },
+    {
+      "text": "6936",
+      "bbox": null,
+      "confidence": 0.568164050579071
+    },
+    {
+      "text": "344",
+      "bbox": null,
+      "confidence": 0.606359601020813
+    },
+    {
+      "text": "97%",
+      "bbox": null,
+      "confidence": 0.9901620745658875
+    },
+    {
+      "text": "U1",
+      "bbox": null,
+      "confidence": 0.2656252384185791
+    },
+    {
+      "text": "120b/m",
+      "bbox": null,
+      "confidence": 0.7183241248130798
+    },
+    {
+      "text": "K",
+      "bbox": null,
+      "confidence": 0.5171070694923401
+    },
+    {
+      "text": "3ar",
+      "bbox": null,
+      "confidence": 0.3425539433956146
+    },
+    {
+      "text": "48.6D",
+      "bbox": null,
+      "confidence": 0.7295587658882141
+    },
+    {
+      "text": "30dH",
+      "bbox": null,
+      "confidence": 0.5867829322814941
+    },
+    {
+      "text": "3204",
+      "bbox": null,
+      "confidence": 0.6478368639945984
+    },
+    {
+      "text": "1305",
+      "bbox": null,
+      "confidence": 0.7245234251022339
+    },
+    {
+      "text": "95%",
+      "bbox": null,
+      "confidence": 0.9751546382904053
+    },
+    {
+      "text": "49m",
+      "bbox": null,
+      "confidence": 0.8597458004951477
+    },
+    {
+      "text": "48.11",
+      "bbox": null,
+      "confidence": 0.6304658055305481
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.3733265697956085
+    },
+    {
+      "text": "920",
+      "bbox": null,
+      "confidence": 0.6371576189994812
+    },
+    {
+      "text": "34k",
+      "bbox": null,
+      "confidence": 0.7547183036804199
+    },
+    {
+      "text": "1351lm",
+      "bbox": null,
+      "confidence": 0.6752224564552307
+    },
+    {
+      "text": "a5)",
+      "bbox": null,
+      "confidence": 0.6681109070777893
+    },
+    {
+      "text": "sam —",
+      "bbox": null,
+      "confidence": 0.6842340230941772
+    },
+    {
+      "text": "1I",
+      "bbox": null,
+      "confidence": 0.5912365913391113
+    },
+    {
+      "text": "1320/m",
+      "bbox": null,
+      "confidence": 0.7895198464393616
+    },
+    {
+      "text": "96%",
+      "bbox": null,
+      "confidence": 0.9287115931510925
+    },
+    {
+      "text": "98:57",
+      "bbox": null,
+      "confidence": 0.7905443906784058
+    },
+    {
+      "text": "34",
+      "bbox": null,
+      "confidence": 0.9841240048408508
+    },
+    {
+      "text": "com",
+      "bbox": null,
+      "confidence": 0.5009226202964783
+    },
+    {
+      "text": "12.5wm",
+      "bbox": null,
+      "confidence": 0.8699502944946289
+    },
+    {
+      "text": "a5%",
+      "bbox": null,
+      "confidence": 0.5803782343864441
+    },
+    {
+      "text": "a3sp",
+      "bbox": null,
+      "confidence": 0.40845292806625366
+    },
+    {
+      "text": "324m",
+      "bbox": null,
+      "confidence": 0.891258955001831
+    },
+    {
+      "text": "20m",
+      "bbox": null,
+      "confidence": 0.3139026463031769
+    }
+  ]
+}

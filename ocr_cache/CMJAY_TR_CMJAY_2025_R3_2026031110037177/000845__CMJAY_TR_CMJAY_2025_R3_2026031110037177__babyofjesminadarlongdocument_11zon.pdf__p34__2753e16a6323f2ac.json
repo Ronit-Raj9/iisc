@@ -1,0 +1,138 @@
+{
+  "text": "D\nN\n9c/E/21\nMT E\nMHDY OL SOOO9\nMNILNI SINISHN\nIVALUATION/CUTCOME\np has cold of\nto improved Assess the baby\n>vital\nsign is\nstable.\ncough related\nvrlal sign cheeked\ndisease condition\nand recorded\nl medication given\nas per oh addviced.\nF3/o chand monedoring\nDBP 1 sotH died\nstoo1 nod passed\nusine passed.\nALLOCA\n13Bkc\nTIME\nSam",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 323,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "D",
+      "bbox": null,
+      "confidence": 0.33191215991973877
+    },
+    {
+      "text": "N",
+      "bbox": null,
+      "confidence": 0.8640283942222595
+    },
+    {
+      "text": "9c/E/21",
+      "bbox": null,
+      "confidence": 0.6729109883308411
+    },
+    {
+      "text": "MT E",
+      "bbox": null,
+      "confidence": 0.34626463055610657
+    },
+    {
+      "text": "MHDY OL SOOO9",
+      "bbox": null,
+      "confidence": 0.6972675919532776
+    },
+    {
+      "text": "MNILNI SINISHN",
+      "bbox": null,
+      "confidence": 0.31290480494499207
+    },
+    {
+      "text": "IVALUATION/CUTCOME",
+      "bbox": null,
+      "confidence": 0.9739115238189697
+    },
+    {
+      "text": "p has cold of",
+      "bbox": null,
+      "confidence": 0.8004583716392517
+    },
+    {
+      "text": "to improved Assess the baby",
+      "bbox": null,
+      "confidence": 0.8389516472816467
+    },
+    {
+      "text": ">vital",
+      "bbox": null,
+      "confidence": 0.8909094929695129
+    },
+    {
+      "text": "sign is",
+      "bbox": null,
+      "confidence": 0.9278392791748047
+    },
+    {
+      "text": "stable.",
+      "bbox": null,
+      "confidence": 0.8115385174751282
+    },
+    {
+      "text": "cough related",
+      "bbox": null,
+      "confidence": 0.9736409783363342
+    },
+    {
+      "text": "vrlal sign cheeked",
+      "bbox": null,
+      "confidence": 0.9062739610671997
+    },
+    {
+      "text": "disease condition",
+      "bbox": null,
+      "confidence": 0.9949859380722046
+    },
+    {
+      "text": "and recorded",
+      "bbox": null,
+      "confidence": 0.9762001037597656
+    },
+    {
+      "text": "l medication given",
+      "bbox": null,
+      "confidence": 0.9180164337158203
+    },
+    {
+      "text": "as per oh addviced.",
+      "bbox": null,
+      "confidence": 0.8796820640563965
+    },
+    {
+      "text": "F3/o chand monedoring",
+      "bbox": null,
+      "confidence": 0.8104088306427002
+    },
+    {
+      "text": "DBP 1 sotH died",
+      "bbox": null,
+      "confidence": 0.6994863152503967
+    },
+    {
+      "text": "stoo1 nod passed",
+      "bbox": null,
+      "confidence": 0.7657126784324646
+    },
+    {
+      "text": "usine passed.",
+      "bbox": null,
+      "confidence": 0.9229975938796997
+    },
+    {
+      "text": "ALLOCA",
+      "bbox": null,
+      "confidence": 0.9801809787750244
+    },
+    {
+      "text": "13Bkc",
+      "bbox": null,
+      "confidence": 0.6227677464485168
+    },
+    {
+      "text": "TIME",
+      "bbox": null,
+      "confidence": 0.9607126712799072
+    },
+    {
+      "text": "Sam",
+      "bbox": null,
+      "confidence": 0.8297350406646729
+    }
+  ]
+}

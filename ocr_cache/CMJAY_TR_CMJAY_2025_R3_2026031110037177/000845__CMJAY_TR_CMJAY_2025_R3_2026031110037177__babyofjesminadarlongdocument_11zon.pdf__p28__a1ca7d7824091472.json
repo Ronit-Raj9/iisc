@@ -1,0 +1,403 @@
+{
+  "text": "CO4:11/03219502-301M\nUIND NO.\nWantt\nP No =1//1\nCotnltant\nW NO.:\nAge/Semt\nHed Not\nUT & OUTPUT CHART\nBASOGASTRUC & ORA INTANE\nDute &\nPARANTIALINTALE\nFree of\nOUT PT\nTime\nw/\nTreeativ\nthid\nor\n0\nA\nMant\naite\nHO\nWld\nMIL\nYom\nothen\n110\nML\nAspiretan\nIVIN\nTon\nLDE\n41\nE7\nLinl\n5n\n115\nbr\nDBF\n41C\nF0m\nLb\nS\nDCE\nth\nDET\nC\n10Am\nDinnehnel\n4104\n10m\n410\n1.am\nDST\n4lm\n4\nKOw\nnRe\nL\nTL\n597\n415\nDBF\nMm\n$\nurm\n2m\nhet\n1am1120\nDer\n-\naem\nTOlal Jnake-DBF+583m1\nparyed\nUVAS\nmassed-3Aighep\nPoed -HTI",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 463,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "CO4:11/03219502-301M",
+      "bbox": null,
+      "confidence": 0.6102482080459595
+    },
+    {
+      "text": "UIND NO.",
+      "bbox": null,
+      "confidence": 0.9000965356826782
+    },
+    {
+      "text": "Wantt",
+      "bbox": null,
+      "confidence": 0.802099347114563
+    },
+    {
+      "text": "P No =1//1",
+      "bbox": null,
+      "confidence": 0.6865931749343872
+    },
+    {
+      "text": "Cotnltant",
+      "bbox": null,
+      "confidence": 0.8309456706047058
+    },
+    {
+      "text": "W NO.:",
+      "bbox": null,
+      "confidence": 0.8290782570838928
+    },
+    {
+      "text": "Age/Semt",
+      "bbox": null,
+      "confidence": 0.6137756109237671
+    },
+    {
+      "text": "Hed Not",
+      "bbox": null,
+      "confidence": 0.8223438858985901
+    },
+    {
+      "text": "UT & OUTPUT CHART",
+      "bbox": null,
+      "confidence": 0.9288264513015747
+    },
+    {
+      "text": "BASOGASTRUC & ORA INTANE",
+      "bbox": null,
+      "confidence": 0.8627278804779053
+    },
+    {
+      "text": "Dute &",
+      "bbox": null,
+      "confidence": 0.8913524150848389
+    },
+    {
+      "text": "PARANTIALINTALE",
+      "bbox": null,
+      "confidence": 0.7417277693748474
+    },
+    {
+      "text": "Free of",
+      "bbox": null,
+      "confidence": 0.8510593175888062
+    },
+    {
+      "text": "OUT PT",
+      "bbox": null,
+      "confidence": 0.5609146952629089
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.7758108377456665
+    },
+    {
+      "text": "w/",
+      "bbox": null,
+      "confidence": 0.39004912972450256
+    },
+    {
+      "text": "Treeativ",
+      "bbox": null,
+      "confidence": 0.717484712600708
+    },
+    {
+      "text": "thid",
+      "bbox": null,
+      "confidence": 0.7374102473258972
+    },
+    {
+      "text": "or",
+      "bbox": null,
+      "confidence": 0.6576857566833496
+    },
+    {
+      "text": "0",
+      "bbox": null,
+      "confidence": 0.15895166993141174
+    },
+    {
+      "text": "A",
+      "bbox": null,
+      "confidence": 0.40281942486763
+    },
+    {
+      "text": "Mant",
+      "bbox": null,
+      "confidence": 0.6136415600776672
+    },
+    {
+      "text": "aite",
+      "bbox": null,
+      "confidence": 0.435890793800354
+    },
+    {
+      "text": "HO",
+      "bbox": null,
+      "confidence": 0.5832218527793884
+    },
+    {
+      "text": "Wld",
+      "bbox": null,
+      "confidence": 0.7426316142082214
+    },
+    {
+      "text": "MIL",
+      "bbox": null,
+      "confidence": 0.8916743397712708
+    },
+    {
+      "text": "Yom",
+      "bbox": null,
+      "confidence": 0.44528019428253174
+    },
+    {
+      "text": "othen",
+      "bbox": null,
+      "confidence": 0.803992748260498
+    },
+    {
+      "text": "110",
+      "bbox": null,
+      "confidence": 0.48349228501319885
+    },
+    {
+      "text": "ML",
+      "bbox": null,
+      "confidence": 0.8890302181243896
+    },
+    {
+      "text": "Aspiretan",
+      "bbox": null,
+      "confidence": 0.7062317728996277
+    },
+    {
+      "text": "IVIN",
+      "bbox": null,
+      "confidence": 0.622344434261322
+    },
+    {
+      "text": "Ton",
+      "bbox": null,
+      "confidence": 0.48734250664711
+    },
+    {
+      "text": "LDE",
+      "bbox": null,
+      "confidence": 0.687903881072998
+    },
+    {
+      "text": "41",
+      "bbox": null,
+      "confidence": 0.4930576682090759
+    },
+    {
+      "text": "E7",
+      "bbox": null,
+      "confidence": 0.45948857069015503
+    },
+    {
+      "text": "Linl",
+      "bbox": null,
+      "confidence": 0.6080046892166138
+    },
+    {
+      "text": "5n",
+      "bbox": null,
+      "confidence": 0.6415966153144836
+    },
+    {
+      "text": "115",
+      "bbox": null,
+      "confidence": 0.5328727960586548
+    },
+    {
+      "text": "br",
+      "bbox": null,
+      "confidence": 0.24981990456581116
+    },
+    {
+      "text": "DBF",
+      "bbox": null,
+      "confidence": 0.5066259503364563
+    },
+    {
+      "text": "41C",
+      "bbox": null,
+      "confidence": 0.5583791136741638
+    },
+    {
+      "text": "F0m",
+      "bbox": null,
+      "confidence": 0.4555242359638214
+    },
+    {
+      "text": "Lb",
+      "bbox": null,
+      "confidence": 0.5725437998771667
+    },
+    {
+      "text": "S",
+      "bbox": null,
+      "confidence": 0.3714643716812134
+    },
+    {
+      "text": "DCE",
+      "bbox": null,
+      "confidence": 0.6713609099388123
+    },
+    {
+      "text": "th",
+      "bbox": null,
+      "confidence": 0.7810637354850769
+    },
+    {
+      "text": "DET",
+      "bbox": null,
+      "confidence": 0.5919010043144226
+    },
+    {
+      "text": "C",
+      "bbox": null,
+      "confidence": 0.21376867592334747
+    },
+    {
+      "text": "10Am",
+      "bbox": null,
+      "confidence": 0.44549527764320374
+    },
+    {
+      "text": "Dinnehnel",
+      "bbox": null,
+      "confidence": 0.6520714163780212
+    },
+    {
+      "text": "4104",
+      "bbox": null,
+      "confidence": 0.6936199069023132
+    },
+    {
+      "text": "10m",
+      "bbox": null,
+      "confidence": 0.5347000956535339
+    },
+    {
+      "text": "410",
+      "bbox": null,
+      "confidence": 0.5729977488517761
+    },
+    {
+      "text": "1.am",
+      "bbox": null,
+      "confidence": 0.6186158657073975
+    },
+    {
+      "text": "DST",
+      "bbox": null,
+      "confidence": 0.793006420135498
+    },
+    {
+      "text": "4lm",
+      "bbox": null,
+      "confidence": 0.7318520545959473
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.14207732677459717
+    },
+    {
+      "text": "KOw",
+      "bbox": null,
+      "confidence": 0.3095681369304657
+    },
+    {
+      "text": "nRe",
+      "bbox": null,
+      "confidence": 0.5813738703727722
+    },
+    {
+      "text": "L",
+      "bbox": null,
+      "confidence": 0.504962682723999
+    },
+    {
+      "text": "TL",
+      "bbox": null,
+      "confidence": 0.2998008728027344
+    },
+    {
+      "text": "597",
+      "bbox": null,
+      "confidence": 0.4853966236114502
+    },
+    {
+      "text": "415",
+      "bbox": null,
+      "confidence": 0.7071362137794495
+    },
+    {
+      "text": "DBF",
+      "bbox": null,
+      "confidence": 0.607886791229248
+    },
+    {
+      "text": "Mm",
+      "bbox": null,
+      "confidence": 0.18032532930374146
+    },
+    {
+      "text": "$",
+      "bbox": null,
+      "confidence": 0.9052342176437378
+    },
+    {
+      "text": "urm",
+      "bbox": null,
+      "confidence": 0.3038918375968933
+    },
+    {
+      "text": "2m",
+      "bbox": null,
+      "confidence": 0.5922752618789673
+    },
+    {
+      "text": "het",
+      "bbox": null,
+      "confidence": 0.3710387647151947
+    },
+    {
+      "text": "1am1120",
+      "bbox": null,
+      "confidence": 0.42853212356567383
+    },
+    {
+      "text": "Der",
+      "bbox": null,
+      "confidence": 0.46717819571495056
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.34019631147384644
+    },
+    {
+      "text": "aem",
+      "bbox": null,
+      "confidence": 0.5729581713676453
+    },
+    {
+      "text": "TOlal Jnake-DBF+583m1",
+      "bbox": null,
+      "confidence": 0.6469727754592896
+    },
+    {
+      "text": "paryed",
+      "bbox": null,
+      "confidence": 0.780718982219696
+    },
+    {
+      "text": "UVAS",
+      "bbox": null,
+      "confidence": 0.4192040264606476
+    },
+    {
+      "text": "massed-3Aighep",
+      "bbox": null,
+      "confidence": 0.7262867093086243
+    },
+    {
+      "text": "Poed -HTI",
+      "bbox": null,
+      "confidence": 0.7279236316680908
+    }
+  ]
+}

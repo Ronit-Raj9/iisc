@@ -1,0 +1,238 @@
+{
+  "text": "LO\nADMISSION AND DISCHARGE RECORD\nU80S62oPDNo.:12143Ward:PCAdmn.Date:72126Time:11cM.\nM.R.D. No.\nName\nge:104_Sex:Male.\nOccupation:\nFather's/Husband Name:\nAddress\nTelepho\nNext of Kin'sAddress\nDate of Discharge:\nTime:\nTotal Days ofAdmi.:\nFinal Diagnosis (in block letters)\nenferic tarer\nProvisional Diagnosis:\nICD Code:\nSecondary Diagnosis or Complications (in Block Letters):\nOperation Procedure (in Block Letters) :\nResult\nDischarged\nDied\nAutopsy\nWith Medical Advice\nUnder 48 hrs.\nYes\nLama\nOver 48 hrs.\nNo\nAbsconded\nRef. to other Hospital\nCause of Death\nI.\nDirect Cause\nII.\nOther significant conditions\n(in Block Letters)\n(Contribution to the death, but\nnot related to the disease or\ncondition in using it)\nSister I/C\nHEALING HANDS, CARING HEARTS\n(1)\nE\nT",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 753,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "LO",
+      "bbox": null,
+      "confidence": 0.7272093296051025
+    },
+    {
+      "text": "ADMISSION AND DISCHARGE RECORD",
+      "bbox": null,
+      "confidence": 0.988877534866333
+    },
+    {
+      "text": "U80S62oPDNo.:12143Ward:PCAdmn.Date:72126Time:11cM.",
+      "bbox": null,
+      "confidence": 0.7903832197189331
+    },
+    {
+      "text": "M.R.D. No.",
+      "bbox": null,
+      "confidence": 0.9234280586242676
+    },
+    {
+      "text": "Name",
+      "bbox": null,
+      "confidence": 0.9995166063308716
+    },
+    {
+      "text": "ge:104_Sex:Male.",
+      "bbox": null,
+      "confidence": 0.7651673555374146
+    },
+    {
+      "text": "Occupation:",
+      "bbox": null,
+      "confidence": 0.9752107262611389
+    },
+    {
+      "text": "Father's/Husband Name:",
+      "bbox": null,
+      "confidence": 0.9716581106185913
+    },
+    {
+      "text": "Address",
+      "bbox": null,
+      "confidence": 0.9315661787986755
+    },
+    {
+      "text": "Telepho",
+      "bbox": null,
+      "confidence": 0.9697301983833313
+    },
+    {
+      "text": "Next of Kin'sAddress",
+      "bbox": null,
+      "confidence": 0.9794818758964539
+    },
+    {
+      "text": "Date of Discharge:",
+      "bbox": null,
+      "confidence": 0.9514809846878052
+    },
+    {
+      "text": "Time:",
+      "bbox": null,
+      "confidence": 0.9652571678161621
+    },
+    {
+      "text": "Total Days ofAdmi.:",
+      "bbox": null,
+      "confidence": 0.9970895051956177
+    },
+    {
+      "text": "Final Diagnosis (in block letters)",
+      "bbox": null,
+      "confidence": 0.9666478633880615
+    },
+    {
+      "text": "enferic tarer",
+      "bbox": null,
+      "confidence": 0.7705399990081787
+    },
+    {
+      "text": "Provisional Diagnosis:",
+      "bbox": null,
+      "confidence": 0.9701438546180725
+    },
+    {
+      "text": "ICD Code:",
+      "bbox": null,
+      "confidence": 0.9956704378128052
+    },
+    {
+      "text": "Secondary Diagnosis or Complications (in Block Letters):",
+      "bbox": null,
+      "confidence": 0.9812889695167542
+    },
+    {
+      "text": "Operation Procedure (in Block Letters) :",
+      "bbox": null,
+      "confidence": 0.9776467084884644
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9997472167015076
+    },
+    {
+      "text": "Discharged",
+      "bbox": null,
+      "confidence": 0.9999454617500305
+    },
+    {
+      "text": "Died",
+      "bbox": null,
+      "confidence": 0.9996708631515503
+    },
+    {
+      "text": "Autopsy",
+      "bbox": null,
+      "confidence": 0.9997849464416504
+    },
+    {
+      "text": "With Medical Advice",
+      "bbox": null,
+      "confidence": 0.9998872876167297
+    },
+    {
+      "text": "Under 48 hrs.",
+      "bbox": null,
+      "confidence": 0.9995918869972229
+    },
+    {
+      "text": "Yes",
+      "bbox": null,
+      "confidence": 0.9997761845588684
+    },
+    {
+      "text": "Lama",
+      "bbox": null,
+      "confidence": 0.999924898147583
+    },
+    {
+      "text": "Over 48 hrs.",
+      "bbox": null,
+      "confidence": 0.9917110800743103
+    },
+    {
+      "text": "No",
+      "bbox": null,
+      "confidence": 0.9998719692230225
+    },
+    {
+      "text": "Absconded",
+      "bbox": null,
+      "confidence": 0.99981689453125
+    },
+    {
+      "text": "Ref. to other Hospital",
+      "bbox": null,
+      "confidence": 0.9710665345191956
+    },
+    {
+      "text": "Cause of Death",
+      "bbox": null,
+      "confidence": 0.9997351765632629
+    },
+    {
+      "text": "I.",
+      "bbox": null,
+      "confidence": 0.9888676404953003
+    },
+    {
+      "text": "Direct Cause",
+      "bbox": null,
+      "confidence": 0.9942752718925476
+    },
+    {
+      "text": "II.",
+      "bbox": null,
+      "confidence": 0.981320858001709
+    },
+    {
+      "text": "Other significant conditions",
+      "bbox": null,
+      "confidence": 0.9944040179252625
+    },
+    {
+      "text": "(in Block Letters)",
+      "bbox": null,
+      "confidence": 0.9786838889122009
+    },
+    {
+      "text": "(Contribution to the death, but",
+      "bbox": null,
+      "confidence": 0.9789914488792419
+    },
+    {
+      "text": "not related to the disease or",
+      "bbox": null,
+      "confidence": 0.9860243201255798
+    },
+    {
+      "text": "condition in using it)",
+      "bbox": null,
+      "confidence": 0.9870386123657227
+    },
+    {
+      "text": "Sister I/C",
+      "bbox": null,
+      "confidence": 0.9583204388618469
+    },
+    {
+      "text": "HEALING HANDS, CARING HEARTS",
+      "bbox": null,
+      "confidence": 0.9980923533439636
+    },
+    {
+      "text": "(1)",
+      "bbox": null,
+      "confidence": 0.980759859085083
+    },
+    {
+      "text": "E",
+      "bbox": null,
+      "confidence": 0.1298801749944687
+    },
+    {
+      "text": "T",
+      "bbox": null,
+      "confidence": 0.9508351683616638
+    }
+  ]
+}

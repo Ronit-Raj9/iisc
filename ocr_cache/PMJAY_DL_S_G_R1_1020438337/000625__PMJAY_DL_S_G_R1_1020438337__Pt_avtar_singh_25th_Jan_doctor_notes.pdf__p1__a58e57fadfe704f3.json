@@ -1,0 +1,208 @@
+{
+  "text": "Patient's Name ...\nFather's/ Husband's Name.\n176.7\nUHID No.\nIco\nWard....\nBed No......\nCONSULTANT NOTES SHEET\nHISTORY & EXAMINATION\n2501/2026\nAcccteatie ynbnsir /U7/\nAsE/Fnnfne.\n.\n1.1\n.•\nPates Syntondi suet\nPai donen Aiconfrfi Abdoma\nC\nNausen t Vomutp - tus esohs\natlanly hoip howss.\nHeadade\nCogh luit drepeclrialin (.)\ns\nNo.segisade f los hotio\n.\nBP- 198/10 utg RB5-137mp/d1\nSP0 - 88% RA Semp- 1012P.\nPR-92/ni.\nChest - B/L hs\nP/A - Dclnated, BS\nC\nONS7\nWNL\nCeJ.\nB\nTab Vzylae BD\nStep Moho cel.\n. F Muopenem 0TD.S\nhut (6:T.\nRUN & OPERATED BY",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 538,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Patient's Name ...",
+      "bbox": null,
+      "confidence": 0.9155970811843872
+    },
+    {
+      "text": "Father's/ Husband's Name.",
+      "bbox": null,
+      "confidence": 0.9981025457382202
+    },
+    {
+      "text": "176.7",
+      "bbox": null,
+      "confidence": 0.882983386516571
+    },
+    {
+      "text": "UHID No.",
+      "bbox": null,
+      "confidence": 0.9989780187606812
+    },
+    {
+      "text": "Ico",
+      "bbox": null,
+      "confidence": 0.3436717092990875
+    },
+    {
+      "text": "Ward....",
+      "bbox": null,
+      "confidence": 0.8749288320541382
+    },
+    {
+      "text": "Bed No......",
+      "bbox": null,
+      "confidence": 0.8414161205291748
+    },
+    {
+      "text": "CONSULTANT NOTES SHEET",
+      "bbox": null,
+      "confidence": 0.9974883794784546
+    },
+    {
+      "text": "HISTORY & EXAMINATION",
+      "bbox": null,
+      "confidence": 0.9994900226593018
+    },
+    {
+      "text": "2501/2026",
+      "bbox": null,
+      "confidence": 0.8851144313812256
+    },
+    {
+      "text": "Acccteatie ynbnsir /U7/",
+      "bbox": null,
+      "confidence": 0.575086236000061
+    },
+    {
+      "text": "AsE/Fnnfne.",
+      "bbox": null,
+      "confidence": 0.40881282091140747
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.5816492438316345
+    },
+    {
+      "text": "1.1",
+      "bbox": null,
+      "confidence": 0.6274433732032776
+    },
+    {
+      "text": ".•",
+      "bbox": null,
+      "confidence": 0.5208444595336914
+    },
+    {
+      "text": "Pates Syntondi suet",
+      "bbox": null,
+      "confidence": 0.6977410316467285
+    },
+    {
+      "text": "Pai donen Aiconfrfi Abdoma",
+      "bbox": null,
+      "confidence": 0.695121705532074
+    },
+    {
+      "text": "C",
+      "bbox": null,
+      "confidence": 0.5985487699508667
+    },
+    {
+      "text": "Nausen t Vomutp - tus esohs",
+      "bbox": null,
+      "confidence": 0.5692175626754761
+    },
+    {
+      "text": "atlanly hoip howss.",
+      "bbox": null,
+      "confidence": 0.764954686164856
+    },
+    {
+      "text": "Headade",
+      "bbox": null,
+      "confidence": 0.8838894963264465
+    },
+    {
+      "text": "Cogh luit drepeclrialin (.)",
+      "bbox": null,
+      "confidence": 0.6561828851699829
+    },
+    {
+      "text": "s",
+      "bbox": null,
+      "confidence": 0.6098047494888306
+    },
+    {
+      "text": "No.segisade f los hotio",
+      "bbox": null,
+      "confidence": 0.6721230745315552
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.5012125372886658
+    },
+    {
+      "text": "BP- 198/10 utg RB5-137mp/d1",
+      "bbox": null,
+      "confidence": 0.7693219780921936
+    },
+    {
+      "text": "SP0 - 88% RA Semp- 1012P.",
+      "bbox": null,
+      "confidence": 0.6064465045928955
+    },
+    {
+      "text": "PR-92/ni.",
+      "bbox": null,
+      "confidence": 0.7432964444160461
+    },
+    {
+      "text": "Chest - B/L hs",
+      "bbox": null,
+      "confidence": 0.5897933840751648
+    },
+    {
+      "text": "P/A - Dclnated, BS",
+      "bbox": null,
+      "confidence": 0.6705141663551331
+    },
+    {
+      "text": "C",
+      "bbox": null,
+      "confidence": 0.7973577976226807
+    },
+    {
+      "text": "ONS7",
+      "bbox": null,
+      "confidence": 0.7842390537261963
+    },
+    {
+      "text": "WNL",
+      "bbox": null,
+      "confidence": 0.8112189173698425
+    },
+    {
+      "text": "CeJ.",
+      "bbox": null,
+      "confidence": 0.6713554859161377
+    },
+    {
+      "text": "B",
+      "bbox": null,
+      "confidence": 0.40611666440963745
+    },
+    {
+      "text": "Tab Vzylae BD",
+      "bbox": null,
+      "confidence": 0.7877184152603149
+    },
+    {
+      "text": "Step Moho cel.",
+      "bbox": null,
+      "confidence": 0.732804000377655
+    },
+    {
+      "text": ". F Muopenem 0TD.S",
+      "bbox": null,
+      "confidence": 0.5718389749526978
+    },
+    {
+      "text": "hut (6:T.",
+      "bbox": null,
+      "confidence": 0.5653014779090881
+    },
+    {
+      "text": "RUN & OPERATED BY",
+      "bbox": null,
+      "confidence": 0.9930455684661865
+    }
+  ]
+}

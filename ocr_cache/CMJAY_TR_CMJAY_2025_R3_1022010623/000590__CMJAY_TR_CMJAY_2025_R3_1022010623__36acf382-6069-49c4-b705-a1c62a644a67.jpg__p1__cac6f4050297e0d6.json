@@ -1,0 +1,408 @@
+{
+  "text": "DISCHARGE SUMMERY\nHospital Name :\nHospital Code:\nHospital Address:\nHospital District:\nPatient Name:\nPMJAY ID:-\nPatient Address:\n.\nAGE:\n6040r\nSEX-F\nPatient Contact NO:\nmm\nPMJAY Case ID:\nRegistration No:\nI\nIPD Number (Free text) : AR- 28.\nF\npeagegoe\n3m3\nonoj\ntren\nConsultant's Name :- Dr.\nTreating\nConsultant's contact Number :-\n4\nTreating\nConsultant's Qualification :- MBBS\nRegistration Number:\nTreating Consultant's Speciality:-\nDate of Admission with time .....\n02.26\n1.2....D.....AM/PM.\n22126\nAM/PM.\nDate of Discharge\nwith time:\nPresenting compiaints with duration:\nDevelcold cuss\n#\nInitial assessment (Text  BP: Mm Hg,Pulse:./min.,Temperature\nSignificant Past Medical and Surgical History,if any:\nPrimary Diagnosis at the time of Admission:-\nEuleic feur\nEueic feel\nFinal Diagnosis at the time of Discharge*\nICD - 10 Code (s)for Final diagnosis :-\nTyhi\n^\n-1180\nKey Investigation :\nwidal\n7\n0\n1:80\nH-\n*\nAH1-1:80.\nVivenB\nInvestigation finding (Text) :\nDupuencs-ve)\nruceel-\nMP-NMPS\nPlenly\n:\ncanscralive\nTreatment given during hospitalization*\nOperative finding (Only for surgical case ):-\n†\nComplications if any\nnatisfetn\nStatus at the time of Discharge*:\ne\nNext follow date (calender, dd/mm/yyyy)*: Next\nDays.\nAdvice on discharge* (free text):-\nName and signature of treating Consultant / authoriaed Team Doctor*:\nName and signature of treating PMAM\nName and signature/Thumb impression of patient /Attendant*:",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 1408,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "DISCHARGE SUMMERY",
+      "bbox": null,
+      "confidence": 0.9962255954742432
+    },
+    {
+      "text": "Hospital Name :",
+      "bbox": null,
+      "confidence": 0.9783216118812561
+    },
+    {
+      "text": "Hospital Code:",
+      "bbox": null,
+      "confidence": 0.9828319549560547
+    },
+    {
+      "text": "Hospital Address:",
+      "bbox": null,
+      "confidence": 0.9807308316230774
+    },
+    {
+      "text": "Hospital District:",
+      "bbox": null,
+      "confidence": 0.9979925155639648
+    },
+    {
+      "text": "Patient Name:",
+      "bbox": null,
+      "confidence": 0.9947012662887573
+    },
+    {
+      "text": "PMJAY ID:-",
+      "bbox": null,
+      "confidence": 0.9170660972595215
+    },
+    {
+      "text": "Patient Address:",
+      "bbox": null,
+      "confidence": 0.9991490840911865
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.20216642320156097
+    },
+    {
+      "text": "AGE:",
+      "bbox": null,
+      "confidence": 0.9976838231086731
+    },
+    {
+      "text": "6040r",
+      "bbox": null,
+      "confidence": 0.8764602541923523
+    },
+    {
+      "text": "SEX-F",
+      "bbox": null,
+      "confidence": 0.8641018867492676
+    },
+    {
+      "text": "Patient Contact NO:",
+      "bbox": null,
+      "confidence": 0.9968216419219971
+    },
+    {
+      "text": "mm",
+      "bbox": null,
+      "confidence": 0.36079221963882446
+    },
+    {
+      "text": "PMJAY Case ID:",
+      "bbox": null,
+      "confidence": 0.9943442344665527
+    },
+    {
+      "text": "Registration No:",
+      "bbox": null,
+      "confidence": 0.9987938404083252
+    },
+    {
+      "text": "I",
+      "bbox": null,
+      "confidence": 0.5002642273902893
+    },
+    {
+      "text": "IPD Number (Free text) : AR- 28.",
+      "bbox": null,
+      "confidence": 0.9071289896965027
+    },
+    {
+      "text": "F",
+      "bbox": null,
+      "confidence": 0.6791340112686157
+    },
+    {
+      "text": "peagegoe",
+      "bbox": null,
+      "confidence": 0.2850532531738281
+    },
+    {
+      "text": "3m3",
+      "bbox": null,
+      "confidence": 0.38003644347190857
+    },
+    {
+      "text": "onoj",
+      "bbox": null,
+      "confidence": 0.5787792205810547
+    },
+    {
+      "text": "tren",
+      "bbox": null,
+      "confidence": 0.2513173520565033
+    },
+    {
+      "text": "Consultant's Name :- Dr.",
+      "bbox": null,
+      "confidence": 0.9487090110778809
+    },
+    {
+      "text": "Treating",
+      "bbox": null,
+      "confidence": 0.9996371865272522
+    },
+    {
+      "text": "Consultant's contact Number :-",
+      "bbox": null,
+      "confidence": 0.9760733246803284
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.18527920544147491
+    },
+    {
+      "text": "Treating",
+      "bbox": null,
+      "confidence": 0.9996301531791687
+    },
+    {
+      "text": "Consultant's Qualification :- MBBS",
+      "bbox": null,
+      "confidence": 0.9637303948402405
+    },
+    {
+      "text": "Registration Number:",
+      "bbox": null,
+      "confidence": 0.995384693145752
+    },
+    {
+      "text": "Treating Consultant's Speciality:-",
+      "bbox": null,
+      "confidence": 0.9730151891708374
+    },
+    {
+      "text": "Date of Admission with time .....",
+      "bbox": null,
+      "confidence": 0.9052664041519165
+    },
+    {
+      "text": "02.26",
+      "bbox": null,
+      "confidence": 0.7127400636672974
+    },
+    {
+      "text": "1.2....D.....AM/PM.",
+      "bbox": null,
+      "confidence": 0.7077816128730774
+    },
+    {
+      "text": "22126",
+      "bbox": null,
+      "confidence": 0.8867578506469727
+    },
+    {
+      "text": "AM/PM.",
+      "bbox": null,
+      "confidence": 0.8617076277732849
+    },
+    {
+      "text": "Date of Discharge",
+      "bbox": null,
+      "confidence": 0.969295859336853
+    },
+    {
+      "text": "with time:",
+      "bbox": null,
+      "confidence": 0.9478988647460938
+    },
+    {
+      "text": "Presenting compiaints with duration:",
+      "bbox": null,
+      "confidence": 0.9970769882202148
+    },
+    {
+      "text": "Develcold cuss",
+      "bbox": null,
+      "confidence": 0.586908757686615
+    },
+    {
+      "text": "#",
+      "bbox": null,
+      "confidence": 0.4637484848499298
+    },
+    {
+      "text": "Initial assessment (Text  BP: Mm Hg,Pulse:./min.,Temperature",
+      "bbox": null,
+      "confidence": 0.8648242950439453
+    },
+    {
+      "text": "Significant Past Medical and Surgical History,if any:",
+      "bbox": null,
+      "confidence": 0.9845994710922241
+    },
+    {
+      "text": "Primary Diagnosis at the time of Admission:-",
+      "bbox": null,
+      "confidence": 0.9886028170585632
+    },
+    {
+      "text": "Euleic feur",
+      "bbox": null,
+      "confidence": 0.7951757907867432
+    },
+    {
+      "text": "Eueic feel",
+      "bbox": null,
+      "confidence": 0.6119788885116577
+    },
+    {
+      "text": "Final Diagnosis at the time of Discharge*",
+      "bbox": null,
+      "confidence": 0.9700884222984314
+    },
+    {
+      "text": "ICD - 10 Code (s)for Final diagnosis :-",
+      "bbox": null,
+      "confidence": 0.968984842300415
+    },
+    {
+      "text": "Tyhi",
+      "bbox": null,
+      "confidence": 0.8142695426940918
+    },
+    {
+      "text": "^",
+      "bbox": null,
+      "confidence": 0.6146848797798157
+    },
+    {
+      "text": "-1180",
+      "bbox": null,
+      "confidence": 0.7137821316719055
+    },
+    {
+      "text": "Key Investigation :",
+      "bbox": null,
+      "confidence": 0.9732155799865723
+    },
+    {
+      "text": "widal",
+      "bbox": null,
+      "confidence": 0.9803963899612427
+    },
+    {
+      "text": "7",
+      "bbox": null,
+      "confidence": 0.32401061058044434
+    },
+    {
+      "text": "0",
+      "bbox": null,
+      "confidence": 0.5497816205024719
+    },
+    {
+      "text": "1:80",
+      "bbox": null,
+      "confidence": 0.8478623628616333
+    },
+    {
+      "text": "H-",
+      "bbox": null,
+      "confidence": 0.7738111019134521
+    },
+    {
+      "text": "*",
+      "bbox": null,
+      "confidence": 0.21677754819393158
+    },
+    {
+      "text": "AH1-1:80.",
+      "bbox": null,
+      "confidence": 0.7911235690116882
+    },
+    {
+      "text": "VivenB",
+      "bbox": null,
+      "confidence": 0.7416335940361023
+    },
+    {
+      "text": "Investigation finding (Text) :",
+      "bbox": null,
+      "confidence": 0.9842811226844788
+    },
+    {
+      "text": "Dupuencs-ve)",
+      "bbox": null,
+      "confidence": 0.656162679195404
+    },
+    {
+      "text": "ruceel-",
+      "bbox": null,
+      "confidence": 0.6917722821235657
+    },
+    {
+      "text": "MP-NMPS",
+      "bbox": null,
+      "confidence": 0.6371361613273621
+    },
+    {
+      "text": "Plenly",
+      "bbox": null,
+      "confidence": 0.8940470814704895
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.8720585107803345
+    },
+    {
+      "text": "canscralive",
+      "bbox": null,
+      "confidence": 0.8761001825332642
+    },
+    {
+      "text": "Treatment given during hospitalization*",
+      "bbox": null,
+      "confidence": 0.9949676394462585
+    },
+    {
+      "text": "Operative finding (Only for surgical case ):-",
+      "bbox": null,
+      "confidence": 0.9816189408302307
+    },
+    {
+      "text": "†",
+      "bbox": null,
+      "confidence": 0.29828882217407227
+    },
+    {
+      "text": "Complications if any",
+      "bbox": null,
+      "confidence": 0.9880084991455078
+    },
+    {
+      "text": "natisfetn",
+      "bbox": null,
+      "confidence": 0.5943443775177002
+    },
+    {
+      "text": "Status at the time of Discharge*:",
+      "bbox": null,
+      "confidence": 0.9794601798057556
+    },
+    {
+      "text": "e",
+      "bbox": null,
+      "confidence": 0.8009994626045227
+    },
+    {
+      "text": "Next follow date (calender, dd/mm/yyyy)*: Next",
+      "bbox": null,
+      "confidence": 0.9797474145889282
+    },
+    {
+      "text": "Days.",
+      "bbox": null,
+      "confidence": 0.8839173316955566
+    },
+    {
+      "text": "Advice on discharge* (free text):-",
+      "bbox": null,
+      "confidence": 0.9810655117034912
+    },
+    {
+      "text": "Name and signature of treating Consultant / authoriaed Team Doctor*:",
+      "bbox": null,
+      "confidence": 0.9725247621536255
+    },
+    {
+      "text": "Name and signature of treating PMAM",
+      "bbox": null,
+      "confidence": 0.9839829802513123
+    },
+    {
+      "text": "Name and signature/Thumb impression of patient /Attendant*:",
+      "bbox": null,
+      "confidence": 0.980888843536377
+    }
+  ]
+}

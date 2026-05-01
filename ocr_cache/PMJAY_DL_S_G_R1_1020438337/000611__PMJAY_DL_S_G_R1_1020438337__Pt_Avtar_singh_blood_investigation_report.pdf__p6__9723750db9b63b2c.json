@@ -1,0 +1,353 @@
+{
+  "text": "Visit ID\nRC124354\nRegistration\n23/1an/2626 03:1DPM\nUHID/MR NO\n: RCL.0000021563\nCollected\n;23/1an/2026 03:12P94\nPatient Name\nReceived\n: 23/jan/2026 03:13PM\nAge/Gender\n56Y0M0D/M\nReported\n: 23/1an/2026 05:01PM\nRer Doctor\nStatus\n: Final Report\nChent Name\nClient Code\n320\nChent Add\nBarcode No\n: 10082595\nT\nBEAEENERE EEEERE\nJee iee\nad y ae\nModiaw\nBtit\nUnit\nSERUM AMYLASE\nSample Type : Serum\nSERUM AMYLASE\n68\nIU/L\n0-80\nKINETIC\nConuments:\nAmylase is produced in the Pancreas and most of the elevation in senum is duc to incrcased rate of\nAmylase entry into the blood stream/ decreased rate of clearance or both. Scrum Amylase rises within 6\nto 4hours of nset of Acue poncreatits in 80% f patients, bu i not proportional to th sevcrity of the\ndisease. Activity usually relums to normal in 3-5 days in patienis with milder edematous form of the\nVa e nthan pr nni an Psoc\nformation. Approximately 20% of patients with Pancreatitis have nornal or near normal activity.\nHyperlipemic patients with Pancreutitis also show suriousy normal Amylase levels due to suppression of\nArylase setivity by riglyceride. Low Amylase levels are seen in Chronie Panereatitis, Congestive Heurt\nfailure, 2nd & 3ed trimesters of preynancy.\nGastrointestinal cancer & bone fractures.\nSERUM LIPASE\nSample Type: Serum\nun\n82\n13.0-60.0\nEnzymatic\nSERUM UPASE\nCOMMENTS:\nLioase mcesurements are uted in the ciagnasis and treatment ot diseases of she pancreas, such as acute\nparicreatite, chroric pancreatidis, and oostrocton ef the pancreatic duct. In acute pancreatinis seru hipase aclwty\ntends to bcoe dlevated & reains for abot  1 ays.increas lipas aco rarely last longer than 14\ndey, and pralanged snereases suggest a poor prognosis or the presence of e cyst. Serum lipsse may also be\natd in patens with and paneeati, ebstun o th pane duct a non panreac conins\nincuding renal diseases varibus adaminal diseases such as acute cholecystitn, intestinalobstruction or\nn uan ee a ie a    &etai pn\nundergone endoscopic retrograde cholangiopancreatography. Elevation of serum lipase actrvily in patients with\nmurhps strongly suggests significant pencreatic as well as salivary gland invotvement by the disease.\nMB85.DCP\nPage or d\nComultant Patholagist",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 2206,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Visit ID",
+      "bbox": null,
+      "confidence": 0.998147189617157
+    },
+    {
+      "text": "RC124354",
+      "bbox": null,
+      "confidence": 0.9393178224563599
+    },
+    {
+      "text": "Registration",
+      "bbox": null,
+      "confidence": 0.9682844281196594
+    },
+    {
+      "text": "23/1an/2626 03:1DPM",
+      "bbox": null,
+      "confidence": 0.8857621550559998
+    },
+    {
+      "text": "UHID/MR NO",
+      "bbox": null,
+      "confidence": 0.9208592176437378
+    },
+    {
+      "text": ": RCL.0000021563",
+      "bbox": null,
+      "confidence": 0.9651042222976685
+    },
+    {
+      "text": "Collected",
+      "bbox": null,
+      "confidence": 0.9997155070304871
+    },
+    {
+      "text": ";23/1an/2026 03:12P94",
+      "bbox": null,
+      "confidence": 0.9036611914634705
+    },
+    {
+      "text": "Patient Name",
+      "bbox": null,
+      "confidence": 0.9996101260185242
+    },
+    {
+      "text": "Received",
+      "bbox": null,
+      "confidence": 0.9968293905258179
+    },
+    {
+      "text": ": 23/jan/2026 03:13PM",
+      "bbox": null,
+      "confidence": 0.9008299708366394
+    },
+    {
+      "text": "Age/Gender",
+      "bbox": null,
+      "confidence": 0.9937966465950012
+    },
+    {
+      "text": "56Y0M0D/M",
+      "bbox": null,
+      "confidence": 0.8651463985443115
+    },
+    {
+      "text": "Reported",
+      "bbox": null,
+      "confidence": 0.9643086791038513
+    },
+    {
+      "text": ": 23/1an/2026 05:01PM",
+      "bbox": null,
+      "confidence": 0.9389106035232544
+    },
+    {
+      "text": "Rer Doctor",
+      "bbox": null,
+      "confidence": 0.9270755648612976
+    },
+    {
+      "text": "Status",
+      "bbox": null,
+      "confidence": 0.9995294213294983
+    },
+    {
+      "text": ": Final Report",
+      "bbox": null,
+      "confidence": 0.9977144002914429
+    },
+    {
+      "text": "Chent Name",
+      "bbox": null,
+      "confidence": 0.9471844434738159
+    },
+    {
+      "text": "Client Code",
+      "bbox": null,
+      "confidence": 0.9528144598007202
+    },
+    {
+      "text": "320",
+      "bbox": null,
+      "confidence": 0.9994977116584778
+    },
+    {
+      "text": "Chent Add",
+      "bbox": null,
+      "confidence": 0.9256910681724548
+    },
+    {
+      "text": "Barcode No",
+      "bbox": null,
+      "confidence": 0.9601662755012512
+    },
+    {
+      "text": ": 10082595",
+      "bbox": null,
+      "confidence": 0.9841147661209106
+    },
+    {
+      "text": "T",
+      "bbox": null,
+      "confidence": 0.16602188348770142
+    },
+    {
+      "text": "BEAEENERE EEEERE",
+      "bbox": null,
+      "confidence": 0.31656771898269653
+    },
+    {
+      "text": "Jee iee",
+      "bbox": null,
+      "confidence": 0.3441195487976074
+    },
+    {
+      "text": "ad y ae",
+      "bbox": null,
+      "confidence": 0.36498233675956726
+    },
+    {
+      "text": "Modiaw",
+      "bbox": null,
+      "confidence": 0.23519831895828247
+    },
+    {
+      "text": "Btit",
+      "bbox": null,
+      "confidence": 0.3800564408302307
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9908356666564941
+    },
+    {
+      "text": "SERUM AMYLASE",
+      "bbox": null,
+      "confidence": 0.9729360938072205
+    },
+    {
+      "text": "Sample Type : Serum",
+      "bbox": null,
+      "confidence": 0.9764844179153442
+    },
+    {
+      "text": "SERUM AMYLASE",
+      "bbox": null,
+      "confidence": 0.9880349636077881
+    },
+    {
+      "text": "68",
+      "bbox": null,
+      "confidence": 0.9998342394828796
+    },
+    {
+      "text": "IU/L",
+      "bbox": null,
+      "confidence": 0.8371440172195435
+    },
+    {
+      "text": "0-80",
+      "bbox": null,
+      "confidence": 0.9110157489776611
+    },
+    {
+      "text": "KINETIC",
+      "bbox": null,
+      "confidence": 0.79901123046875
+    },
+    {
+      "text": "Conuments:",
+      "bbox": null,
+      "confidence": 0.8970004320144653
+    },
+    {
+      "text": "Amylase is produced in the Pancreas and most of the elevation in senum is duc to incrcased rate of",
+      "bbox": null,
+      "confidence": 0.9108205437660217
+    },
+    {
+      "text": "Amylase entry into the blood stream/ decreased rate of clearance or both. Scrum Amylase rises within 6",
+      "bbox": null,
+      "confidence": 0.9519373774528503
+    },
+    {
+      "text": "to 4hours of nset of Acue poncreatits in 80% f patients, bu i not proportional to th sevcrity of the",
+      "bbox": null,
+      "confidence": 0.7267646193504333
+    },
+    {
+      "text": "disease. Activity usually relums to normal in 3-5 days in patienis with milder edematous form of the",
+      "bbox": null,
+      "confidence": 0.935838520526886
+    },
+    {
+      "text": "Va e nthan pr nni an Psoc",
+      "bbox": null,
+      "confidence": 0.5267707705497742
+    },
+    {
+      "text": "formation. Approximately 20% of patients with Pancreatitis have nornal or near normal activity.",
+      "bbox": null,
+      "confidence": 0.9541664719581604
+    },
+    {
+      "text": "Hyperlipemic patients with Pancreutitis also show suriousy normal Amylase levels due to suppression of",
+      "bbox": null,
+      "confidence": 0.8991115689277649
+    },
+    {
+      "text": "Arylase setivity by riglyceride. Low Amylase levels are seen in Chronie Panereatitis, Congestive Heurt",
+      "bbox": null,
+      "confidence": 0.8520886301994324
+    },
+    {
+      "text": "failure, 2nd & 3ed trimesters of preynancy.",
+      "bbox": null,
+      "confidence": 0.9415327310562134
+    },
+    {
+      "text": "Gastrointestinal cancer & bone fractures.",
+      "bbox": null,
+      "confidence": 0.9435989856719971
+    },
+    {
+      "text": "SERUM LIPASE",
+      "bbox": null,
+      "confidence": 0.9428490996360779
+    },
+    {
+      "text": "Sample Type: Serum",
+      "bbox": null,
+      "confidence": 0.9715142846107483
+    },
+    {
+      "text": "un",
+      "bbox": null,
+      "confidence": 0.9792686104774475
+    },
+    {
+      "text": "82",
+      "bbox": null,
+      "confidence": 0.9994946718215942
+    },
+    {
+      "text": "13.0-60.0",
+      "bbox": null,
+      "confidence": 0.978392481803894
+    },
+    {
+      "text": "Enzymatic",
+      "bbox": null,
+      "confidence": 0.996087908744812
+    },
+    {
+      "text": "SERUM UPASE",
+      "bbox": null,
+      "confidence": 0.9600418210029602
+    },
+    {
+      "text": "COMMENTS:",
+      "bbox": null,
+      "confidence": 0.9988603591918945
+    },
+    {
+      "text": "Lioase mcesurements are uted in the ciagnasis and treatment ot diseases of she pancreas, such as acute",
+      "bbox": null,
+      "confidence": 0.9523600935935974
+    },
+    {
+      "text": "paricreatite, chroric pancreatidis, and oostrocton ef the pancreatic duct. In acute pancreatinis seru hipase aclwty",
+      "bbox": null,
+      "confidence": 0.8329081535339355
+    },
+    {
+      "text": "tends to bcoe dlevated & reains for abot  1 ays.increas lipas aco rarely last longer than 14",
+      "bbox": null,
+      "confidence": 0.5417157411575317
+    },
+    {
+      "text": "dey, and pralanged snereases suggest a poor prognosis or the presence of e cyst. Serum lipsse may also be",
+      "bbox": null,
+      "confidence": 0.6736639738082886
+    },
+    {
+      "text": "atd in patens with and paneeati, ebstun o th pane duct a non panreac conins",
+      "bbox": null,
+      "confidence": 0.49392029643058777
+    },
+    {
+      "text": "incuding renal diseases varibus adaminal diseases such as acute cholecystitn, intestinalobstruction or",
+      "bbox": null,
+      "confidence": 0.6201470494270325
+    },
+    {
+      "text": "n uan ee a ie a    &etai pn",
+      "bbox": null,
+      "confidence": 0.42329397797584534
+    },
+    {
+      "text": "undergone endoscopic retrograde cholangiopancreatography. Elevation of serum lipase actrvily in patients with",
+      "bbox": null,
+      "confidence": 0.8830618262290955
+    },
+    {
+      "text": "murhps strongly suggests significant pencreatic as well as salivary gland invotvement by the disease.",
+      "bbox": null,
+      "confidence": 0.9416009783744812
+    },
+    {
+      "text": "MB85.DCP",
+      "bbox": null,
+      "confidence": 0.8204888701438904
+    },
+    {
+      "text": "Page or d",
+      "bbox": null,
+      "confidence": 0.7424570322036743
+    },
+    {
+      "text": "Comultant Patholagist",
+      "bbox": null,
+      "confidence": 0.9083617329597473
+    }
+  ]
+}

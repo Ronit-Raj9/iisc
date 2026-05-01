@@ -1,0 +1,753 @@
+{
+  "text": "Visit ID\n: RC124354\nUHID/MR NO\nRegistration\n:23/1an/2026 03:07PM\nRC1.0000021563\nPatient Name\nCollected\n: 23/Jan/2026 03:09PM\nAge/Gender\nReceived\n: 23/Jan/2026 03;13PM\nRer Doctor\nS8YOMOD/M\nReported\n: 23/1an/2026 05:01PM\nChient Name\nStatus\n: Final Report\nClient Add\n+\nClient Code\n: 320\n4\nBarcode No\n: 10082595\nDEPARTMENT OF HAEMATOLOGY\nTest Name\nResult\nUnit\nBio. Ref. Range\nMethod\nCBC\nSample Type : WhOle BLOod EDTA\nHAEMOGLOBIN (HB)\n13.6\nUdl\n13.0-17.0\nCYANMETHEMOCLOBIN\nTOTAL LEUCOCYTE COUNT (TLC)\n7.55\n10°3/ut.\n4.0-10.0\nFlow cytometry\nNEUTROPHIL\n80\n%\n40-80\nLYMPHOCYTE\n13\n%\n20-40\nMONOCYTE\n06\n%\n2-10\nEOSINOPHIL\n01\n%\n1-6\nBASOPHIL\n00\n%\n<2\nABSOLUTE NEUTROPHIL COUNT\n6.04\n10*3/uL\n2.0-7.0\nAutomated Calculated\nABSOLUTE LYMPHOCYTE COUNT\n0.98\n103/uL\n1.0:3.0\nAutomated Calculated\nABSOLUTE MONOCYTE COUNT\n0.45\n10^3/uL\n0.2-1.0\nAutomated Calculated\nABSOLUTE EOSINOPHIL COUNT\n0.07\n10^3/uL\n0.02-0.5\nAutorated Calculated\nABSOLUTE BASOPHIL COUNT\n0.00\n10^3/uL\n0.02-0.1\nAutomated Calculated\nRBC COUNT(RED BLOOD CELL COUNT)\n4.18\nmillon/ul\n4.7-5.1\nOptical Flowcytometry\nPCV/HAEMATOCRIT\n40.8\n%\n40-45\nRBC pulse height\ndetection\nMCV\n97.8\nf4\n80-100\nAutomated/Calculated\nMCH\n32.6\npe\n26-34\nAutomated/Calculated\nMCHC\n33.3\nB/di\n32-36\nAutomated/Calculated\na\nRDW-CV\n11.3\n%\n11.6-14.0\nAutomated/Caliculated\n8 0 0 68\nRDW-5D\n46.2\nIL\n39-46\nCalculated\nPCT\n0.202\n56\n0.108-0.282\nMPV\n11.0\nfL\n7.0-12.0\nCalculated\nPDW\n15.6\ntL.\n9-17\nCalculated\nPLATELET COUNT\n255\n10^3/uL\n150-410\nOptical Flowcytometry\nMB8SDCP\nComsuitan Pathalogist\nMage 4",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 1493,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Visit ID",
+      "bbox": null,
+      "confidence": 0.938910186290741
+    },
+    {
+      "text": ": RC124354",
+      "bbox": null,
+      "confidence": 0.9477205276489258
+    },
+    {
+      "text": "UHID/MR NO",
+      "bbox": null,
+      "confidence": 0.9575017690658569
+    },
+    {
+      "text": "Registration",
+      "bbox": null,
+      "confidence": 0.9642422795295715
+    },
+    {
+      "text": ":23/1an/2026 03:07PM",
+      "bbox": null,
+      "confidence": 0.9725369215011597
+    },
+    {
+      "text": "RC1.0000021563",
+      "bbox": null,
+      "confidence": 0.9610075950622559
+    },
+    {
+      "text": "Patient Name",
+      "bbox": null,
+      "confidence": 0.9992483258247375
+    },
+    {
+      "text": "Collected",
+      "bbox": null,
+      "confidence": 0.9480559229850769
+    },
+    {
+      "text": ": 23/Jan/2026 03:09PM",
+      "bbox": null,
+      "confidence": 0.9490243196487427
+    },
+    {
+      "text": "Age/Gender",
+      "bbox": null,
+      "confidence": 0.9989935755729675
+    },
+    {
+      "text": "Received",
+      "bbox": null,
+      "confidence": 0.9726963043212891
+    },
+    {
+      "text": ": 23/Jan/2026 03;13PM",
+      "bbox": null,
+      "confidence": 0.920648455619812
+    },
+    {
+      "text": "Rer Doctor",
+      "bbox": null,
+      "confidence": 0.9306591749191284
+    },
+    {
+      "text": "S8YOMOD/M",
+      "bbox": null,
+      "confidence": 0.7656427025794983
+    },
+    {
+      "text": "Reported",
+      "bbox": null,
+      "confidence": 0.9989572763442993
+    },
+    {
+      "text": ": 23/1an/2026 05:01PM",
+      "bbox": null,
+      "confidence": 0.9523389935493469
+    },
+    {
+      "text": "Chient Name",
+      "bbox": null,
+      "confidence": 0.9489672183990479
+    },
+    {
+      "text": "Status",
+      "bbox": null,
+      "confidence": 0.9960560202598572
+    },
+    {
+      "text": ": Final Report",
+      "bbox": null,
+      "confidence": 0.9784618020057678
+    },
+    {
+      "text": "Client Add",
+      "bbox": null,
+      "confidence": 0.9261927604675293
+    },
+    {
+      "text": "+",
+      "bbox": null,
+      "confidence": 0.97772616147995
+    },
+    {
+      "text": "Client Code",
+      "bbox": null,
+      "confidence": 0.9768262505531311
+    },
+    {
+      "text": ": 320",
+      "bbox": null,
+      "confidence": 0.9620292782783508
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.7314791083335876
+    },
+    {
+      "text": "Barcode No",
+      "bbox": null,
+      "confidence": 0.9978971481323242
+    },
+    {
+      "text": ": 10082595",
+      "bbox": null,
+      "confidence": 0.918372631072998
+    },
+    {
+      "text": "DEPARTMENT OF HAEMATOLOGY",
+      "bbox": null,
+      "confidence": 0.9969524145126343
+    },
+    {
+      "text": "Test Name",
+      "bbox": null,
+      "confidence": 0.9988331198692322
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9936674237251282
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9990911483764648
+    },
+    {
+      "text": "Bio. Ref. Range",
+      "bbox": null,
+      "confidence": 0.9045455455780029
+    },
+    {
+      "text": "Method",
+      "bbox": null,
+      "confidence": 0.9991986155509949
+    },
+    {
+      "text": "CBC",
+      "bbox": null,
+      "confidence": 0.9828870296478271
+    },
+    {
+      "text": "Sample Type : WhOle BLOod EDTA",
+      "bbox": null,
+      "confidence": 0.8610389232635498
+    },
+    {
+      "text": "HAEMOGLOBIN (HB)",
+      "bbox": null,
+      "confidence": 0.9843577146530151
+    },
+    {
+      "text": "13.6",
+      "bbox": null,
+      "confidence": 0.9967905282974243
+    },
+    {
+      "text": "Udl",
+      "bbox": null,
+      "confidence": 0.8404416441917419
+    },
+    {
+      "text": "13.0-17.0",
+      "bbox": null,
+      "confidence": 0.9836595058441162
+    },
+    {
+      "text": "CYANMETHEMOCLOBIN",
+      "bbox": null,
+      "confidence": 0.9675002098083496
+    },
+    {
+      "text": "TOTAL LEUCOCYTE COUNT (TLC)",
+      "bbox": null,
+      "confidence": 0.9988847374916077
+    },
+    {
+      "text": "7.55",
+      "bbox": null,
+      "confidence": 0.9990774393081665
+    },
+    {
+      "text": "10°3/ut.",
+      "bbox": null,
+      "confidence": 0.7910753488540649
+    },
+    {
+      "text": "4.0-10.0",
+      "bbox": null,
+      "confidence": 0.9532033205032349
+    },
+    {
+      "text": "Flow cytometry",
+      "bbox": null,
+      "confidence": 0.9980280995368958
+    },
+    {
+      "text": "NEUTROPHIL",
+      "bbox": null,
+      "confidence": 0.9954978823661804
+    },
+    {
+      "text": "80",
+      "bbox": null,
+      "confidence": 0.9606215953826904
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9949209094047546
+    },
+    {
+      "text": "40-80",
+      "bbox": null,
+      "confidence": 0.9949321746826172
+    },
+    {
+      "text": "LYMPHOCYTE",
+      "bbox": null,
+      "confidence": 0.9990196228027344
+    },
+    {
+      "text": "13",
+      "bbox": null,
+      "confidence": 0.9995065331459045
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.996702253818512
+    },
+    {
+      "text": "20-40",
+      "bbox": null,
+      "confidence": 0.9996239542961121
+    },
+    {
+      "text": "MONOCYTE",
+      "bbox": null,
+      "confidence": 0.9992931485176086
+    },
+    {
+      "text": "06",
+      "bbox": null,
+      "confidence": 0.9931881427764893
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.6169980764389038
+    },
+    {
+      "text": "2-10",
+      "bbox": null,
+      "confidence": 0.9955429434776306
+    },
+    {
+      "text": "EOSINOPHIL",
+      "bbox": null,
+      "confidence": 0.9990090131759644
+    },
+    {
+      "text": "01",
+      "bbox": null,
+      "confidence": 0.9859706163406372
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9916519522666931
+    },
+    {
+      "text": "1-6",
+      "bbox": null,
+      "confidence": 0.9558941721916199
+    },
+    {
+      "text": "BASOPHIL",
+      "bbox": null,
+      "confidence": 0.9880713224411011
+    },
+    {
+      "text": "00",
+      "bbox": null,
+      "confidence": 0.9460014700889587
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.26053717732429504
+    },
+    {
+      "text": "<2",
+      "bbox": null,
+      "confidence": 0.924558699131012
+    },
+    {
+      "text": "ABSOLUTE NEUTROPHIL COUNT",
+      "bbox": null,
+      "confidence": 0.9986183047294617
+    },
+    {
+      "text": "6.04",
+      "bbox": null,
+      "confidence": 0.882928729057312
+    },
+    {
+      "text": "10*3/uL",
+      "bbox": null,
+      "confidence": 0.7942920327186584
+    },
+    {
+      "text": "2.0-7.0",
+      "bbox": null,
+      "confidence": 0.9664718508720398
+    },
+    {
+      "text": "Automated Calculated",
+      "bbox": null,
+      "confidence": 0.9758068919181824
+    },
+    {
+      "text": "ABSOLUTE LYMPHOCYTE COUNT",
+      "bbox": null,
+      "confidence": 0.9964317083358765
+    },
+    {
+      "text": "0.98",
+      "bbox": null,
+      "confidence": 0.9971150159835815
+    },
+    {
+      "text": "103/uL",
+      "bbox": null,
+      "confidence": 0.8265865445137024
+    },
+    {
+      "text": "1.0:3.0",
+      "bbox": null,
+      "confidence": 0.927577793598175
+    },
+    {
+      "text": "Automated Calculated",
+      "bbox": null,
+      "confidence": 0.9912605285644531
+    },
+    {
+      "text": "ABSOLUTE MONOCYTE COUNT",
+      "bbox": null,
+      "confidence": 0.9825437664985657
+    },
+    {
+      "text": "0.45",
+      "bbox": null,
+      "confidence": 0.9986869692802429
+    },
+    {
+      "text": "10^3/uL",
+      "bbox": null,
+      "confidence": 0.9336629509925842
+    },
+    {
+      "text": "0.2-1.0",
+      "bbox": null,
+      "confidence": 0.9955973029136658
+    },
+    {
+      "text": "Automated Calculated",
+      "bbox": null,
+      "confidence": 0.9997085332870483
+    },
+    {
+      "text": "ABSOLUTE EOSINOPHIL COUNT",
+      "bbox": null,
+      "confidence": 0.9976515769958496
+    },
+    {
+      "text": "0.07",
+      "bbox": null,
+      "confidence": 0.9998918771743774
+    },
+    {
+      "text": "10^3/uL",
+      "bbox": null,
+      "confidence": 0.9100302457809448
+    },
+    {
+      "text": "0.02-0.5",
+      "bbox": null,
+      "confidence": 0.9975508451461792
+    },
+    {
+      "text": "Autorated Calculated",
+      "bbox": null,
+      "confidence": 0.9781783819198608
+    },
+    {
+      "text": "ABSOLUTE BASOPHIL COUNT",
+      "bbox": null,
+      "confidence": 0.9983104467391968
+    },
+    {
+      "text": "0.00",
+      "bbox": null,
+      "confidence": 0.9997818470001221
+    },
+    {
+      "text": "10^3/uL",
+      "bbox": null,
+      "confidence": 0.916864275932312
+    },
+    {
+      "text": "0.02-0.1",
+      "bbox": null,
+      "confidence": 0.9422081708908081
+    },
+    {
+      "text": "Automated Calculated",
+      "bbox": null,
+      "confidence": 0.9984771013259888
+    },
+    {
+      "text": "RBC COUNT(RED BLOOD CELL COUNT)",
+      "bbox": null,
+      "confidence": 0.99183589220047
+    },
+    {
+      "text": "4.18",
+      "bbox": null,
+      "confidence": 0.9997342824935913
+    },
+    {
+      "text": "millon/ul",
+      "bbox": null,
+      "confidence": 0.8649733662605286
+    },
+    {
+      "text": "4.7-5.1",
+      "bbox": null,
+      "confidence": 0.9673952460289001
+    },
+    {
+      "text": "Optical Flowcytometry",
+      "bbox": null,
+      "confidence": 0.9924370646476746
+    },
+    {
+      "text": "PCV/HAEMATOCRIT",
+      "bbox": null,
+      "confidence": 0.9927904009819031
+    },
+    {
+      "text": "40.8",
+      "bbox": null,
+      "confidence": 0.9991851449012756
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9632827043533325
+    },
+    {
+      "text": "40-45",
+      "bbox": null,
+      "confidence": 0.9679691195487976
+    },
+    {
+      "text": "RBC pulse height",
+      "bbox": null,
+      "confidence": 0.9951144456863403
+    },
+    {
+      "text": "detection",
+      "bbox": null,
+      "confidence": 0.9997422099113464
+    },
+    {
+      "text": "MCV",
+      "bbox": null,
+      "confidence": 0.9525518417358398
+    },
+    {
+      "text": "97.8",
+      "bbox": null,
+      "confidence": 0.987075924873352
+    },
+    {
+      "text": "f4",
+      "bbox": null,
+      "confidence": 0.4585661292076111
+    },
+    {
+      "text": "80-100",
+      "bbox": null,
+      "confidence": 0.9994533658027649
+    },
+    {
+      "text": "Automated/Calculated",
+      "bbox": null,
+      "confidence": 0.9980462789535522
+    },
+    {
+      "text": "MCH",
+      "bbox": null,
+      "confidence": 0.9996150135993958
+    },
+    {
+      "text": "32.6",
+      "bbox": null,
+      "confidence": 0.9254574775695801
+    },
+    {
+      "text": "pe",
+      "bbox": null,
+      "confidence": 0.9084537029266357
+    },
+    {
+      "text": "26-34",
+      "bbox": null,
+      "confidence": 0.9984056353569031
+    },
+    {
+      "text": "Automated/Calculated",
+      "bbox": null,
+      "confidence": 0.9955560564994812
+    },
+    {
+      "text": "MCHC",
+      "bbox": null,
+      "confidence": 0.9937378764152527
+    },
+    {
+      "text": "33.3",
+      "bbox": null,
+      "confidence": 0.9934597611427307
+    },
+    {
+      "text": "B/di",
+      "bbox": null,
+      "confidence": 0.7137280106544495
+    },
+    {
+      "text": "32-36",
+      "bbox": null,
+      "confidence": 0.9921241998672485
+    },
+    {
+      "text": "Automated/Calculated",
+      "bbox": null,
+      "confidence": 0.9808210134506226
+    },
+    {
+      "text": "a",
+      "bbox": null,
+      "confidence": 0.6204192042350769
+    },
+    {
+      "text": "RDW-CV",
+      "bbox": null,
+      "confidence": 0.9994931817054749
+    },
+    {
+      "text": "11.3",
+      "bbox": null,
+      "confidence": 0.9991597533226013
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9861233234405518
+    },
+    {
+      "text": "11.6-14.0",
+      "bbox": null,
+      "confidence": 0.9565479755401611
+    },
+    {
+      "text": "Automated/Caliculated",
+      "bbox": null,
+      "confidence": 0.9751855731010437
+    },
+    {
+      "text": "8 0 0 68",
+      "bbox": null,
+      "confidence": 0.4805518388748169
+    },
+    {
+      "text": "RDW-5D",
+      "bbox": null,
+      "confidence": 0.9809557795524597
+    },
+    {
+      "text": "46.2",
+      "bbox": null,
+      "confidence": 0.9968224763870239
+    },
+    {
+      "text": "IL",
+      "bbox": null,
+      "confidence": 0.625018298625946
+    },
+    {
+      "text": "39-46",
+      "bbox": null,
+      "confidence": 0.9927080869674683
+    },
+    {
+      "text": "Calculated",
+      "bbox": null,
+      "confidence": 0.9997155070304871
+    },
+    {
+      "text": "PCT",
+      "bbox": null,
+      "confidence": 0.9965465664863586
+    },
+    {
+      "text": "0.202",
+      "bbox": null,
+      "confidence": 0.9360042810440063
+    },
+    {
+      "text": "56",
+      "bbox": null,
+      "confidence": 0.9574849605560303
+    },
+    {
+      "text": "0.108-0.282",
+      "bbox": null,
+      "confidence": 0.9934642314910889
+    },
+    {
+      "text": "MPV",
+      "bbox": null,
+      "confidence": 0.8300605416297913
+    },
+    {
+      "text": "11.0",
+      "bbox": null,
+      "confidence": 0.9940056204795837
+    },
+    {
+      "text": "fL",
+      "bbox": null,
+      "confidence": 0.9762771725654602
+    },
+    {
+      "text": "7.0-12.0",
+      "bbox": null,
+      "confidence": 0.9451391696929932
+    },
+    {
+      "text": "Calculated",
+      "bbox": null,
+      "confidence": 0.9985798597335815
+    },
+    {
+      "text": "PDW",
+      "bbox": null,
+      "confidence": 0.8578891754150391
+    },
+    {
+      "text": "15.6",
+      "bbox": null,
+      "confidence": 0.9989444017410278
+    },
+    {
+      "text": "tL.",
+      "bbox": null,
+      "confidence": 0.6256129145622253
+    },
+    {
+      "text": "9-17",
+      "bbox": null,
+      "confidence": 0.9600228071212769
+    },
+    {
+      "text": "Calculated",
+      "bbox": null,
+      "confidence": 0.9988695979118347
+    },
+    {
+      "text": "PLATELET COUNT",
+      "bbox": null,
+      "confidence": 0.9991031289100647
+    },
+    {
+      "text": "255",
+      "bbox": null,
+      "confidence": 0.9943485260009766
+    },
+    {
+      "text": "10^3/uL",
+      "bbox": null,
+      "confidence": 0.9734220504760742
+    },
+    {
+      "text": "150-410",
+      "bbox": null,
+      "confidence": 0.9942737221717834
+    },
+    {
+      "text": "Optical Flowcytometry",
+      "bbox": null,
+      "confidence": 0.9980396032333374
+    },
+    {
+      "text": "MB8SDCP",
+      "bbox": null,
+      "confidence": 0.8277485966682434
+    },
+    {
+      "text": "Comsuitan Pathalogist",
+      "bbox": null,
+      "confidence": 0.8822470903396606
+    },
+    {
+      "text": "Mage 4",
+      "bbox": null,
+      "confidence": 0.5770180821418762
+    }
+  ]
+}

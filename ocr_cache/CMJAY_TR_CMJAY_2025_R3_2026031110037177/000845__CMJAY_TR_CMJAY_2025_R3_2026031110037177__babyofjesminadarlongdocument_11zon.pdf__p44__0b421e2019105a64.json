@@ -1,0 +1,438 @@
+{
+  "text": "sart\nAgaAende\n1 mYOM C0rFeMale\nUD\n1U1-16670\nCaoe Ne\n6009ROV:\nady ipe\nO0\nWd61-0602000O11T\nHoe\naag adups\n:11/03/0006-04.10PM\nCaneaNo\nRuxport Date\n1110300008300u\nResiul\nUn\nBjciegics Hat Hanoe\nCBC (COMPLETE BLOOD COUNT)\n[eile Blood]\nCCLALETEHAEMOGRAM\n11.1\npiuid\n(125-18)\"\nELIDOLDENH)\nTOTAL LEUICDCYTE COUNTTTUC).\nm\n£4000-11090)\n14400\nDIFFERENTALLEUCOCYTE COUNTPLO\n%\n(49-78)\nNEVIROPHL\nLVMPHOLYIES\n5\n(20-4)\nHem Asiltr\no vi u\n(1-4)\nEOSTOPIES\n(2-10)\nMONOCTTE\n(0-0)\nnASOMEL\nMmComm\n(16.48)\nRE COUNT\n5549%\n:124\n%\nPCY\n78.2\n(-101]\nFL\nMCV\n(27-32)\n26.7\nMEH\nf\nIK\nimyti\n(e-2)\n£5'9\nIodiyantamm\n(35-4)\nFATELETICOUNT\nWs0\n48.9\nFL\n(35.96)\n19\n%\n(11-15)\nRDwaCv\n1\n(85-12)\n(9-17)\nPOW\nWisfiel ae\nSo P\n24h7\nAM HEH-MICKCELOGET\nwgctafaa\nHCM\nSENT",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 715,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "sart",
+      "bbox": null,
+      "confidence": 0.4561198353767395
+    },
+    {
+      "text": "AgaAende",
+      "bbox": null,
+      "confidence": 0.6520987749099731
+    },
+    {
+      "text": "1 mYOM C0rFeMale",
+      "bbox": null,
+      "confidence": 0.5643442869186401
+    },
+    {
+      "text": "UD",
+      "bbox": null,
+      "confidence": 0.6927661895751953
+    },
+    {
+      "text": "1U1-16670",
+      "bbox": null,
+      "confidence": 0.6510283946990967
+    },
+    {
+      "text": "Caoe Ne",
+      "bbox": null,
+      "confidence": 0.7791299819946289
+    },
+    {
+      "text": "6009ROV:",
+      "bbox": null,
+      "confidence": 0.6240749955177307
+    },
+    {
+      "text": "ady ipe",
+      "bbox": null,
+      "confidence": 0.42272377014160156
+    },
+    {
+      "text": "O0",
+      "bbox": null,
+      "confidence": 0.41155311465263367
+    },
+    {
+      "text": "Wd61-0602000O11T",
+      "bbox": null,
+      "confidence": 0.3917129635810852
+    },
+    {
+      "text": "Hoe",
+      "bbox": null,
+      "confidence": 0.31235870718955994
+    },
+    {
+      "text": "aag adups",
+      "bbox": null,
+      "confidence": 0.5364401340484619
+    },
+    {
+      "text": ":11/03/0006-04.10PM",
+      "bbox": null,
+      "confidence": 0.7381309270858765
+    },
+    {
+      "text": "CaneaNo",
+      "bbox": null,
+      "confidence": 0.4287007451057434
+    },
+    {
+      "text": "Ruxport Date",
+      "bbox": null,
+      "confidence": 0.8096792697906494
+    },
+    {
+      "text": "1110300008300u",
+      "bbox": null,
+      "confidence": 0.521075427532196
+    },
+    {
+      "text": "Resiul",
+      "bbox": null,
+      "confidence": 0.6728590130805969
+    },
+    {
+      "text": "Un",
+      "bbox": null,
+      "confidence": 0.8906792402267456
+    },
+    {
+      "text": "Bjciegics Hat Hanoe",
+      "bbox": null,
+      "confidence": 0.6356604695320129
+    },
+    {
+      "text": "CBC (COMPLETE BLOOD COUNT)",
+      "bbox": null,
+      "confidence": 0.9694649577140808
+    },
+    {
+      "text": "[eile Blood]",
+      "bbox": null,
+      "confidence": 0.6792240738868713
+    },
+    {
+      "text": "CCLALETEHAEMOGRAM",
+      "bbox": null,
+      "confidence": 0.910514235496521
+    },
+    {
+      "text": "11.1",
+      "bbox": null,
+      "confidence": 0.6244121789932251
+    },
+    {
+      "text": "piuid",
+      "bbox": null,
+      "confidence": 0.4026339650154114
+    },
+    {
+      "text": "(125-18)\"",
+      "bbox": null,
+      "confidence": 0.927314043045044
+    },
+    {
+      "text": "ELIDOLDENH)",
+      "bbox": null,
+      "confidence": 0.6875374913215637
+    },
+    {
+      "text": "TOTAL LEUICDCYTE COUNTTTUC).",
+      "bbox": null,
+      "confidence": 0.8531967997550964
+    },
+    {
+      "text": "m",
+      "bbox": null,
+      "confidence": 0.35816383361816406
+    },
+    {
+      "text": "£4000-11090)",
+      "bbox": null,
+      "confidence": 0.744239330291748
+    },
+    {
+      "text": "14400",
+      "bbox": null,
+      "confidence": 0.9968464970588684
+    },
+    {
+      "text": "DIFFERENTALLEUCOCYTE COUNTPLO",
+      "bbox": null,
+      "confidence": 0.9404296278953552
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.7273126840591431
+    },
+    {
+      "text": "(49-78)",
+      "bbox": null,
+      "confidence": 0.8100586533546448
+    },
+    {
+      "text": "NEVIROPHL",
+      "bbox": null,
+      "confidence": 0.9387761354446411
+    },
+    {
+      "text": "LVMPHOLYIES",
+      "bbox": null,
+      "confidence": 0.7272267937660217
+    },
+    {
+      "text": "5",
+      "bbox": null,
+      "confidence": 0.35110926628112793
+    },
+    {
+      "text": "(20-4)",
+      "bbox": null,
+      "confidence": 0.9125420451164246
+    },
+    {
+      "text": "Hem Asiltr",
+      "bbox": null,
+      "confidence": 0.3884393572807312
+    },
+    {
+      "text": "o vi u",
+      "bbox": null,
+      "confidence": 0.5211743712425232
+    },
+    {
+      "text": "(1-4)",
+      "bbox": null,
+      "confidence": 0.7124536633491516
+    },
+    {
+      "text": "EOSTOPIES",
+      "bbox": null,
+      "confidence": 0.6951386332511902
+    },
+    {
+      "text": "(2-10)",
+      "bbox": null,
+      "confidence": 0.8548946380615234
+    },
+    {
+      "text": "MONOCTTE",
+      "bbox": null,
+      "confidence": 0.9478999376296997
+    },
+    {
+      "text": "(0-0)",
+      "bbox": null,
+      "confidence": 0.8287947773933411
+    },
+    {
+      "text": "nASOMEL",
+      "bbox": null,
+      "confidence": 0.6926757097244263
+    },
+    {
+      "text": "MmComm",
+      "bbox": null,
+      "confidence": 0.5907200574874878
+    },
+    {
+      "text": "(16.48)",
+      "bbox": null,
+      "confidence": 0.7561882138252258
+    },
+    {
+      "text": "RE COUNT",
+      "bbox": null,
+      "confidence": 0.8525857925415039
+    },
+    {
+      "text": "5549%",
+      "bbox": null,
+      "confidence": 0.9478358030319214
+    },
+    {
+      "text": ":124",
+      "bbox": null,
+      "confidence": 0.8042808771133423
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9570131897926331
+    },
+    {
+      "text": "PCY",
+      "bbox": null,
+      "confidence": 0.9165931344032288
+    },
+    {
+      "text": "78.2",
+      "bbox": null,
+      "confidence": 0.965746283531189
+    },
+    {
+      "text": "(-101]",
+      "bbox": null,
+      "confidence": 0.7529332041740417
+    },
+    {
+      "text": "FL",
+      "bbox": null,
+      "confidence": 0.834042489528656
+    },
+    {
+      "text": "MCV",
+      "bbox": null,
+      "confidence": 0.9519939422607422
+    },
+    {
+      "text": "(27-32)",
+      "bbox": null,
+      "confidence": 0.9626888036727905
+    },
+    {
+      "text": "26.7",
+      "bbox": null,
+      "confidence": 0.9855468273162842
+    },
+    {
+      "text": "MEH",
+      "bbox": null,
+      "confidence": 0.5270923376083374
+    },
+    {
+      "text": "f",
+      "bbox": null,
+      "confidence": 0.5453187823295593
+    },
+    {
+      "text": "IK",
+      "bbox": null,
+      "confidence": 0.31351834535598755
+    },
+    {
+      "text": "imyti",
+      "bbox": null,
+      "confidence": 0.6113461852073669
+    },
+    {
+      "text": "(e-2)",
+      "bbox": null,
+      "confidence": 0.5737436413764954
+    },
+    {
+      "text": "£5'9",
+      "bbox": null,
+      "confidence": 0.7834709882736206
+    },
+    {
+      "text": "Iodiyantamm",
+      "bbox": null,
+      "confidence": 0.5824915766716003
+    },
+    {
+      "text": "(35-4)",
+      "bbox": null,
+      "confidence": 0.883553683757782
+    },
+    {
+      "text": "FATELETICOUNT",
+      "bbox": null,
+      "confidence": 0.8609982132911682
+    },
+    {
+      "text": "Ws0",
+      "bbox": null,
+      "confidence": 0.4881443977355957
+    },
+    {
+      "text": "48.9",
+      "bbox": null,
+      "confidence": 0.9683683514595032
+    },
+    {
+      "text": "FL",
+      "bbox": null,
+      "confidence": 0.6722762584686279
+    },
+    {
+      "text": "(35.96)",
+      "bbox": null,
+      "confidence": 0.7859260439872742
+    },
+    {
+      "text": "19",
+      "bbox": null,
+      "confidence": 0.3657074570655823
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.2577453553676605
+    },
+    {
+      "text": "(11-15)",
+      "bbox": null,
+      "confidence": 0.9986856579780579
+    },
+    {
+      "text": "RDwaCv",
+      "bbox": null,
+      "confidence": 0.5846788883209229
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.4661538898944855
+    },
+    {
+      "text": "(85-12)",
+      "bbox": null,
+      "confidence": 0.8720541000366211
+    },
+    {
+      "text": "(9-17)",
+      "bbox": null,
+      "confidence": 0.931027889251709
+    },
+    {
+      "text": "POW",
+      "bbox": null,
+      "confidence": 0.8053193092346191
+    },
+    {
+      "text": "Wisfiel ae",
+      "bbox": null,
+      "confidence": 0.5005514025688171
+    },
+    {
+      "text": "So P",
+      "bbox": null,
+      "confidence": 0.5489140748977661
+    },
+    {
+      "text": "24h7",
+      "bbox": null,
+      "confidence": 0.7403464913368225
+    },
+    {
+      "text": "AM HEH-MICKCELOGET",
+      "bbox": null,
+      "confidence": 0.6728473901748657
+    },
+    {
+      "text": "wgctafaa",
+      "bbox": null,
+      "confidence": 0.3743314743041992
+    },
+    {
+      "text": "HCM",
+      "bbox": null,
+      "confidence": 0.2688157260417938
+    },
+    {
+      "text": "SENT",
+      "bbox": null,
+      "confidence": 0.4008740186691284
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "text": "PICU\nAge/Sen 1Y 9M LD / 1\n13326\nDOA 1 11/03/2026 0Z 30 PM\nIP No 1 IP/25/1302\n820AM\nelo: cold f eongh\nC\nBonnion , Iunibab.lily\nAfbail\nched! Mir wheege\nPR. 122bpm\nRR. 30/min\nCus:\nNAD,\n11A.\nas(\n$Spρ\n.\nI\nlop 97°f\nT/1: 220P+DBR\nT/o: ≠x unination.\nlx stool persed\nCHILDREN WARD\n8kp down\nTomomow\nToday\nD0\nplan",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 302,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "PICU",
+      "bbox": null,
+      "confidence": 0.9998312592506409
+    },
+    {
+      "text": "Age/Sen 1Y 9M LD / 1",
+      "bbox": null,
+      "confidence": 0.7495242357254028
+    },
+    {
+      "text": "13326",
+      "bbox": null,
+      "confidence": 0.8185548782348633
+    },
+    {
+      "text": "DOA 1 11/03/2026 0Z 30 PM",
+      "bbox": null,
+      "confidence": 0.8825469017028809
+    },
+    {
+      "text": "IP No 1 IP/25/1302",
+      "bbox": null,
+      "confidence": 0.935749351978302
+    },
+    {
+      "text": "820AM",
+      "bbox": null,
+      "confidence": 0.844601035118103
+    },
+    {
+      "text": "elo: cold f eongh",
+      "bbox": null,
+      "confidence": 0.7530746459960938
+    },
+    {
+      "text": "C",
+      "bbox": null,
+      "confidence": 0.4618111848831177
+    },
+    {
+      "text": "Bonnion , Iunibab.lily",
+      "bbox": null,
+      "confidence": 0.5747317671775818
+    },
+    {
+      "text": "Afbail",
+      "bbox": null,
+      "confidence": 0.7562552094459534
+    },
+    {
+      "text": "ched! Mir wheege",
+      "bbox": null,
+      "confidence": 0.7092962861061096
+    },
+    {
+      "text": "PR. 122bpm",
+      "bbox": null,
+      "confidence": 0.8146417737007141
+    },
+    {
+      "text": "RR. 30/min",
+      "bbox": null,
+      "confidence": 0.7950429320335388
+    },
+    {
+      "text": "Cus:",
+      "bbox": null,
+      "confidence": 0.7379075288772583
+    },
+    {
+      "text": "NAD,",
+      "bbox": null,
+      "confidence": 0.7065063714981079
+    },
+    {
+      "text": "11A.",
+      "bbox": null,
+      "confidence": 0.6210299730300903
+    },
+    {
+      "text": "as(",
+      "bbox": null,
+      "confidence": 0.7227623462677002
+    },
+    {
+      "text": "$Spρ",
+      "bbox": null,
+      "confidence": 0.6098625659942627
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.2828817665576935
+    },
+    {
+      "text": "I",
+      "bbox": null,
+      "confidence": 0.4138524532318115
+    },
+    {
+      "text": "lop 97°f",
+      "bbox": null,
+      "confidence": 0.7111649513244629
+    },
+    {
+      "text": "T/1: 220P+DBR",
+      "bbox": null,
+      "confidence": 0.8011030554771423
+    },
+    {
+      "text": "T/o: ≠x unination.",
+      "bbox": null,
+      "confidence": 0.7503260374069214
+    },
+    {
+      "text": "lx stool persed",
+      "bbox": null,
+      "confidence": 0.7639071345329285
+    },
+    {
+      "text": "CHILDREN WARD",
+      "bbox": null,
+      "confidence": 0.9929157495498657
+    },
+    {
+      "text": "8kp down",
+      "bbox": null,
+      "confidence": 0.808993935585022
+    },
+    {
+      "text": "Tomomow",
+      "bbox": null,
+      "confidence": 0.9399508833885193
+    },
+    {
+      "text": "Today",
+      "bbox": null,
+      "confidence": 0.9767788648605347
+    },
+    {
+      "text": "D0",
+      "bbox": null,
+      "confidence": 0.6427525877952576
+    },
+    {
+      "text": "plan",
+      "bbox": null,
+      "confidence": 0.8205510377883911
+    }
+  ]
+}

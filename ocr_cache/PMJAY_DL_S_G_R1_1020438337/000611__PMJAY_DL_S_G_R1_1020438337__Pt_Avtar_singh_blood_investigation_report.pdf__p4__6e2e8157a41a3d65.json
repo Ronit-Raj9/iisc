@@ -1,0 +1,188 @@
+{
+  "text": "Visit ID\n: RC124354\nRegistration\n-23/2an/2026 03:08#1\nUHID/MR NO\nRC1.0000021563\nCollected\n:23/3an/2026 03:09PM\nPatient Name\nReceived\n:23/2an/2026 03:1.3PM\nAge/Gender\n:SBYOMOD/M\nReparted\n: 23/Jan/2026 0501PM\nRel Doctor\nStatus\nFinal Report\nClient Name\nClient Code\n320\nClent Add\nI\nBarcode No\n: 10082595\nDEPARTMENT OF BIOCHEMISTIY\nTest Name\nResult\nUnit\nnio. Ref. Range\nMethod\nDecangements in potassium levels canse imyneardial instability, leading to risds of potentielly fatal\narrhythumas.\nMBUS.R\n2\nCansaltan Patholoelict",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 518,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Visit ID",
+      "bbox": null,
+      "confidence": 0.954930305480957
+    },
+    {
+      "text": ": RC124354",
+      "bbox": null,
+      "confidence": 0.9508358836174011
+    },
+    {
+      "text": "Registration",
+      "bbox": null,
+      "confidence": 0.9993901252746582
+    },
+    {
+      "text": "-23/2an/2026 03:08#1",
+      "bbox": null,
+      "confidence": 0.8694761395454407
+    },
+    {
+      "text": "UHID/MR NO",
+      "bbox": null,
+      "confidence": 0.8535225987434387
+    },
+    {
+      "text": "RC1.0000021563",
+      "bbox": null,
+      "confidence": 0.9958016276359558
+    },
+    {
+      "text": "Collected",
+      "bbox": null,
+      "confidence": 0.9997963309288025
+    },
+    {
+      "text": ":23/3an/2026 03:09PM",
+      "bbox": null,
+      "confidence": 0.9115007519721985
+    },
+    {
+      "text": "Patient Name",
+      "bbox": null,
+      "confidence": 0.9648771286010742
+    },
+    {
+      "text": "Received",
+      "bbox": null,
+      "confidence": 0.998603880405426
+    },
+    {
+      "text": ":23/2an/2026 03:1.3PM",
+      "bbox": null,
+      "confidence": 0.8845008015632629
+    },
+    {
+      "text": "Age/Gender",
+      "bbox": null,
+      "confidence": 0.9961048364639282
+    },
+    {
+      "text": ":SBYOMOD/M",
+      "bbox": null,
+      "confidence": 0.9395208358764648
+    },
+    {
+      "text": "Reparted",
+      "bbox": null,
+      "confidence": 0.988108217716217
+    },
+    {
+      "text": ": 23/Jan/2026 0501PM",
+      "bbox": null,
+      "confidence": 0.9513691067695618
+    },
+    {
+      "text": "Rel Doctor",
+      "bbox": null,
+      "confidence": 0.9627712965011597
+    },
+    {
+      "text": "Status",
+      "bbox": null,
+      "confidence": 0.9997918605804443
+    },
+    {
+      "text": "Final Report",
+      "bbox": null,
+      "confidence": 0.9953745603561401
+    },
+    {
+      "text": "Client Name",
+      "bbox": null,
+      "confidence": 0.9853984713554382
+    },
+    {
+      "text": "Client Code",
+      "bbox": null,
+      "confidence": 0.9610611200332642
+    },
+    {
+      "text": "320",
+      "bbox": null,
+      "confidence": 0.9945025444030762
+    },
+    {
+      "text": "Clent Add",
+      "bbox": null,
+      "confidence": 0.9596893787384033
+    },
+    {
+      "text": "I",
+      "bbox": null,
+      "confidence": 0.5257607102394104
+    },
+    {
+      "text": "Barcode No",
+      "bbox": null,
+      "confidence": 0.9794982671737671
+    },
+    {
+      "text": ": 10082595",
+      "bbox": null,
+      "confidence": 0.9310741424560547
+    },
+    {
+      "text": "DEPARTMENT OF BIOCHEMISTIY",
+      "bbox": null,
+      "confidence": 0.9756139516830444
+    },
+    {
+      "text": "Test Name",
+      "bbox": null,
+      "confidence": 0.9939427971839905
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9996739029884338
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9953827261924744
+    },
+    {
+      "text": "nio. Ref. Range",
+      "bbox": null,
+      "confidence": 0.9266342520713806
+    },
+    {
+      "text": "Method",
+      "bbox": null,
+      "confidence": 0.999687135219574
+    },
+    {
+      "text": "Decangements in potassium levels canse imyneardial instability, leading to risds of potentielly fatal",
+      "bbox": null,
+      "confidence": 0.9301987290382385
+    },
+    {
+      "text": "arrhythumas.",
+      "bbox": null,
+      "confidence": 0.8268763422966003
+    },
+    {
+      "text": "MBUS.R",
+      "bbox": null,
+      "confidence": 0.5730424523353577
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.4444328546524048
+    },
+    {
+      "text": "Cansaltan Patholoelict",
+      "bbox": null,
+      "confidence": 0.7353031039237976
+    }
+  ]
+}

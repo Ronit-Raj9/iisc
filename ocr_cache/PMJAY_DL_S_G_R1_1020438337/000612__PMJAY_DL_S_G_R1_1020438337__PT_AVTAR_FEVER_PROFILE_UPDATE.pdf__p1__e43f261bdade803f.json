@@ -1,0 +1,193 @@
+{
+  "text": "PATIENT NAME\n:\nCOLLECTED\n: 22-01-2026 10:50PM\nAGE /GENDER\n: 58YRS/M\nRECEIVED\n: 22-01-2026 10:55PM\nREF. DOCTOR\n:\nREPORTED\n: 23-01-2026 12:35AM\nUHID\n: 1767/UHIDHNO\nSTATUS\n: FINAL REPORT\nIPD\n: 165/IPD25HO\nCATEGORY\n: ICU\nDATE\n: 22-01-2026\nLAB SERIAL NO\n: COHO2072\nDEPARTMENT OF PARASITOLOGY\nMALARIA ANTIGEN CARD TEST:\nInvestigations\nResult\nBio Ref Interval\nPLASMODIUM VIVAX\nNEGATIVE\nNEGATIVE\nPLASMODIUM\nNEGATIVE\nNEGATIVE\nFALCIPARUM\n(MD PATHOLOGIST)",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 444,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "PATIENT NAME",
+      "bbox": null,
+      "confidence": 0.999639093875885
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.999413013458252
+    },
+    {
+      "text": "COLLECTED",
+      "bbox": null,
+      "confidence": 0.9999547600746155
+    },
+    {
+      "text": ": 22-01-2026 10:50PM",
+      "bbox": null,
+      "confidence": 0.9718643426895142
+    },
+    {
+      "text": "AGE /GENDER",
+      "bbox": null,
+      "confidence": 0.9771772027015686
+    },
+    {
+      "text": ": 58YRS/M",
+      "bbox": null,
+      "confidence": 0.994670033454895
+    },
+    {
+      "text": "RECEIVED",
+      "bbox": null,
+      "confidence": 0.9999338388442993
+    },
+    {
+      "text": ": 22-01-2026 10:55PM",
+      "bbox": null,
+      "confidence": 0.9925557971000671
+    },
+    {
+      "text": "REF. DOCTOR",
+      "bbox": null,
+      "confidence": 0.9935966730117798
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.9997754693031311
+    },
+    {
+      "text": "REPORTED",
+      "bbox": null,
+      "confidence": 0.9999369382858276
+    },
+    {
+      "text": ": 23-01-2026 12:35AM",
+      "bbox": null,
+      "confidence": 0.9775352478027344
+    },
+    {
+      "text": "UHID",
+      "bbox": null,
+      "confidence": 0.9996811151504517
+    },
+    {
+      "text": ": 1767/UHIDHNO",
+      "bbox": null,
+      "confidence": 0.9995204210281372
+    },
+    {
+      "text": "STATUS",
+      "bbox": null,
+      "confidence": 0.9998605251312256
+    },
+    {
+      "text": ": FINAL REPORT",
+      "bbox": null,
+      "confidence": 0.957636296749115
+    },
+    {
+      "text": "IPD",
+      "bbox": null,
+      "confidence": 0.9999101758003235
+    },
+    {
+      "text": ": 165/IPD25HO",
+      "bbox": null,
+      "confidence": 0.9791667461395264
+    },
+    {
+      "text": "CATEGORY",
+      "bbox": null,
+      "confidence": 0.9998965263366699
+    },
+    {
+      "text": ": ICU",
+      "bbox": null,
+      "confidence": 0.9927839040756226
+    },
+    {
+      "text": "DATE",
+      "bbox": null,
+      "confidence": 0.9996325373649597
+    },
+    {
+      "text": ": 22-01-2026",
+      "bbox": null,
+      "confidence": 0.9822406768798828
+    },
+    {
+      "text": "LAB SERIAL NO",
+      "bbox": null,
+      "confidence": 0.9957654476165771
+    },
+    {
+      "text": ": COHO2072",
+      "bbox": null,
+      "confidence": 0.9857679605484009
+    },
+    {
+      "text": "DEPARTMENT OF PARASITOLOGY",
+      "bbox": null,
+      "confidence": 0.9888957738876343
+    },
+    {
+      "text": "MALARIA ANTIGEN CARD TEST:",
+      "bbox": null,
+      "confidence": 0.9923841953277588
+    },
+    {
+      "text": "Investigations",
+      "bbox": null,
+      "confidence": 0.9999663233757019
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9757838249206543
+    },
+    {
+      "text": "Bio Ref Interval",
+      "bbox": null,
+      "confidence": 0.9991207718849182
+    },
+    {
+      "text": "PLASMODIUM VIVAX",
+      "bbox": null,
+      "confidence": 0.9977959394454956
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9999454617500305
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9999039173126221
+    },
+    {
+      "text": "PLASMODIUM",
+      "bbox": null,
+      "confidence": 0.9999310374259949
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.999941349029541
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9999198913574219
+    },
+    {
+      "text": "FALCIPARUM",
+      "bbox": null,
+      "confidence": 0.9999442100524902
+    },
+    {
+      "text": "(MD PATHOLOGIST)",
+      "bbox": null,
+      "confidence": 0.9822306632995605
+    }
+  ]
+}

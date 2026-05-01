@@ -1,0 +1,348 @@
+{
+  "text": "DICT\n/ 00 W6 AI I/\nO SS SOOCE\nWd 0E-20 9202/E0/11\nHatne\nF\"ON dI\nJept/Ut\nBed / Ward No.:\nDr. Name:\nPICU\nu(3|26\n4:30PM\nNo ale enents.\nPle: Boky is conselows but innibble\nAfe brile.\nPR: 123bpm\nehead: chm\n-\nRR: 37/mmin\naus:9,32①\nSp02: 93°% in RA\nP/A:Bs,Sof8.\nTemp: 9=°8\nR CST.\n12.3.26\nslc\n(2:10pm)\nLowerld\nshyeRaex5de\nimtable\nLeryly.\nde- Baby 13\nbacku[fmt\nnenuel\nsheel\n2 dog\nLast parsed\nLoos]\nthen\nPR - 120 bpm\nchelt\ncleer\n11322\nT0-14.9K\nRR - 29/mn\nP9-\nGS.\nsalt.\nCL\nSo 9a4\ndpr-926R4\nvcay\ncamprerstion\nTup-98.1F\ney\nC7EA\ney\nT.8 -DBF+583-\nC\ny.e so\nDay2\n2BD\nTo 3 Ame un\n-oy\nhtiln\nusomg\nWn\nporand",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 587,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "DICT",
+      "bbox": null,
+      "confidence": 0.6599273681640625
+    },
+    {
+      "text": "/ 00 W6 AI I/",
+      "bbox": null,
+      "confidence": 0.5146424770355225
+    },
+    {
+      "text": "O SS SOOCE",
+      "bbox": null,
+      "confidence": 0.41350317001342773
+    },
+    {
+      "text": "Wd 0E-20 9202/E0/11",
+      "bbox": null,
+      "confidence": 0.740669846534729
+    },
+    {
+      "text": "Hatne",
+      "bbox": null,
+      "confidence": 0.19452354311943054
+    },
+    {
+      "text": "F\"ON dI",
+      "bbox": null,
+      "confidence": 0.6214371919631958
+    },
+    {
+      "text": "Jept/Ut",
+      "bbox": null,
+      "confidence": 0.7825620770454407
+    },
+    {
+      "text": "Bed / Ward No.:",
+      "bbox": null,
+      "confidence": 0.9654048085212708
+    },
+    {
+      "text": "Dr. Name:",
+      "bbox": null,
+      "confidence": 0.9673641920089722
+    },
+    {
+      "text": "PICU",
+      "bbox": null,
+      "confidence": 0.9996480345726013
+    },
+    {
+      "text": "u(3|26",
+      "bbox": null,
+      "confidence": 0.6913660168647766
+    },
+    {
+      "text": "4:30PM",
+      "bbox": null,
+      "confidence": 0.9355387687683105
+    },
+    {
+      "text": "No ale enents.",
+      "bbox": null,
+      "confidence": 0.7356778979301453
+    },
+    {
+      "text": "Ple: Boky is conselows but innibble",
+      "bbox": null,
+      "confidence": 0.7139648199081421
+    },
+    {
+      "text": "Afe brile.",
+      "bbox": null,
+      "confidence": 0.7857106924057007
+    },
+    {
+      "text": "PR: 123bpm",
+      "bbox": null,
+      "confidence": 0.9331291317939758
+    },
+    {
+      "text": "ehead: chm",
+      "bbox": null,
+      "confidence": 0.7366350889205933
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.962040364742279
+    },
+    {
+      "text": "RR: 37/mmin",
+      "bbox": null,
+      "confidence": 0.8060373067855835
+    },
+    {
+      "text": "aus:9,32①",
+      "bbox": null,
+      "confidence": 0.5802541375160217
+    },
+    {
+      "text": "Sp02: 93°% in RA",
+      "bbox": null,
+      "confidence": 0.7425963282585144
+    },
+    {
+      "text": "P/A:Bs,Sof8.",
+      "bbox": null,
+      "confidence": 0.6463221907615662
+    },
+    {
+      "text": "Temp: 9=°8",
+      "bbox": null,
+      "confidence": 0.6014551520347595
+    },
+    {
+      "text": "R CST.",
+      "bbox": null,
+      "confidence": 0.6993452906608582
+    },
+    {
+      "text": "12.3.26",
+      "bbox": null,
+      "confidence": 0.9314984679222107
+    },
+    {
+      "text": "slc",
+      "bbox": null,
+      "confidence": 0.7307454943656921
+    },
+    {
+      "text": "(2:10pm)",
+      "bbox": null,
+      "confidence": 0.7667378783226013
+    },
+    {
+      "text": "Lowerld",
+      "bbox": null,
+      "confidence": 0.9929788708686829
+    },
+    {
+      "text": "shyeRaex5de",
+      "bbox": null,
+      "confidence": 0.7584078311920166
+    },
+    {
+      "text": "imtable",
+      "bbox": null,
+      "confidence": 0.905635416507721
+    },
+    {
+      "text": "Leryly.",
+      "bbox": null,
+      "confidence": 0.8163467645645142
+    },
+    {
+      "text": "de- Baby 13",
+      "bbox": null,
+      "confidence": 0.847430944442749
+    },
+    {
+      "text": "backu[fmt",
+      "bbox": null,
+      "confidence": 0.7754571437835693
+    },
+    {
+      "text": "nenuel",
+      "bbox": null,
+      "confidence": 0.7353873252868652
+    },
+    {
+      "text": "sheel",
+      "bbox": null,
+      "confidence": 0.8261016011238098
+    },
+    {
+      "text": "2 dog",
+      "bbox": null,
+      "confidence": 0.7883580923080444
+    },
+    {
+      "text": "Last parsed",
+      "bbox": null,
+      "confidence": 0.8411493301391602
+    },
+    {
+      "text": "Loos]",
+      "bbox": null,
+      "confidence": 0.6921724081039429
+    },
+    {
+      "text": "then",
+      "bbox": null,
+      "confidence": 0.8769887685775757
+    },
+    {
+      "text": "PR - 120 bpm",
+      "bbox": null,
+      "confidence": 0.7369484305381775
+    },
+    {
+      "text": "chelt",
+      "bbox": null,
+      "confidence": 0.6438378095626831
+    },
+    {
+      "text": "cleer",
+      "bbox": null,
+      "confidence": 0.8236398696899414
+    },
+    {
+      "text": "11322",
+      "bbox": null,
+      "confidence": 0.6996878385543823
+    },
+    {
+      "text": "T0-14.9K",
+      "bbox": null,
+      "confidence": 0.7713478207588196
+    },
+    {
+      "text": "RR - 29/mn",
+      "bbox": null,
+      "confidence": 0.7914593815803528
+    },
+    {
+      "text": "P9-",
+      "bbox": null,
+      "confidence": 0.7395572066307068
+    },
+    {
+      "text": "GS.",
+      "bbox": null,
+      "confidence": 0.45774197578430176
+    },
+    {
+      "text": "salt.",
+      "bbox": null,
+      "confidence": 0.7109668850898743
+    },
+    {
+      "text": "CL",
+      "bbox": null,
+      "confidence": 0.6142728328704834
+    },
+    {
+      "text": "So 9a4",
+      "bbox": null,
+      "confidence": 0.6643339991569519
+    },
+    {
+      "text": "dpr-926R4",
+      "bbox": null,
+      "confidence": 0.643322765827179
+    },
+    {
+      "text": "vcay",
+      "bbox": null,
+      "confidence": 0.46391212940216064
+    },
+    {
+      "text": "camprerstion",
+      "bbox": null,
+      "confidence": 0.822123110294342
+    },
+    {
+      "text": "Tup-98.1F",
+      "bbox": null,
+      "confidence": 0.8357913494110107
+    },
+    {
+      "text": "ey",
+      "bbox": null,
+      "confidence": 0.39777785539627075
+    },
+    {
+      "text": "C7EA",
+      "bbox": null,
+      "confidence": 0.5021806955337524
+    },
+    {
+      "text": "ey",
+      "bbox": null,
+      "confidence": 0.750023603439331
+    },
+    {
+      "text": "T.8 -DBF+583-",
+      "bbox": null,
+      "confidence": 0.8259376883506775
+    },
+    {
+      "text": "C",
+      "bbox": null,
+      "confidence": 0.5399642586708069
+    },
+    {
+      "text": "y.e so",
+      "bbox": null,
+      "confidence": 0.4918510913848877
+    },
+    {
+      "text": "Day2",
+      "bbox": null,
+      "confidence": 0.9382886290550232
+    },
+    {
+      "text": "2BD",
+      "bbox": null,
+      "confidence": 0.48933088779449463
+    },
+    {
+      "text": "To 3 Ame un",
+      "bbox": null,
+      "confidence": 0.646230936050415
+    },
+    {
+      "text": "-oy",
+      "bbox": null,
+      "confidence": 0.8311794400215149
+    },
+    {
+      "text": "htiln",
+      "bbox": null,
+      "confidence": 0.4331684708595276
+    },
+    {
+      "text": "usomg",
+      "bbox": null,
+      "confidence": 0.5466638803482056
+    },
+    {
+      "text": "Wn",
+      "bbox": null,
+      "confidence": 0.2806603014469147
+    },
+    {
+      "text": "porand",
+      "bbox": null,
+      "confidence": 0.8173806071281433
+    }
+  ]
+}

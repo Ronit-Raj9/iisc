@@ -1,0 +1,98 @@
+{
+  "text": "12\nMocSon: 1Y SM 1D/F\nPPH\n46o: wil 8 emngh.\nUOK\nbnion, linibbilty 6.\nAfbails\nclud 1 Him shaige\n16: 1eabpm\n2407\nKh 30/mi\nn:)\nSpa: 13 l\nTp 978\nT1: 2s0l + per\nThe: dy uniatio,\nby stl posed.\n¤",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 188,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "12",
+      "bbox": null,
+      "confidence": 0.6201231479644775
+    },
+    {
+      "text": "MocSon: 1Y SM 1D/F",
+      "bbox": null,
+      "confidence": 0.7016968727111816
+    },
+    {
+      "text": "PPH",
+      "bbox": null,
+      "confidence": 0.5765051245689392
+    },
+    {
+      "text": "46o: wil 8 emngh.",
+      "bbox": null,
+      "confidence": 0.6480221748352051
+    },
+    {
+      "text": "UOK",
+      "bbox": null,
+      "confidence": 0.4377625286579132
+    },
+    {
+      "text": "bnion, linibbilty 6.",
+      "bbox": null,
+      "confidence": 0.6074850559234619
+    },
+    {
+      "text": "Afbails",
+      "bbox": null,
+      "confidence": 0.6249152421951294
+    },
+    {
+      "text": "clud 1 Him shaige",
+      "bbox": null,
+      "confidence": 0.686091423034668
+    },
+    {
+      "text": "16: 1eabpm",
+      "bbox": null,
+      "confidence": 0.4703086316585541
+    },
+    {
+      "text": "2407",
+      "bbox": null,
+      "confidence": 0.46681350469589233
+    },
+    {
+      "text": "Kh 30/mi",
+      "bbox": null,
+      "confidence": 0.5950196981430054
+    },
+    {
+      "text": "n:)",
+      "bbox": null,
+      "confidence": 0.6290248036384583
+    },
+    {
+      "text": "Spa: 13 l",
+      "bbox": null,
+      "confidence": 0.45968422293663025
+    },
+    {
+      "text": "Tp 978",
+      "bbox": null,
+      "confidence": 0.5283387303352356
+    },
+    {
+      "text": "T1: 2s0l + per",
+      "bbox": null,
+      "confidence": 0.5441979765892029
+    },
+    {
+      "text": "The: dy uniatio,",
+      "bbox": null,
+      "confidence": 0.7235387563705444
+    },
+    {
+      "text": "by stl posed.",
+      "bbox": null,
+      "confidence": 0.642890214920044
+    },
+    {
+      "text": "¤",
+      "bbox": null,
+      "confidence": 0.22139006853103638
+    }
+  ]
+}

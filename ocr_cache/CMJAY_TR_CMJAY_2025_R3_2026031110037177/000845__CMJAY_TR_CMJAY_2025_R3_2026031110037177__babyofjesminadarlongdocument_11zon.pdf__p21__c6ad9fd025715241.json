@@ -1,0 +1,208 @@
+{
+  "text": "n\nWHg\n4\nP\n4\nar\nPhe\nHOI\nrylea\nSAIP\nP1\nITC\nar}$\n9Am\nU2\nA\nta\ntareg\nFoam\n•t\n*\n1anJa1\nThe\n111\n1t4n\np ir=4\nTy\n\"to.\nam\n2640\n1204s\n10\n1404\n1Am\nAer\n4\nItan ye\n2ne\n7 t*\n1",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 159,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "n",
+      "bbox": null,
+      "confidence": 0.2136467546224594
+    },
+    {
+      "text": "WHg",
+      "bbox": null,
+      "confidence": 0.3875178098678589
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.5205990076065063
+    },
+    {
+      "text": "P",
+      "bbox": null,
+      "confidence": 0.22565405070781708
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.4819431006908417
+    },
+    {
+      "text": "ar",
+      "bbox": null,
+      "confidence": 0.23353585600852966
+    },
+    {
+      "text": "Phe",
+      "bbox": null,
+      "confidence": 0.4600311815738678
+    },
+    {
+      "text": "HOI",
+      "bbox": null,
+      "confidence": 0.5002539157867432
+    },
+    {
+      "text": "rylea",
+      "bbox": null,
+      "confidence": 0.711342453956604
+    },
+    {
+      "text": "SAIP",
+      "bbox": null,
+      "confidence": 0.7087163925170898
+    },
+    {
+      "text": "P1",
+      "bbox": null,
+      "confidence": 0.6159616112709045
+    },
+    {
+      "text": "ITC",
+      "bbox": null,
+      "confidence": 0.45583605766296387
+    },
+    {
+      "text": "ar}$",
+      "bbox": null,
+      "confidence": 0.6061410903930664
+    },
+    {
+      "text": "9Am",
+      "bbox": null,
+      "confidence": 0.6447756886482239
+    },
+    {
+      "text": "U2",
+      "bbox": null,
+      "confidence": 0.20918336510658264
+    },
+    {
+      "text": "A",
+      "bbox": null,
+      "confidence": 0.5577841997146606
+    },
+    {
+      "text": "ta",
+      "bbox": null,
+      "confidence": 0.2619556784629822
+    },
+    {
+      "text": "tareg",
+      "bbox": null,
+      "confidence": 0.5700989961624146
+    },
+    {
+      "text": "Foam",
+      "bbox": null,
+      "confidence": 0.401078999042511
+    },
+    {
+      "text": "•t",
+      "bbox": null,
+      "confidence": 0.30755728483200073
+    },
+    {
+      "text": "*",
+      "bbox": null,
+      "confidence": 0.4801788926124573
+    },
+    {
+      "text": "1anJa1",
+      "bbox": null,
+      "confidence": 0.39322254061698914
+    },
+    {
+      "text": "The",
+      "bbox": null,
+      "confidence": 0.7659446597099304
+    },
+    {
+      "text": "111",
+      "bbox": null,
+      "confidence": 0.6888556480407715
+    },
+    {
+      "text": "1t4n",
+      "bbox": null,
+      "confidence": 0.4894946217536926
+    },
+    {
+      "text": "p ir=4",
+      "bbox": null,
+      "confidence": 0.512505054473877
+    },
+    {
+      "text": "Ty",
+      "bbox": null,
+      "confidence": 0.6029899716377258
+    },
+    {
+      "text": "\"to.",
+      "bbox": null,
+      "confidence": 0.5023049116134644
+    },
+    {
+      "text": "am",
+      "bbox": null,
+      "confidence": 0.41251257061958313
+    },
+    {
+      "text": "2640",
+      "bbox": null,
+      "confidence": 0.7824236154556274
+    },
+    {
+      "text": "1204s",
+      "bbox": null,
+      "confidence": 0.5743260979652405
+    },
+    {
+      "text": "10",
+      "bbox": null,
+      "confidence": 0.35124391317367554
+    },
+    {
+      "text": "1404",
+      "bbox": null,
+      "confidence": 0.42779579758644104
+    },
+    {
+      "text": "1Am",
+      "bbox": null,
+      "confidence": 0.6109428405761719
+    },
+    {
+      "text": "Aer",
+      "bbox": null,
+      "confidence": 0.40311160683631897
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.4118863642215729
+    },
+    {
+      "text": "Itan ye",
+      "bbox": null,
+      "confidence": 0.7034245133399963
+    },
+    {
+      "text": "2ne",
+      "bbox": null,
+      "confidence": 0.2709316313266754
+    },
+    {
+      "text": "7 t*",
+      "bbox": null,
+      "confidence": 0.46806517243385315
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.45640048384666443
+    }
+  ]
+}

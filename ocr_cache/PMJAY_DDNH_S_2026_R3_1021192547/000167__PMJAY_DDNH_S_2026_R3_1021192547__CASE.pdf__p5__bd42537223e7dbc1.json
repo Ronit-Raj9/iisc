@@ -1,0 +1,433 @@
+{
+  "text": "Age\n10 4\nenteric feyer\nSex\n3\nWard:mw\nDiagnosis\nMRD NO :121959\nDOA ≠12126\nBed No.: 07\nDate:812126\nTime\nT\nP\nR\nBP\nSPO,\nTime\nIntake\nIV\nOral/RT\nTime\nUrine\nStool\nVomiti\nAspirate\nTREATMENT\nSign. of\n27hay\nS S/Nurse\nHO8\n120\n-26\n-\n99.9.\nAm\n328\n130\n-5\na1\nFluids Advisedo p@ ssmhe\n-\nH\neam\nnep\nm\n3mb\n26\n10\ns0h6\n-\nRx\nH\n272\n78226\n)\n98\ni\no\n02\nrgnoe 1gex\nsohr\n6n0\nScoly\nc\npc\n02\nb Arithomyen s 00\nSmbrox 235m\nSeb7e\nORS\nvital gonitered\nAdo\nHEALING HANDS, CARING HEARTS\nThabal l\nDoor\nease of conditioni\nng to the death, bu\n\\f}$\nYes\nn\n8\nir Male\nSister VC\n1 pages=30",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 544,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Age",
+      "bbox": null,
+      "confidence": 0.9944241046905518
+    },
+    {
+      "text": "10 4",
+      "bbox": null,
+      "confidence": 0.7102891206741333
+    },
+    {
+      "text": "enteric feyer",
+      "bbox": null,
+      "confidence": 0.8719375133514404
+    },
+    {
+      "text": "Sex",
+      "bbox": null,
+      "confidence": 0.9997525811195374
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.5948861241340637
+    },
+    {
+      "text": "Ward:mw",
+      "bbox": null,
+      "confidence": 0.9353809356689453
+    },
+    {
+      "text": "Diagnosis",
+      "bbox": null,
+      "confidence": 0.9920724034309387
+    },
+    {
+      "text": "MRD NO :121959",
+      "bbox": null,
+      "confidence": 0.9329989552497864
+    },
+    {
+      "text": "DOA ≠12126",
+      "bbox": null,
+      "confidence": 0.8876732587814331
+    },
+    {
+      "text": "Bed No.: 07",
+      "bbox": null,
+      "confidence": 0.798715353012085
+    },
+    {
+      "text": "Date:812126",
+      "bbox": null,
+      "confidence": 0.8347871899604797
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9998279213905334
+    },
+    {
+      "text": "T",
+      "bbox": null,
+      "confidence": 0.992637038230896
+    },
+    {
+      "text": "P",
+      "bbox": null,
+      "confidence": 0.6477261781692505
+    },
+    {
+      "text": "R",
+      "bbox": null,
+      "confidence": 0.9997908473014832
+    },
+    {
+      "text": "BP",
+      "bbox": null,
+      "confidence": 0.9978213906288147
+    },
+    {
+      "text": "SPO,",
+      "bbox": null,
+      "confidence": 0.9655755758285522
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9980317950248718
+    },
+    {
+      "text": "Intake",
+      "bbox": null,
+      "confidence": 0.9968255162239075
+    },
+    {
+      "text": "IV",
+      "bbox": null,
+      "confidence": 0.9772120714187622
+    },
+    {
+      "text": "Oral/RT",
+      "bbox": null,
+      "confidence": 0.9509214162826538
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9996987581253052
+    },
+    {
+      "text": "Urine",
+      "bbox": null,
+      "confidence": 0.9998372197151184
+    },
+    {
+      "text": "Stool",
+      "bbox": null,
+      "confidence": 0.9634655714035034
+    },
+    {
+      "text": "Vomiti",
+      "bbox": null,
+      "confidence": 0.8948515057563782
+    },
+    {
+      "text": "Aspirate",
+      "bbox": null,
+      "confidence": 0.8460326790809631
+    },
+    {
+      "text": "TREATMENT",
+      "bbox": null,
+      "confidence": 0.9991123676300049
+    },
+    {
+      "text": "Sign. of",
+      "bbox": null,
+      "confidence": 0.9716789722442627
+    },
+    {
+      "text": "27hay",
+      "bbox": null,
+      "confidence": 0.34884175658226013
+    },
+    {
+      "text": "S S/Nurse",
+      "bbox": null,
+      "confidence": 0.7506200075149536
+    },
+    {
+      "text": "HO8",
+      "bbox": null,
+      "confidence": 0.5838791131973267
+    },
+    {
+      "text": "120",
+      "bbox": null,
+      "confidence": 0.9877497553825378
+    },
+    {
+      "text": "-26",
+      "bbox": null,
+      "confidence": 0.9828316569328308
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.9704693555831909
+    },
+    {
+      "text": "99.9.",
+      "bbox": null,
+      "confidence": 0.7571492195129395
+    },
+    {
+      "text": "Am",
+      "bbox": null,
+      "confidence": 0.6962504386901855
+    },
+    {
+      "text": "328",
+      "bbox": null,
+      "confidence": 0.5703245997428894
+    },
+    {
+      "text": "130",
+      "bbox": null,
+      "confidence": 0.9990670680999756
+    },
+    {
+      "text": "-5",
+      "bbox": null,
+      "confidence": 0.8339632749557495
+    },
+    {
+      "text": "a1",
+      "bbox": null,
+      "confidence": 0.6376397013664246
+    },
+    {
+      "text": "Fluids Advisedo p@ ssmhe",
+      "bbox": null,
+      "confidence": 0.8623290061950684
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.9849891662597656
+    },
+    {
+      "text": "H",
+      "bbox": null,
+      "confidence": 0.24268482625484467
+    },
+    {
+      "text": "eam",
+      "bbox": null,
+      "confidence": 0.7810757756233215
+    },
+    {
+      "text": "nep",
+      "bbox": null,
+      "confidence": 0.5210085511207581
+    },
+    {
+      "text": "m",
+      "bbox": null,
+      "confidence": 0.7717975378036499
+    },
+    {
+      "text": "3mb",
+      "bbox": null,
+      "confidence": 0.6121153235435486
+    },
+    {
+      "text": "26",
+      "bbox": null,
+      "confidence": 0.9853750467300415
+    },
+    {
+      "text": "10",
+      "bbox": null,
+      "confidence": 0.32687580585479736
+    },
+    {
+      "text": "s0h6",
+      "bbox": null,
+      "confidence": 0.505818784236908
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.9320133924484253
+    },
+    {
+      "text": "Rx",
+      "bbox": null,
+      "confidence": 0.9981951713562012
+    },
+    {
+      "text": "H",
+      "bbox": null,
+      "confidence": 0.21581698954105377
+    },
+    {
+      "text": "272",
+      "bbox": null,
+      "confidence": 0.8153141140937805
+    },
+    {
+      "text": "78226",
+      "bbox": null,
+      "confidence": 0.6193811297416687
+    },
+    {
+      "text": ")",
+      "bbox": null,
+      "confidence": 0.9191448092460632
+    },
+    {
+      "text": "98",
+      "bbox": null,
+      "confidence": 0.5627883672714233
+    },
+    {
+      "text": "i",
+      "bbox": null,
+      "confidence": 0.44369539618492126
+    },
+    {
+      "text": "o",
+      "bbox": null,
+      "confidence": 0.38849523663520813
+    },
+    {
+      "text": "02",
+      "bbox": null,
+      "confidence": 0.7608360052108765
+    },
+    {
+      "text": "rgnoe 1gex",
+      "bbox": null,
+      "confidence": 0.36676308512687683
+    },
+    {
+      "text": "sohr",
+      "bbox": null,
+      "confidence": 0.6853381991386414
+    },
+    {
+      "text": "6n0",
+      "bbox": null,
+      "confidence": 0.5140568017959595
+    },
+    {
+      "text": "Scoly",
+      "bbox": null,
+      "confidence": 0.7342321872711182
+    },
+    {
+      "text": "c",
+      "bbox": null,
+      "confidence": 0.5589830279350281
+    },
+    {
+      "text": "pc",
+      "bbox": null,
+      "confidence": 0.6406701803207397
+    },
+    {
+      "text": "02",
+      "bbox": null,
+      "confidence": 0.9637159109115601
+    },
+    {
+      "text": "b Arithomyen s 00",
+      "bbox": null,
+      "confidence": 0.6117171049118042
+    },
+    {
+      "text": "Smbrox 235m",
+      "bbox": null,
+      "confidence": 0.5562448501586914
+    },
+    {
+      "text": "Seb7e",
+      "bbox": null,
+      "confidence": 0.4174420237541199
+    },
+    {
+      "text": "ORS",
+      "bbox": null,
+      "confidence": 0.8249671459197998
+    },
+    {
+      "text": "vital gonitered",
+      "bbox": null,
+      "confidence": 0.7507813572883606
+    },
+    {
+      "text": "Ado",
+      "bbox": null,
+      "confidence": 0.6583893299102783
+    },
+    {
+      "text": "HEALING HANDS, CARING HEARTS",
+      "bbox": null,
+      "confidence": 0.9996048808097839
+    },
+    {
+      "text": "Thabal l",
+      "bbox": null,
+      "confidence": 0.6014301180839539
+    },
+    {
+      "text": "Door",
+      "bbox": null,
+      "confidence": 0.3527517318725586
+    },
+    {
+      "text": "ease of conditioni",
+      "bbox": null,
+      "confidence": 0.9696389436721802
+    },
+    {
+      "text": "ng to the death, bu",
+      "bbox": null,
+      "confidence": 0.9333980679512024
+    },
+    {
+      "text": "\\f}$",
+      "bbox": null,
+      "confidence": 0.6730539202690125
+    },
+    {
+      "text": "Yes",
+      "bbox": null,
+      "confidence": 0.9977472424507141
+    },
+    {
+      "text": "n",
+      "bbox": null,
+      "confidence": 0.1580250859260559
+    },
+    {
+      "text": "8",
+      "bbox": null,
+      "confidence": 0.6965546607971191
+    },
+    {
+      "text": "ir Male",
+      "bbox": null,
+      "confidence": 0.8918902277946472
+    },
+    {
+      "text": "Sister VC",
+      "bbox": null,
+      "confidence": 0.9462566375732422
+    },
+    {
+      "text": "1 pages=30",
+      "bbox": null,
+      "confidence": 0.8035089373588562
+    }
+  ]
+}

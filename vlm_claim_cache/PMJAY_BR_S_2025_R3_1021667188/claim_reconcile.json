@@ -1,0 +1,17 @@
+{
+  "suggested_timeline_flags": [
+    "pre_date_present",
+    "post_date_present",
+    "dates_match"
+  ],
+  "manual_review_notes": [
+    "Clinical notes mention fever, headache, backache, vertigo, and constipation. Confirm diagnosis of enteric fever aligns with discharge summary.",
+    "Extra document appears to be a feedback form related to PMJAY services.",
+    "Discharge summary confirms patient was treated for enteric fever."
+  ],
+  "duplicate_upload_groups": [],
+  "evidence_alignment_notes": [
+    "CBC report date (16/02/2026) aligns with pre-date and post-date.",
+    "Clinical notes and discharge summary both indicate a diagnosis of enteric fever."
+  ]
+}

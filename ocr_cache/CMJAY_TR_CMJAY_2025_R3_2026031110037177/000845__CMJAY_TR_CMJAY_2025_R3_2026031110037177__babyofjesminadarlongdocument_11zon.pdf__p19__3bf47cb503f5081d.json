@@ -1,0 +1,198 @@
+{
+  "text": "DOCTOR'S PROGRESS NOTE\nMIO Nat\nPatient Name\nI.NO.\nUA10 10N-15670\nAGH/S IYM ID/F\nTHE\nSex\nBud/Word Ne\nD.No\nDOA =31/U2026 07-10 PH\n(PN01P2IO\n14/08/0026\nCHILDREN WARD\nEntoic fum\nfg)\nTaximo - Forkie\n0\nVt\n5ml 6D 7Days\n②\n*\n2n -d0 -5m —0D\nx10Days\nst\n③\nJummy loft\nfims affa pornd\n5mlV\nx5Days\n⑥\nyor po mo prs-\n-17\n8\nstroos×\nUoon 10\n②\n8m0",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 327,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "DOCTOR'S PROGRESS NOTE",
+      "bbox": null,
+      "confidence": 0.9781375527381897
+    },
+    {
+      "text": "MIO Nat",
+      "bbox": null,
+      "confidence": 0.6758401989936829
+    },
+    {
+      "text": "Patient Name",
+      "bbox": null,
+      "confidence": 0.9526179432868958
+    },
+    {
+      "text": "I.NO.",
+      "bbox": null,
+      "confidence": 0.7417654991149902
+    },
+    {
+      "text": "UA10 10N-15670",
+      "bbox": null,
+      "confidence": 0.6430819630622864
+    },
+    {
+      "text": "AGH/S IYM ID/F",
+      "bbox": null,
+      "confidence": 0.7237761616706848
+    },
+    {
+      "text": "THE",
+      "bbox": null,
+      "confidence": 0.8354029655456543
+    },
+    {
+      "text": "Sex",
+      "bbox": null,
+      "confidence": 0.7878067493438721
+    },
+    {
+      "text": "Bud/Word Ne",
+      "bbox": null,
+      "confidence": 0.6907746195793152
+    },
+    {
+      "text": "D.No",
+      "bbox": null,
+      "confidence": 0.6183401942253113
+    },
+    {
+      "text": "DOA =31/U2026 07-10 PH",
+      "bbox": null,
+      "confidence": 0.6796318292617798
+    },
+    {
+      "text": "(PN01P2IO",
+      "bbox": null,
+      "confidence": 0.5670953989028931
+    },
+    {
+      "text": "14/08/0026",
+      "bbox": null,
+      "confidence": 0.780613362789154
+    },
+    {
+      "text": "CHILDREN WARD",
+      "bbox": null,
+      "confidence": 0.9206709265708923
+    },
+    {
+      "text": "Entoic fum",
+      "bbox": null,
+      "confidence": 0.7465116381645203
+    },
+    {
+      "text": "fg)",
+      "bbox": null,
+      "confidence": 0.6523432731628418
+    },
+    {
+      "text": "Taximo - Forkie",
+      "bbox": null,
+      "confidence": 0.7284292578697205
+    },
+    {
+      "text": "0",
+      "bbox": null,
+      "confidence": 0.7126555442810059
+    },
+    {
+      "text": "Vt",
+      "bbox": null,
+      "confidence": 0.6976366639137268
+    },
+    {
+      "text": "5ml 6D 7Days",
+      "bbox": null,
+      "confidence": 0.642451286315918
+    },
+    {
+      "text": "②",
+      "bbox": null,
+      "confidence": 0.6808364391326904
+    },
+    {
+      "text": "*",
+      "bbox": null,
+      "confidence": 0.2624155580997467
+    },
+    {
+      "text": "2n -d0 -5m —0D",
+      "bbox": null,
+      "confidence": 0.7145325541496277
+    },
+    {
+      "text": "x10Days",
+      "bbox": null,
+      "confidence": 0.7577072978019714
+    },
+    {
+      "text": "st",
+      "bbox": null,
+      "confidence": 0.32506805658340454
+    },
+    {
+      "text": "③",
+      "bbox": null,
+      "confidence": 0.7867027521133423
+    },
+    {
+      "text": "Jummy loft",
+      "bbox": null,
+      "confidence": 0.7796316146850586
+    },
+    {
+      "text": "fims affa pornd",
+      "bbox": null,
+      "confidence": 0.7151141166687012
+    },
+    {
+      "text": "5mlV",
+      "bbox": null,
+      "confidence": 0.829393208026886
+    },
+    {
+      "text": "x5Days",
+      "bbox": null,
+      "confidence": 0.9054200053215027
+    },
+    {
+      "text": "⑥",
+      "bbox": null,
+      "confidence": 0.6001588702201843
+    },
+    {
+      "text": "yor po mo prs-",
+      "bbox": null,
+      "confidence": 0.7119847536087036
+    },
+    {
+      "text": "-17",
+      "bbox": null,
+      "confidence": 0.5441703200340271
+    },
+    {
+      "text": "8",
+      "bbox": null,
+      "confidence": 0.4441061019897461
+    },
+    {
+      "text": "stroos×",
+      "bbox": null,
+      "confidence": 0.7143468856811523
+    },
+    {
+      "text": "Uoon 10",
+      "bbox": null,
+      "confidence": 0.37877580523490906
+    },
+    {
+      "text": "②",
+      "bbox": null,
+      "confidence": 0.2598700523376465
+    },
+    {
+      "text": "8m0",
+      "bbox": null,
+      "confidence": 0.6037755608558655
+    }
+  ]
+}

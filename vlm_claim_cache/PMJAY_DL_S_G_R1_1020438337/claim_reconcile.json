@@ -1,0 +1,27 @@
+{
+  "suggested_timeline_flags": [
+    "Pre-admission investigation reports present (23/01/2026, 22/01/2026, 26/01/2026)",
+    "Multiple investigation reports with overlapping dates (23/01/2026, 26/01/2026)",
+    "Doctor's notes document patient's condition across multiple dates (24/01/2026, 23/01/2026, 28/01/2026, 27/01/2026, 26/01/2026, 25/01/2026)",
+    "Discharge summary absent",
+    "Vitals and treatment notes available throughout the period"
+  ],
+  "manual_review_notes": [
+    "Multiple blood investigation reports exist with similar dates (23/01/2026, 26/01/2026). Review for consistency and potential duplication.",
+    "Review doctor's notes for a consistent clinical picture and correlation with investigation findings.",
+    "The pre-date is recorded as '6\\nUdl\\n13'. Clarify the actual date.",
+    "The post-date is recorded as '26-01-2026'. Verify this is the discharge date or a relevant follow-up date.",
+    "Fever is flagged by the rule engine. Confirm fever is documented in clinical notes and supported by investigation results."
+  ],
+  "duplicate_upload_groups": [
+    [
+      "000611__PMJAY_DL_S_G_R1_1020438337__Pt_Avtar_singh_blood_investigation_report.pdf"
+    ]
+  ],
+  "evidence_alignment_notes": [
+    "Doctor's notes on 24/01/2026 mention fever (100F) and abdominal pain, which aligns with the aggregated rule flag for fever.",
+    "Investigation reports from 23/01/2026 and 26/01/2026 show blood investigations, supporting the clinical assessment of the patient's condition.",
+    "X-ray report from 22/01/2026 indicates right hila prominence, which should be correlated with the clinical notes for further assessment.",
+    "ECG report from 23/01/2026 indicates possible right atrial abnormality, requiring review of clinical notes for relevant symptoms or history."
+  ]
+}

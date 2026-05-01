@@ -1,0 +1,173 @@
+{
+  "text": "9257\nName:\nSample Collected On: 05/03/2026\nAge:\nReport Printed On:\n05/03/2026\nSex:\nAddress:\nNalkata\nMale\nReferred By:\nTest Name\nResult\nUnit\nBiological Ref. Range\nReport On The Examination of BLOOD TEST\nMalaria(PF/PV) Rapid Test\nNegative(-ve)\nReport On The Examination of SEROLOGY\nWIDAL TEST.SERUM(SLIDE AGGLUTINATION)\nSalmonella typhi \"O*\nReactive Upto\nTitre 1:80\nSalmonella typhi \"H\nReactive Upto\nTitre 1:160\nSalmonella paratyphi\"AH\nNon Reactive\nSalmonella paratyphi \"BH\nNon Reactive\n—End Of Report—\nComment: Please correlate with the clinical condition\nIdentity of the person is not venified | Not for medico legal purp",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 621,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "9257",
+      "bbox": null,
+      "confidence": 0.9900010228157043
+    },
+    {
+      "text": "Name:",
+      "bbox": null,
+      "confidence": 0.9993318319320679
+    },
+    {
+      "text": "Sample Collected On: 05/03/2026",
+      "bbox": null,
+      "confidence": 0.9793388843536377
+    },
+    {
+      "text": "Age:",
+      "bbox": null,
+      "confidence": 0.9986100196838379
+    },
+    {
+      "text": "Report Printed On:",
+      "bbox": null,
+      "confidence": 0.969761848449707
+    },
+    {
+      "text": "05/03/2026",
+      "bbox": null,
+      "confidence": 0.9995135068893433
+    },
+    {
+      "text": "Sex:",
+      "bbox": null,
+      "confidence": 0.996819019317627
+    },
+    {
+      "text": "Address:",
+      "bbox": null,
+      "confidence": 0.995320200920105
+    },
+    {
+      "text": "Nalkata",
+      "bbox": null,
+      "confidence": 0.9641192555427551
+    },
+    {
+      "text": "Male",
+      "bbox": null,
+      "confidence": 0.8783251643180847
+    },
+    {
+      "text": "Referred By:",
+      "bbox": null,
+      "confidence": 0.954707145690918
+    },
+    {
+      "text": "Test Name",
+      "bbox": null,
+      "confidence": 0.9981206059455872
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9982645511627197
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9970055222511292
+    },
+    {
+      "text": "Biological Ref. Range",
+      "bbox": null,
+      "confidence": 0.9895836114883423
+    },
+    {
+      "text": "Report On The Examination of BLOOD TEST",
+      "bbox": null,
+      "confidence": 0.976974368095398
+    },
+    {
+      "text": "Malaria(PF/PV) Rapid Test",
+      "bbox": null,
+      "confidence": 0.9989086389541626
+    },
+    {
+      "text": "Negative(-ve)",
+      "bbox": null,
+      "confidence": 0.9993680119514465
+    },
+    {
+      "text": "Report On The Examination of SEROLOGY",
+      "bbox": null,
+      "confidence": 0.9916898608207703
+    },
+    {
+      "text": "WIDAL TEST.SERUM(SLIDE AGGLUTINATION)",
+      "bbox": null,
+      "confidence": 0.989955484867096
+    },
+    {
+      "text": "Salmonella typhi \"O*",
+      "bbox": null,
+      "confidence": 0.9478756785392761
+    },
+    {
+      "text": "Reactive Upto",
+      "bbox": null,
+      "confidence": 0.9784573912620544
+    },
+    {
+      "text": "Titre 1:80",
+      "bbox": null,
+      "confidence": 0.9993337392807007
+    },
+    {
+      "text": "Salmonella typhi \"H",
+      "bbox": null,
+      "confidence": 0.9807457327842712
+    },
+    {
+      "text": "Reactive Upto",
+      "bbox": null,
+      "confidence": 0.9997971653938293
+    },
+    {
+      "text": "Titre 1:160",
+      "bbox": null,
+      "confidence": 0.9994230270385742
+    },
+    {
+      "text": "Salmonella paratyphi\"AH",
+      "bbox": null,
+      "confidence": 0.9885128736495972
+    },
+    {
+      "text": "Non Reactive",
+      "bbox": null,
+      "confidence": 0.9988904595375061
+    },
+    {
+      "text": "Salmonella paratyphi \"BH",
+      "bbox": null,
+      "confidence": 0.9761478304862976
+    },
+    {
+      "text": "Non Reactive",
+      "bbox": null,
+      "confidence": 0.9815203547477722
+    },
+    {
+      "text": "—End Of Report—",
+      "bbox": null,
+      "confidence": 0.9670798778533936
+    },
+    {
+      "text": "Comment: Please correlate with the clinical condition",
+      "bbox": null,
+      "confidence": 0.992389440536499
+    },
+    {
+      "text": "Identity of the person is not venified | Not for medico legal purp",
+      "bbox": null,
+      "confidence": 0.9839580655097961
+    }
+  ]
+}

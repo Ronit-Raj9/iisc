@@ -1,0 +1,68 @@
+# ----------------------------------------------------------------------------
+# Dataset & runtime artifacts (large or sensitive)
+# ----------------------------------------------------------------------------
+Dataset-1/
+Claims/
+data/synthetic_labels/
+data/prompts/few_shot_*.json
+
+# Gemma response caches — token-paid; do not commit
+vlm_cache/
+vlm_clinical_cache/
+
+# Generated outputs / decisions / models
+output/
+outputs/
+decisions/
+models/
+
+# Old leftover folders from early experimentation
+nha_ps1/__pycache__/
+nha_ps1/**/__pycache__/
+
+# ----------------------------------------------------------------------------
+# Python
+# ----------------------------------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+
+# ----------------------------------------------------------------------------
+# Jupyter
+# ----------------------------------------------------------------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ----------------------------------------------------------------------------
+# IDE / OS
+# ----------------------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ----------------------------------------------------------------------------
+# Claude Code workspace metadata
+# ----------------------------------------------------------------------------
+.claude/
+
+# ----------------------------------------------------------------------------
+# Logs & temp
+# ----------------------------------------------------------------------------
+*.log
+*.tmp
+tmp/
+final_output.xlsx
+
+
+ps1_channel_complete_intel.md
+art of the ps1 channel.txt

@@ -1,0 +1,333 @@
+{
+  "text": "Name of Patien\nlo4\nSex\nmee\nWard :mC\nAge\nEntic fevel\n.\nDOA :7/2/26\nDiagnosis\nMRD NO. U80562\nBed No.\n07\nDate:/2/26\nTime\nT\nSPO,\nIntake\nVomit/\nP\nR\nBP\nTime\nIV\nOral/RT\nTime\nUrine\nStool\nAssplirate\nTREATMENT\nSign. of\nSNurse\n1lam 9284 102\n2U\n-\n4\n786P\nFluids Advised\nYou\ntum\nJnd 780 -P ssmru\nSsmlN\nmlU\nru\nD\nTnd mondef pn BD 110\nRx:\n2Pm)\nPoos\n1\nthu\nTb pem| TOS\n+1+6\nQ-\nTUb-M2a0 20 001z/N\nche\nSYP Ambaocel 7m6tnto\nTDS\nAbad\nHEALING HANDS, CARING HEARTS\n_hrly\nTotal Intake\nml.\nTotal Output=\nml.",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 480,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Name of Patien",
+      "bbox": null,
+      "confidence": 0.9908062219619751
+    },
+    {
+      "text": "lo4",
+      "bbox": null,
+      "confidence": 0.7734928131103516
+    },
+    {
+      "text": "Sex",
+      "bbox": null,
+      "confidence": 0.9978072047233582
+    },
+    {
+      "text": "mee",
+      "bbox": null,
+      "confidence": 0.8772271275520325
+    },
+    {
+      "text": "Ward :mC",
+      "bbox": null,
+      "confidence": 0.8141701817512512
+    },
+    {
+      "text": "Age",
+      "bbox": null,
+      "confidence": 0.9997758865356445
+    },
+    {
+      "text": "Entic fevel",
+      "bbox": null,
+      "confidence": 0.9267725348472595
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.45338302850723267
+    },
+    {
+      "text": "DOA :7/2/26",
+      "bbox": null,
+      "confidence": 0.8998646140098572
+    },
+    {
+      "text": "Diagnosis",
+      "bbox": null,
+      "confidence": 0.8889376521110535
+    },
+    {
+      "text": "MRD NO. U80562",
+      "bbox": null,
+      "confidence": 0.9024860262870789
+    },
+    {
+      "text": "Bed No.",
+      "bbox": null,
+      "confidence": 0.9696260094642639
+    },
+    {
+      "text": "07",
+      "bbox": null,
+      "confidence": 0.9898661375045776
+    },
+    {
+      "text": "Date:/2/26",
+      "bbox": null,
+      "confidence": 0.8439587354660034
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9982746839523315
+    },
+    {
+      "text": "T",
+      "bbox": null,
+      "confidence": 0.9986003041267395
+    },
+    {
+      "text": "SPO,",
+      "bbox": null,
+      "confidence": 0.9249131679534912
+    },
+    {
+      "text": "Intake",
+      "bbox": null,
+      "confidence": 0.997262716293335
+    },
+    {
+      "text": "Vomit/",
+      "bbox": null,
+      "confidence": 0.9253935813903809
+    },
+    {
+      "text": "P",
+      "bbox": null,
+      "confidence": 0.9734700918197632
+    },
+    {
+      "text": "R",
+      "bbox": null,
+      "confidence": 0.9995720982551575
+    },
+    {
+      "text": "BP",
+      "bbox": null,
+      "confidence": 0.9997307658195496
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9995917081832886
+    },
+    {
+      "text": "IV",
+      "bbox": null,
+      "confidence": 0.9937965869903564
+    },
+    {
+      "text": "Oral/RT",
+      "bbox": null,
+      "confidence": 0.9580903053283691
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9997774362564087
+    },
+    {
+      "text": "Urine",
+      "bbox": null,
+      "confidence": 0.9993171691894531
+    },
+    {
+      "text": "Stool",
+      "bbox": null,
+      "confidence": 0.9053226709365845
+    },
+    {
+      "text": "Assplirate",
+      "bbox": null,
+      "confidence": 0.7991140484809875
+    },
+    {
+      "text": "TREATMENT",
+      "bbox": null,
+      "confidence": 0.9990230202674866
+    },
+    {
+      "text": "Sign. of",
+      "bbox": null,
+      "confidence": 0.9628123044967651
+    },
+    {
+      "text": "SNurse",
+      "bbox": null,
+      "confidence": 0.9587224125862122
+    },
+    {
+      "text": "1lam 9284 102",
+      "bbox": null,
+      "confidence": 0.6179695725440979
+    },
+    {
+      "text": "2U",
+      "bbox": null,
+      "confidence": 0.8647123575210571
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.9855136871337891
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.3057411015033722
+    },
+    {
+      "text": "786P",
+      "bbox": null,
+      "confidence": 0.6008704304695129
+    },
+    {
+      "text": "Fluids Advised",
+      "bbox": null,
+      "confidence": 0.9601407051086426
+    },
+    {
+      "text": "You",
+      "bbox": null,
+      "confidence": 0.65594881772995
+    },
+    {
+      "text": "tum",
+      "bbox": null,
+      "confidence": 0.7702076435089111
+    },
+    {
+      "text": "Jnd 780 -P ssmru",
+      "bbox": null,
+      "confidence": 0.7036212682723999
+    },
+    {
+      "text": "SsmlN",
+      "bbox": null,
+      "confidence": 0.45773133635520935
+    },
+    {
+      "text": "mlU",
+      "bbox": null,
+      "confidence": 0.38196954131126404
+    },
+    {
+      "text": "ru",
+      "bbox": null,
+      "confidence": 0.44156503677368164
+    },
+    {
+      "text": "D",
+      "bbox": null,
+      "confidence": 0.9993683695793152
+    },
+    {
+      "text": "Tnd mondef pn BD 110",
+      "bbox": null,
+      "confidence": 0.7385220527648926
+    },
+    {
+      "text": "Rx:",
+      "bbox": null,
+      "confidence": 0.8186230659484863
+    },
+    {
+      "text": "2Pm)",
+      "bbox": null,
+      "confidence": 0.6226142048835754
+    },
+    {
+      "text": "Poos",
+      "bbox": null,
+      "confidence": 0.5303669571876526
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.749140739440918
+    },
+    {
+      "text": "thu",
+      "bbox": null,
+      "confidence": 0.49133244156837463
+    },
+    {
+      "text": "Tb pem| TOS",
+      "bbox": null,
+      "confidence": 0.7033851146697998
+    },
+    {
+      "text": "+1+6",
+      "bbox": null,
+      "confidence": 0.6209228038787842
+    },
+    {
+      "text": "Q-",
+      "bbox": null,
+      "confidence": 0.1763724386692047
+    },
+    {
+      "text": "TUb-M2a0 20 001z/N",
+      "bbox": null,
+      "confidence": 0.581305980682373
+    },
+    {
+      "text": "che",
+      "bbox": null,
+      "confidence": 0.5321519374847412
+    },
+    {
+      "text": "SYP Ambaocel 7m6tnto",
+      "bbox": null,
+      "confidence": 0.6969360709190369
+    },
+    {
+      "text": "TDS",
+      "bbox": null,
+      "confidence": 0.8995868563652039
+    },
+    {
+      "text": "Abad",
+      "bbox": null,
+      "confidence": 0.4393322765827179
+    },
+    {
+      "text": "HEALING HANDS, CARING HEARTS",
+      "bbox": null,
+      "confidence": 0.9988481402397156
+    },
+    {
+      "text": "_hrly",
+      "bbox": null,
+      "confidence": 0.9475914835929871
+    },
+    {
+      "text": "Total Intake",
+      "bbox": null,
+      "confidence": 0.9854742884635925
+    },
+    {
+      "text": "ml.",
+      "bbox": null,
+      "confidence": 0.9493339657783508
+    },
+    {
+      "text": "Total Output=",
+      "bbox": null,
+      "confidence": 0.9938650727272034
+    },
+    {
+      "text": "ml.",
+      "bbox": null,
+      "confidence": 0.977333128452301
+    }
+  ]
+}

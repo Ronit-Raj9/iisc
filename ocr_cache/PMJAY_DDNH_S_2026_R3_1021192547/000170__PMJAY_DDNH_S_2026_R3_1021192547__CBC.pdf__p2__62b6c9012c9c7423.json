@@ -1,0 +1,538 @@
+{
+  "text": "Government Hospital\nPATHOLOGY RESULT\nPrint Date\n07/02/2026\nReg No.\n480562\nOrder No :\n12116/2026\nOrder Date:\n06/02/2026\nName\nCollected On:\n06/02/2026\nAge:\n10 Years\nPatient Type:\nOUT PATIENT\nGender\nMALE\nPrescribed By:\nTest Name: MALARIAL PARASITE\nSr. No\nParameters\nResult\nUnit\nNormal Value (MIN\nMAX)\n1\nMALARIA PARASITE\nNOT SEEN\nTest Name: MALARIAL PARASITE\nSr. No\nParameters\nResult\nUnit\nNormal Value (MIN.\nMAX)\n1\nMALARIA PARASITE\nNOT SEEN\nTest Name : HAEMOGRAM CBC\nSr. No\nParameters\nResult\nUnit\nNormal Value (MIN\nMAX)\n1\nHB\n11.9\ngms%\n12-18\n2\nTLC\n6260\n/cumm\n4000 -10000\n3\nPLT\n2.88\nLac/cumm\n1.5-4.5\n4\nPOLYS\n49\n%\n50 -60\n5\nLYMPHO\n37\n%\n20-40\n6\nEOSIN\n04\n%\n1-8\n7\nMONO\n10\n%\n2-6\nTest Name : URINE ANALYSIS REPORT\nSr. No\nParameters\nResult\nUnit\nNormal Value (MIN\nMAX)\n1\nQUANTITY\n30\nml\n50 -300\n2\nCOLOUR\nPALE YELLOW\n3\nTRANSPARENCY\nCLEAR\n4\nALBUMIN\nPRESENT +\nRecommendations:\n1 Report is based on the Quality of Sample/s received.\n2 The report may need to be correlated cinically as laboratory Investigations are dependent on multiple variables",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 1026,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Government Hospital",
+      "bbox": null,
+      "confidence": 0.9994571805000305
+    },
+    {
+      "text": "PATHOLOGY RESULT",
+      "bbox": null,
+      "confidence": 0.9992462396621704
+    },
+    {
+      "text": "Print Date",
+      "bbox": null,
+      "confidence": 0.9985116124153137
+    },
+    {
+      "text": "07/02/2026",
+      "bbox": null,
+      "confidence": 0.9565390348434448
+    },
+    {
+      "text": "Reg No.",
+      "bbox": null,
+      "confidence": 0.998221755027771
+    },
+    {
+      "text": "480562",
+      "bbox": null,
+      "confidence": 0.9995934963226318
+    },
+    {
+      "text": "Order No :",
+      "bbox": null,
+      "confidence": 0.9616705775260925
+    },
+    {
+      "text": "12116/2026",
+      "bbox": null,
+      "confidence": 0.9999526143074036
+    },
+    {
+      "text": "Order Date:",
+      "bbox": null,
+      "confidence": 0.9876432418823242
+    },
+    {
+      "text": "06/02/2026",
+      "bbox": null,
+      "confidence": 0.9947072267532349
+    },
+    {
+      "text": "Name",
+      "bbox": null,
+      "confidence": 0.9994839429855347
+    },
+    {
+      "text": "Collected On:",
+      "bbox": null,
+      "confidence": 0.979048490524292
+    },
+    {
+      "text": "06/02/2026",
+      "bbox": null,
+      "confidence": 0.9998443722724915
+    },
+    {
+      "text": "Age:",
+      "bbox": null,
+      "confidence": 0.9159255027770996
+    },
+    {
+      "text": "10 Years",
+      "bbox": null,
+      "confidence": 0.9967285394668579
+    },
+    {
+      "text": "Patient Type:",
+      "bbox": null,
+      "confidence": 0.9982839822769165
+    },
+    {
+      "text": "OUT PATIENT",
+      "bbox": null,
+      "confidence": 0.998248279094696
+    },
+    {
+      "text": "Gender",
+      "bbox": null,
+      "confidence": 0.9992761611938477
+    },
+    {
+      "text": "MALE",
+      "bbox": null,
+      "confidence": 0.9998379945755005
+    },
+    {
+      "text": "Prescribed By:",
+      "bbox": null,
+      "confidence": 0.9787082672119141
+    },
+    {
+      "text": "Test Name: MALARIAL PARASITE",
+      "bbox": null,
+      "confidence": 0.9419599175453186
+    },
+    {
+      "text": "Sr. No",
+      "bbox": null,
+      "confidence": 0.9929082989692688
+    },
+    {
+      "text": "Parameters",
+      "bbox": null,
+      "confidence": 0.9992440938949585
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9993624687194824
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9989052414894104
+    },
+    {
+      "text": "Normal Value (MIN",
+      "bbox": null,
+      "confidence": 0.9978349208831787
+    },
+    {
+      "text": "MAX)",
+      "bbox": null,
+      "confidence": 0.9897598028182983
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.998869001865387
+    },
+    {
+      "text": "MALARIA PARASITE",
+      "bbox": null,
+      "confidence": 0.9951861500740051
+    },
+    {
+      "text": "NOT SEEN",
+      "bbox": null,
+      "confidence": 0.9962127208709717
+    },
+    {
+      "text": "Test Name: MALARIAL PARASITE",
+      "bbox": null,
+      "confidence": 0.9565597772598267
+    },
+    {
+      "text": "Sr. No",
+      "bbox": null,
+      "confidence": 0.9939543604850769
+    },
+    {
+      "text": "Parameters",
+      "bbox": null,
+      "confidence": 0.9998832941055298
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9996238350868225
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9998511672019958
+    },
+    {
+      "text": "Normal Value (MIN.",
+      "bbox": null,
+      "confidence": 0.981245756149292
+    },
+    {
+      "text": "MAX)",
+      "bbox": null,
+      "confidence": 0.9863832592964172
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.9971535205841064
+    },
+    {
+      "text": "MALARIA PARASITE",
+      "bbox": null,
+      "confidence": 0.99978107213974
+    },
+    {
+      "text": "NOT SEEN",
+      "bbox": null,
+      "confidence": 0.999318540096283
+    },
+    {
+      "text": "Test Name : HAEMOGRAM CBC",
+      "bbox": null,
+      "confidence": 0.9637454152107239
+    },
+    {
+      "text": "Sr. No",
+      "bbox": null,
+      "confidence": 0.9828680157661438
+    },
+    {
+      "text": "Parameters",
+      "bbox": null,
+      "confidence": 0.9994165301322937
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9993090629577637
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.999920666217804
+    },
+    {
+      "text": "Normal Value (MIN",
+      "bbox": null,
+      "confidence": 0.9981042146682739
+    },
+    {
+      "text": "MAX)",
+      "bbox": null,
+      "confidence": 0.9976528882980347
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.9789409637451172
+    },
+    {
+      "text": "HB",
+      "bbox": null,
+      "confidence": 0.9987320899963379
+    },
+    {
+      "text": "11.9",
+      "bbox": null,
+      "confidence": 0.9928449988365173
+    },
+    {
+      "text": "gms%",
+      "bbox": null,
+      "confidence": 0.9994734525680542
+    },
+    {
+      "text": "12-18",
+      "bbox": null,
+      "confidence": 0.9066466093063354
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.9997925162315369
+    },
+    {
+      "text": "TLC",
+      "bbox": null,
+      "confidence": 0.9885310530662537
+    },
+    {
+      "text": "6260",
+      "bbox": null,
+      "confidence": 0.9996660947799683
+    },
+    {
+      "text": "/cumm",
+      "bbox": null,
+      "confidence": 0.7952398657798767
+    },
+    {
+      "text": "4000 -10000",
+      "bbox": null,
+      "confidence": 0.972856342792511
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.9998409748077393
+    },
+    {
+      "text": "PLT",
+      "bbox": null,
+      "confidence": 0.9996011853218079
+    },
+    {
+      "text": "2.88",
+      "bbox": null,
+      "confidence": 0.9976352453231812
+    },
+    {
+      "text": "Lac/cumm",
+      "bbox": null,
+      "confidence": 0.9998281002044678
+    },
+    {
+      "text": "1.5-4.5",
+      "bbox": null,
+      "confidence": 0.9877369999885559
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.9298997521400452
+    },
+    {
+      "text": "POLYS",
+      "bbox": null,
+      "confidence": 0.9991229176521301
+    },
+    {
+      "text": "49",
+      "bbox": null,
+      "confidence": 0.9995478987693787
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9982787370681763
+    },
+    {
+      "text": "50 -60",
+      "bbox": null,
+      "confidence": 0.936453640460968
+    },
+    {
+      "text": "5",
+      "bbox": null,
+      "confidence": 0.9999560117721558
+    },
+    {
+      "text": "LYMPHO",
+      "bbox": null,
+      "confidence": 0.99900883436203
+    },
+    {
+      "text": "37",
+      "bbox": null,
+      "confidence": 0.9999344348907471
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9973894953727722
+    },
+    {
+      "text": "20-40",
+      "bbox": null,
+      "confidence": 0.9940437078475952
+    },
+    {
+      "text": "6",
+      "bbox": null,
+      "confidence": 0.9999022483825684
+    },
+    {
+      "text": "EOSIN",
+      "bbox": null,
+      "confidence": 0.9997278451919556
+    },
+    {
+      "text": "04",
+      "bbox": null,
+      "confidence": 0.9996173977851868
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9979325532913208
+    },
+    {
+      "text": "1-8",
+      "bbox": null,
+      "confidence": 0.9953417181968689
+    },
+    {
+      "text": "7",
+      "bbox": null,
+      "confidence": 0.9998458623886108
+    },
+    {
+      "text": "MONO",
+      "bbox": null,
+      "confidence": 0.9993865489959717
+    },
+    {
+      "text": "10",
+      "bbox": null,
+      "confidence": 0.99974125623703
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9990324974060059
+    },
+    {
+      "text": "2-6",
+      "bbox": null,
+      "confidence": 0.9948334693908691
+    },
+    {
+      "text": "Test Name : URINE ANALYSIS REPORT",
+      "bbox": null,
+      "confidence": 0.9775307178497314
+    },
+    {
+      "text": "Sr. No",
+      "bbox": null,
+      "confidence": 0.9949920177459717
+    },
+    {
+      "text": "Parameters",
+      "bbox": null,
+      "confidence": 0.999675452709198
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9998201727867126
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9999206066131592
+    },
+    {
+      "text": "Normal Value (MIN",
+      "bbox": null,
+      "confidence": 0.981356143951416
+    },
+    {
+      "text": "MAX)",
+      "bbox": null,
+      "confidence": 0.9953619241714478
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.9994224309921265
+    },
+    {
+      "text": "QUANTITY",
+      "bbox": null,
+      "confidence": 0.9998182058334351
+    },
+    {
+      "text": "30",
+      "bbox": null,
+      "confidence": 0.9995598793029785
+    },
+    {
+      "text": "ml",
+      "bbox": null,
+      "confidence": 0.9989709258079529
+    },
+    {
+      "text": "50 -300",
+      "bbox": null,
+      "confidence": 0.9811548590660095
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.9998292922973633
+    },
+    {
+      "text": "COLOUR",
+      "bbox": null,
+      "confidence": 0.9985722899436951
+    },
+    {
+      "text": "PALE YELLOW",
+      "bbox": null,
+      "confidence": 0.9988300800323486
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.9996556043624878
+    },
+    {
+      "text": "TRANSPARENCY",
+      "bbox": null,
+      "confidence": 0.9997225403785706
+    },
+    {
+      "text": "CLEAR",
+      "bbox": null,
+      "confidence": 0.999661922454834
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.9999641180038452
+    },
+    {
+      "text": "ALBUMIN",
+      "bbox": null,
+      "confidence": 0.9997156858444214
+    },
+    {
+      "text": "PRESENT +",
+      "bbox": null,
+      "confidence": 0.9867818355560303
+    },
+    {
+      "text": "Recommendations:",
+      "bbox": null,
+      "confidence": 0.9961204528808594
+    },
+    {
+      "text": "1 Report is based on the Quality of Sample/s received.",
+      "bbox": null,
+      "confidence": 0.9813575148582458
+    },
+    {
+      "text": "2 The report may need to be correlated cinically as laboratory Investigations are dependent on multiple variables",
+      "bbox": null,
+      "confidence": 0.9496917724609375
+    }
+  ]
+}

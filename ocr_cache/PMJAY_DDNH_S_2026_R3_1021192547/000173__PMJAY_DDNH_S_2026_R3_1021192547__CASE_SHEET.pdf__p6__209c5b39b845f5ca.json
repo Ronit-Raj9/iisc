@@ -1,0 +1,158 @@
+{
+  "text": "off\nMRD No.\n480562\nNURSES NOTE\nPate\n2/2/26\nSign.\n1ca\nDt Ccome huseldul i Recusn\na\ndoom\nOPD\np ircescn\nchey dnd\nRerclded\nD+ s/B Dn.2cn4n/dctin\nOPD\n-pt vitcy sian chey eind Rerul\np-102 B/nl5P0-98%.\nT-98 4.\nSnt Addrusspn Paocele Done\npt mediation aiven cupel\nPausn eudes\npt Blood hRendine\nSiN Dume\n2pm pt Hle aive. to evnihy Haf.\n.\n-\nHEALING HANDS, CARING HEARTS\n(17)",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 363,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "off",
+      "bbox": null,
+      "confidence": 0.48062288761138916
+    },
+    {
+      "text": "MRD No.",
+      "bbox": null,
+      "confidence": 0.9816302061080933
+    },
+    {
+      "text": "480562",
+      "bbox": null,
+      "confidence": 0.8798391222953796
+    },
+    {
+      "text": "NURSES NOTE",
+      "bbox": null,
+      "confidence": 0.9992878437042236
+    },
+    {
+      "text": "Pate",
+      "bbox": null,
+      "confidence": 0.914362907409668
+    },
+    {
+      "text": "2/2/26",
+      "bbox": null,
+      "confidence": 0.8677318692207336
+    },
+    {
+      "text": "Sign.",
+      "bbox": null,
+      "confidence": 0.9706546664237976
+    },
+    {
+      "text": "1ca",
+      "bbox": null,
+      "confidence": 0.5303201079368591
+    },
+    {
+      "text": "Dt Ccome huseldul i Recusn",
+      "bbox": null,
+      "confidence": 0.741845428943634
+    },
+    {
+      "text": "a",
+      "bbox": null,
+      "confidence": 0.37123507261276245
+    },
+    {
+      "text": "doom",
+      "bbox": null,
+      "confidence": 0.7245426177978516
+    },
+    {
+      "text": "OPD",
+      "bbox": null,
+      "confidence": 0.7389318346977234
+    },
+    {
+      "text": "p ircescn",
+      "bbox": null,
+      "confidence": 0.536065936088562
+    },
+    {
+      "text": "chey dnd",
+      "bbox": null,
+      "confidence": 0.833548903465271
+    },
+    {
+      "text": "Rerclded",
+      "bbox": null,
+      "confidence": 0.7146482467651367
+    },
+    {
+      "text": "D+ s/B Dn.2cn4n/dctin",
+      "bbox": null,
+      "confidence": 0.7402621507644653
+    },
+    {
+      "text": "OPD",
+      "bbox": null,
+      "confidence": 0.6673566699028015
+    },
+    {
+      "text": "-pt vitcy sian chey eind Rerul",
+      "bbox": null,
+      "confidence": 0.7498767971992493
+    },
+    {
+      "text": "p-102 B/nl5P0-98%.",
+      "bbox": null,
+      "confidence": 0.7011604905128479
+    },
+    {
+      "text": "T-98 4.",
+      "bbox": null,
+      "confidence": 0.8716959953308105
+    },
+    {
+      "text": "Snt Addrusspn Paocele Done",
+      "bbox": null,
+      "confidence": 0.7557722926139832
+    },
+    {
+      "text": "pt mediation aiven cupel",
+      "bbox": null,
+      "confidence": 0.8354918360710144
+    },
+    {
+      "text": "Pausn eudes",
+      "bbox": null,
+      "confidence": 0.8772068023681641
+    },
+    {
+      "text": "pt Blood hRendine",
+      "bbox": null,
+      "confidence": 0.7305925488471985
+    },
+    {
+      "text": "SiN Dume",
+      "bbox": null,
+      "confidence": 0.6871355772018433
+    },
+    {
+      "text": "2pm pt Hle aive. to evnihy Haf.",
+      "bbox": null,
+      "confidence": 0.6565392017364502
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.9489638805389404
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.5605463981628418
+    },
+    {
+      "text": "HEALING HANDS, CARING HEARTS",
+      "bbox": null,
+      "confidence": 0.9886693954467773
+    },
+    {
+      "text": "(17)",
+      "bbox": null,
+      "confidence": 0.9961844682693481
+    }
+  ]
+}

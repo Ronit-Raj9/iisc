@@ -1,0 +1,593 @@
+{
+  "text": "6∠755-VH4U0x\n1700WA1\naNT\nFON gin\npum\nH0-00.20111904\nComultar\nAge /Sar\nBed No.:\nINO.\nMEDICATION CARD\nDrughame\n1NE1E13/7131324\nINJ XONE\n5\n(TD\npaugpp\nMoute\nD0se\nJY\n17\nSO0TIE\nTinae\n14\nED\no\nAn\n.18\nChatre a Tie\nthe Sig\nE2\nmale\n34\nV-29mn\nDeu Name\nNTACIN\n5\nNaute\nEO\nPapi 7\nDuse\nIY\nm\n150M4\nThme\n1n\nAS\n15\nA\nTe A Tr\nDr. Sign\n22\n23017\n13\n2\nDrug Nae:\n2N-2\nParp 2a\nNouta\nDode\nDo\n517\nSML\nTime\n14\non\n10\n3E\nAnll\nThein  Tee\nDn Sign\n23\n-\n11617\n24\nCheag Name:\nR. TUMM\nYSOFT\n-1\nPorp pap\nRaite\n1102\nDote\npo\n12\n$TML\nT.ow\n14\nBD\n1E\nS\nArn\nDr Sign\n62\n5225\nTiie as Ther\nm3lt\n24\nI\nDrujt Hames\nU\nConta\nC\nRoute\n10\nPla\n12\nTime\n16\nH3/6\n18\nKEm\nDr: 9gn\n(22)\nTher ATint\n15/3/20\n\\",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 643,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "6∠755-VH4U0x",
+      "bbox": null,
+      "confidence": 0.42862367630004883
+    },
+    {
+      "text": "1700WA1",
+      "bbox": null,
+      "confidence": 0.48514583706855774
+    },
+    {
+      "text": "aNT",
+      "bbox": null,
+      "confidence": 0.2103540152311325
+    },
+    {
+      "text": "FON gin",
+      "bbox": null,
+      "confidence": 0.537013590335846
+    },
+    {
+      "text": "pum",
+      "bbox": null,
+      "confidence": 0.46276339888572693
+    },
+    {
+      "text": "H0-00.20111904",
+      "bbox": null,
+      "confidence": 0.474775105714798
+    },
+    {
+      "text": "Comultar",
+      "bbox": null,
+      "confidence": 0.8801242709159851
+    },
+    {
+      "text": "Age /Sar",
+      "bbox": null,
+      "confidence": 0.7369111776351929
+    },
+    {
+      "text": "Bed No.:",
+      "bbox": null,
+      "confidence": 0.8925846219062805
+    },
+    {
+      "text": "INO.",
+      "bbox": null,
+      "confidence": 0.9221057891845703
+    },
+    {
+      "text": "MEDICATION CARD",
+      "bbox": null,
+      "confidence": 0.9988840222358704
+    },
+    {
+      "text": "Drughame",
+      "bbox": null,
+      "confidence": 0.8531154990196228
+    },
+    {
+      "text": "1NE1E13/7131324",
+      "bbox": null,
+      "confidence": 0.5644904375076294
+    },
+    {
+      "text": "INJ XONE",
+      "bbox": null,
+      "confidence": 0.766374945640564
+    },
+    {
+      "text": "5",
+      "bbox": null,
+      "confidence": 0.45876049995422363
+    },
+    {
+      "text": "(TD",
+      "bbox": null,
+      "confidence": 0.5145055651664734
+    },
+    {
+      "text": "paugpp",
+      "bbox": null,
+      "confidence": 0.5277220606803894
+    },
+    {
+      "text": "Moute",
+      "bbox": null,
+      "confidence": 0.7565067410469055
+    },
+    {
+      "text": "D0se",
+      "bbox": null,
+      "confidence": 0.7097285985946655
+    },
+    {
+      "text": "JY",
+      "bbox": null,
+      "confidence": 0.7855304479598999
+    },
+    {
+      "text": "17",
+      "bbox": null,
+      "confidence": 0.9205960035324097
+    },
+    {
+      "text": "SO0TIE",
+      "bbox": null,
+      "confidence": 0.6580402255058289
+    },
+    {
+      "text": "Tinae",
+      "bbox": null,
+      "confidence": 0.7579911947250366
+    },
+    {
+      "text": "14",
+      "bbox": null,
+      "confidence": 0.7614737749099731
+    },
+    {
+      "text": "ED",
+      "bbox": null,
+      "confidence": 0.6576633453369141
+    },
+    {
+      "text": "o",
+      "bbox": null,
+      "confidence": 0.2125568985939026
+    },
+    {
+      "text": "An",
+      "bbox": null,
+      "confidence": 0.7024914622306824
+    },
+    {
+      "text": ".18",
+      "bbox": null,
+      "confidence": 0.7890499234199524
+    },
+    {
+      "text": "Chatre a Tie",
+      "bbox": null,
+      "confidence": 0.6467792987823486
+    },
+    {
+      "text": "the Sig",
+      "bbox": null,
+      "confidence": 0.8518574833869934
+    },
+    {
+      "text": "E2",
+      "bbox": null,
+      "confidence": 0.7119430303573608
+    },
+    {
+      "text": "male",
+      "bbox": null,
+      "confidence": 0.5554031729698181
+    },
+    {
+      "text": "34",
+      "bbox": null,
+      "confidence": 0.6464778184890747
+    },
+    {
+      "text": "V-29mn",
+      "bbox": null,
+      "confidence": 0.455725759267807
+    },
+    {
+      "text": "Deu Name",
+      "bbox": null,
+      "confidence": 0.8019738793373108
+    },
+    {
+      "text": "NTACIN",
+      "bbox": null,
+      "confidence": 0.7661581039428711
+    },
+    {
+      "text": "5",
+      "bbox": null,
+      "confidence": 0.6474015116691589
+    },
+    {
+      "text": "Naute",
+      "bbox": null,
+      "confidence": 0.5401992201805115
+    },
+    {
+      "text": "EO",
+      "bbox": null,
+      "confidence": 0.6901229619979858
+    },
+    {
+      "text": "Papi 7",
+      "bbox": null,
+      "confidence": 0.6766563057899475
+    },
+    {
+      "text": "Duse",
+      "bbox": null,
+      "confidence": 0.7716953754425049
+    },
+    {
+      "text": "IY",
+      "bbox": null,
+      "confidence": 0.8391836881637573
+    },
+    {
+      "text": "m",
+      "bbox": null,
+      "confidence": 0.4842635989189148
+    },
+    {
+      "text": "150M4",
+      "bbox": null,
+      "confidence": 0.7526634931564331
+    },
+    {
+      "text": "Thme",
+      "bbox": null,
+      "confidence": 0.7745943069458008
+    },
+    {
+      "text": "1n",
+      "bbox": null,
+      "confidence": 0.5898580551147461
+    },
+    {
+      "text": "AS",
+      "bbox": null,
+      "confidence": 0.22148379683494568
+    },
+    {
+      "text": "15",
+      "bbox": null,
+      "confidence": 0.715482771396637
+    },
+    {
+      "text": "A",
+      "bbox": null,
+      "confidence": 0.3607269525527954
+    },
+    {
+      "text": "Te A Tr",
+      "bbox": null,
+      "confidence": 0.6670963168144226
+    },
+    {
+      "text": "Dr. Sign",
+      "bbox": null,
+      "confidence": 0.6908936500549316
+    },
+    {
+      "text": "22",
+      "bbox": null,
+      "confidence": 0.9360276460647583
+    },
+    {
+      "text": "23017",
+      "bbox": null,
+      "confidence": 0.4953489303588867
+    },
+    {
+      "text": "13",
+      "bbox": null,
+      "confidence": 0.28801122307777405
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.9770566821098328
+    },
+    {
+      "text": "Drug Nae:",
+      "bbox": null,
+      "confidence": 0.835198163986206
+    },
+    {
+      "text": "2N-2",
+      "bbox": null,
+      "confidence": 0.7171388864517212
+    },
+    {
+      "text": "Parp 2a",
+      "bbox": null,
+      "confidence": 0.5346064567565918
+    },
+    {
+      "text": "Nouta",
+      "bbox": null,
+      "confidence": 0.5209397077560425
+    },
+    {
+      "text": "Dode",
+      "bbox": null,
+      "confidence": 0.9010661840438843
+    },
+    {
+      "text": "Do",
+      "bbox": null,
+      "confidence": 0.7347723841667175
+    },
+    {
+      "text": "517",
+      "bbox": null,
+      "confidence": 0.6616949439048767
+    },
+    {
+      "text": "SML",
+      "bbox": null,
+      "confidence": 0.9500778317451477
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9963350296020508
+    },
+    {
+      "text": "14",
+      "bbox": null,
+      "confidence": 0.9979016184806824
+    },
+    {
+      "text": "on",
+      "bbox": null,
+      "confidence": 0.785342276096344
+    },
+    {
+      "text": "10",
+      "bbox": null,
+      "confidence": 0.8856635689735413
+    },
+    {
+      "text": "3E",
+      "bbox": null,
+      "confidence": 0.410680890083313
+    },
+    {
+      "text": "Anll",
+      "bbox": null,
+      "confidence": 0.6628034710884094
+    },
+    {
+      "text": "Thein  Tee",
+      "bbox": null,
+      "confidence": 0.657357394695282
+    },
+    {
+      "text": "Dn Sign",
+      "bbox": null,
+      "confidence": 0.8245805501937866
+    },
+    {
+      "text": "23",
+      "bbox": null,
+      "confidence": 0.9496056437492371
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.536786675453186
+    },
+    {
+      "text": "11617",
+      "bbox": null,
+      "confidence": 0.4615616798400879
+    },
+    {
+      "text": "24",
+      "bbox": null,
+      "confidence": 0.9936693906784058
+    },
+    {
+      "text": "Cheag Name:",
+      "bbox": null,
+      "confidence": 0.8689236044883728
+    },
+    {
+      "text": "R. TUMM",
+      "bbox": null,
+      "confidence": 0.8207272291183472
+    },
+    {
+      "text": "YSOFT",
+      "bbox": null,
+      "confidence": 0.8115221261978149
+    },
+    {
+      "text": "-1",
+      "bbox": null,
+      "confidence": 0.4698137044906616
+    },
+    {
+      "text": "Porp pap",
+      "bbox": null,
+      "confidence": 0.5243401527404785
+    },
+    {
+      "text": "Raite",
+      "bbox": null,
+      "confidence": 0.4078775942325592
+    },
+    {
+      "text": "1102",
+      "bbox": null,
+      "confidence": 0.3708982765674591
+    },
+    {
+      "text": "Dote",
+      "bbox": null,
+      "confidence": 0.7651705741882324
+    },
+    {
+      "text": "po",
+      "bbox": null,
+      "confidence": 0.5940978527069092
+    },
+    {
+      "text": "12",
+      "bbox": null,
+      "confidence": 0.954899251461029
+    },
+    {
+      "text": "$TML",
+      "bbox": null,
+      "confidence": 0.77076256275177
+    },
+    {
+      "text": "T.ow",
+      "bbox": null,
+      "confidence": 0.44471532106399536
+    },
+    {
+      "text": "14",
+      "bbox": null,
+      "confidence": 0.6089277267456055
+    },
+    {
+      "text": "BD",
+      "bbox": null,
+      "confidence": 0.8932264447212219
+    },
+    {
+      "text": "1E",
+      "bbox": null,
+      "confidence": 0.3229095935821533
+    },
+    {
+      "text": "S",
+      "bbox": null,
+      "confidence": 0.12873432040214539
+    },
+    {
+      "text": "Arn",
+      "bbox": null,
+      "confidence": 0.4943026602268219
+    },
+    {
+      "text": "Dr Sign",
+      "bbox": null,
+      "confidence": 0.736998438835144
+    },
+    {
+      "text": "62",
+      "bbox": null,
+      "confidence": 0.9338905215263367
+    },
+    {
+      "text": "5225",
+      "bbox": null,
+      "confidence": 0.5050833225250244
+    },
+    {
+      "text": "Tiie as Ther",
+      "bbox": null,
+      "confidence": 0.5691738128662109
+    },
+    {
+      "text": "m3lt",
+      "bbox": null,
+      "confidence": 0.6773837804794312
+    },
+    {
+      "text": "24",
+      "bbox": null,
+      "confidence": 0.9788159132003784
+    },
+    {
+      "text": "I",
+      "bbox": null,
+      "confidence": 0.4398234188556671
+    },
+    {
+      "text": "Drujt Hames",
+      "bbox": null,
+      "confidence": 0.7613633871078491
+    },
+    {
+      "text": "U",
+      "bbox": null,
+      "confidence": 0.3471754193305969
+    },
+    {
+      "text": "Conta",
+      "bbox": null,
+      "confidence": 0.8889719247817993
+    },
+    {
+      "text": "C",
+      "bbox": null,
+      "confidence": 0.5844314694404602
+    },
+    {
+      "text": "Route",
+      "bbox": null,
+      "confidence": 0.6704962253570557
+    },
+    {
+      "text": "10",
+      "bbox": null,
+      "confidence": 0.9972999095916748
+    },
+    {
+      "text": "Pla",
+      "bbox": null,
+      "confidence": 0.7005550265312195
+    },
+    {
+      "text": "12",
+      "bbox": null,
+      "confidence": 0.9246867895126343
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9145254492759705
+    },
+    {
+      "text": "16",
+      "bbox": null,
+      "confidence": 0.8769005537033081
+    },
+    {
+      "text": "H3/6",
+      "bbox": null,
+      "confidence": 0.5121756196022034
+    },
+    {
+      "text": "18",
+      "bbox": null,
+      "confidence": 0.9748844504356384
+    },
+    {
+      "text": "KEm",
+      "bbox": null,
+      "confidence": 0.59641432762146
+    },
+    {
+      "text": "Dr: 9gn",
+      "bbox": null,
+      "confidence": 0.7040742039680481
+    },
+    {
+      "text": "(22)",
+      "bbox": null,
+      "confidence": 0.6475429534912109
+    },
+    {
+      "text": "Ther ATint",
+      "bbox": null,
+      "confidence": 0.7854349613189697
+    },
+    {
+      "text": "15/3/20",
+      "bbox": null,
+      "confidence": 0.8296747207641602
+    },
+    {
+      "text": "\\",
+      "bbox": null,
+      "confidence": 0.4506361484527588
+    }
+  ]
+}

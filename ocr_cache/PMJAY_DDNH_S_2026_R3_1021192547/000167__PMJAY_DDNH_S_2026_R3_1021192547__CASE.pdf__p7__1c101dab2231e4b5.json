@@ -1,0 +1,383 @@
+{
+  "text": "R2400\nCeptire4\nSign. of\nS/Nurse\nFluids Advised 0 p ssmhe\n00\nb Ar2thomyein 24000 2pm\nDOA712125\n8702x70\nDate:812126\nBHP Amox d3mT\nWardw\n2\n7\npacat e\nRou\n[teta\nLEEET\nTotal Outpul =\nAbdominal Girth\nORS\nX\n08=rood rotaL\nVomit\nadre\no\n2\ntoo g\nJ001s\nARD\nUrine\n“\nSex\neee Meaae\nTime\nHEALING HANDS, CARING HEARTS\n104r.\n121953\nOral/RT\nshops\nOw\n≥\nOG OOO\nCode\nAae\ntnete\nBe\n'es\nto\ntune\nOds\n1.66\n\"hb\nC8\n125\nthe death, but\nor condition in\nB\n-\n-\n11\n4694\n2288\nnc\n3\n1\n0EI2RDW\n3\n021\nP\n82m\n2$ud\nT\nSisoubeig\nTame",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 487,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "R2400",
+      "bbox": null,
+      "confidence": 0.6036632657051086
+    },
+    {
+      "text": "Ceptire4",
+      "bbox": null,
+      "confidence": 0.5537698864936829
+    },
+    {
+      "text": "Sign. of",
+      "bbox": null,
+      "confidence": 0.9719895720481873
+    },
+    {
+      "text": "S/Nurse",
+      "bbox": null,
+      "confidence": 0.9980654120445251
+    },
+    {
+      "text": "Fluids Advised 0 p ssmhe",
+      "bbox": null,
+      "confidence": 0.8444795608520508
+    },
+    {
+      "text": "00",
+      "bbox": null,
+      "confidence": 0.3916899859905243
+    },
+    {
+      "text": "b Ar2thomyein 24000 2pm",
+      "bbox": null,
+      "confidence": 0.6776296496391296
+    },
+    {
+      "text": "DOA712125",
+      "bbox": null,
+      "confidence": 0.8551366329193115
+    },
+    {
+      "text": "8702x70",
+      "bbox": null,
+      "confidence": 0.6398501992225647
+    },
+    {
+      "text": "Date:812126",
+      "bbox": null,
+      "confidence": 0.8958904147148132
+    },
+    {
+      "text": "BHP Amox d3mT",
+      "bbox": null,
+      "confidence": 0.46967795491218567
+    },
+    {
+      "text": "Wardw",
+      "bbox": null,
+      "confidence": 0.8937290906906128
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.4125038683414459
+    },
+    {
+      "text": "7",
+      "bbox": null,
+      "confidence": 0.945052981376648
+    },
+    {
+      "text": "pacat e",
+      "bbox": null,
+      "confidence": 0.4161624610424042
+    },
+    {
+      "text": "Rou",
+      "bbox": null,
+      "confidence": 0.4145539104938507
+    },
+    {
+      "text": "[teta",
+      "bbox": null,
+      "confidence": 0.25533756613731384
+    },
+    {
+      "text": "LEEET",
+      "bbox": null,
+      "confidence": 0.4679206907749176
+    },
+    {
+      "text": "Total Outpul =",
+      "bbox": null,
+      "confidence": 0.9550782442092896
+    },
+    {
+      "text": "Abdominal Girth",
+      "bbox": null,
+      "confidence": 0.9976190328598022
+    },
+    {
+      "text": "ORS",
+      "bbox": null,
+      "confidence": 0.9332829117774963
+    },
+    {
+      "text": "X",
+      "bbox": null,
+      "confidence": 0.7334595918655396
+    },
+    {
+      "text": "08=rood rotaL",
+      "bbox": null,
+      "confidence": 0.7302106022834778
+    },
+    {
+      "text": "Vomit",
+      "bbox": null,
+      "confidence": 0.9050866961479187
+    },
+    {
+      "text": "adre",
+      "bbox": null,
+      "confidence": 0.3658562898635864
+    },
+    {
+      "text": "o",
+      "bbox": null,
+      "confidence": 0.4123736619949341
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.5161453485488892
+    },
+    {
+      "text": "too g",
+      "bbox": null,
+      "confidence": 0.40389710664749146
+    },
+    {
+      "text": "J001s",
+      "bbox": null,
+      "confidence": 0.6335619688034058
+    },
+    {
+      "text": "ARD",
+      "bbox": null,
+      "confidence": 0.9998252987861633
+    },
+    {
+      "text": "Urine",
+      "bbox": null,
+      "confidence": 0.9985187649726868
+    },
+    {
+      "text": "“",
+      "bbox": null,
+      "confidence": 0.19750195741653442
+    },
+    {
+      "text": "Sex",
+      "bbox": null,
+      "confidence": 0.9988678097724915
+    },
+    {
+      "text": "eee Meaae",
+      "bbox": null,
+      "confidence": 0.3071158528327942
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9994171857833862
+    },
+    {
+      "text": "HEALING HANDS, CARING HEARTS",
+      "bbox": null,
+      "confidence": 0.9836717247962952
+    },
+    {
+      "text": "104r.",
+      "bbox": null,
+      "confidence": 0.6493117213249207
+    },
+    {
+      "text": "121953",
+      "bbox": null,
+      "confidence": 0.8918514847755432
+    },
+    {
+      "text": "Oral/RT",
+      "bbox": null,
+      "confidence": 0.986930251121521
+    },
+    {
+      "text": "shops",
+      "bbox": null,
+      "confidence": 0.8043273091316223
+    },
+    {
+      "text": "Ow",
+      "bbox": null,
+      "confidence": 0.5728775262832642
+    },
+    {
+      "text": "≥",
+      "bbox": null,
+      "confidence": 0.9868038296699524
+    },
+    {
+      "text": "OG OOO",
+      "bbox": null,
+      "confidence": 0.3437386453151703
+    },
+    {
+      "text": "Code",
+      "bbox": null,
+      "confidence": 0.9979891180992126
+    },
+    {
+      "text": "Aae",
+      "bbox": null,
+      "confidence": 0.49845394492149353
+    },
+    {
+      "text": "tnete",
+      "bbox": null,
+      "confidence": 0.3731086850166321
+    },
+    {
+      "text": "Be",
+      "bbox": null,
+      "confidence": 0.20024815201759338
+    },
+    {
+      "text": "'es",
+      "bbox": null,
+      "confidence": 0.8574233055114746
+    },
+    {
+      "text": "to",
+      "bbox": null,
+      "confidence": 0.569429874420166
+    },
+    {
+      "text": "tune",
+      "bbox": null,
+      "confidence": 0.34207862615585327
+    },
+    {
+      "text": "Ods",
+      "bbox": null,
+      "confidence": 0.9302250742912292
+    },
+    {
+      "text": "1.66",
+      "bbox": null,
+      "confidence": 0.9229421615600586
+    },
+    {
+      "text": "\"hb",
+      "bbox": null,
+      "confidence": 0.661312997341156
+    },
+    {
+      "text": "C8",
+      "bbox": null,
+      "confidence": 0.5928272604942322
+    },
+    {
+      "text": "125",
+      "bbox": null,
+      "confidence": 0.6663976311683655
+    },
+    {
+      "text": "the death, but",
+      "bbox": null,
+      "confidence": 0.9784581065177917
+    },
+    {
+      "text": "or condition in",
+      "bbox": null,
+      "confidence": 0.9921077489852905
+    },
+    {
+      "text": "B",
+      "bbox": null,
+      "confidence": 0.5092741250991821
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.7290666103363037
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.8328128457069397
+    },
+    {
+      "text": "11",
+      "bbox": null,
+      "confidence": 0.6304329633712769
+    },
+    {
+      "text": "4694",
+      "bbox": null,
+      "confidence": 0.5416700839996338
+    },
+    {
+      "text": "2288",
+      "bbox": null,
+      "confidence": 0.7287133932113647
+    },
+    {
+      "text": "nc",
+      "bbox": null,
+      "confidence": 0.3994579613208771
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.16022032499313354
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.14947427809238434
+    },
+    {
+      "text": "0EI2RDW",
+      "bbox": null,
+      "confidence": 0.42382439970970154
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.6642836332321167
+    },
+    {
+      "text": "021",
+      "bbox": null,
+      "confidence": 0.9530255794525146
+    },
+    {
+      "text": "P",
+      "bbox": null,
+      "confidence": 0.7957333922386169
+    },
+    {
+      "text": "82m",
+      "bbox": null,
+      "confidence": 0.3209168016910553
+    },
+    {
+      "text": "2$ud",
+      "bbox": null,
+      "confidence": 0.5585170984268188
+    },
+    {
+      "text": "T",
+      "bbox": null,
+      "confidence": 0.4909014403820038
+    },
+    {
+      "text": "Sisoubeig",
+      "bbox": null,
+      "confidence": 0.47173744440078735
+    },
+    {
+      "text": "Tame",
+      "bbox": null,
+      "confidence": 0.33071380853652954
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "text": "PATIENT NAME\nCOLLECTED\n: 22-01-2026\nAGE /GENDER\n: 58YRS/M\n10:50PM\nRECEIVED\n: 22-01-2026\nREF. DOCTOR\n10:55PM\nREPORTED\n: 23-01-2026\nUHID\n: 1767/UHIDHNO\n12:35AM\nSTATUS\n: FINAL REPORT\nIPD\n: 165/IPD25HO\nCATEGORY\nDATE\n: ICU\n: 22-01-2026\nLAB SERIAL NO\n: COHO2072\nDEPARTMENT OF MICROBIOLOGY\nTYPHI DOT IgG/IgM\nTest Name\nResult\nBio Ref Interval\nTyphidot IgM\nPOSITIVE\nNEGATIVE\nTyphidot IgG\nNEGATIVE\nNEGATIVE\n(MD PATHOLOGIST)",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 413,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "PATIENT NAME",
+      "bbox": null,
+      "confidence": 0.9850009083747864
+    },
+    {
+      "text": "COLLECTED",
+      "bbox": null,
+      "confidence": 0.9998701810836792
+    },
+    {
+      "text": ": 22-01-2026",
+      "bbox": null,
+      "confidence": 0.9782068729400635
+    },
+    {
+      "text": "AGE /GENDER",
+      "bbox": null,
+      "confidence": 0.9802281856536865
+    },
+    {
+      "text": ": 58YRS/M",
+      "bbox": null,
+      "confidence": 0.9984927773475647
+    },
+    {
+      "text": "10:50PM",
+      "bbox": null,
+      "confidence": 0.999675452709198
+    },
+    {
+      "text": "RECEIVED",
+      "bbox": null,
+      "confidence": 0.9571381211280823
+    },
+    {
+      "text": ": 22-01-2026",
+      "bbox": null,
+      "confidence": 0.9506244659423828
+    },
+    {
+      "text": "REF. DOCTOR",
+      "bbox": null,
+      "confidence": 0.9955478310585022
+    },
+    {
+      "text": "10:55PM",
+      "bbox": null,
+      "confidence": 0.9998701810836792
+    },
+    {
+      "text": "REPORTED",
+      "bbox": null,
+      "confidence": 0.9998847246170044
+    },
+    {
+      "text": ": 23-01-2026",
+      "bbox": null,
+      "confidence": 0.9875466823577881
+    },
+    {
+      "text": "UHID",
+      "bbox": null,
+      "confidence": 0.9996247291564941
+    },
+    {
+      "text": ": 1767/UHIDHNO",
+      "bbox": null,
+      "confidence": 0.9989415407180786
+    },
+    {
+      "text": "12:35AM",
+      "bbox": null,
+      "confidence": 0.9995809197425842
+    },
+    {
+      "text": "STATUS",
+      "bbox": null,
+      "confidence": 0.9999023079872131
+    },
+    {
+      "text": ": FINAL REPORT",
+      "bbox": null,
+      "confidence": 0.9746769666671753
+    },
+    {
+      "text": "IPD",
+      "bbox": null,
+      "confidence": 0.9999151229858398
+    },
+    {
+      "text": ": 165/IPD25HO",
+      "bbox": null,
+      "confidence": 0.9910609126091003
+    },
+    {
+      "text": "CATEGORY",
+      "bbox": null,
+      "confidence": 0.9997828006744385
+    },
+    {
+      "text": "DATE",
+      "bbox": null,
+      "confidence": 0.9997904300689697
+    },
+    {
+      "text": ": ICU",
+      "bbox": null,
+      "confidence": 0.9743661880493164
+    },
+    {
+      "text": ": 22-01-2026",
+      "bbox": null,
+      "confidence": 0.9945144653320312
+    },
+    {
+      "text": "LAB SERIAL NO",
+      "bbox": null,
+      "confidence": 0.9989032745361328
+    },
+    {
+      "text": ": COHO2072",
+      "bbox": null,
+      "confidence": 0.97174471616745
+    },
+    {
+      "text": "DEPARTMENT OF MICROBIOLOGY",
+      "bbox": null,
+      "confidence": 0.9997009038925171
+    },
+    {
+      "text": "TYPHI DOT IgG/IgM",
+      "bbox": null,
+      "confidence": 0.9622216820716858
+    },
+    {
+      "text": "Test Name",
+      "bbox": null,
+      "confidence": 0.9675562977790833
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9997959136962891
+    },
+    {
+      "text": "Bio Ref Interval",
+      "bbox": null,
+      "confidence": 0.9999293088912964
+    },
+    {
+      "text": "Typhidot IgM",
+      "bbox": null,
+      "confidence": 0.9983919262886047
+    },
+    {
+      "text": "POSITIVE",
+      "bbox": null,
+      "confidence": 0.9998899698257446
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9999033212661743
+    },
+    {
+      "text": "Typhidot IgG",
+      "bbox": null,
+      "confidence": 0.9975693821907043
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9564133286476135
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9999153017997742
+    },
+    {
+      "text": "(MD PATHOLOGIST)",
+      "bbox": null,
+      "confidence": 0.9995388388633728
+    }
+  ]
+}

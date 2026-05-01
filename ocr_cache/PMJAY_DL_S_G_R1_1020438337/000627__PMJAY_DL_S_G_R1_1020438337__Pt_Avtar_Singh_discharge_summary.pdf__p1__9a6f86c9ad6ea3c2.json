@@ -1,0 +1,208 @@
+{
+  "text": "DISCHARGE SUMMERY\nPatient Name:\nAGE: - 56y/M\nUHID NO: - 1767\nIPD NO: 81/IPD25COHO\nDate & Time of Admission: - 22-01-2026 - 10:30 PM\nDate & Time of Discharge: 29.01.2026 4:00 PM\nTreating Consultant:\nDEPT: - GENERAL MEDICINE\nDIAGNOSIS: - ACC HTN / Enteric fever / AGE / UTI / LRTI\nCHIEF cOMPLAINT: - High grade fever with chills, pain abdomen with vomiting & nausea, loose motion.\nPatient also had headache restlessness, cough with expectoration and pain in throat.\nPAST MEDICAL HISTORY: - K/C/O Hypertension\nPAST SURGICAL HISTORY: - Not significant\nFAMILY HISTORY: - Not significant\nKNOWN DRUG/FOOD ALLERGY: - Patient has no H/O substance abuse, no significant history\nof allergy to any drug (as per history given by patient).\nVitals on Arrival: BP: 210/122 mmHg, PR: 118/min, Sp02: 90% on RA, Temp: 102.6°F, RR: 24/min, Pain\nScore: 8/10 RBS: 126 mg/dl.\ncOuRsE IN HOsPITAL: - Patient reported to casualty on 22.01.2026 with complaint of High grade\nfever with chills, pain abdomen with vomiting & nausea, loose motion. Patient also had headache\nrestlessness, cough with expectoration and pain in throat.\n22.01.26 & 26.01.26 - Patient was admitted in ICU. Start monitoring of vitals Medication administered as per\nprescription.O2 therapy administered as per condition of the patient. IV fluids administered as per prescription;\nI/O charting maintained\n27.01.2026 - Patient shifted to the HDU as symptomatically improving. Monitoring of vitals continued. IV\nmedicines continued\n28.01.2026 - Patient shifted to the ward as symptomatically better. Planned discharge on 29.01.2026 on oral\nmedication\nMedication as advised during hospitalization:\nInj Monocef 1gm BD\nInj PCM 1gm BD\nInj Pantop BD\nInj Emset BD\nTab Azee 500mg BD\nNebulization with Duolin and Budecort TDS\n7.Tab Montair Lc HS\n8Nasivion Nasal Drop 2 drops BD\nTab Mucinac BD\n10. Tab Udiliv 300 BD",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 1848,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "DISCHARGE SUMMERY",
+      "bbox": null,
+      "confidence": 0.9862771034240723
+    },
+    {
+      "text": "Patient Name:",
+      "bbox": null,
+      "confidence": 0.9885727763175964
+    },
+    {
+      "text": "AGE: - 56y/M",
+      "bbox": null,
+      "confidence": 0.9358640313148499
+    },
+    {
+      "text": "UHID NO: - 1767",
+      "bbox": null,
+      "confidence": 0.9837290644645691
+    },
+    {
+      "text": "IPD NO: 81/IPD25COHO",
+      "bbox": null,
+      "confidence": 0.9933451414108276
+    },
+    {
+      "text": "Date & Time of Admission: - 22-01-2026 - 10:30 PM",
+      "bbox": null,
+      "confidence": 0.976202130317688
+    },
+    {
+      "text": "Date & Time of Discharge: 29.01.2026 4:00 PM",
+      "bbox": null,
+      "confidence": 0.9675483703613281
+    },
+    {
+      "text": "Treating Consultant:",
+      "bbox": null,
+      "confidence": 0.9961007833480835
+    },
+    {
+      "text": "DEPT: - GENERAL MEDICINE",
+      "bbox": null,
+      "confidence": 0.991162121295929
+    },
+    {
+      "text": "DIAGNOSIS: - ACC HTN / Enteric fever / AGE / UTI / LRTI",
+      "bbox": null,
+      "confidence": 0.991421639919281
+    },
+    {
+      "text": "CHIEF cOMPLAINT: - High grade fever with chills, pain abdomen with vomiting & nausea, loose motion.",
+      "bbox": null,
+      "confidence": 0.9890875816345215
+    },
+    {
+      "text": "Patient also had headache restlessness, cough with expectoration and pain in throat.",
+      "bbox": null,
+      "confidence": 0.9977911114692688
+    },
+    {
+      "text": "PAST MEDICAL HISTORY: - K/C/O Hypertension",
+      "bbox": null,
+      "confidence": 0.9820250272750854
+    },
+    {
+      "text": "PAST SURGICAL HISTORY: - Not significant",
+      "bbox": null,
+      "confidence": 0.9884872436523438
+    },
+    {
+      "text": "FAMILY HISTORY: - Not significant",
+      "bbox": null,
+      "confidence": 0.9859753251075745
+    },
+    {
+      "text": "KNOWN DRUG/FOOD ALLERGY: - Patient has no H/O substance abuse, no significant history",
+      "bbox": null,
+      "confidence": 0.9857673048973083
+    },
+    {
+      "text": "of allergy to any drug (as per history given by patient).",
+      "bbox": null,
+      "confidence": 0.9832890033721924
+    },
+    {
+      "text": "Vitals on Arrival: BP: 210/122 mmHg, PR: 118/min, Sp02: 90% on RA, Temp: 102.6°F, RR: 24/min, Pain",
+      "bbox": null,
+      "confidence": 0.9836565256118774
+    },
+    {
+      "text": "Score: 8/10 RBS: 126 mg/dl.",
+      "bbox": null,
+      "confidence": 0.9982171654701233
+    },
+    {
+      "text": "cOuRsE IN HOsPITAL: - Patient reported to casualty on 22.01.2026 with complaint of High grade",
+      "bbox": null,
+      "confidence": 0.9712060689926147
+    },
+    {
+      "text": "fever with chills, pain abdomen with vomiting & nausea, loose motion. Patient also had headache",
+      "bbox": null,
+      "confidence": 0.9882372617721558
+    },
+    {
+      "text": "restlessness, cough with expectoration and pain in throat.",
+      "bbox": null,
+      "confidence": 0.9937631487846375
+    },
+    {
+      "text": "22.01.26 & 26.01.26 - Patient was admitted in ICU. Start monitoring of vitals Medication administered as per",
+      "bbox": null,
+      "confidence": 0.9714406132698059
+    },
+    {
+      "text": "prescription.O2 therapy administered as per condition of the patient. IV fluids administered as per prescription;",
+      "bbox": null,
+      "confidence": 0.989928126335144
+    },
+    {
+      "text": "I/O charting maintained",
+      "bbox": null,
+      "confidence": 0.9626471400260925
+    },
+    {
+      "text": "27.01.2026 - Patient shifted to the HDU as symptomatically improving. Monitoring of vitals continued. IV",
+      "bbox": null,
+      "confidence": 0.9824415445327759
+    },
+    {
+      "text": "medicines continued",
+      "bbox": null,
+      "confidence": 0.9996412992477417
+    },
+    {
+      "text": "28.01.2026 - Patient shifted to the ward as symptomatically better. Planned discharge on 29.01.2026 on oral",
+      "bbox": null,
+      "confidence": 0.9914736747741699
+    },
+    {
+      "text": "medication",
+      "bbox": null,
+      "confidence": 0.9999399185180664
+    },
+    {
+      "text": "Medication as advised during hospitalization:",
+      "bbox": null,
+      "confidence": 0.9913399815559387
+    },
+    {
+      "text": "Inj Monocef 1gm BD",
+      "bbox": null,
+      "confidence": 0.9784619212150574
+    },
+    {
+      "text": "Inj PCM 1gm BD",
+      "bbox": null,
+      "confidence": 0.9953976273536682
+    },
+    {
+      "text": "Inj Pantop BD",
+      "bbox": null,
+      "confidence": 0.9926972985267639
+    },
+    {
+      "text": "Inj Emset BD",
+      "bbox": null,
+      "confidence": 0.9977417588233948
+    },
+    {
+      "text": "Tab Azee 500mg BD",
+      "bbox": null,
+      "confidence": 0.9985638856887817
+    },
+    {
+      "text": "Nebulization with Duolin and Budecort TDS",
+      "bbox": null,
+      "confidence": 0.9743890762329102
+    },
+    {
+      "text": "7.Tab Montair Lc HS",
+      "bbox": null,
+      "confidence": 0.9813266396522522
+    },
+    {
+      "text": "8Nasivion Nasal Drop 2 drops BD",
+      "bbox": null,
+      "confidence": 0.9676268696784973
+    },
+    {
+      "text": "Tab Mucinac BD",
+      "bbox": null,
+      "confidence": 0.9998059868812561
+    },
+    {
+      "text": "10. Tab Udiliv 300 BD",
+      "bbox": null,
+      "confidence": 0.9714182019233704
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "text": "Center Name\nLab ID\n:-20260125/4\nBill No#\n∴BL/2526/171\nCollection Date :16/02/2026 00:00\nPatient Name\nReporting Date :-/02/2026 16:03\nReferred By\nAge/Gender\n:-39 Year(s)/Female\n3\nSpecimen At\n:-OPD\nHAEMATOLOGY EXAMINATION\nInvestigations\nObserved Value\nUnit\nReference- Range\nCOMPLETE BLOOD COUNT (C. B. C.)\nHaemoglobin\n↓ 10.0 gm/dl (68.2%)\n11.0 - 15.5 gm/dl\nRed Blood Cells (RBC) Count\n3.85\nx106/uL\n3.80 - 5.80\nPCV / Haematocrit (HCT)\n35.5\n%\n30.0 - 50.0\nMean Cell Volume (MCV)\n92.21\nfl\n80.0 - 99.0\nMean Cell Haemoglobin (MCH)\n3\n25.97\npg\n26.5 -33.5\nMean Cell Hb, Concentration (MCHC)\n28.17\ng/dl\n32.0 -36.0\nRBC Distribution Width RDW\n12.6\n%\n10 -16\nMean Plasma Volume (MPV)\n10.9\nff\n7.0 - 11.0\nPlatelet Count\n-\n135\nx103/uL\n140.0 - 400.0\nPlatelet Distribution Width (PDW)\n15.9\nf1\n10.0 18.0\nTotal Leucocyte Count (TLC)\n←\n12.6\nx103/uL\n4.0 - 10.0\nDifferential Leucocyte Count (DLC)\nNeutrophil\n70\n%\n45.0 - 65.0\n+\n20\n%\n25.0 - 45.0\nLymphocyte\n%\n1.0-6.0\nEosinophil\n06\n04\n%\n2.0 - 10.0\nMonocyte\n%\n0.0 - 1.0\nBasophil\n00\n8.82\nx103/uL\n1.8-6.5\nAbsolute Neutrophil Count\n↑\n$x10^3/ul\n1.0 - 4.5\nAbsolute Lymphocyte Count\n2.52\nx102/uL\n0.1 - 0.6\nAbsolute Eosinophil Count\n↑\n0.76\nx103/uL\n0.2-1.0\nAbsolute Monocyte Count\n0.5\nx103/uL\n0.0 - 0.1\nAbsolute Basophil Count\n0\non",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 1243,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Center Name",
+      "bbox": null,
+      "confidence": 0.8849062323570251
+    },
+    {
+      "text": "Lab ID",
+      "bbox": null,
+      "confidence": 0.9813547134399414
+    },
+    {
+      "text": ":-20260125/4",
+      "bbox": null,
+      "confidence": 0.9925875663757324
+    },
+    {
+      "text": "Bill No#",
+      "bbox": null,
+      "confidence": 0.9466463327407837
+    },
+    {
+      "text": "∴BL/2526/171",
+      "bbox": null,
+      "confidence": 0.965009868144989
+    },
+    {
+      "text": "Collection Date :16/02/2026 00:00",
+      "bbox": null,
+      "confidence": 0.9763259887695312
+    },
+    {
+      "text": "Patient Name",
+      "bbox": null,
+      "confidence": 0.8777814507484436
+    },
+    {
+      "text": "Reporting Date :-/02/2026 16:03",
+      "bbox": null,
+      "confidence": 0.9568291306495667
+    },
+    {
+      "text": "Referred By",
+      "bbox": null,
+      "confidence": 0.9670163989067078
+    },
+    {
+      "text": "Age/Gender",
+      "bbox": null,
+      "confidence": 0.9998388290405273
+    },
+    {
+      "text": ":-39 Year(s)/Female",
+      "bbox": null,
+      "confidence": 0.9409520030021667
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.6312629580497742
+    },
+    {
+      "text": "Specimen At",
+      "bbox": null,
+      "confidence": 0.9896630644798279
+    },
+    {
+      "text": ":-OPD",
+      "bbox": null,
+      "confidence": 0.9394997358322144
+    },
+    {
+      "text": "HAEMATOLOGY EXAMINATION",
+      "bbox": null,
+      "confidence": 0.9995825290679932
+    },
+    {
+      "text": "Investigations",
+      "bbox": null,
+      "confidence": 0.9997338056564331
+    },
+    {
+      "text": "Observed Value",
+      "bbox": null,
+      "confidence": 0.9887126088142395
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9998717308044434
+    },
+    {
+      "text": "Reference- Range",
+      "bbox": null,
+      "confidence": 0.9865286946296692
+    },
+    {
+      "text": "COMPLETE BLOOD COUNT (C. B. C.)",
+      "bbox": null,
+      "confidence": 0.9698222279548645
+    },
+    {
+      "text": "Haemoglobin",
+      "bbox": null,
+      "confidence": 0.9993707537651062
+    },
+    {
+      "text": "↓ 10.0 gm/dl (68.2%)",
+      "bbox": null,
+      "confidence": 0.9425271153450012
+    },
+    {
+      "text": "11.0 - 15.5 gm/dl",
+      "bbox": null,
+      "confidence": 0.9924992918968201
+    },
+    {
+      "text": "Red Blood Cells (RBC) Count",
+      "bbox": null,
+      "confidence": 0.9928162097930908
+    },
+    {
+      "text": "3.85",
+      "bbox": null,
+      "confidence": 0.9992204904556274
+    },
+    {
+      "text": "x106/uL",
+      "bbox": null,
+      "confidence": 0.9904447793960571
+    },
+    {
+      "text": "3.80 - 5.80",
+      "bbox": null,
+      "confidence": 0.9311532974243164
+    },
+    {
+      "text": "PCV / Haematocrit (HCT)",
+      "bbox": null,
+      "confidence": 0.9612999558448792
+    },
+    {
+      "text": "35.5",
+      "bbox": null,
+      "confidence": 0.9991457462310791
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9992161989212036
+    },
+    {
+      "text": "30.0 - 50.0",
+      "bbox": null,
+      "confidence": 0.9469539523124695
+    },
+    {
+      "text": "Mean Cell Volume (MCV)",
+      "bbox": null,
+      "confidence": 0.9766756296157837
+    },
+    {
+      "text": "92.21",
+      "bbox": null,
+      "confidence": 0.9955277442932129
+    },
+    {
+      "text": "fl",
+      "bbox": null,
+      "confidence": 0.8867393732070923
+    },
+    {
+      "text": "80.0 - 99.0",
+      "bbox": null,
+      "confidence": 0.9492714405059814
+    },
+    {
+      "text": "Mean Cell Haemoglobin (MCH)",
+      "bbox": null,
+      "confidence": 0.9850208163261414
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.16782596707344055
+    },
+    {
+      "text": "25.97",
+      "bbox": null,
+      "confidence": 0.9995031356811523
+    },
+    {
+      "text": "pg",
+      "bbox": null,
+      "confidence": 0.9922301769256592
+    },
+    {
+      "text": "26.5 -33.5",
+      "bbox": null,
+      "confidence": 0.9420909881591797
+    },
+    {
+      "text": "Mean Cell Hb, Concentration (MCHC)",
+      "bbox": null,
+      "confidence": 0.9724024534225464
+    },
+    {
+      "text": "28.17",
+      "bbox": null,
+      "confidence": 0.9996412992477417
+    },
+    {
+      "text": "g/dl",
+      "bbox": null,
+      "confidence": 0.9881565570831299
+    },
+    {
+      "text": "32.0 -36.0",
+      "bbox": null,
+      "confidence": 0.9614542126655579
+    },
+    {
+      "text": "RBC Distribution Width RDW",
+      "bbox": null,
+      "confidence": 0.9966393709182739
+    },
+    {
+      "text": "12.6",
+      "bbox": null,
+      "confidence": 0.9806772470474243
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9908944368362427
+    },
+    {
+      "text": "10 -16",
+      "bbox": null,
+      "confidence": 0.9186190962791443
+    },
+    {
+      "text": "Mean Plasma Volume (MPV)",
+      "bbox": null,
+      "confidence": 0.9791205525398254
+    },
+    {
+      "text": "10.9",
+      "bbox": null,
+      "confidence": 0.9846899509429932
+    },
+    {
+      "text": "ff",
+      "bbox": null,
+      "confidence": 0.7325653433799744
+    },
+    {
+      "text": "7.0 - 11.0",
+      "bbox": null,
+      "confidence": 0.8999603986740112
+    },
+    {
+      "text": "Platelet Count",
+      "bbox": null,
+      "confidence": 0.9990374445915222
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.6471375226974487
+    },
+    {
+      "text": "135",
+      "bbox": null,
+      "confidence": 0.9998992085456848
+    },
+    {
+      "text": "x103/uL",
+      "bbox": null,
+      "confidence": 0.8391804695129395
+    },
+    {
+      "text": "140.0 - 400.0",
+      "bbox": null,
+      "confidence": 0.9579001665115356
+    },
+    {
+      "text": "Platelet Distribution Width (PDW)",
+      "bbox": null,
+      "confidence": 0.9898761510848999
+    },
+    {
+      "text": "15.9",
+      "bbox": null,
+      "confidence": 0.9219768643379211
+    },
+    {
+      "text": "f1",
+      "bbox": null,
+      "confidence": 0.7062395811080933
+    },
+    {
+      "text": "10.0 18.0",
+      "bbox": null,
+      "confidence": 0.9855682849884033
+    },
+    {
+      "text": "Total Leucocyte Count (TLC)",
+      "bbox": null,
+      "confidence": 0.9888613224029541
+    },
+    {
+      "text": "←",
+      "bbox": null,
+      "confidence": 0.3472386300563812
+    },
+    {
+      "text": "12.6",
+      "bbox": null,
+      "confidence": 0.9997777938842773
+    },
+    {
+      "text": "x103/uL",
+      "bbox": null,
+      "confidence": 0.8995725512504578
+    },
+    {
+      "text": "4.0 - 10.0",
+      "bbox": null,
+      "confidence": 0.9696441888809204
+    },
+    {
+      "text": "Differential Leucocyte Count (DLC)",
+      "bbox": null,
+      "confidence": 0.9992200136184692
+    },
+    {
+      "text": "Neutrophil",
+      "bbox": null,
+      "confidence": 0.9767157435417175
+    },
+    {
+      "text": "70",
+      "bbox": null,
+      "confidence": 0.9998975992202759
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.999528169631958
+    },
+    {
+      "text": "45.0 - 65.0",
+      "bbox": null,
+      "confidence": 0.9820756316184998
+    },
+    {
+      "text": "+",
+      "bbox": null,
+      "confidence": 0.42417874932289124
+    },
+    {
+      "text": "20",
+      "bbox": null,
+      "confidence": 0.9999110102653503
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9984827637672424
+    },
+    {
+      "text": "25.0 - 45.0",
+      "bbox": null,
+      "confidence": 0.9594553112983704
+    },
+    {
+      "text": "Lymphocyte",
+      "bbox": null,
+      "confidence": 0.9996787309646606
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9887740612030029
+    },
+    {
+      "text": "1.0-6.0",
+      "bbox": null,
+      "confidence": 0.9856997132301331
+    },
+    {
+      "text": "Eosinophil",
+      "bbox": null,
+      "confidence": 0.9543291330337524
+    },
+    {
+      "text": "06",
+      "bbox": null,
+      "confidence": 0.9997276067733765
+    },
+    {
+      "text": "04",
+      "bbox": null,
+      "confidence": 0.9978770613670349
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9965308308601379
+    },
+    {
+      "text": "2.0 - 10.0",
+      "bbox": null,
+      "confidence": 0.9836751222610474
+    },
+    {
+      "text": "Monocyte",
+      "bbox": null,
+      "confidence": 0.9996250867843628
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.9993577599525452
+    },
+    {
+      "text": "0.0 - 1.0",
+      "bbox": null,
+      "confidence": 0.989212691783905
+    },
+    {
+      "text": "Basophil",
+      "bbox": null,
+      "confidence": 0.9993414878845215
+    },
+    {
+      "text": "00",
+      "bbox": null,
+      "confidence": 0.9852806329727173
+    },
+    {
+      "text": "8.82",
+      "bbox": null,
+      "confidence": 0.9908325672149658
+    },
+    {
+      "text": "x103/uL",
+      "bbox": null,
+      "confidence": 0.936660885810852
+    },
+    {
+      "text": "1.8-6.5",
+      "bbox": null,
+      "confidence": 0.9940425157546997
+    },
+    {
+      "text": "Absolute Neutrophil Count",
+      "bbox": null,
+      "confidence": 0.9995722770690918
+    },
+    {
+      "text": "↑",
+      "bbox": null,
+      "confidence": 0.7367485165596008
+    },
+    {
+      "text": "$x10^3/ul",
+      "bbox": null,
+      "confidence": 0.7849589586257935
+    },
+    {
+      "text": "1.0 - 4.5",
+      "bbox": null,
+      "confidence": 0.950702965259552
+    },
+    {
+      "text": "Absolute Lymphocyte Count",
+      "bbox": null,
+      "confidence": 0.9997301697731018
+    },
+    {
+      "text": "2.52",
+      "bbox": null,
+      "confidence": 0.9945536851882935
+    },
+    {
+      "text": "x102/uL",
+      "bbox": null,
+      "confidence": 0.821347177028656
+    },
+    {
+      "text": "0.1 - 0.6",
+      "bbox": null,
+      "confidence": 0.9719667434692383
+    },
+    {
+      "text": "Absolute Eosinophil Count",
+      "bbox": null,
+      "confidence": 0.9834995865821838
+    },
+    {
+      "text": "↑",
+      "bbox": null,
+      "confidence": 0.9977728724479675
+    },
+    {
+      "text": "0.76",
+      "bbox": null,
+      "confidence": 0.9996917247772217
+    },
+    {
+      "text": "x103/uL",
+      "bbox": null,
+      "confidence": 0.8417027592658997
+    },
+    {
+      "text": "0.2-1.0",
+      "bbox": null,
+      "confidence": 0.9187827706336975
+    },
+    {
+      "text": "Absolute Monocyte Count",
+      "bbox": null,
+      "confidence": 0.9792428016662598
+    },
+    {
+      "text": "0.5",
+      "bbox": null,
+      "confidence": 0.9977253079414368
+    },
+    {
+      "text": "x103/uL",
+      "bbox": null,
+      "confidence": 0.8753775954246521
+    },
+    {
+      "text": "0.0 - 0.1",
+      "bbox": null,
+      "confidence": 0.9576594829559326
+    },
+    {
+      "text": "Absolute Basophil Count",
+      "bbox": null,
+      "confidence": 0.9822742342948914
+    },
+    {
+      "text": "0",
+      "bbox": null,
+      "confidence": 0.9954227805137634
+    },
+    {
+      "text": "on",
+      "bbox": null,
+      "confidence": 0.19873540103435516
+    }
+  ]
+}

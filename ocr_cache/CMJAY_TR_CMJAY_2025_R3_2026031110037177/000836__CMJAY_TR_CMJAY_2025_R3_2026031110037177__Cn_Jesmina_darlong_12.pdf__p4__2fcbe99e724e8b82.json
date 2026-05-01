@@ -1,0 +1,73 @@
+{
+  "text": "©\nSyr Tumny sofl\nTeump mou tonng 6horly\n$f}$\nDe ful\n.\nAdig\nCA/CRP\nleotn KET\nnd urew et\nstoel Rt\n.\n3",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 99,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "©",
+      "bbox": null,
+      "confidence": 0.4328676164150238
+    },
+    {
+      "text": "Syr Tumny sofl",
+      "bbox": null,
+      "confidence": 0.7898864150047302
+    },
+    {
+      "text": "Teump mou tonng 6horly",
+      "bbox": null,
+      "confidence": 0.685868501663208
+    },
+    {
+      "text": "$f}$",
+      "bbox": null,
+      "confidence": 0.7290692329406738
+    },
+    {
+      "text": "De ful",
+      "bbox": null,
+      "confidence": 0.46157655119895935
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.10649405419826508
+    },
+    {
+      "text": "Adig",
+      "bbox": null,
+      "confidence": 0.8143185377120972
+    },
+    {
+      "text": "CA/CRP",
+      "bbox": null,
+      "confidence": 0.669126033782959
+    },
+    {
+      "text": "leotn KET",
+      "bbox": null,
+      "confidence": 0.6691427230834961
+    },
+    {
+      "text": "nd urew et",
+      "bbox": null,
+      "confidence": 0.626703143119812
+    },
+    {
+      "text": "stoel Rt",
+      "bbox": null,
+      "confidence": 0.735004186630249
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.08360069990158081
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.26937639713287354
+    }
+  ]
+}

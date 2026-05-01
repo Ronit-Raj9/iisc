@@ -1,0 +1,253 @@
+{
+  "text": "Nameof Patient\nALICCUIHICRCL\nC\nSro D/O WIo\n*\nI.C.D Coding\nBrought by\n**\nAddress(Permanent)\n.********************************************\nPO\nPS...\n211212da 12.40pm\nDate & Time of Admission\n*****……………\nDate & Time of Discharge/Referral\nC\nss6sss=s\nProionaa.nnsis\n*****--************************************************************\nClinical Notes :\n40- Ceen\ncold\nLer)\nAdvice :\n2\nBn.12080 mutes1\nDUC QUINS\n1: 1 10d)\nOA.\n4\nUul-\n(2) dh. cefriaxme18\nNAN\nwi.\n2upmm(A)).\nCNI-\n(2 d. Bauboprall\nInvestigation advised :\n-upun\n(u dij. Dicko\nMnuir\n2mpromx0)su\nwidalwr\nneupuenit\n1.nM6A\nUrneNE\n(C)\nlubrr",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 585,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Nameof Patient",
+      "bbox": null,
+      "confidence": 0.9117369055747986
+    },
+    {
+      "text": "ALICCUIHICRCL",
+      "bbox": null,
+      "confidence": 0.528912365436554
+    },
+    {
+      "text": "C",
+      "bbox": null,
+      "confidence": 0.9446020126342773
+    },
+    {
+      "text": "Sro D/O WIo",
+      "bbox": null,
+      "confidence": 0.8173071146011353
+    },
+    {
+      "text": "*",
+      "bbox": null,
+      "confidence": 0.5493191480636597
+    },
+    {
+      "text": "I.C.D Coding",
+      "bbox": null,
+      "confidence": 0.9838464260101318
+    },
+    {
+      "text": "Brought by",
+      "bbox": null,
+      "confidence": 0.9955021142959595
+    },
+    {
+      "text": "**",
+      "bbox": null,
+      "confidence": 0.43238717317581177
+    },
+    {
+      "text": "Address(Permanent)",
+      "bbox": null,
+      "confidence": 0.9956316351890564
+    },
+    {
+      "text": ".********************************************",
+      "bbox": null,
+      "confidence": 0.7600066065788269
+    },
+    {
+      "text": "PO",
+      "bbox": null,
+      "confidence": 0.9979682564735413
+    },
+    {
+      "text": "PS...",
+      "bbox": null,
+      "confidence": 0.8000928163528442
+    },
+    {
+      "text": "211212da 12.40pm",
+      "bbox": null,
+      "confidence": 0.7517811059951782
+    },
+    {
+      "text": "Date & Time of Admission",
+      "bbox": null,
+      "confidence": 0.9570910930633545
+    },
+    {
+      "text": "*****……………",
+      "bbox": null,
+      "confidence": 0.34850263595581055
+    },
+    {
+      "text": "Date & Time of Discharge/Referral",
+      "bbox": null,
+      "confidence": 0.9939758777618408
+    },
+    {
+      "text": "C",
+      "bbox": null,
+      "confidence": 0.5383245944976807
+    },
+    {
+      "text": "ss6sss=s",
+      "bbox": null,
+      "confidence": 0.3376871645450592
+    },
+    {
+      "text": "Proionaa.nnsis",
+      "bbox": null,
+      "confidence": 0.580862820148468
+    },
+    {
+      "text": "*****--************************************************************",
+      "bbox": null,
+      "confidence": 0.5564101338386536
+    },
+    {
+      "text": "Clinical Notes :",
+      "bbox": null,
+      "confidence": 0.9472179412841797
+    },
+    {
+      "text": "40- Ceen",
+      "bbox": null,
+      "confidence": 0.588039755821228
+    },
+    {
+      "text": "cold",
+      "bbox": null,
+      "confidence": 0.9065640568733215
+    },
+    {
+      "text": "Ler)",
+      "bbox": null,
+      "confidence": 0.5397615432739258
+    },
+    {
+      "text": "Advice :",
+      "bbox": null,
+      "confidence": 0.9723155498504639
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.8557104468345642
+    },
+    {
+      "text": "Bn.12080 mutes1",
+      "bbox": null,
+      "confidence": 0.622140645980835
+    },
+    {
+      "text": "DUC QUINS",
+      "bbox": null,
+      "confidence": 0.6607374548912048
+    },
+    {
+      "text": "1: 1 10d)",
+      "bbox": null,
+      "confidence": 0.721308171749115
+    },
+    {
+      "text": "OA.",
+      "bbox": null,
+      "confidence": 0.424970418214798
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.1537379026412964
+    },
+    {
+      "text": "Uul-",
+      "bbox": null,
+      "confidence": 0.44336652755737305
+    },
+    {
+      "text": "(2) dh. cefriaxme18",
+      "bbox": null,
+      "confidence": 0.6639819741249084
+    },
+    {
+      "text": "NAN",
+      "bbox": null,
+      "confidence": 0.6850280165672302
+    },
+    {
+      "text": "wi.",
+      "bbox": null,
+      "confidence": 0.5832006931304932
+    },
+    {
+      "text": "2upmm(A)).",
+      "bbox": null,
+      "confidence": 0.6812833547592163
+    },
+    {
+      "text": "CNI-",
+      "bbox": null,
+      "confidence": 0.6962121725082397
+    },
+    {
+      "text": "(2 d. Bauboprall",
+      "bbox": null,
+      "confidence": 0.5730117559432983
+    },
+    {
+      "text": "Investigation advised :",
+      "bbox": null,
+      "confidence": 0.9735257625579834
+    },
+    {
+      "text": "-upun",
+      "bbox": null,
+      "confidence": 0.7312647700309753
+    },
+    {
+      "text": "(u dij. Dicko",
+      "bbox": null,
+      "confidence": 0.6345055103302002
+    },
+    {
+      "text": "Mnuir",
+      "bbox": null,
+      "confidence": 0.7395612001419067
+    },
+    {
+      "text": "2mpromx0)su",
+      "bbox": null,
+      "confidence": 0.4598206579685211
+    },
+    {
+      "text": "widalwr",
+      "bbox": null,
+      "confidence": 0.7931768298149109
+    },
+    {
+      "text": "neupuenit",
+      "bbox": null,
+      "confidence": 0.7715266942977905
+    },
+    {
+      "text": "1.nM6A",
+      "bbox": null,
+      "confidence": 0.5350427627563477
+    },
+    {
+      "text": "UrneNE",
+      "bbox": null,
+      "confidence": 0.6403235197067261
+    },
+    {
+      "text": "(C)",
+      "bbox": null,
+      "confidence": 0.8094260096549988
+    },
+    {
+      "text": "lubrr",
+      "bbox": null,
+      "confidence": 0.6274428963661194
+    }
+  ]
+}

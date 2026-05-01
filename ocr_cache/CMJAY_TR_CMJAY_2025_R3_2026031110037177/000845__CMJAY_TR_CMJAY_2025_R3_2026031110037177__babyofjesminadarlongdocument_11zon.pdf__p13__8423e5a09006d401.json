@@ -1,0 +1,203 @@
+{
+  "text": "P2\nINITIALASSESSMENT BY DOCTOR\nCASE HISTORY & PHYSICAL EXAMINAQON\nProweitivn Aspect of\nCarn\nclet & Ruglricb\nNeM fol gushi make\nProvisdomal Dlagnioals\nira H\nH\n4\nPlan of Care\nDesired Outcome\nSocial Support\nYes\nNo\nOCSCHAROL\nHome Eauipant\nYes\nNo\nPLANTIING (Identily\nPoysotheray\nYet\nNd\nposslbaie recds at\nWound Care\nYas\nNo\nhame ofter disctiarge)\nAny outher neod articipated\n\"\nExpected Duta Of\nDiicharge\nExamiration by Dc\nDote a Time of Aiseisment:\n(FULL SIGNATORE)\nCate & Timpe:\nCounter Pened By\nTreoting Ductor",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 506,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "P2",
+      "bbox": null,
+      "confidence": 0.9838536977767944
+    },
+    {
+      "text": "INITIALASSESSMENT BY DOCTOR",
+      "bbox": null,
+      "confidence": 0.9984267950057983
+    },
+    {
+      "text": "CASE HISTORY & PHYSICAL EXAMINAQON",
+      "bbox": null,
+      "confidence": 0.9791873693466187
+    },
+    {
+      "text": "Proweitivn Aspect of",
+      "bbox": null,
+      "confidence": 0.8721172213554382
+    },
+    {
+      "text": "Carn",
+      "bbox": null,
+      "confidence": 0.9536040425300598
+    },
+    {
+      "text": "clet & Ruglricb",
+      "bbox": null,
+      "confidence": 0.7323710322380066
+    },
+    {
+      "text": "NeM fol gushi make",
+      "bbox": null,
+      "confidence": 0.4792369604110718
+    },
+    {
+      "text": "Provisdomal Dlagnioals",
+      "bbox": null,
+      "confidence": 0.8660581707954407
+    },
+    {
+      "text": "ira H",
+      "bbox": null,
+      "confidence": 0.4036039710044861
+    },
+    {
+      "text": "H",
+      "bbox": null,
+      "confidence": 0.5651960968971252
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.2782818078994751
+    },
+    {
+      "text": "Plan of Care",
+      "bbox": null,
+      "confidence": 0.8564431071281433
+    },
+    {
+      "text": "Desired Outcome",
+      "bbox": null,
+      "confidence": 0.8088399767875671
+    },
+    {
+      "text": "Social Support",
+      "bbox": null,
+      "confidence": 0.9196478724479675
+    },
+    {
+      "text": "Yes",
+      "bbox": null,
+      "confidence": 0.9682865142822266
+    },
+    {
+      "text": "No",
+      "bbox": null,
+      "confidence": 0.9796801805496216
+    },
+    {
+      "text": "OCSCHAROL",
+      "bbox": null,
+      "confidence": 0.8016734719276428
+    },
+    {
+      "text": "Home Eauipant",
+      "bbox": null,
+      "confidence": 0.7343332767486572
+    },
+    {
+      "text": "Yes",
+      "bbox": null,
+      "confidence": 0.8282890319824219
+    },
+    {
+      "text": "No",
+      "bbox": null,
+      "confidence": 0.990354061126709
+    },
+    {
+      "text": "PLANTIING (Identily",
+      "bbox": null,
+      "confidence": 0.8553298115730286
+    },
+    {
+      "text": "Poysotheray",
+      "bbox": null,
+      "confidence": 0.6319320797920227
+    },
+    {
+      "text": "Yet",
+      "bbox": null,
+      "confidence": 0.6775210499763489
+    },
+    {
+      "text": "Nd",
+      "bbox": null,
+      "confidence": 0.3677212595939636
+    },
+    {
+      "text": "posslbaie recds at",
+      "bbox": null,
+      "confidence": 0.8150637149810791
+    },
+    {
+      "text": "Wound Care",
+      "bbox": null,
+      "confidence": 0.9708755612373352
+    },
+    {
+      "text": "Yas",
+      "bbox": null,
+      "confidence": 0.6622068285942078
+    },
+    {
+      "text": "No",
+      "bbox": null,
+      "confidence": 0.7733234167098999
+    },
+    {
+      "text": "hame ofter disctiarge)",
+      "bbox": null,
+      "confidence": 0.8540253043174744
+    },
+    {
+      "text": "Any outher neod articipated",
+      "bbox": null,
+      "confidence": 0.8627749681472778
+    },
+    {
+      "text": "\"",
+      "bbox": null,
+      "confidence": 0.47973573207855225
+    },
+    {
+      "text": "Expected Duta Of",
+      "bbox": null,
+      "confidence": 0.954520046710968
+    },
+    {
+      "text": "Diicharge",
+      "bbox": null,
+      "confidence": 0.9300546646118164
+    },
+    {
+      "text": "Examiration by Dc",
+      "bbox": null,
+      "confidence": 0.8517012596130371
+    },
+    {
+      "text": "Dote a Time of Aiseisment:",
+      "bbox": null,
+      "confidence": 0.8951413631439209
+    },
+    {
+      "text": "(FULL SIGNATORE)",
+      "bbox": null,
+      "confidence": 0.9029910564422607
+    },
+    {
+      "text": "Cate & Timpe:",
+      "bbox": null,
+      "confidence": 0.8674296736717224
+    },
+    {
+      "text": "Counter Pened By",
+      "bbox": null,
+      "confidence": 0.9278690814971924
+    },
+    {
+      "text": "Treoting Ductor",
+      "bbox": null,
+      "confidence": 0.9443054795265198
+    }
+  ]
+}

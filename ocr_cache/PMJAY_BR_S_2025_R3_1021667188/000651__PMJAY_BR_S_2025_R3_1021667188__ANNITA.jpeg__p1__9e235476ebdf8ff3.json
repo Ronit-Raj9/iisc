@@ -1,0 +1,238 @@
+{
+  "text": "Nm.\n.Date...L6:.02.26\nAddr.s..\n..\nTn/\n%\nB - 115/62mmH\nMP.widal\nfever C Headache\nPulse - 82min\nCB,RBS\nBackache  vertigo\n-\nTemp. -100.8f\nyineR/E\nConstipation\nIn/ Pebrinid - Lamp\nvoniting\nIM stat\nAEnteric fever\nIly xone-gun\nIv x BOfor 5 dayg\nAdlv\nIn Pan 40 - Ivil\nTab P650 -5days\nIstat\n1α3\nTab Pan -4o -Sdays\nTny andem Lamp\nid ie/s\nIn Stat\nTf RL\n3\nTab Doxcet -0 -sdays\n182\nInf DNS +MVI-\nTab andem -MD-Sda\n1α2\ndys vostoryne\nS\n-1p\n10mlx\nby zincavit\n6\ntonlx2\nLp",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 455,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Nm.",
+      "bbox": null,
+      "confidence": 0.6085558533668518
+    },
+    {
+      "text": ".Date...L6:.02.26",
+      "bbox": null,
+      "confidence": 0.7771120667457581
+    },
+    {
+      "text": "Addr.s..",
+      "bbox": null,
+      "confidence": 0.652915894985199
+    },
+    {
+      "text": "..",
+      "bbox": null,
+      "confidence": 0.5479947328567505
+    },
+    {
+      "text": "Tn/",
+      "bbox": null,
+      "confidence": 0.7530634999275208
+    },
+    {
+      "text": "%",
+      "bbox": null,
+      "confidence": 0.967470109462738
+    },
+    {
+      "text": "B - 115/62mmH",
+      "bbox": null,
+      "confidence": 0.7018159031867981
+    },
+    {
+      "text": "MP.widal",
+      "bbox": null,
+      "confidence": 0.9461908936500549
+    },
+    {
+      "text": "fever C Headache",
+      "bbox": null,
+      "confidence": 0.8965513110160828
+    },
+    {
+      "text": "Pulse - 82min",
+      "bbox": null,
+      "confidence": 0.8886300325393677
+    },
+    {
+      "text": "CB,RBS",
+      "bbox": null,
+      "confidence": 0.9028513431549072
+    },
+    {
+      "text": "Backache  vertigo",
+      "bbox": null,
+      "confidence": 0.9547765254974365
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.9638645052909851
+    },
+    {
+      "text": "Temp. -100.8f",
+      "bbox": null,
+      "confidence": 0.9314765930175781
+    },
+    {
+      "text": "yineR/E",
+      "bbox": null,
+      "confidence": 0.7877733111381531
+    },
+    {
+      "text": "Constipation",
+      "bbox": null,
+      "confidence": 0.92706698179245
+    },
+    {
+      "text": "In/ Pebrinid - Lamp",
+      "bbox": null,
+      "confidence": 0.7386969923973083
+    },
+    {
+      "text": "voniting",
+      "bbox": null,
+      "confidence": 0.9495149254798889
+    },
+    {
+      "text": "IM stat",
+      "bbox": null,
+      "confidence": 0.8752132058143616
+    },
+    {
+      "text": "AEnteric fever",
+      "bbox": null,
+      "confidence": 0.9364942312240601
+    },
+    {
+      "text": "Ily xone-gun",
+      "bbox": null,
+      "confidence": 0.7921598553657532
+    },
+    {
+      "text": "Iv x BOfor 5 dayg",
+      "bbox": null,
+      "confidence": 0.8282017707824707
+    },
+    {
+      "text": "Adlv",
+      "bbox": null,
+      "confidence": 0.6241374015808105
+    },
+    {
+      "text": "In Pan 40 - Ivil",
+      "bbox": null,
+      "confidence": 0.8245728015899658
+    },
+    {
+      "text": "Tab P650 -5days",
+      "bbox": null,
+      "confidence": 0.8628979325294495
+    },
+    {
+      "text": "Istat",
+      "bbox": null,
+      "confidence": 0.9666131734848022
+    },
+    {
+      "text": "1α3",
+      "bbox": null,
+      "confidence": 0.7319909930229187
+    },
+    {
+      "text": "Tab Pan -4o -Sdays",
+      "bbox": null,
+      "confidence": 0.8381636142730713
+    },
+    {
+      "text": "Tny andem Lamp",
+      "bbox": null,
+      "confidence": 0.8434372544288635
+    },
+    {
+      "text": "id ie/s",
+      "bbox": null,
+      "confidence": 0.7579751014709473
+    },
+    {
+      "text": "In Stat",
+      "bbox": null,
+      "confidence": 0.8038120269775391
+    },
+    {
+      "text": "Tf RL",
+      "bbox": null,
+      "confidence": 0.740572452545166
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.2824420928955078
+    },
+    {
+      "text": "Tab Doxcet -0 -sdays",
+      "bbox": null,
+      "confidence": 0.9002944231033325
+    },
+    {
+      "text": "182",
+      "bbox": null,
+      "confidence": 0.8603842854499817
+    },
+    {
+      "text": "Inf DNS +MVI-",
+      "bbox": null,
+      "confidence": 0.7841923832893372
+    },
+    {
+      "text": "Tab andem -MD-Sda",
+      "bbox": null,
+      "confidence": 0.8092139363288879
+    },
+    {
+      "text": "1α2",
+      "bbox": null,
+      "confidence": 0.8240236639976501
+    },
+    {
+      "text": "dys vostoryne",
+      "bbox": null,
+      "confidence": 0.820490300655365
+    },
+    {
+      "text": "S",
+      "bbox": null,
+      "confidence": 0.7235984206199646
+    },
+    {
+      "text": "-1p",
+      "bbox": null,
+      "confidence": 0.6325333714485168
+    },
+    {
+      "text": "10mlx",
+      "bbox": null,
+      "confidence": 0.5340348482131958
+    },
+    {
+      "text": "by zincavit",
+      "bbox": null,
+      "confidence": 0.7712435126304626
+    },
+    {
+      "text": "6",
+      "bbox": null,
+      "confidence": 0.991148829460144
+    },
+    {
+      "text": "tonlx2",
+      "bbox": null,
+      "confidence": 0.75571209192276
+    },
+    {
+      "text": "Lp",
+      "bbox": null,
+      "confidence": 0.7073150277137756
+    }
+  ]
+}

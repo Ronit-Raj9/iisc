@@ -1,0 +1,383 @@
+{
+  "text": "04:11/13/202602:30PM\nCOMDJATINT\n3-1725/1392\nTAKE\nOUTPUT\nAMALUPRTWAT\nM5E\nITTE\nAMOUIT\nTHFE\nAOHOURT\nUNnE\nADMTODANAETOO\nMRD\n12372\ngam\nnahom\nCtirl\n24\n30\n10n\nDre\n11Am\nDBP\n120m\nhay\n2\n1pa\n04\nVoa\nD\n2pm\nDEP\nB\nLuntk\n3O\nL\nORS\nE\ns\npased\n6m\nDEK\nFma\nOFSADo\nCim\n9pm\nORS\n26m\n15PM\nMeg\n135\n110m\nDBC\nK80\nDRL\nHom\n10m\n2Dm\n9m\no6P\nMDr\nRXBF\n≤Pm\n60m\nem\n4130\n5mll\nTetal In-dake -2goml + DBF\npaused\nuine\npassed-7dimelt urne\npassed- IHimes &oel p\npeansed.\n34o41",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 432,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "04:11/13/202602:30PM",
+      "bbox": null,
+      "confidence": 0.7359384298324585
+    },
+    {
+      "text": "COMDJATINT",
+      "bbox": null,
+      "confidence": 0.799744725227356
+    },
+    {
+      "text": "3-1725/1392",
+      "bbox": null,
+      "confidence": 0.6212248206138611
+    },
+    {
+      "text": "TAKE",
+      "bbox": null,
+      "confidence": 0.8637715578079224
+    },
+    {
+      "text": "OUTPUT",
+      "bbox": null,
+      "confidence": 0.9559653401374817
+    },
+    {
+      "text": "AMALUPRTWAT",
+      "bbox": null,
+      "confidence": 0.5016196370124817
+    },
+    {
+      "text": "M5E",
+      "bbox": null,
+      "confidence": 0.24557943642139435
+    },
+    {
+      "text": "ITTE",
+      "bbox": null,
+      "confidence": 0.5095190405845642
+    },
+    {
+      "text": "AMOUIT",
+      "bbox": null,
+      "confidence": 0.7614805698394775
+    },
+    {
+      "text": "THFE",
+      "bbox": null,
+      "confidence": 0.7356085181236267
+    },
+    {
+      "text": "AOHOURT",
+      "bbox": null,
+      "confidence": 0.6391026377677917
+    },
+    {
+      "text": "UNnE",
+      "bbox": null,
+      "confidence": 0.6334055066108704
+    },
+    {
+      "text": "ADMTODANAETOO",
+      "bbox": null,
+      "confidence": 0.4773368537425995
+    },
+    {
+      "text": "MRD",
+      "bbox": null,
+      "confidence": 0.36140403151512146
+    },
+    {
+      "text": "12372",
+      "bbox": null,
+      "confidence": 0.683135986328125
+    },
+    {
+      "text": "gam",
+      "bbox": null,
+      "confidence": 0.8351812362670898
+    },
+    {
+      "text": "nahom",
+      "bbox": null,
+      "confidence": 0.46545085310935974
+    },
+    {
+      "text": "Ctirl",
+      "bbox": null,
+      "confidence": 0.6250694394111633
+    },
+    {
+      "text": "24",
+      "bbox": null,
+      "confidence": 0.4514038562774658
+    },
+    {
+      "text": "30",
+      "bbox": null,
+      "confidence": 0.68182373046875
+    },
+    {
+      "text": "10n",
+      "bbox": null,
+      "confidence": 0.626458466053009
+    },
+    {
+      "text": "Dre",
+      "bbox": null,
+      "confidence": 0.48057499527931213
+    },
+    {
+      "text": "11Am",
+      "bbox": null,
+      "confidence": 0.7477861642837524
+    },
+    {
+      "text": "DBP",
+      "bbox": null,
+      "confidence": 0.6968860626220703
+    },
+    {
+      "text": "120m",
+      "bbox": null,
+      "confidence": 0.5611476898193359
+    },
+    {
+      "text": "hay",
+      "bbox": null,
+      "confidence": 0.5039929747581482
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.2903907597064972
+    },
+    {
+      "text": "1pa",
+      "bbox": null,
+      "confidence": 0.7653848528862
+    },
+    {
+      "text": "04",
+      "bbox": null,
+      "confidence": 0.6130973696708679
+    },
+    {
+      "text": "Voa",
+      "bbox": null,
+      "confidence": 0.3090578615665436
+    },
+    {
+      "text": "D",
+      "bbox": null,
+      "confidence": 0.7739582657814026
+    },
+    {
+      "text": "2pm",
+      "bbox": null,
+      "confidence": 0.702155590057373
+    },
+    {
+      "text": "DEP",
+      "bbox": null,
+      "confidence": 0.7453063130378723
+    },
+    {
+      "text": "B",
+      "bbox": null,
+      "confidence": 0.3987360894680023
+    },
+    {
+      "text": "Luntk",
+      "bbox": null,
+      "confidence": 0.7334092259407043
+    },
+    {
+      "text": "3O",
+      "bbox": null,
+      "confidence": 0.3116607666015625
+    },
+    {
+      "text": "L",
+      "bbox": null,
+      "confidence": 0.8261945843696594
+    },
+    {
+      "text": "ORS",
+      "bbox": null,
+      "confidence": 0.9307684898376465
+    },
+    {
+      "text": "E",
+      "bbox": null,
+      "confidence": 0.21852503716945648
+    },
+    {
+      "text": "s",
+      "bbox": null,
+      "confidence": 0.4202338457107544
+    },
+    {
+      "text": "pased",
+      "bbox": null,
+      "confidence": 0.8448594212532043
+    },
+    {
+      "text": "6m",
+      "bbox": null,
+      "confidence": 0.39157772064208984
+    },
+    {
+      "text": "DEK",
+      "bbox": null,
+      "confidence": 0.5212027430534363
+    },
+    {
+      "text": "Fma",
+      "bbox": null,
+      "confidence": 0.24306638538837433
+    },
+    {
+      "text": "OFSADo",
+      "bbox": null,
+      "confidence": 0.47262945771217346
+    },
+    {
+      "text": "Cim",
+      "bbox": null,
+      "confidence": 0.6703150868415833
+    },
+    {
+      "text": "9pm",
+      "bbox": null,
+      "confidence": 0.5681440830230713
+    },
+    {
+      "text": "ORS",
+      "bbox": null,
+      "confidence": 0.9842662811279297
+    },
+    {
+      "text": "26m",
+      "bbox": null,
+      "confidence": 0.9044936299324036
+    },
+    {
+      "text": "15PM",
+      "bbox": null,
+      "confidence": 0.5040395259857178
+    },
+    {
+      "text": "Meg",
+      "bbox": null,
+      "confidence": 0.3689475953578949
+    },
+    {
+      "text": "135",
+      "bbox": null,
+      "confidence": 0.7842612862586975
+    },
+    {
+      "text": "110m",
+      "bbox": null,
+      "confidence": 0.6262650489807129
+    },
+    {
+      "text": "DBC",
+      "bbox": null,
+      "confidence": 0.6318963170051575
+    },
+    {
+      "text": "K80",
+      "bbox": null,
+      "confidence": 0.20072992146015167
+    },
+    {
+      "text": "DRL",
+      "bbox": null,
+      "confidence": 0.7323169112205505
+    },
+    {
+      "text": "Hom",
+      "bbox": null,
+      "confidence": 0.7033297419548035
+    },
+    {
+      "text": "10m",
+      "bbox": null,
+      "confidence": 0.766277551651001
+    },
+    {
+      "text": "2Dm",
+      "bbox": null,
+      "confidence": 0.7420808672904968
+    },
+    {
+      "text": "9m",
+      "bbox": null,
+      "confidence": 0.7300463914871216
+    },
+    {
+      "text": "o6P",
+      "bbox": null,
+      "confidence": 0.25018808245658875
+    },
+    {
+      "text": "MDr",
+      "bbox": null,
+      "confidence": 0.29358434677124023
+    },
+    {
+      "text": "RXBF",
+      "bbox": null,
+      "confidence": 0.5355472564697266
+    },
+    {
+      "text": "≤Pm",
+      "bbox": null,
+      "confidence": 0.7417018413543701
+    },
+    {
+      "text": "60m",
+      "bbox": null,
+      "confidence": 0.8913552165031433
+    },
+    {
+      "text": "em",
+      "bbox": null,
+      "confidence": 0.6352667808532715
+    },
+    {
+      "text": "4130",
+      "bbox": null,
+      "confidence": 0.7033532857894897
+    },
+    {
+      "text": "5mll",
+      "bbox": null,
+      "confidence": 0.6850606799125671
+    },
+    {
+      "text": "Tetal In-dake -2goml + DBF",
+      "bbox": null,
+      "confidence": 0.7144840955734253
+    },
+    {
+      "text": "paused",
+      "bbox": null,
+      "confidence": 0.8830212950706482
+    },
+    {
+      "text": "uine",
+      "bbox": null,
+      "confidence": 0.6252567172050476
+    },
+    {
+      "text": "passed-7dimelt urne",
+      "bbox": null,
+      "confidence": 0.9079708456993103
+    },
+    {
+      "text": "passed- IHimes &oel p",
+      "bbox": null,
+      "confidence": 0.7092112302780151
+    },
+    {
+      "text": "peansed.",
+      "bbox": null,
+      "confidence": 0.7745770215988159
+    },
+    {
+      "text": "34o41",
+      "bbox": null,
+      "confidence": 0.523140013217926
+    }
+  ]
+}

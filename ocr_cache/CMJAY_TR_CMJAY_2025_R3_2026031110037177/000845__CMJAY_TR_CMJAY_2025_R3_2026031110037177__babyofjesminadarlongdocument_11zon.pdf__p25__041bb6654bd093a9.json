@@ -1,0 +1,193 @@
+{
+  "text": "CHILDREN WARD\nmoan\nOPE\nINTAKE/OUTPUT\nAgeS0 TYOMID/E\n00A:11/03/2026 02-309M\nCHART\nMK\nJ46\nt\nINTAILE\nOUTFUT\n(ALUHRTHUN\nBUEATS\nEYPE\nARCEINT\nTHE\nO\nDEN\nHINR\nOORTa\nINPUSID\nSTOO\n14/03\nSAR\nH40\n201\nCAG\nOART\nEroohi\nGARI\nM\nDICY\n1AA0\nAS\nDp\nA",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 228,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "CHILDREN WARD",
+      "bbox": null,
+      "confidence": 0.9697386026382446
+    },
+    {
+      "text": "moan",
+      "bbox": null,
+      "confidence": 0.28931865096092224
+    },
+    {
+      "text": "OPE",
+      "bbox": null,
+      "confidence": 0.9978868961334229
+    },
+    {
+      "text": "INTAKE/OUTPUT",
+      "bbox": null,
+      "confidence": 0.9983583688735962
+    },
+    {
+      "text": "AgeS0 TYOMID/E",
+      "bbox": null,
+      "confidence": 0.5554935336112976
+    },
+    {
+      "text": "00A:11/03/2026 02-309M",
+      "bbox": null,
+      "confidence": 0.7653131484985352
+    },
+    {
+      "text": "CHART",
+      "bbox": null,
+      "confidence": 0.9982856512069702
+    },
+    {
+      "text": "MK",
+      "bbox": null,
+      "confidence": 0.3212440013885498
+    },
+    {
+      "text": "J46",
+      "bbox": null,
+      "confidence": 0.33430132269859314
+    },
+    {
+      "text": "t",
+      "bbox": null,
+      "confidence": 0.6093248724937439
+    },
+    {
+      "text": "INTAILE",
+      "bbox": null,
+      "confidence": 0.8572768568992615
+    },
+    {
+      "text": "OUTFUT",
+      "bbox": null,
+      "confidence": 0.9232663512229919
+    },
+    {
+      "text": "(ALUHRTHUN",
+      "bbox": null,
+      "confidence": 0.4663844108581543
+    },
+    {
+      "text": "BUEATS",
+      "bbox": null,
+      "confidence": 0.44396182894706726
+    },
+    {
+      "text": "EYPE",
+      "bbox": null,
+      "confidence": 0.6895068883895874
+    },
+    {
+      "text": "ARCEINT",
+      "bbox": null,
+      "confidence": 0.7569978833198547
+    },
+    {
+      "text": "THE",
+      "bbox": null,
+      "confidence": 0.9891411662101746
+    },
+    {
+      "text": "O",
+      "bbox": null,
+      "confidence": 0.19797658920288086
+    },
+    {
+      "text": "DEN",
+      "bbox": null,
+      "confidence": 0.24858053028583527
+    },
+    {
+      "text": "HINR",
+      "bbox": null,
+      "confidence": 0.3520851135253906
+    },
+    {
+      "text": "OORTa",
+      "bbox": null,
+      "confidence": 0.2360604703426361
+    },
+    {
+      "text": "INPUSID",
+      "bbox": null,
+      "confidence": 0.7992672324180603
+    },
+    {
+      "text": "STOO",
+      "bbox": null,
+      "confidence": 0.5539118051528931
+    },
+    {
+      "text": "14/03",
+      "bbox": null,
+      "confidence": 0.8934059143066406
+    },
+    {
+      "text": "SAR",
+      "bbox": null,
+      "confidence": 0.8116469979286194
+    },
+    {
+      "text": "H40",
+      "bbox": null,
+      "confidence": 0.8746371269226074
+    },
+    {
+      "text": "201",
+      "bbox": null,
+      "confidence": 0.7142019867897034
+    },
+    {
+      "text": "CAG",
+      "bbox": null,
+      "confidence": 0.6990785002708435
+    },
+    {
+      "text": "OART",
+      "bbox": null,
+      "confidence": 0.49758630990982056
+    },
+    {
+      "text": "Eroohi",
+      "bbox": null,
+      "confidence": 0.5854194760322571
+    },
+    {
+      "text": "GARI",
+      "bbox": null,
+      "confidence": 0.5794261693954468
+    },
+    {
+      "text": "M",
+      "bbox": null,
+      "confidence": 0.7440667748451233
+    },
+    {
+      "text": "DICY",
+      "bbox": null,
+      "confidence": 0.8380992412567139
+    },
+    {
+      "text": "1AA0",
+      "bbox": null,
+      "confidence": 0.2921045422554016
+    },
+    {
+      "text": "AS",
+      "bbox": null,
+      "confidence": 0.867733359336853
+    },
+    {
+      "text": "Dp",
+      "bbox": null,
+      "confidence": 0.641575813293457
+    },
+    {
+      "text": "A",
+      "bbox": null,
+      "confidence": 0.6689176559448242
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "text": "D13\nD\nPirhs",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 11,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "D13",
+      "bbox": null,
+      "confidence": 0.8299415707588196
+    },
+    {
+      "text": "D",
+      "bbox": null,
+      "confidence": 0.8027098774909973
+    },
+    {
+      "text": "Pirhs",
+      "bbox": null,
+      "confidence": 0.47137531638145447
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "text": "DISCHARGE SUMMERY\nAGE:\n6O40\nSEXCT\nRegistration No:-02106\nIPD Number (Free text) :-AR-28\na\nPackage Booked :\nEulic Feuen:.\nTreating\nConsultant's Name:-Dr.UA\n.\nTreating\nConsultant's contact Number:-\n200681446.\nTreating\nConsultant's\ns Qualification :- MB8S\nRegistration Number :\nTreating Consultant's Speciality:\nDate of Admission with time :..\n12..26\n.2........AM./PM.\n22126\n..AM/PM.\nDate of Discharge\nwith time\nPresenting compiaints with duration :\nreulcold(cuss\n#\n102°5\nSignificant Past Medical and Surgical History,if any :\nPrimary Diagnosis at the time of Admission:\nEuleic Seuer\nFinal Diagnosis at the time of Discharge*\nEueie feer\nICD - 10 Code (s)for Final diagnosis :-\nKey Investigation :\nwidal-\ntyhi\n-1!\n8\n1:\nH\n+\n1\nAH-1:80.\nInvestigation finding (Text) :\nVuivenB\nDupueNss-ve)\nIMP-NMPS\nPuncell-\nPlenly\nTreatment given during hospitalization*\ncanseralive\nOperative finding (Only for surgical case ):-\n.\nComplications if any *\nStatus at the time of Discharge*\nnatifetn\n7\nNext follow date (calender , dd/mm/yyyy)*: Next\nDays.\nAdvice on discharge* (free text):-\nr\nAC\nu:a.",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 1072,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "DISCHARGE SUMMERY",
+      "bbox": null,
+      "confidence": 0.9947396516799927
+    },
+    {
+      "text": "AGE:",
+      "bbox": null,
+      "confidence": 0.9955682754516602
+    },
+    {
+      "text": "6O40",
+      "bbox": null,
+      "confidence": 0.5414602756500244
+    },
+    {
+      "text": "SEXCT",
+      "bbox": null,
+      "confidence": 0.8435662388801575
+    },
+    {
+      "text": "Registration No:-02106",
+      "bbox": null,
+      "confidence": 0.9101566672325134
+    },
+    {
+      "text": "IPD Number (Free text) :-AR-28",
+      "bbox": null,
+      "confidence": 0.8865451812744141
+    },
+    {
+      "text": "a",
+      "bbox": null,
+      "confidence": 0.666312575340271
+    },
+    {
+      "text": "Package Booked :",
+      "bbox": null,
+      "confidence": 0.9846840500831604
+    },
+    {
+      "text": "Eulic Feuen:.",
+      "bbox": null,
+      "confidence": 0.6961285471916199
+    },
+    {
+      "text": "Treating",
+      "bbox": null,
+      "confidence": 0.9907993078231812
+    },
+    {
+      "text": "Consultant's Name:-Dr.UA",
+      "bbox": null,
+      "confidence": 0.9160707592964172
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.7593182921409607
+    },
+    {
+      "text": "Treating",
+      "bbox": null,
+      "confidence": 0.9997621774673462
+    },
+    {
+      "text": "Consultant's contact Number:-",
+      "bbox": null,
+      "confidence": 0.9740645885467529
+    },
+    {
+      "text": "200681446.",
+      "bbox": null,
+      "confidence": 0.8922686576843262
+    },
+    {
+      "text": "Treating",
+      "bbox": null,
+      "confidence": 0.9997704029083252
+    },
+    {
+      "text": "Consultant's",
+      "bbox": null,
+      "confidence": 0.9568126797676086
+    },
+    {
+      "text": "s Qualification :- MB8S",
+      "bbox": null,
+      "confidence": 0.9406841397285461
+    },
+    {
+      "text": "Registration Number :",
+      "bbox": null,
+      "confidence": 0.9844606518745422
+    },
+    {
+      "text": "Treating Consultant's Speciality:",
+      "bbox": null,
+      "confidence": 0.9688693881034851
+    },
+    {
+      "text": "Date of Admission with time :..",
+      "bbox": null,
+      "confidence": 0.9123456478118896
+    },
+    {
+      "text": "12..26",
+      "bbox": null,
+      "confidence": 0.8011013865470886
+    },
+    {
+      "text": ".2........AM./PM.",
+      "bbox": null,
+      "confidence": 0.7119765281677246
+    },
+    {
+      "text": "22126",
+      "bbox": null,
+      "confidence": 0.9180013537406921
+    },
+    {
+      "text": "..AM/PM.",
+      "bbox": null,
+      "confidence": 0.7791658639907837
+    },
+    {
+      "text": "Date of Discharge",
+      "bbox": null,
+      "confidence": 0.988060474395752
+    },
+    {
+      "text": "with time",
+      "bbox": null,
+      "confidence": 0.9914335608482361
+    },
+    {
+      "text": "Presenting compiaints with duration :",
+      "bbox": null,
+      "confidence": 0.9841837286949158
+    },
+    {
+      "text": "reulcold(cuss",
+      "bbox": null,
+      "confidence": 0.5697388052940369
+    },
+    {
+      "text": "#",
+      "bbox": null,
+      "confidence": 0.3798115849494934
+    },
+    {
+      "text": "102°5",
+      "bbox": null,
+      "confidence": 0.9049386978149414
+    },
+    {
+      "text": "Significant Past Medical and Surgical History,if any :",
+      "bbox": null,
+      "confidence": 0.9882385730743408
+    },
+    {
+      "text": "Primary Diagnosis at the time of Admission:",
+      "bbox": null,
+      "confidence": 0.9538530111312866
+    },
+    {
+      "text": "Euleic Seuer",
+      "bbox": null,
+      "confidence": 0.7371396422386169
+    },
+    {
+      "text": "Final Diagnosis at the time of Discharge*",
+      "bbox": null,
+      "confidence": 0.9927492737770081
+    },
+    {
+      "text": "Eueie feer",
+      "bbox": null,
+      "confidence": 0.6071890592575073
+    },
+    {
+      "text": "ICD - 10 Code (s)for Final diagnosis :-",
+      "bbox": null,
+      "confidence": 0.9547044634819031
+    },
+    {
+      "text": "Key Investigation :",
+      "bbox": null,
+      "confidence": 0.9828121066093445
+    },
+    {
+      "text": "widal-",
+      "bbox": null,
+      "confidence": 0.9241318702697754
+    },
+    {
+      "text": "tyhi",
+      "bbox": null,
+      "confidence": 0.7909176349639893
+    },
+    {
+      "text": "-1!",
+      "bbox": null,
+      "confidence": 0.7761898040771484
+    },
+    {
+      "text": "8",
+      "bbox": null,
+      "confidence": 0.9670349955558777
+    },
+    {
+      "text": "1:",
+      "bbox": null,
+      "confidence": 0.6693925857543945
+    },
+    {
+      "text": "H",
+      "bbox": null,
+      "confidence": 0.7864692211151123
+    },
+    {
+      "text": "+",
+      "bbox": null,
+      "confidence": 0.5237500667572021
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.9690507054328918
+    },
+    {
+      "text": "AH-1:80.",
+      "bbox": null,
+      "confidence": 0.7944999933242798
+    },
+    {
+      "text": "Investigation finding (Text) :",
+      "bbox": null,
+      "confidence": 0.9815807938575745
+    },
+    {
+      "text": "VuivenB",
+      "bbox": null,
+      "confidence": 0.6688876152038574
+    },
+    {
+      "text": "DupueNss-ve)",
+      "bbox": null,
+      "confidence": 0.761024534702301
+    },
+    {
+      "text": "IMP-NMPS",
+      "bbox": null,
+      "confidence": 0.6847180128097534
+    },
+    {
+      "text": "Puncell-",
+      "bbox": null,
+      "confidence": 0.8080472946166992
+    },
+    {
+      "text": "Plenly",
+      "bbox": null,
+      "confidence": 0.8853323459625244
+    },
+    {
+      "text": "Treatment given during hospitalization*",
+      "bbox": null,
+      "confidence": 0.9795028567314148
+    },
+    {
+      "text": "canseralive",
+      "bbox": null,
+      "confidence": 0.8738517165184021
+    },
+    {
+      "text": "Operative finding (Only for surgical case ):-",
+      "bbox": null,
+      "confidence": 0.9657873511314392
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.45622017979621887
+    },
+    {
+      "text": "Complications if any *",
+      "bbox": null,
+      "confidence": 0.9572374820709229
+    },
+    {
+      "text": "Status at the time of Discharge*",
+      "bbox": null,
+      "confidence": 0.9795743227005005
+    },
+    {
+      "text": "natifetn",
+      "bbox": null,
+      "confidence": 0.6270527243614197
+    },
+    {
+      "text": "7",
+      "bbox": null,
+      "confidence": 0.4106309413909912
+    },
+    {
+      "text": "Next follow date (calender , dd/mm/yyyy)*: Next",
+      "bbox": null,
+      "confidence": 0.949363648891449
+    },
+    {
+      "text": "Days.",
+      "bbox": null,
+      "confidence": 0.9942957758903503
+    },
+    {
+      "text": "Advice on discharge* (free text):-",
+      "bbox": null,
+      "confidence": 0.9476256370544434
+    },
+    {
+      "text": "r",
+      "bbox": null,
+      "confidence": 0.39913812279701233
+    },
+    {
+      "text": "AC",
+      "bbox": null,
+      "confidence": 0.9009667634963989
+    },
+    {
+      "text": "u:a.",
+      "bbox": null,
+      "confidence": 0.8701388835906982
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "text": "coue dion\nA lebnile\nPitte-u8min\nAR= ag min\nTup - 98F\ncw-6ll ATeO\n-\n@9 -Smo\n18\nH\nmy\n.",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 84,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "coue dion",
+      "bbox": null,
+      "confidence": 0.5012176632881165
+    },
+    {
+      "text": "A lebnile",
+      "bbox": null,
+      "confidence": 0.7705767750740051
+    },
+    {
+      "text": "Pitte-u8min",
+      "bbox": null,
+      "confidence": 0.5301451086997986
+    },
+    {
+      "text": "AR= ag min",
+      "bbox": null,
+      "confidence": 0.7183923721313477
+    },
+    {
+      "text": "Tup - 98F",
+      "bbox": null,
+      "confidence": 0.8622506260871887
+    },
+    {
+      "text": "cw-6ll ATeO",
+      "bbox": null,
+      "confidence": 0.5185840725898743
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.6415618062019348
+    },
+    {
+      "text": "@9 -Smo",
+      "bbox": null,
+      "confidence": 0.5958288311958313
+    },
+    {
+      "text": "18",
+      "bbox": null,
+      "confidence": 0.3228602409362793
+    },
+    {
+      "text": "H",
+      "bbox": null,
+      "confidence": 0.19546374678611755
+    },
+    {
+      "text": "my",
+      "bbox": null,
+      "confidence": 0.6401045918464661
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.18392156064510345
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "text": "Patlent's Name\nFather's/ Husband's Name.\n1267\nUHID No.\nand.\nWard..\nBed No. ...\nCONSULTANT NOTES SHEET\nHISTORY & EXAMINATION\nAccclirated Aypulensin/Enitencfua/\n.\n28/01026.\n1-TR/LRTI,\nM.\n.\nNy\nPatient fieptomaticelly lutter.\nDrscutil vi abdonen  bnt ff.\nNo rausea/ voill Tedfrgeyd\nNasal Conpsti ④ No vertig  sinmation\nAeadache A.\nBP- 170/86mg\nBR- 82\nTen-98.6°F0  Sp0 : 90%RA.\nChest - AA Cent  Decaonally\nP/A-B/S④\nCS\nNNZ\ners\n1S7\n.",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 426,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Patlent's Name",
+      "bbox": null,
+      "confidence": 0.9759276509284973
+    },
+    {
+      "text": "Father's/ Husband's Name.",
+      "bbox": null,
+      "confidence": 0.9874963164329529
+    },
+    {
+      "text": "1267",
+      "bbox": null,
+      "confidence": 0.9014040231704712
+    },
+    {
+      "text": "UHID No.",
+      "bbox": null,
+      "confidence": 0.9975560903549194
+    },
+    {
+      "text": "and.",
+      "bbox": null,
+      "confidence": 0.9316895008087158
+    },
+    {
+      "text": "Ward..",
+      "bbox": null,
+      "confidence": 0.9105184078216553
+    },
+    {
+      "text": "Bed No. ...",
+      "bbox": null,
+      "confidence": 0.8497591018676758
+    },
+    {
+      "text": "CONSULTANT NOTES SHEET",
+      "bbox": null,
+      "confidence": 0.997036874294281
+    },
+    {
+      "text": "HISTORY & EXAMINATION",
+      "bbox": null,
+      "confidence": 0.9764702320098877
+    },
+    {
+      "text": "Accclirated Aypulensin/Enitencfua/",
+      "bbox": null,
+      "confidence": 0.7318919897079468
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.2717859447002411
+    },
+    {
+      "text": "28/01026.",
+      "bbox": null,
+      "confidence": 0.9323878884315491
+    },
+    {
+      "text": "1-TR/LRTI,",
+      "bbox": null,
+      "confidence": 0.7876443862915039
+    },
+    {
+      "text": "M.",
+      "bbox": null,
+      "confidence": 0.9690879583358765
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.781175434589386
+    },
+    {
+      "text": "Ny",
+      "bbox": null,
+      "confidence": 0.5506024956703186
+    },
+    {
+      "text": "Patient fieptomaticelly lutter.",
+      "bbox": null,
+      "confidence": 0.8192594647407532
+    },
+    {
+      "text": "Drscutil vi abdonen  bnt ff.",
+      "bbox": null,
+      "confidence": 0.6497309803962708
+    },
+    {
+      "text": "No rausea/ voill Tedfrgeyd",
+      "bbox": null,
+      "confidence": 0.5449705719947815
+    },
+    {
+      "text": "Nasal Conpsti ④ No vertig  sinmation",
+      "bbox": null,
+      "confidence": 0.5731223821640015
+    },
+    {
+      "text": "Aeadache A.",
+      "bbox": null,
+      "confidence": 0.8730364441871643
+    },
+    {
+      "text": "BP- 170/86mg",
+      "bbox": null,
+      "confidence": 0.7200269103050232
+    },
+    {
+      "text": "BR- 82",
+      "bbox": null,
+      "confidence": 0.7002173066139221
+    },
+    {
+      "text": "Ten-98.6°F0  Sp0 : 90%RA.",
+      "bbox": null,
+      "confidence": 0.6836196184158325
+    },
+    {
+      "text": "Chest - AA Cent  Decaonally",
+      "bbox": null,
+      "confidence": 0.7013003826141357
+    },
+    {
+      "text": "P/A-B/S④",
+      "bbox": null,
+      "confidence": 0.7800017595291138
+    },
+    {
+      "text": "CS",
+      "bbox": null,
+      "confidence": 0.6942670345306396
+    },
+    {
+      "text": "NNZ",
+      "bbox": null,
+      "confidence": 0.7060737609863281
+    },
+    {
+      "text": "ers",
+      "bbox": null,
+      "confidence": 0.8946971893310547
+    },
+    {
+      "text": "1S7",
+      "bbox": null,
+      "confidence": 0.7218804359436035
+    },
+    {
+      "text": ".",
+      "bbox": null,
+      "confidence": 0.18585087358951569
+    }
+  ]
+}

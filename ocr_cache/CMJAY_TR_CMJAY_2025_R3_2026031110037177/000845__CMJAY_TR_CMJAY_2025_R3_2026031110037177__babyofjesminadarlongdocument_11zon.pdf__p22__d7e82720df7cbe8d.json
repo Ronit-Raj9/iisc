@@ -1,0 +1,613 @@
+{
+  "text": "13$\nPressure\nTemp\nResp\nPulse\nSPO2\nConscises\nLavel\nsigri\nSau\n9671 20 6 449696\nufes (amp:\n94n -\nCD24224m 1966/ 992\nfn\n10nm\n96.F\n244\n1265)\n982\nTEAM\n7\n=\n98.2\n2+)m\n1306\na72\nH2pa\n#\n213\n1\nM\nHns1\n726\nHaho6\nF\nud\n=\n@1\n486\nhj$\n46110\n186\n63\nFPEF\n4y0n144912286\n05)\n376722k\nuyh\n36k\nCs-6p2ux\n14b64\n57),\nffRatm\n1304/\n979\n-B$\n3-81244\n13446\nq99p\n8-B\n1s8\n1969ov\n91010\n130b/m\n987%\n9831\n2691\nfj\nApm\n93-8 204\n128b/\n477\nHopm\n1t\nhpm\nPD8m\n13561\n9c%\n11\na8-00 240lm\n124/3\n130m\n96%\nKin\n130t0/m\n“j\n31\n%b\n98-HT\nd\n4830\n1\n3om\nms\n280m\nhrllm\n95%\nM\n00\nns1.8\nG4-C11\n/48b\n=\n1\n99.36\n40m-\n1816/m\n987\n11\n5Bm-\n98.4240m 119 6/\n9870\nE=\n96.8F28 bm 126.b/m\n96y\nc0m —\n9837\n18.bm 122bm\n92.7\n76m -",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 649,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "13$",
+      "bbox": null,
+      "confidence": 0.6245929002761841
+    },
+    {
+      "text": "Pressure",
+      "bbox": null,
+      "confidence": 0.99591463804245
+    },
+    {
+      "text": "Temp",
+      "bbox": null,
+      "confidence": 0.9837220907211304
+    },
+    {
+      "text": "Resp",
+      "bbox": null,
+      "confidence": 0.8770663738250732
+    },
+    {
+      "text": "Pulse",
+      "bbox": null,
+      "confidence": 0.9276918172836304
+    },
+    {
+      "text": "SPO2",
+      "bbox": null,
+      "confidence": 0.8291367292404175
+    },
+    {
+      "text": "Conscises",
+      "bbox": null,
+      "confidence": 0.8336606621742249
+    },
+    {
+      "text": "Lavel",
+      "bbox": null,
+      "confidence": 0.8222389221191406
+    },
+    {
+      "text": "sigri",
+      "bbox": null,
+      "confidence": 0.7791106700897217
+    },
+    {
+      "text": "Sau",
+      "bbox": null,
+      "confidence": 0.2503708302974701
+    },
+    {
+      "text": "9671 20 6 449696",
+      "bbox": null,
+      "confidence": 0.6411753296852112
+    },
+    {
+      "text": "ufes (amp:",
+      "bbox": null,
+      "confidence": 0.5985202193260193
+    },
+    {
+      "text": "94n -",
+      "bbox": null,
+      "confidence": 0.5946557521820068
+    },
+    {
+      "text": "CD24224m 1966/ 992",
+      "bbox": null,
+      "confidence": 0.6056478023529053
+    },
+    {
+      "text": "fn",
+      "bbox": null,
+      "confidence": 0.3301403522491455
+    },
+    {
+      "text": "10nm",
+      "bbox": null,
+      "confidence": 0.6632763147354126
+    },
+    {
+      "text": "96.F",
+      "bbox": null,
+      "confidence": 0.7688138484954834
+    },
+    {
+      "text": "244",
+      "bbox": null,
+      "confidence": 0.7160026431083679
+    },
+    {
+      "text": "1265)",
+      "bbox": null,
+      "confidence": 0.7447818517684937
+    },
+    {
+      "text": "982",
+      "bbox": null,
+      "confidence": 0.6858355402946472
+    },
+    {
+      "text": "TEAM",
+      "bbox": null,
+      "confidence": 0.648056149482727
+    },
+    {
+      "text": "7",
+      "bbox": null,
+      "confidence": 0.5797931551933289
+    },
+    {
+      "text": "=",
+      "bbox": null,
+      "confidence": 0.5701180100440979
+    },
+    {
+      "text": "98.2",
+      "bbox": null,
+      "confidence": 0.783035397529602
+    },
+    {
+      "text": "2+)m",
+      "bbox": null,
+      "confidence": 0.5397802591323853
+    },
+    {
+      "text": "1306",
+      "bbox": null,
+      "confidence": 0.6975168585777283
+    },
+    {
+      "text": "a72",
+      "bbox": null,
+      "confidence": 0.7289687991142273
+    },
+    {
+      "text": "H2pa",
+      "bbox": null,
+      "confidence": 0.6987622380256653
+    },
+    {
+      "text": "#",
+      "bbox": null,
+      "confidence": 0.21087689697742462
+    },
+    {
+      "text": "213",
+      "bbox": null,
+      "confidence": 0.3711725175380707
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.19421416521072388
+    },
+    {
+      "text": "M",
+      "bbox": null,
+      "confidence": 0.29781466722488403
+    },
+    {
+      "text": "Hns1",
+      "bbox": null,
+      "confidence": 0.37190163135528564
+    },
+    {
+      "text": "726",
+      "bbox": null,
+      "confidence": 0.5885878205299377
+    },
+    {
+      "text": "Haho6",
+      "bbox": null,
+      "confidence": 0.30654358863830566
+    },
+    {
+      "text": "F",
+      "bbox": null,
+      "confidence": 0.9506599307060242
+    },
+    {
+      "text": "ud",
+      "bbox": null,
+      "confidence": 0.8101022839546204
+    },
+    {
+      "text": "=",
+      "bbox": null,
+      "confidence": 0.9897504448890686
+    },
+    {
+      "text": "@1",
+      "bbox": null,
+      "confidence": 0.5147541165351868
+    },
+    {
+      "text": "486",
+      "bbox": null,
+      "confidence": 0.9064424633979797
+    },
+    {
+      "text": "hj$",
+      "bbox": null,
+      "confidence": 0.3516283929347992
+    },
+    {
+      "text": "46110",
+      "bbox": null,
+      "confidence": 0.4621182084083557
+    },
+    {
+      "text": "186",
+      "bbox": null,
+      "confidence": 0.8062684535980225
+    },
+    {
+      "text": "63",
+      "bbox": null,
+      "confidence": 0.5643712282180786
+    },
+    {
+      "text": "FPEF",
+      "bbox": null,
+      "confidence": 0.4738956689834595
+    },
+    {
+      "text": "4y0n144912286",
+      "bbox": null,
+      "confidence": 0.5562840104103088
+    },
+    {
+      "text": "05)",
+      "bbox": null,
+      "confidence": 0.7083436846733093
+    },
+    {
+      "text": "376722k",
+      "bbox": null,
+      "confidence": 0.37277695536613464
+    },
+    {
+      "text": "uyh",
+      "bbox": null,
+      "confidence": 0.5401085019111633
+    },
+    {
+      "text": "36k",
+      "bbox": null,
+      "confidence": 0.6459364295005798
+    },
+    {
+      "text": "Cs-6p2ux",
+      "bbox": null,
+      "confidence": 0.3836030960083008
+    },
+    {
+      "text": "14b64",
+      "bbox": null,
+      "confidence": 0.5471888780593872
+    },
+    {
+      "text": "57),",
+      "bbox": null,
+      "confidence": 0.7613765001296997
+    },
+    {
+      "text": "ffRatm",
+      "bbox": null,
+      "confidence": 0.42495569586753845
+    },
+    {
+      "text": "1304/",
+      "bbox": null,
+      "confidence": 0.5352261662483215
+    },
+    {
+      "text": "979",
+      "bbox": null,
+      "confidence": 0.5177881121635437
+    },
+    {
+      "text": "-B$",
+      "bbox": null,
+      "confidence": 0.560218334197998
+    },
+    {
+      "text": "3-81244",
+      "bbox": null,
+      "confidence": 0.6267659068107605
+    },
+    {
+      "text": "13446",
+      "bbox": null,
+      "confidence": 0.6322352886199951
+    },
+    {
+      "text": "q99p",
+      "bbox": null,
+      "confidence": 0.510772168636322
+    },
+    {
+      "text": "8-B",
+      "bbox": null,
+      "confidence": 0.49026569724082947
+    },
+    {
+      "text": "1s8",
+      "bbox": null,
+      "confidence": 0.3438214361667633
+    },
+    {
+      "text": "1969ov",
+      "bbox": null,
+      "confidence": 0.6574813723564148
+    },
+    {
+      "text": "91010",
+      "bbox": null,
+      "confidence": 0.5862733125686646
+    },
+    {
+      "text": "130b/m",
+      "bbox": null,
+      "confidence": 0.92540043592453
+    },
+    {
+      "text": "987%",
+      "bbox": null,
+      "confidence": 0.8670239448547363
+    },
+    {
+      "text": "9831",
+      "bbox": null,
+      "confidence": 0.6879935264587402
+    },
+    {
+      "text": "2691",
+      "bbox": null,
+      "confidence": 0.5664386749267578
+    },
+    {
+      "text": "fj",
+      "bbox": null,
+      "confidence": 0.7369407415390015
+    },
+    {
+      "text": "Apm",
+      "bbox": null,
+      "confidence": 0.7393365502357483
+    },
+    {
+      "text": "93-8 204",
+      "bbox": null,
+      "confidence": 0.6484348773956299
+    },
+    {
+      "text": "128b/",
+      "bbox": null,
+      "confidence": 0.7507211565971375
+    },
+    {
+      "text": "477",
+      "bbox": null,
+      "confidence": 0.8778311610221863
+    },
+    {
+      "text": "Hopm",
+      "bbox": null,
+      "confidence": 0.8966389894485474
+    },
+    {
+      "text": "1t",
+      "bbox": null,
+      "confidence": 0.7111362814903259
+    },
+    {
+      "text": "hpm",
+      "bbox": null,
+      "confidence": 0.733350932598114
+    },
+    {
+      "text": "PD8m",
+      "bbox": null,
+      "confidence": 0.32577261328697205
+    },
+    {
+      "text": "13561",
+      "bbox": null,
+      "confidence": 0.7581469416618347
+    },
+    {
+      "text": "9c%",
+      "bbox": null,
+      "confidence": 0.7523877024650574
+    },
+    {
+      "text": "11",
+      "bbox": null,
+      "confidence": 0.6739681959152222
+    },
+    {
+      "text": "a8-00 240lm",
+      "bbox": null,
+      "confidence": 0.5837374925613403
+    },
+    {
+      "text": "124/3",
+      "bbox": null,
+      "confidence": 0.7696257829666138
+    },
+    {
+      "text": "130m",
+      "bbox": null,
+      "confidence": 0.6594897508621216
+    },
+    {
+      "text": "96%",
+      "bbox": null,
+      "confidence": 0.9714018702507019
+    },
+    {
+      "text": "Kin",
+      "bbox": null,
+      "confidence": 0.8543713092803955
+    },
+    {
+      "text": "130t0/m",
+      "bbox": null,
+      "confidence": 0.7117357850074768
+    },
+    {
+      "text": "“j",
+      "bbox": null,
+      "confidence": 0.478949636220932
+    },
+    {
+      "text": "31",
+      "bbox": null,
+      "confidence": 0.5327410697937012
+    },
+    {
+      "text": "%b",
+      "bbox": null,
+      "confidence": 0.6467539072036743
+    },
+    {
+      "text": "98-HT",
+      "bbox": null,
+      "confidence": 0.7062405347824097
+    },
+    {
+      "text": "d",
+      "bbox": null,
+      "confidence": 0.623430609703064
+    },
+    {
+      "text": "4830",
+      "bbox": null,
+      "confidence": 0.2018641233444214
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.3276940882205963
+    },
+    {
+      "text": "3om",
+      "bbox": null,
+      "confidence": 0.5069604516029358
+    },
+    {
+      "text": "ms",
+      "bbox": null,
+      "confidence": 0.3904379606246948
+    },
+    {
+      "text": "280m",
+      "bbox": null,
+      "confidence": 0.8016207218170166
+    },
+    {
+      "text": "hrllm",
+      "bbox": null,
+      "confidence": 0.5145414471626282
+    },
+    {
+      "text": "95%",
+      "bbox": null,
+      "confidence": 0.9902453422546387
+    },
+    {
+      "text": "M",
+      "bbox": null,
+      "confidence": 0.4616411030292511
+    },
+    {
+      "text": "00",
+      "bbox": null,
+      "confidence": 0.2916439473628998
+    },
+    {
+      "text": "ns1.8",
+      "bbox": null,
+      "confidence": 0.4458242952823639
+    },
+    {
+      "text": "G4-C11",
+      "bbox": null,
+      "confidence": 0.5242180824279785
+    },
+    {
+      "text": "/48b",
+      "bbox": null,
+      "confidence": 0.6042001247406006
+    },
+    {
+      "text": "=",
+      "bbox": null,
+      "confidence": 0.9749661684036255
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.2204069197177887
+    },
+    {
+      "text": "99.36",
+      "bbox": null,
+      "confidence": 0.4091114401817322
+    },
+    {
+      "text": "40m-",
+      "bbox": null,
+      "confidence": 0.6186750531196594
+    },
+    {
+      "text": "1816/m",
+      "bbox": null,
+      "confidence": 0.7706297039985657
+    },
+    {
+      "text": "987",
+      "bbox": null,
+      "confidence": 0.9032406210899353
+    },
+    {
+      "text": "11",
+      "bbox": null,
+      "confidence": 0.9223746061325073
+    },
+    {
+      "text": "5Bm-",
+      "bbox": null,
+      "confidence": 0.6796090602874756
+    },
+    {
+      "text": "98.4240m 119 6/",
+      "bbox": null,
+      "confidence": 0.6610730290412903
+    },
+    {
+      "text": "9870",
+      "bbox": null,
+      "confidence": 0.8845542073249817
+    },
+    {
+      "text": "E=",
+      "bbox": null,
+      "confidence": 0.44105467200279236
+    },
+    {
+      "text": "96.8F28 bm 126.b/m",
+      "bbox": null,
+      "confidence": 0.7165876626968384
+    },
+    {
+      "text": "96y",
+      "bbox": null,
+      "confidence": 0.7242963910102844
+    },
+    {
+      "text": "c0m —",
+      "bbox": null,
+      "confidence": 0.5812621712684631
+    },
+    {
+      "text": "9837",
+      "bbox": null,
+      "confidence": 0.774844765663147
+    },
+    {
+      "text": "18.bm 122bm",
+      "bbox": null,
+      "confidence": 0.7373667359352112
+    },
+    {
+      "text": "92.7",
+      "bbox": null,
+      "confidence": 0.6734139323234558
+    },
+    {
+      "text": "76m -",
+      "bbox": null,
+      "confidence": 0.7707514762878418
+    }
+  ]
+}

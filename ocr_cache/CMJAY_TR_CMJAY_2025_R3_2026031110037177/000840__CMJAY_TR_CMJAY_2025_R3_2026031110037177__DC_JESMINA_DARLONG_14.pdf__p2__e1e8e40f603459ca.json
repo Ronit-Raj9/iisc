@@ -1,0 +1,193 @@
+{
+  "text": "DISCHARGE SUMMARY\nName\nIPD No\nAge/Gender\n: IP/25/1382\n: 1Y/Female\nConsultant\nAdmit Date & Time\n: 11/03/2026 2:30 PM\nUHID\nDischarge Date\n:UH-15678\n: 14/03/2026 11:00 AM\nAddress\nContact No\n:+91 7629051323\nBed Type\nPaticnt Category\n: AYUSHMAN BHARAT (PMJAY /CMJAY)\n: PICU\nCompany Name\nBed Number\n: PICU BED -1\n:\need for close follow up in the language best known / understSignature\nSignature (Patient/ Patient Party) if patient party then Relation\n24/7\nPage: 2 of 2\nEMERGENCY\nSERVICES\nNo - 1 Hospital Chain in Tripura\nTHE HOPE - AGARTALA I TRIPURA MEDICAL COLLEGE-RETINA DEPT.- HAPANIA | UNAKOTI HOSPITAL-KAILASHAHAR\nBhagaban Nagar, Kailashahar, Unakoti Tripura - 799279\n+91-69093 51200/01\nwww.unakotihospitalthehope.com\ninfo@unakotihospitalthehope.com\nCR",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 752,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "DISCHARGE SUMMARY",
+      "bbox": null,
+      "confidence": 0.9975533485412598
+    },
+    {
+      "text": "Name",
+      "bbox": null,
+      "confidence": 0.9999004602432251
+    },
+    {
+      "text": "IPD No",
+      "bbox": null,
+      "confidence": 0.9955215454101562
+    },
+    {
+      "text": "Age/Gender",
+      "bbox": null,
+      "confidence": 0.996945858001709
+    },
+    {
+      "text": ": IP/25/1382",
+      "bbox": null,
+      "confidence": 0.9873466491699219
+    },
+    {
+      "text": ": 1Y/Female",
+      "bbox": null,
+      "confidence": 0.988710343837738
+    },
+    {
+      "text": "Consultant",
+      "bbox": null,
+      "confidence": 0.9658693075180054
+    },
+    {
+      "text": "Admit Date & Time",
+      "bbox": null,
+      "confidence": 0.9867143034934998
+    },
+    {
+      "text": ": 11/03/2026 2:30 PM",
+      "bbox": null,
+      "confidence": 0.990919291973114
+    },
+    {
+      "text": "UHID",
+      "bbox": null,
+      "confidence": 0.889631986618042
+    },
+    {
+      "text": "Discharge Date",
+      "bbox": null,
+      "confidence": 0.9679133296012878
+    },
+    {
+      "text": ":UH-15678",
+      "bbox": null,
+      "confidence": 0.9508144855499268
+    },
+    {
+      "text": ": 14/03/2026 11:00 AM",
+      "bbox": null,
+      "confidence": 0.9766492247581482
+    },
+    {
+      "text": "Address",
+      "bbox": null,
+      "confidence": 0.9997192025184631
+    },
+    {
+      "text": "Contact No",
+      "bbox": null,
+      "confidence": 0.9988178014755249
+    },
+    {
+      "text": ":+91 7629051323",
+      "bbox": null,
+      "confidence": 0.9705486297607422
+    },
+    {
+      "text": "Bed Type",
+      "bbox": null,
+      "confidence": 0.9959576725959778
+    },
+    {
+      "text": "Paticnt Category",
+      "bbox": null,
+      "confidence": 0.9730688333511353
+    },
+    {
+      "text": ": AYUSHMAN BHARAT (PMJAY /CMJAY)",
+      "bbox": null,
+      "confidence": 0.9856181740760803
+    },
+    {
+      "text": ": PICU",
+      "bbox": null,
+      "confidence": 0.9290685057640076
+    },
+    {
+      "text": "Company Name",
+      "bbox": null,
+      "confidence": 0.9983466267585754
+    },
+    {
+      "text": "Bed Number",
+      "bbox": null,
+      "confidence": 0.9878838658332825
+    },
+    {
+      "text": ": PICU BED -1",
+      "bbox": null,
+      "confidence": 0.9444359540939331
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.9892237186431885
+    },
+    {
+      "text": "eed for close follow up in the language best known / understSignature",
+      "bbox": null,
+      "confidence": 0.9705118536949158
+    },
+    {
+      "text": "Signature (Patient/ Patient Party) if patient party then Relation",
+      "bbox": null,
+      "confidence": 0.9691036343574524
+    },
+    {
+      "text": "24/7",
+      "bbox": null,
+      "confidence": 0.9840635061264038
+    },
+    {
+      "text": "Page: 2 of 2",
+      "bbox": null,
+      "confidence": 0.9785165786743164
+    },
+    {
+      "text": "EMERGENCY",
+      "bbox": null,
+      "confidence": 0.995316207408905
+    },
+    {
+      "text": "SERVICES",
+      "bbox": null,
+      "confidence": 0.9075280427932739
+    },
+    {
+      "text": "No - 1 Hospital Chain in Tripura",
+      "bbox": null,
+      "confidence": 0.9705438613891602
+    },
+    {
+      "text": "THE HOPE - AGARTALA I TRIPURA MEDICAL COLLEGE-RETINA DEPT.- HAPANIA | UNAKOTI HOSPITAL-KAILASHAHAR",
+      "bbox": null,
+      "confidence": 0.9788902997970581
+    },
+    {
+      "text": "Bhagaban Nagar, Kailashahar, Unakoti Tripura - 799279",
+      "bbox": null,
+      "confidence": 0.9895160794258118
+    },
+    {
+      "text": "+91-69093 51200/01",
+      "bbox": null,
+      "confidence": 0.9993309378623962
+    },
+    {
+      "text": "www.unakotihospitalthehope.com",
+      "bbox": null,
+      "confidence": 0.9997292757034302
+    },
+    {
+      "text": "info@unakotihospitalthehope.com",
+      "bbox": null,
+      "confidence": 0.9998299479484558
+    },
+    {
+      "text": "CR",
+      "bbox": null,
+      "confidence": 0.6030048131942749
+    }
+  ]
+}

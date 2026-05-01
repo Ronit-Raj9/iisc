@@ -1,0 +1,303 @@
+{
+  "text": "DISCHARGE SUMMARY\nAgrdetide\nYt\nAbsh Jue A Ta\n11002063367\nTD\nInchen Diges\n24008 100 AM\nAllmas\nOelan\nnalhe\nPACP?\nATUIMANTIATHIHY CHY\nOnpny Mati\nThet Maver\nPrIdeO\nChist Conplalnt\n1Coughs al Wtrtint Iiiakcs bal 2 wreds\np  dos f\nMintuty of Tium\nPe ed w dor eud y\n1O\nWiATET-SilimtaN Cen f-mm\nOi-Cismbadion\n+PDG-12fpm\n, RR97i\"\nSOTSHRA\nTmp: WhEidagion\nCCLNAD\nCVSNAD\nWAAD\nThitgate\nFindlusnd\nBiagrotly\n1 Tieust Sime\nTreamet Typa\ni Magcamion\nTrusmmest Detalls\n1 DOXONELSOMIOMEOX4DAYS\n.PLAMINACIN SMOVICIONADAYS\n1 S79297.C0X404Y5\nT SYPTUMIMTSOFTSMLHIDX4DAYT\nGoodtlon n\n5\nEH-NMUL GOMSPOO-SCTIMOL-PAENTACVSTA-NAD\nDelharge\nAdvics on Tischurge\nE.SV TAXOM1OOUTE CHMOOO).\nSMLTWCEDMLYTIMT\n15YP2430\nSNULONCEAAMYI EATE\nISYTUMMYEOFT.\nSMLTWICUNIAIEVAPTERPOODSDAYS\nASYCIZM\nAMLATTMESDAYS\nLLDUCAL LOTONAPLYIHIMESTDAYS\nTuien-up\nFallw ap ster  ago ir b0s\nSpirtal hote ( Way)",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 846,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "DISCHARGE SUMMARY",
+      "bbox": null,
+      "confidence": 0.9986472129821777
+    },
+    {
+      "text": "Agrdetide",
+      "bbox": null,
+      "confidence": 0.4504644572734833
+    },
+    {
+      "text": "Yt",
+      "bbox": null,
+      "confidence": 0.6097826361656189
+    },
+    {
+      "text": "Absh Jue A Ta",
+      "bbox": null,
+      "confidence": 0.6514395475387573
+    },
+    {
+      "text": "11002063367",
+      "bbox": null,
+      "confidence": 0.6974128484725952
+    },
+    {
+      "text": "TD",
+      "bbox": null,
+      "confidence": 0.4503962993621826
+    },
+    {
+      "text": "Inchen Diges",
+      "bbox": null,
+      "confidence": 0.6434229016304016
+    },
+    {
+      "text": "24008 100 AM",
+      "bbox": null,
+      "confidence": 0.48064109683036804
+    },
+    {
+      "text": "Allmas",
+      "bbox": null,
+      "confidence": 0.7474897503852844
+    },
+    {
+      "text": "Oelan",
+      "bbox": null,
+      "confidence": 0.6776891946792603
+    },
+    {
+      "text": "nalhe",
+      "bbox": null,
+      "confidence": 0.4669477343559265
+    },
+    {
+      "text": "PACP?",
+      "bbox": null,
+      "confidence": 0.41194289922714233
+    },
+    {
+      "text": "ATUIMANTIATHIHY CHY",
+      "bbox": null,
+      "confidence": 0.6258325576782227
+    },
+    {
+      "text": "Onpny Mati",
+      "bbox": null,
+      "confidence": 0.5495504140853882
+    },
+    {
+      "text": "Thet Maver",
+      "bbox": null,
+      "confidence": 0.6225961446762085
+    },
+    {
+      "text": "PrIdeO",
+      "bbox": null,
+      "confidence": 0.3714085519313812
+    },
+    {
+      "text": "Chist Conplalnt",
+      "bbox": null,
+      "confidence": 0.8101917505264282
+    },
+    {
+      "text": "1Coughs al Wtrtint Iiiakcs bal 2 wreds",
+      "bbox": null,
+      "confidence": 0.5749441385269165
+    },
+    {
+      "text": "p  dos f",
+      "bbox": null,
+      "confidence": 0.49319374561309814
+    },
+    {
+      "text": "Mintuty of Tium",
+      "bbox": null,
+      "confidence": 0.7530644536018372
+    },
+    {
+      "text": "Pe ed w dor eud y",
+      "bbox": null,
+      "confidence": 0.5043419003486633
+    },
+    {
+      "text": "1O",
+      "bbox": null,
+      "confidence": 0.31311774253845215
+    },
+    {
+      "text": "WiATET-SilimtaN Cen f-mm",
+      "bbox": null,
+      "confidence": 0.5826607346534729
+    },
+    {
+      "text": "Oi-Cismbadion",
+      "bbox": null,
+      "confidence": 0.5823619365692139
+    },
+    {
+      "text": "+PDG-12fpm",
+      "bbox": null,
+      "confidence": 0.6605666875839233
+    },
+    {
+      "text": ", RR97i\"",
+      "bbox": null,
+      "confidence": 0.5554549694061279
+    },
+    {
+      "text": "SOTSHRA",
+      "bbox": null,
+      "confidence": 0.5154329538345337
+    },
+    {
+      "text": "Tmp: WhEidagion",
+      "bbox": null,
+      "confidence": 0.6563060879707336
+    },
+    {
+      "text": "CCLNAD",
+      "bbox": null,
+      "confidence": 0.7265018820762634
+    },
+    {
+      "text": "CVSNAD",
+      "bbox": null,
+      "confidence": 0.8363870978355408
+    },
+    {
+      "text": "WAAD",
+      "bbox": null,
+      "confidence": 0.5127904415130615
+    },
+    {
+      "text": "Thitgate",
+      "bbox": null,
+      "confidence": 0.5591566562652588
+    },
+    {
+      "text": "Findlusnd",
+      "bbox": null,
+      "confidence": 0.6605041027069092
+    },
+    {
+      "text": "Biagrotly",
+      "bbox": null,
+      "confidence": 0.6469224095344543
+    },
+    {
+      "text": "1 Tieust Sime",
+      "bbox": null,
+      "confidence": 0.5502721071243286
+    },
+    {
+      "text": "Treamet Typa",
+      "bbox": null,
+      "confidence": 0.8193464875221252
+    },
+    {
+      "text": "i Magcamion",
+      "bbox": null,
+      "confidence": 0.6324938535690308
+    },
+    {
+      "text": "Trusmmest Detalls",
+      "bbox": null,
+      "confidence": 0.691983699798584
+    },
+    {
+      "text": "1 DOXONELSOMIOMEOX4DAYS",
+      "bbox": null,
+      "confidence": 0.5670065879821777
+    },
+    {
+      "text": ".PLAMINACIN SMOVICIONADAYS",
+      "bbox": null,
+      "confidence": 0.7021980285644531
+    },
+    {
+      "text": "1 S79297.C0X404Y5",
+      "bbox": null,
+      "confidence": 0.6013540029525757
+    },
+    {
+      "text": "T SYPTUMIMTSOFTSMLHIDX4DAYT",
+      "bbox": null,
+      "confidence": 0.7163861393928528
+    },
+    {
+      "text": "Goodtlon n",
+      "bbox": null,
+      "confidence": 0.7548375129699707
+    },
+    {
+      "text": "5",
+      "bbox": null,
+      "confidence": 0.9636534452438354
+    },
+    {
+      "text": "EH-NMUL GOMSPOO-SCTIMOL-PAENTACVSTA-NAD",
+      "bbox": null,
+      "confidence": 0.6568971872329712
+    },
+    {
+      "text": "Delharge",
+      "bbox": null,
+      "confidence": 0.7077277302742004
+    },
+    {
+      "text": "Advics on Tischurge",
+      "bbox": null,
+      "confidence": 0.8240730166435242
+    },
+    {
+      "text": "E.SV TAXOM1OOUTE CHMOOO).",
+      "bbox": null,
+      "confidence": 0.5557593703269958
+    },
+    {
+      "text": "SMLTWCEDMLYTIMT",
+      "bbox": null,
+      "confidence": 0.6892654299736023
+    },
+    {
+      "text": "15YP2430",
+      "bbox": null,
+      "confidence": 0.6472598314285278
+    },
+    {
+      "text": "SNULONCEAAMYI EATE",
+      "bbox": null,
+      "confidence": 0.6424861550331116
+    },
+    {
+      "text": "ISYTUMMYEOFT.",
+      "bbox": null,
+      "confidence": 0.815531313419342
+    },
+    {
+      "text": "SMLTWICUNIAIEVAPTERPOODSDAYS",
+      "bbox": null,
+      "confidence": 0.8127509355545044
+    },
+    {
+      "text": "ASYCIZM",
+      "bbox": null,
+      "confidence": 0.6778700947761536
+    },
+    {
+      "text": "AMLATTMESDAYS",
+      "bbox": null,
+      "confidence": 0.8596120476722717
+    },
+    {
+      "text": "LLDUCAL LOTONAPLYIHIMESTDAYS",
+      "bbox": null,
+      "confidence": 0.7419456839561462
+    },
+    {
+      "text": "Tuien-up",
+      "bbox": null,
+      "confidence": 0.7380428314208984
+    },
+    {
+      "text": "Fallw ap ster  ago ir b0s",
+      "bbox": null,
+      "confidence": 0.6905744671821594
+    },
+    {
+      "text": "Spirtal hote ( Way)",
+      "bbox": null,
+      "confidence": 0.689037024974823
+    }
+  ]
+}

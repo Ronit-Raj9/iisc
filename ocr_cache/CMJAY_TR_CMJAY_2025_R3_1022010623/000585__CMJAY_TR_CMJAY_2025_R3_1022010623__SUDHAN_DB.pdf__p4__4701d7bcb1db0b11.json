@@ -1,0 +1,188 @@
+{
+  "text": "REPORT OF THE BLOOD/ SERUM\nDate:2\nPatient's Name\n...A.gAge\nSex.M/F\n1P-A.\nReferred by Dr.\nOPD/IPD\nName of the Test\nResults\nWHDAL\nSerum Typhi\nAglebseen -1:80\nSerumTyphi\n\"H\"\nAgtubiseeu.li8o.\nSerum paratyphi \"AH\nAgteb'sea. li8.\nSerum paratyphi\nMoAgher ser.\ni \"BH\"\nFypht dot\nDenecn\nsyar tihefny.\nSerumtyphi antibody IgM\nSerum\nn typhi antibody\nIgG\nC- reactive protein\nAnti- streptolysin\nO titre\nRheumatoid factor (RF)\nmCor'al-\nNM-PrS\nSignature\nof Examiner",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 449,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "REPORT OF THE BLOOD/ SERUM",
+      "bbox": null,
+      "confidence": 0.9752013087272644
+    },
+    {
+      "text": "Date:2",
+      "bbox": null,
+      "confidence": 0.8650875091552734
+    },
+    {
+      "text": "Patient's Name",
+      "bbox": null,
+      "confidence": 0.9984503984451294
+    },
+    {
+      "text": "...A.gAge",
+      "bbox": null,
+      "confidence": 0.6409614682197571
+    },
+    {
+      "text": "Sex.M/F",
+      "bbox": null,
+      "confidence": 0.8895116448402405
+    },
+    {
+      "text": "1P-A.",
+      "bbox": null,
+      "confidence": 0.5274311304092407
+    },
+    {
+      "text": "Referred by Dr.",
+      "bbox": null,
+      "confidence": 0.9984910488128662
+    },
+    {
+      "text": "OPD/IPD",
+      "bbox": null,
+      "confidence": 0.9960537552833557
+    },
+    {
+      "text": "Name of the Test",
+      "bbox": null,
+      "confidence": 0.9798994064331055
+    },
+    {
+      "text": "Results",
+      "bbox": null,
+      "confidence": 0.9999116063117981
+    },
+    {
+      "text": "WHDAL",
+      "bbox": null,
+      "confidence": 0.9511415362358093
+    },
+    {
+      "text": "Serum Typhi",
+      "bbox": null,
+      "confidence": 0.9756584167480469
+    },
+    {
+      "text": "Aglebseen -1:80",
+      "bbox": null,
+      "confidence": 0.7331603765487671
+    },
+    {
+      "text": "SerumTyphi",
+      "bbox": null,
+      "confidence": 0.9996708631515503
+    },
+    {
+      "text": "\"H\"",
+      "bbox": null,
+      "confidence": 0.9749873280525208
+    },
+    {
+      "text": "Agtubiseeu.li8o.",
+      "bbox": null,
+      "confidence": 0.6799882650375366
+    },
+    {
+      "text": "Serum paratyphi \"AH",
+      "bbox": null,
+      "confidence": 0.9925820231437683
+    },
+    {
+      "text": "Agteb'sea. li8.",
+      "bbox": null,
+      "confidence": 0.6887676119804382
+    },
+    {
+      "text": "Serum paratyphi",
+      "bbox": null,
+      "confidence": 0.9996931552886963
+    },
+    {
+      "text": "MoAgher ser.",
+      "bbox": null,
+      "confidence": 0.6593497395515442
+    },
+    {
+      "text": "i \"BH\"",
+      "bbox": null,
+      "confidence": 0.8929064869880676
+    },
+    {
+      "text": "Fypht dot",
+      "bbox": null,
+      "confidence": 0.9787947535514832
+    },
+    {
+      "text": "Denecn",
+      "bbox": null,
+      "confidence": 0.641961395740509
+    },
+    {
+      "text": "syar tihefny.",
+      "bbox": null,
+      "confidence": 0.6562778949737549
+    },
+    {
+      "text": "Serumtyphi antibody IgM",
+      "bbox": null,
+      "confidence": 0.9814044237136841
+    },
+    {
+      "text": "Serum",
+      "bbox": null,
+      "confidence": 0.9999476671218872
+    },
+    {
+      "text": "n typhi antibody",
+      "bbox": null,
+      "confidence": 0.9859935641288757
+    },
+    {
+      "text": "IgG",
+      "bbox": null,
+      "confidence": 0.8517664670944214
+    },
+    {
+      "text": "C- reactive protein",
+      "bbox": null,
+      "confidence": 0.9649643898010254
+    },
+    {
+      "text": "Anti- streptolysin",
+      "bbox": null,
+      "confidence": 0.9909613132476807
+    },
+    {
+      "text": "O titre",
+      "bbox": null,
+      "confidence": 0.8870307207107544
+    },
+    {
+      "text": "Rheumatoid factor (RF)",
+      "bbox": null,
+      "confidence": 0.9984649419784546
+    },
+    {
+      "text": "mCor'al-",
+      "bbox": null,
+      "confidence": 0.5194599032402039
+    },
+    {
+      "text": "NM-PrS",
+      "bbox": null,
+      "confidence": 0.618890643119812
+    },
+    {
+      "text": "Signature",
+      "bbox": null,
+      "confidence": 0.9999777674674988
+    },
+    {
+      "text": "of Examiner",
+      "bbox": null,
+      "confidence": 0.9873748421669006
+    }
+  ]
+}

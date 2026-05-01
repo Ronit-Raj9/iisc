@@ -1,0 +1,308 @@
+{
+  "text": "Final Bill/ Receipt\nBill No\nBill Date\n: 14/03/2026 7:40 PM\n: PFB25-1348\nName\nAge/Gender\n: 1Y 9M 3D/ Female\nUHID\nIPD No\n: IP/25/1382\n: UH-15678\nConsultant\nAdmit Date & Time\n: 11/03/2026 02:30 PM\nContact No\nDischarge Date & Time\n: 14/03/2026 07:40 PM\nAddress\nPatient Category\n: AYUSHMAN BHARAT (PMJAY /CMJAY)\nPrimary Sponsor\n:NIL\nSecondary Sponsor\n: NIL\nParticulars\nRate Qty Amount\nDisc\nNet Amount\nMEDICAL SERVICES\nPICU PER DAY PACKAGE UNDER PMJAY/CMJAY\n8500.00 2 17000.00\n17000.00\n-\nIPD GENERAL WARD PER DAY PACKAGE -PMJAY / CMJAY\n2100.00 1\n2100.00\n2100.00\n-\nTotal for MEDICAL SERVICES:\n19100.00\nTotal Bill Amount:\n19100.00\nLess Discount:\n0.00\nNet Amount:\n19100.00\nSlno\nPay Date\nReceipt No\nMode\nRef. No\nAmount\nTotal Payments:\n0.00\nDue Amount:\n19100.00\nReceipt Amount:\n0.00\nReceived with thanks:Zero",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 797,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Final Bill/ Receipt",
+      "bbox": null,
+      "confidence": 0.9886500835418701
+    },
+    {
+      "text": "Bill No",
+      "bbox": null,
+      "confidence": 0.9857118725776672
+    },
+    {
+      "text": "Bill Date",
+      "bbox": null,
+      "confidence": 0.9487908482551575
+    },
+    {
+      "text": ": 14/03/2026 7:40 PM",
+      "bbox": null,
+      "confidence": 0.9723933339118958
+    },
+    {
+      "text": ": PFB25-1348",
+      "bbox": null,
+      "confidence": 0.9983348250389099
+    },
+    {
+      "text": "Name",
+      "bbox": null,
+      "confidence": 0.9977262616157532
+    },
+    {
+      "text": "Age/Gender",
+      "bbox": null,
+      "confidence": 0.9998253583908081
+    },
+    {
+      "text": ": 1Y 9M 3D/ Female",
+      "bbox": null,
+      "confidence": 0.9847526550292969
+    },
+    {
+      "text": "UHID",
+      "bbox": null,
+      "confidence": 0.9975529909133911
+    },
+    {
+      "text": "IPD No",
+      "bbox": null,
+      "confidence": 0.990854799747467
+    },
+    {
+      "text": ": IP/25/1382",
+      "bbox": null,
+      "confidence": 0.9878045916557312
+    },
+    {
+      "text": ": UH-15678",
+      "bbox": null,
+      "confidence": 0.98834627866745
+    },
+    {
+      "text": "Consultant",
+      "bbox": null,
+      "confidence": 0.9990955591201782
+    },
+    {
+      "text": "Admit Date & Time",
+      "bbox": null,
+      "confidence": 0.9994191527366638
+    },
+    {
+      "text": ": 11/03/2026 02:30 PM",
+      "bbox": null,
+      "confidence": 0.9973302483558655
+    },
+    {
+      "text": "Contact No",
+      "bbox": null,
+      "confidence": 0.9995225667953491
+    },
+    {
+      "text": "Discharge Date & Time",
+      "bbox": null,
+      "confidence": 0.9770631194114685
+    },
+    {
+      "text": ": 14/03/2026 07:40 PM",
+      "bbox": null,
+      "confidence": 0.9912818074226379
+    },
+    {
+      "text": "Address",
+      "bbox": null,
+      "confidence": 0.999836802482605
+    },
+    {
+      "text": "Patient Category",
+      "bbox": null,
+      "confidence": 0.9951337575912476
+    },
+    {
+      "text": ": AYUSHMAN BHARAT (PMJAY /CMJAY)",
+      "bbox": null,
+      "confidence": 0.9850256443023682
+    },
+    {
+      "text": "Primary Sponsor",
+      "bbox": null,
+      "confidence": 0.9895356297492981
+    },
+    {
+      "text": ":NIL",
+      "bbox": null,
+      "confidence": 0.9292017221450806
+    },
+    {
+      "text": "Secondary Sponsor",
+      "bbox": null,
+      "confidence": 0.9997177124023438
+    },
+    {
+      "text": ": NIL",
+      "bbox": null,
+      "confidence": 0.9557986259460449
+    },
+    {
+      "text": "Particulars",
+      "bbox": null,
+      "confidence": 0.9933893084526062
+    },
+    {
+      "text": "Rate Qty Amount",
+      "bbox": null,
+      "confidence": 0.9931148290634155
+    },
+    {
+      "text": "Disc",
+      "bbox": null,
+      "confidence": 0.9996962547302246
+    },
+    {
+      "text": "Net Amount",
+      "bbox": null,
+      "confidence": 0.9693000912666321
+    },
+    {
+      "text": "MEDICAL SERVICES",
+      "bbox": null,
+      "confidence": 0.9998691082000732
+    },
+    {
+      "text": "PICU PER DAY PACKAGE UNDER PMJAY/CMJAY",
+      "bbox": null,
+      "confidence": 0.9990448355674744
+    },
+    {
+      "text": "8500.00 2 17000.00",
+      "bbox": null,
+      "confidence": 0.9995312094688416
+    },
+    {
+      "text": "17000.00",
+      "bbox": null,
+      "confidence": 0.9999557733535767
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.8345675468444824
+    },
+    {
+      "text": "IPD GENERAL WARD PER DAY PACKAGE -PMJAY / CMJAY",
+      "bbox": null,
+      "confidence": 0.9975393414497375
+    },
+    {
+      "text": "2100.00 1",
+      "bbox": null,
+      "confidence": 0.9811791181564331
+    },
+    {
+      "text": "2100.00",
+      "bbox": null,
+      "confidence": 0.9998466372489929
+    },
+    {
+      "text": "2100.00",
+      "bbox": null,
+      "confidence": 0.99985271692276
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.99898761510849
+    },
+    {
+      "text": "Total for MEDICAL SERVICES:",
+      "bbox": null,
+      "confidence": 0.999640166759491
+    },
+    {
+      "text": "19100.00",
+      "bbox": null,
+      "confidence": 0.9999682903289795
+    },
+    {
+      "text": "Total Bill Amount:",
+      "bbox": null,
+      "confidence": 0.9979524612426758
+    },
+    {
+      "text": "19100.00",
+      "bbox": null,
+      "confidence": 0.999947726726532
+    },
+    {
+      "text": "Less Discount:",
+      "bbox": null,
+      "confidence": 0.9998927116394043
+    },
+    {
+      "text": "0.00",
+      "bbox": null,
+      "confidence": 0.999951958656311
+    },
+    {
+      "text": "Net Amount:",
+      "bbox": null,
+      "confidence": 0.9980313777923584
+    },
+    {
+      "text": "19100.00",
+      "bbox": null,
+      "confidence": 0.999966025352478
+    },
+    {
+      "text": "Slno",
+      "bbox": null,
+      "confidence": 0.9253863096237183
+    },
+    {
+      "text": "Pay Date",
+      "bbox": null,
+      "confidence": 0.9973437786102295
+    },
+    {
+      "text": "Receipt No",
+      "bbox": null,
+      "confidence": 0.9885681867599487
+    },
+    {
+      "text": "Mode",
+      "bbox": null,
+      "confidence": 0.999829888343811
+    },
+    {
+      "text": "Ref. No",
+      "bbox": null,
+      "confidence": 0.9428668022155762
+    },
+    {
+      "text": "Amount",
+      "bbox": null,
+      "confidence": 0.9995704293251038
+    },
+    {
+      "text": "Total Payments:",
+      "bbox": null,
+      "confidence": 0.9812961220741272
+    },
+    {
+      "text": "0.00",
+      "bbox": null,
+      "confidence": 0.9999219179153442
+    },
+    {
+      "text": "Due Amount:",
+      "bbox": null,
+      "confidence": 0.9959468245506287
+    },
+    {
+      "text": "19100.00",
+      "bbox": null,
+      "confidence": 0.999965250492096
+    },
+    {
+      "text": "Receipt Amount:",
+      "bbox": null,
+      "confidence": 0.9997931718826294
+    },
+    {
+      "text": "0.00",
+      "bbox": null,
+      "confidence": 0.9999450445175171
+    },
+    {
+      "text": "Received with thanks:Zero",
+      "bbox": null,
+      "confidence": 0.9712504744529724
+    }
+  ]
+}

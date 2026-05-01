@@ -1,0 +1,353 @@
+{
+  "text": "PMJAY,\nDEPARTMENT OF PEDIATRICS\nDISCHARGE SUMMARY\nREG NO\nAGE\n10\n480562\nPatient\nTEAP\nADDRESS\nSEX\nIPD NO\n121953\nWEIGHT\nWARD\nMALE MEDICAL WARD\nDOA:\n07/02/2026\nLENGTH\nADDMITTING DOCTOR:\nDOD:\n09/02/2026\nHC:\nDISCHARGING DOCTOR:\nHISTORY\nA PATIENT OF AGE 10 YEAR MALE CAME ON 07/02/2026 AT 10:21AM WITH COMPLAINT\nOF ENTERIC FEVER\nPRESCRIPTION\nTAB.CEFIXIME 100MG BD 5 DAYS\nTAB.PCM 1/2 SOS 5 DAYS\nTAB.CETRIZINE 1/2 HS 5 DAYS\nSYP.B COMPLEX 5ML OD 5 DAYS\nSYP.AMBROXYL LS 5ML TDS 5 DAYS\nCLINICAL EXAMINATION\nON ADMISSION\nTEMP:98.4 F\nPULSE: 102/MIN\nRESP: 24/MIN\nBP: MM/HG\nON DISCHARGE\nTEMP:98 F\nPULSE:90 /MIN\nRESP:22 /MIN\nBP: MM/HG\nCOURSE IN HOSPITAL\nA PATIENT OF AGE 1O YEAR MALE WITH ABOVE COMPLAINT WAS ENTERIC FEVER\nADMITTED IN WARD UNDER\nD-\nm\nFOR FURTHER TREATMENT\nMEDICATION ADMINISTERED DURING HIS STAY:\nMEDICATION GIVEN:-\nINJ.ZOSTUM 1GM\nTAB.PCM 500 1/2 SOS\nTAB.AZITHRO 250 OD\nTAB.CETRIZINE 1/2 HS\nSYP.AMBRO 5ML TDS\nORS POWDER\nINVESTIGATION\nCBC,MP,UR-RM,VDRL,WIDAL,SERUM ALBUMIN\nDIAGNOSIS\nENTERIC FEVER\nADVICE ON FOLLOW UP\nFOLLOW UP AFTER 5 DAYS IN OPD NO:09\nCONSULTANT:DR.SONI UTTAM\nDIAGNOSIS\nENTERIC FEVER\n-\nPAGE 1 OF 1",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 1114,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "PMJAY,",
+      "bbox": null,
+      "confidence": 0.8086119294166565
+    },
+    {
+      "text": "DEPARTMENT OF PEDIATRICS",
+      "bbox": null,
+      "confidence": 0.9875357747077942
+    },
+    {
+      "text": "DISCHARGE SUMMARY",
+      "bbox": null,
+      "confidence": 0.9993941187858582
+    },
+    {
+      "text": "REG NO",
+      "bbox": null,
+      "confidence": 0.969836413860321
+    },
+    {
+      "text": "AGE",
+      "bbox": null,
+      "confidence": 0.9750491976737976
+    },
+    {
+      "text": "10",
+      "bbox": null,
+      "confidence": 0.9171351790428162
+    },
+    {
+      "text": "480562",
+      "bbox": null,
+      "confidence": 0.9962453842163086
+    },
+    {
+      "text": "Patient",
+      "bbox": null,
+      "confidence": 0.9953510165214539
+    },
+    {
+      "text": "TEAP",
+      "bbox": null,
+      "confidence": 0.6492942571640015
+    },
+    {
+      "text": "ADDRESS",
+      "bbox": null,
+      "confidence": 0.9989441633224487
+    },
+    {
+      "text": "SEX",
+      "bbox": null,
+      "confidence": 0.9630149006843567
+    },
+    {
+      "text": "IPD NO",
+      "bbox": null,
+      "confidence": 0.9984917640686035
+    },
+    {
+      "text": "121953",
+      "bbox": null,
+      "confidence": 0.9998929500579834
+    },
+    {
+      "text": "WEIGHT",
+      "bbox": null,
+      "confidence": 0.9987613558769226
+    },
+    {
+      "text": "WARD",
+      "bbox": null,
+      "confidence": 0.9993963241577148
+    },
+    {
+      "text": "MALE MEDICAL WARD",
+      "bbox": null,
+      "confidence": 0.9996076226234436
+    },
+    {
+      "text": "DOA:",
+      "bbox": null,
+      "confidence": 0.8838995099067688
+    },
+    {
+      "text": "07/02/2026",
+      "bbox": null,
+      "confidence": 0.9998182058334351
+    },
+    {
+      "text": "LENGTH",
+      "bbox": null,
+      "confidence": 0.9995011687278748
+    },
+    {
+      "text": "ADDMITTING DOCTOR:",
+      "bbox": null,
+      "confidence": 0.9969559907913208
+    },
+    {
+      "text": "DOD:",
+      "bbox": null,
+      "confidence": 0.9781774878501892
+    },
+    {
+      "text": "09/02/2026",
+      "bbox": null,
+      "confidence": 0.999858021736145
+    },
+    {
+      "text": "HC:",
+      "bbox": null,
+      "confidence": 0.9798541069030762
+    },
+    {
+      "text": "DISCHARGING DOCTOR:",
+      "bbox": null,
+      "confidence": 0.9971210360527039
+    },
+    {
+      "text": "HISTORY",
+      "bbox": null,
+      "confidence": 0.9995599389076233
+    },
+    {
+      "text": "A PATIENT OF AGE 10 YEAR MALE CAME ON 07/02/2026 AT 10:21AM WITH COMPLAINT",
+      "bbox": null,
+      "confidence": 0.9891905784606934
+    },
+    {
+      "text": "OF ENTERIC FEVER",
+      "bbox": null,
+      "confidence": 0.97899329662323
+    },
+    {
+      "text": "PRESCRIPTION",
+      "bbox": null,
+      "confidence": 0.9998722672462463
+    },
+    {
+      "text": "TAB.CEFIXIME 100MG BD 5 DAYS",
+      "bbox": null,
+      "confidence": 0.9930782914161682
+    },
+    {
+      "text": "TAB.PCM 1/2 SOS 5 DAYS",
+      "bbox": null,
+      "confidence": 0.9823623895645142
+    },
+    {
+      "text": "TAB.CETRIZINE 1/2 HS 5 DAYS",
+      "bbox": null,
+      "confidence": 0.9801218509674072
+    },
+    {
+      "text": "SYP.B COMPLEX 5ML OD 5 DAYS",
+      "bbox": null,
+      "confidence": 0.9942002892494202
+    },
+    {
+      "text": "SYP.AMBROXYL LS 5ML TDS 5 DAYS",
+      "bbox": null,
+      "confidence": 0.9756067395210266
+    },
+    {
+      "text": "CLINICAL EXAMINATION",
+      "bbox": null,
+      "confidence": 0.9901026487350464
+    },
+    {
+      "text": "ON ADMISSION",
+      "bbox": null,
+      "confidence": 0.9996654391288757
+    },
+    {
+      "text": "TEMP:98.4 F",
+      "bbox": null,
+      "confidence": 0.9983196258544922
+    },
+    {
+      "text": "PULSE: 102/MIN",
+      "bbox": null,
+      "confidence": 0.9955296516418457
+    },
+    {
+      "text": "RESP: 24/MIN",
+      "bbox": null,
+      "confidence": 0.9944042563438416
+    },
+    {
+      "text": "BP: MM/HG",
+      "bbox": null,
+      "confidence": 0.9859570264816284
+    },
+    {
+      "text": "ON DISCHARGE",
+      "bbox": null,
+      "confidence": 0.9993700981140137
+    },
+    {
+      "text": "TEMP:98 F",
+      "bbox": null,
+      "confidence": 0.9575737714767456
+    },
+    {
+      "text": "PULSE:90 /MIN",
+      "bbox": null,
+      "confidence": 0.9873161911964417
+    },
+    {
+      "text": "RESP:22 /MIN",
+      "bbox": null,
+      "confidence": 0.9962234497070312
+    },
+    {
+      "text": "BP: MM/HG",
+      "bbox": null,
+      "confidence": 0.9838888645172119
+    },
+    {
+      "text": "COURSE IN HOSPITAL",
+      "bbox": null,
+      "confidence": 0.9956200122833252
+    },
+    {
+      "text": "A PATIENT OF AGE 1O YEAR MALE WITH ABOVE COMPLAINT WAS ENTERIC FEVER",
+      "bbox": null,
+      "confidence": 0.9849485754966736
+    },
+    {
+      "text": "ADMITTED IN WARD UNDER",
+      "bbox": null,
+      "confidence": 0.9980054497718811
+    },
+    {
+      "text": "D-",
+      "bbox": null,
+      "confidence": 0.3703932464122772
+    },
+    {
+      "text": "m",
+      "bbox": null,
+      "confidence": 0.9653069376945496
+    },
+    {
+      "text": "FOR FURTHER TREATMENT",
+      "bbox": null,
+      "confidence": 0.9857496023178101
+    },
+    {
+      "text": "MEDICATION ADMINISTERED DURING HIS STAY:",
+      "bbox": null,
+      "confidence": 0.9857050180435181
+    },
+    {
+      "text": "MEDICATION GIVEN:-",
+      "bbox": null,
+      "confidence": 0.9971599578857422
+    },
+    {
+      "text": "INJ.ZOSTUM 1GM",
+      "bbox": null,
+      "confidence": 0.9750871658325195
+    },
+    {
+      "text": "TAB.PCM 500 1/2 SOS",
+      "bbox": null,
+      "confidence": 0.9909684062004089
+    },
+    {
+      "text": "TAB.AZITHRO 250 OD",
+      "bbox": null,
+      "confidence": 0.9973846077919006
+    },
+    {
+      "text": "TAB.CETRIZINE 1/2 HS",
+      "bbox": null,
+      "confidence": 0.9730759859085083
+    },
+    {
+      "text": "SYP.AMBRO 5ML TDS",
+      "bbox": null,
+      "confidence": 0.9991136193275452
+    },
+    {
+      "text": "ORS POWDER",
+      "bbox": null,
+      "confidence": 0.9874782562255859
+    },
+    {
+      "text": "INVESTIGATION",
+      "bbox": null,
+      "confidence": 0.9999264478683472
+    },
+    {
+      "text": "CBC,MP,UR-RM,VDRL,WIDAL,SERUM ALBUMIN",
+      "bbox": null,
+      "confidence": 0.9933788180351257
+    },
+    {
+      "text": "DIAGNOSIS",
+      "bbox": null,
+      "confidence": 0.9999420642852783
+    },
+    {
+      "text": "ENTERIC FEVER",
+      "bbox": null,
+      "confidence": 0.9994885325431824
+    },
+    {
+      "text": "ADVICE ON FOLLOW UP",
+      "bbox": null,
+      "confidence": 0.9991101622581482
+    },
+    {
+      "text": "FOLLOW UP AFTER 5 DAYS IN OPD NO:09",
+      "bbox": null,
+      "confidence": 0.9745569229125977
+    },
+    {
+      "text": "CONSULTANT:DR.SONI UTTAM",
+      "bbox": null,
+      "confidence": 0.9983237385749817
+    },
+    {
+      "text": "DIAGNOSIS",
+      "bbox": null,
+      "confidence": 0.99992436170578
+    },
+    {
+      "text": "ENTERIC FEVER",
+      "bbox": null,
+      "confidence": 0.9998818635940552
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.9777864813804626
+    },
+    {
+      "text": "PAGE 1 OF 1",
+      "bbox": null,
+      "confidence": 0.9841048717498779
+    }
+  ]
+}

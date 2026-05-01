@@ -1,0 +1,223 @@
+{
+  "text": "PATIENT NAME\nCOLLECTED\n: 22-01-2026\n10:50PM\nAGE /GENDER\n: 58YRS/M\nRECEIVED\n: 22-01-2026 10:55PM\nREF. DOCTOR\n:\nREPORTED\n: 23-01-2026 12:35AM\nUHID\n: 1767/UHIDHNO\nSTATUS\n: FINAL REPORT\nIPD\n: 165/IPD25HO\nCATEGORY\n: ICU\nDATE\n: 22-01-2026\nLAB SERIAL NO\n: COHO2072\nDEPARTMENT OF SEROLOGY\nDENGUE NS1AG CARD TEST:\nInvestigations\nResult\nBio REF RANGE\nDENGUE NS1AG\nNEGATIVE\nNEGATIVE\nDENGUE IgG/IgM CARD TEST:\nINVESTIGATION\nRESULT\nBIO REF RANGE\nDENGUE IgG\nNEGATIVE\nNEGATIVE\nDENGUE IgM\nNEGATIVE\nNEGATIVE\n(MD PATHOLOGIST)",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 507,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "PATIENT NAME",
+      "bbox": null,
+      "confidence": 0.9989873766899109
+    },
+    {
+      "text": "COLLECTED",
+      "bbox": null,
+      "confidence": 0.9999169111251831
+    },
+    {
+      "text": ": 22-01-2026",
+      "bbox": null,
+      "confidence": 0.9985237717628479
+    },
+    {
+      "text": "10:50PM",
+      "bbox": null,
+      "confidence": 0.9924846887588501
+    },
+    {
+      "text": "AGE /GENDER",
+      "bbox": null,
+      "confidence": 0.9761511087417603
+    },
+    {
+      "text": ": 58YRS/M",
+      "bbox": null,
+      "confidence": 0.9962689876556396
+    },
+    {
+      "text": "RECEIVED",
+      "bbox": null,
+      "confidence": 0.9997125864028931
+    },
+    {
+      "text": ": 22-01-2026 10:55PM",
+      "bbox": null,
+      "confidence": 0.9914184808731079
+    },
+    {
+      "text": "REF. DOCTOR",
+      "bbox": null,
+      "confidence": 0.9949007630348206
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.9932816028594971
+    },
+    {
+      "text": "REPORTED",
+      "bbox": null,
+      "confidence": 0.9998184442520142
+    },
+    {
+      "text": ": 23-01-2026 12:35AM",
+      "bbox": null,
+      "confidence": 0.991217315196991
+    },
+    {
+      "text": "UHID",
+      "bbox": null,
+      "confidence": 0.9996920824050903
+    },
+    {
+      "text": ": 1767/UHIDHNO",
+      "bbox": null,
+      "confidence": 0.990493893623352
+    },
+    {
+      "text": "STATUS",
+      "bbox": null,
+      "confidence": 0.9999076724052429
+    },
+    {
+      "text": ": FINAL REPORT",
+      "bbox": null,
+      "confidence": 0.9859272241592407
+    },
+    {
+      "text": "IPD",
+      "bbox": null,
+      "confidence": 0.9999123215675354
+    },
+    {
+      "text": ": 165/IPD25HO",
+      "bbox": null,
+      "confidence": 0.9708683490753174
+    },
+    {
+      "text": "CATEGORY",
+      "bbox": null,
+      "confidence": 0.9999115467071533
+    },
+    {
+      "text": ": ICU",
+      "bbox": null,
+      "confidence": 0.9473746418952942
+    },
+    {
+      "text": "DATE",
+      "bbox": null,
+      "confidence": 0.9997195601463318
+    },
+    {
+      "text": ": 22-01-2026",
+      "bbox": null,
+      "confidence": 0.9791989326477051
+    },
+    {
+      "text": "LAB SERIAL NO",
+      "bbox": null,
+      "confidence": 0.982578694820404
+    },
+    {
+      "text": ": COHO2072",
+      "bbox": null,
+      "confidence": 0.944474995136261
+    },
+    {
+      "text": "DEPARTMENT OF SEROLOGY",
+      "bbox": null,
+      "confidence": 0.9951223134994507
+    },
+    {
+      "text": "DENGUE NS1AG CARD TEST:",
+      "bbox": null,
+      "confidence": 0.9998200535774231
+    },
+    {
+      "text": "Investigations",
+      "bbox": null,
+      "confidence": 0.999966025352478
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.999760091304779
+    },
+    {
+      "text": "Bio REF RANGE",
+      "bbox": null,
+      "confidence": 0.976385772228241
+    },
+    {
+      "text": "DENGUE NS1AG",
+      "bbox": null,
+      "confidence": 0.9997321963310242
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9999362230300903
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9998931884765625
+    },
+    {
+      "text": "DENGUE IgG/IgM CARD TEST:",
+      "bbox": null,
+      "confidence": 0.9995448589324951
+    },
+    {
+      "text": "INVESTIGATION",
+      "bbox": null,
+      "confidence": 0.9999437928199768
+    },
+    {
+      "text": "RESULT",
+      "bbox": null,
+      "confidence": 0.9998958110809326
+    },
+    {
+      "text": "BIO REF RANGE",
+      "bbox": null,
+      "confidence": 0.9988710880279541
+    },
+    {
+      "text": "DENGUE IgG",
+      "bbox": null,
+      "confidence": 0.9980255365371704
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9997674226760864
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9999319911003113
+    },
+    {
+      "text": "DENGUE IgM",
+      "bbox": null,
+      "confidence": 0.9972108602523804
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9999226927757263
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9998887777328491
+    },
+    {
+      "text": "(MD PATHOLOGIST)",
+      "bbox": null,
+      "confidence": 0.9995334148406982
+    }
+  ]
+}

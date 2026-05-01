@@ -1,0 +1,38 @@
+{
+  "text": "T\nk\nBW\nR\n58 Mal\n2026 15:52:05",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 29,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "T",
+      "bbox": null,
+      "confidence": 0.4398888349533081
+    },
+    {
+      "text": "k",
+      "bbox": null,
+      "confidence": 0.14470680058002472
+    },
+    {
+      "text": "BW",
+      "bbox": null,
+      "confidence": 0.18392494320869446
+    },
+    {
+      "text": "R",
+      "bbox": null,
+      "confidence": 0.8747327327728271
+    },
+    {
+      "text": "58 Mal",
+      "bbox": null,
+      "confidence": 0.9353120923042297
+    },
+    {
+      "text": "2026 15:52:05",
+      "bbox": null,
+      "confidence": 0.9916671514511108
+    }
+  ]
+}

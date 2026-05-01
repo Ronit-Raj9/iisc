@@ -1,0 +1,178 @@
+{
+  "text": "2\n3\n001- 1410126\nHURSINIG CAMEPLAN\nGOODS TO ACHIVE\nNURSING INTERVENTIONS\nEVALUATION/QUTCoME\n-No bsosk\n·Popoove\nAssess\n(ke\npalfead\npaticolnoalt\ncoaplain\nparieal\ngonerwcosdie10n\nstaten ase pad\nkealth\nIfo ardrPtaln\nplam o/\nstalin\nase monitosiog\nToclay.\nandcooded.\nAll to cedfeatos\ngran aopex 0r\nadviced .\nDBF+8061\narel\ngiea\n14103/26\n8Am\nTIME\n2Am",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 342,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.9517219662666321
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.6397973299026489
+    },
+    {
+      "text": "001- 1410126",
+      "bbox": null,
+      "confidence": 0.8064953684806824
+    },
+    {
+      "text": "HURSINIG CAMEPLAN",
+      "bbox": null,
+      "confidence": 0.5728431344032288
+    },
+    {
+      "text": "GOODS TO ACHIVE",
+      "bbox": null,
+      "confidence": 0.9328681826591492
+    },
+    {
+      "text": "NURSING INTERVENTIONS",
+      "bbox": null,
+      "confidence": 0.9925864338874817
+    },
+    {
+      "text": "EVALUATION/QUTCoME",
+      "bbox": null,
+      "confidence": 0.7951358556747437
+    },
+    {
+      "text": "-No bsosk",
+      "bbox": null,
+      "confidence": 0.738269567489624
+    },
+    {
+      "text": "·Popoove",
+      "bbox": null,
+      "confidence": 0.8360711336135864
+    },
+    {
+      "text": "Assess",
+      "bbox": null,
+      "confidence": 0.8100811839103699
+    },
+    {
+      "text": "(ke",
+      "bbox": null,
+      "confidence": 0.5856114029884338
+    },
+    {
+      "text": "palfead",
+      "bbox": null,
+      "confidence": 0.8157840371131897
+    },
+    {
+      "text": "paticolnoalt",
+      "bbox": null,
+      "confidence": 0.7686285972595215
+    },
+    {
+      "text": "coaplain",
+      "bbox": null,
+      "confidence": 0.8632183074951172
+    },
+    {
+      "text": "parieal",
+      "bbox": null,
+      "confidence": 0.9180294871330261
+    },
+    {
+      "text": "gonerwcosdie10n",
+      "bbox": null,
+      "confidence": 0.5401539206504822
+    },
+    {
+      "text": "staten ase pad",
+      "bbox": null,
+      "confidence": 0.7841669321060181
+    },
+    {
+      "text": "kealth",
+      "bbox": null,
+      "confidence": 0.8263388276100159
+    },
+    {
+      "text": "Ifo ardrPtaln",
+      "bbox": null,
+      "confidence": 0.6455689668655396
+    },
+    {
+      "text": "plam o/",
+      "bbox": null,
+      "confidence": 0.7013457417488098
+    },
+    {
+      "text": "stalin",
+      "bbox": null,
+      "confidence": 0.7829824090003967
+    },
+    {
+      "text": "ase monitosiog",
+      "bbox": null,
+      "confidence": 0.7704297304153442
+    },
+    {
+      "text": "Toclay.",
+      "bbox": null,
+      "confidence": 0.8587530851364136
+    },
+    {
+      "text": "andcooded.",
+      "bbox": null,
+      "confidence": 0.8668035268783569
+    },
+    {
+      "text": "All to cedfeatos",
+      "bbox": null,
+      "confidence": 0.5381762385368347
+    },
+    {
+      "text": "gran aopex 0r",
+      "bbox": null,
+      "confidence": 0.7810892462730408
+    },
+    {
+      "text": "adviced .",
+      "bbox": null,
+      "confidence": 0.9045721888542175
+    },
+    {
+      "text": "DBF+8061",
+      "bbox": null,
+      "confidence": 0.7858245968818665
+    },
+    {
+      "text": "arel",
+      "bbox": null,
+      "confidence": 0.7512667179107666
+    },
+    {
+      "text": "giea",
+      "bbox": null,
+      "confidence": 0.45026564598083496
+    },
+    {
+      "text": "14103/26",
+      "bbox": null,
+      "confidence": 0.8176141977310181
+    },
+    {
+      "text": "8Am",
+      "bbox": null,
+      "confidence": 0.9100103974342346
+    },
+    {
+      "text": "TIME",
+      "bbox": null,
+      "confidence": 0.7902278304100037
+    },
+    {
+      "text": "2Am",
+      "bbox": null,
+      "confidence": 0.945091187953949
+    }
+  ]
+}

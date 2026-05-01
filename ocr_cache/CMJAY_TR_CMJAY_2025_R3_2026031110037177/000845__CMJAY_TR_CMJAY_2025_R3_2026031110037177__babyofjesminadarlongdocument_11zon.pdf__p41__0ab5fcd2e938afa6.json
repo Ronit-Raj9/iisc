@@ -1,0 +1,193 @@
+{
+  "text": "Patient Nome:\nIPNO.\nDept/Unit:\nBed y Ward No.s\nDr. Names\nGEAS TOACHIEN\nHORCHIEINTERVEMIONS\n3\nEVALUATION/QUTCOME\nClo palient\nAssos the patel\nhoning fever\nTo Simproving\nCondibion.\nvital are\nreluted to\nthe patia vitalarte check\nS tembale\ndisease Conditif Condition\n& Recanded\nAll meditation\ngiven os Per DA\nchecking\nadvice,\nvibals.\nDBF ondemen\n> slo charct\n:\n-\nmeintal\nAupCaToN\nOFNAME\n11813\nBIRNATO\nTIME\n8913\nStanled with Oken Sscarine",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 432,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Patient Nome:",
+      "bbox": null,
+      "confidence": 0.9413318634033203
+    },
+    {
+      "text": "IPNO.",
+      "bbox": null,
+      "confidence": 0.8074929118156433
+    },
+    {
+      "text": "Dept/Unit:",
+      "bbox": null,
+      "confidence": 0.9924527406692505
+    },
+    {
+      "text": "Bed y Ward No.s",
+      "bbox": null,
+      "confidence": 0.8383224606513977
+    },
+    {
+      "text": "Dr. Names",
+      "bbox": null,
+      "confidence": 0.9249542951583862
+    },
+    {
+      "text": "GEAS TOACHIEN",
+      "bbox": null,
+      "confidence": 0.6049242615699768
+    },
+    {
+      "text": "HORCHIEINTERVEMIONS",
+      "bbox": null,
+      "confidence": 0.692020058631897
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.12397584319114685
+    },
+    {
+      "text": "EVALUATION/QUTCOME",
+      "bbox": null,
+      "confidence": 0.948144793510437
+    },
+    {
+      "text": "Clo palient",
+      "bbox": null,
+      "confidence": 0.7170359492301941
+    },
+    {
+      "text": "Assos the patel",
+      "bbox": null,
+      "confidence": 0.7395188212394714
+    },
+    {
+      "text": "honing fever",
+      "bbox": null,
+      "confidence": 0.86073237657547
+    },
+    {
+      "text": "To Simproving",
+      "bbox": null,
+      "confidence": 0.686032235622406
+    },
+    {
+      "text": "Condibion.",
+      "bbox": null,
+      "confidence": 0.8646725416183472
+    },
+    {
+      "text": "vital are",
+      "bbox": null,
+      "confidence": 0.9004422426223755
+    },
+    {
+      "text": "reluted to",
+      "bbox": null,
+      "confidence": 0.9396332502365112
+    },
+    {
+      "text": "the patia vitalarte check",
+      "bbox": null,
+      "confidence": 0.8168027997016907
+    },
+    {
+      "text": "S tembale",
+      "bbox": null,
+      "confidence": 0.7022305130958557
+    },
+    {
+      "text": "disease Conditif Condition",
+      "bbox": null,
+      "confidence": 0.9044592976570129
+    },
+    {
+      "text": "& Recanded",
+      "bbox": null,
+      "confidence": 0.9465346336364746
+    },
+    {
+      "text": "All meditation",
+      "bbox": null,
+      "confidence": 0.8247959017753601
+    },
+    {
+      "text": "given os Per DA",
+      "bbox": null,
+      "confidence": 0.772365152835846
+    },
+    {
+      "text": "checking",
+      "bbox": null,
+      "confidence": 0.9704219102859497
+    },
+    {
+      "text": "advice,",
+      "bbox": null,
+      "confidence": 0.8163813352584839
+    },
+    {
+      "text": "vibals.",
+      "bbox": null,
+      "confidence": 0.7360429763793945
+    },
+    {
+      "text": "DBF ondemen",
+      "bbox": null,
+      "confidence": 0.8299676775932312
+    },
+    {
+      "text": "> slo charct",
+      "bbox": null,
+      "confidence": 0.7244983315467834
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.8972159028053284
+    },
+    {
+      "text": "-",
+      "bbox": null,
+      "confidence": 0.49917447566986084
+    },
+    {
+      "text": "meintal",
+      "bbox": null,
+      "confidence": 0.7079513669013977
+    },
+    {
+      "text": "AupCaToN",
+      "bbox": null,
+      "confidence": 0.5908757448196411
+    },
+    {
+      "text": "OFNAME",
+      "bbox": null,
+      "confidence": 0.7786485552787781
+    },
+    {
+      "text": "11813",
+      "bbox": null,
+      "confidence": 0.7121690511703491
+    },
+    {
+      "text": "BIRNATO",
+      "bbox": null,
+      "confidence": 0.5900726914405823
+    },
+    {
+      "text": "TIME",
+      "bbox": null,
+      "confidence": 0.9311152100563049
+    },
+    {
+      "text": "8913",
+      "bbox": null,
+      "confidence": 0.5186708569526672
+    },
+    {
+      "text": "Stanled with Oken Sscarine",
+      "bbox": null,
+      "confidence": 0.8454741835594177
+    }
+  ]
+}

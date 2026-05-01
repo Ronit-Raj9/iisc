@@ -1,0 +1,483 @@
+{
+  "text": "07/02/2026\nPrint Date\nPATHOLOGY RESULT\nOrder No:\n12116/2026\nOrder Date :\n06/02/2026\nReg No.:\n480562\nCollected On :\n06/02/2026\nName:\nAge:\n10 Years\nPatient Type:\nOUT PATIENT\nPrescribed By:\nGender\nMALE\nTest Name : URINE ANALYSIS REPORT\nResult\nUnit\nNormal Value (MIN\nSr. No\nParameters\nMAX)\nABSENT\n5\nSUGAR\nABSENT\n6\nBILE SALTS\n7\nABSENT\nBILE PIGMENTS\n4-6\n/hpf\n2-3\n8\nPUS CELLS\nEPITHELIAL CELLS\n1-2\n/hpf\n9\n2-5\nTest Name: VDRL\nSr. No\nParameters\nResult\nUnit\nNormal Value (MIN\nMAX)\n1\nVDRL\nNEGATIVE\nTest Name : WIDAL TEST\nSr. No\nParameters\nResult\nUnit\nNormal Value (MIN-\nMAX)\n1\nWIDAL TEST\nPOSITIVE\nTest Name : SERUM BILIRUBIN\nSr. No\nParameters\nResult\nUnit\nNormal Value (MIN\nMAX)\n1\nS.BILIRUBIN TOTAL\n0.18\nmg/dl\n0.2-1\n2\nS.BILIRUBIN DIRECT\n0.12\nmg/dl\n0-0.2\n3\nS.BILIRUBIN INDIRECT\n0.06\nmg/dl\n0-0.8\n4\nSGPT(ALT)\n24\nIU/L\n0-42\nRecommendations:\n1 Report is based on the Quality of Sample/s received\ndependent on multiple variables",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 908,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "07/02/2026",
+      "bbox": null,
+      "confidence": 0.9546331167221069
+    },
+    {
+      "text": "Print Date",
+      "bbox": null,
+      "confidence": 0.9998161196708679
+    },
+    {
+      "text": "PATHOLOGY RESULT",
+      "bbox": null,
+      "confidence": 0.9994522333145142
+    },
+    {
+      "text": "Order No:",
+      "bbox": null,
+      "confidence": 0.9806472063064575
+    },
+    {
+      "text": "12116/2026",
+      "bbox": null,
+      "confidence": 0.9999059438705444
+    },
+    {
+      "text": "Order Date :",
+      "bbox": null,
+      "confidence": 0.9874165654182434
+    },
+    {
+      "text": "06/02/2026",
+      "bbox": null,
+      "confidence": 0.9999082684516907
+    },
+    {
+      "text": "Reg No.:",
+      "bbox": null,
+      "confidence": 0.9889868497848511
+    },
+    {
+      "text": "480562",
+      "bbox": null,
+      "confidence": 0.999889075756073
+    },
+    {
+      "text": "Collected On :",
+      "bbox": null,
+      "confidence": 0.9703148603439331
+    },
+    {
+      "text": "06/02/2026",
+      "bbox": null,
+      "confidence": 0.9999468922615051
+    },
+    {
+      "text": "Name:",
+      "bbox": null,
+      "confidence": 0.9877554178237915
+    },
+    {
+      "text": "Age:",
+      "bbox": null,
+      "confidence": 0.9359728097915649
+    },
+    {
+      "text": "10 Years",
+      "bbox": null,
+      "confidence": 0.9980131387710571
+    },
+    {
+      "text": "Patient Type:",
+      "bbox": null,
+      "confidence": 0.9991657733917236
+    },
+    {
+      "text": "OUT PATIENT",
+      "bbox": null,
+      "confidence": 0.9681289196014404
+    },
+    {
+      "text": "Prescribed By:",
+      "bbox": null,
+      "confidence": 0.9993643760681152
+    },
+    {
+      "text": "Gender",
+      "bbox": null,
+      "confidence": 0.9994985461235046
+    },
+    {
+      "text": "MALE",
+      "bbox": null,
+      "confidence": 0.9998641014099121
+    },
+    {
+      "text": "Test Name : URINE ANALYSIS REPORT",
+      "bbox": null,
+      "confidence": 0.9721173644065857
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9970836043357849
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9999294281005859
+    },
+    {
+      "text": "Normal Value (MIN",
+      "bbox": null,
+      "confidence": 0.9630425572395325
+    },
+    {
+      "text": "Sr. No",
+      "bbox": null,
+      "confidence": 0.9982026219367981
+    },
+    {
+      "text": "Parameters",
+      "bbox": null,
+      "confidence": 0.9995962977409363
+    },
+    {
+      "text": "MAX)",
+      "bbox": null,
+      "confidence": 0.9916471838951111
+    },
+    {
+      "text": "ABSENT",
+      "bbox": null,
+      "confidence": 0.9978185296058655
+    },
+    {
+      "text": "5",
+      "bbox": null,
+      "confidence": 0.999818742275238
+    },
+    {
+      "text": "SUGAR",
+      "bbox": null,
+      "confidence": 0.9996196627616882
+    },
+    {
+      "text": "ABSENT",
+      "bbox": null,
+      "confidence": 0.9965599179267883
+    },
+    {
+      "text": "6",
+      "bbox": null,
+      "confidence": 0.9996349811553955
+    },
+    {
+      "text": "BILE SALTS",
+      "bbox": null,
+      "confidence": 0.9725316762924194
+    },
+    {
+      "text": "7",
+      "bbox": null,
+      "confidence": 0.9999712705612183
+    },
+    {
+      "text": "ABSENT",
+      "bbox": null,
+      "confidence": 0.996521532535553
+    },
+    {
+      "text": "BILE PIGMENTS",
+      "bbox": null,
+      "confidence": 0.9989112019538879
+    },
+    {
+      "text": "4-6",
+      "bbox": null,
+      "confidence": 0.9848098754882812
+    },
+    {
+      "text": "/hpf",
+      "bbox": null,
+      "confidence": 0.9953460693359375
+    },
+    {
+      "text": "2-3",
+      "bbox": null,
+      "confidence": 0.9787428379058838
+    },
+    {
+      "text": "8",
+      "bbox": null,
+      "confidence": 0.999958872795105
+    },
+    {
+      "text": "PUS CELLS",
+      "bbox": null,
+      "confidence": 0.9888734817504883
+    },
+    {
+      "text": "EPITHELIAL CELLS",
+      "bbox": null,
+      "confidence": 0.9754975438117981
+    },
+    {
+      "text": "1-2",
+      "bbox": null,
+      "confidence": 0.9871873259544373
+    },
+    {
+      "text": "/hpf",
+      "bbox": null,
+      "confidence": 0.9895443320274353
+    },
+    {
+      "text": "9",
+      "bbox": null,
+      "confidence": 0.9992631077766418
+    },
+    {
+      "text": "2-5",
+      "bbox": null,
+      "confidence": 0.9797437787055969
+    },
+    {
+      "text": "Test Name: VDRL",
+      "bbox": null,
+      "confidence": 0.9735161066055298
+    },
+    {
+      "text": "Sr. No",
+      "bbox": null,
+      "confidence": 0.9970689415931702
+    },
+    {
+      "text": "Parameters",
+      "bbox": null,
+      "confidence": 0.9996101260185242
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9346774220466614
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9999184608459473
+    },
+    {
+      "text": "Normal Value (MIN",
+      "bbox": null,
+      "confidence": 0.9948106408119202
+    },
+    {
+      "text": "MAX)",
+      "bbox": null,
+      "confidence": 0.9970251321792603
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.999752938747406
+    },
+    {
+      "text": "VDRL",
+      "bbox": null,
+      "confidence": 0.9873667359352112
+    },
+    {
+      "text": "NEGATIVE",
+      "bbox": null,
+      "confidence": 0.9998655319213867
+    },
+    {
+      "text": "Test Name : WIDAL TEST",
+      "bbox": null,
+      "confidence": 0.9331125617027283
+    },
+    {
+      "text": "Sr. No",
+      "bbox": null,
+      "confidence": 0.9844860434532166
+    },
+    {
+      "text": "Parameters",
+      "bbox": null,
+      "confidence": 0.9753413200378418
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9997544288635254
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9998669028282166
+    },
+    {
+      "text": "Normal Value (MIN-",
+      "bbox": null,
+      "confidence": 0.9710124135017395
+    },
+    {
+      "text": "MAX)",
+      "bbox": null,
+      "confidence": 0.9976844191551208
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.9998345375061035
+    },
+    {
+      "text": "WIDAL TEST",
+      "bbox": null,
+      "confidence": 0.9569212198257446
+    },
+    {
+      "text": "POSITIVE",
+      "bbox": null,
+      "confidence": 0.9997790455818176
+    },
+    {
+      "text": "Test Name : SERUM BILIRUBIN",
+      "bbox": null,
+      "confidence": 0.9655369520187378
+    },
+    {
+      "text": "Sr. No",
+      "bbox": null,
+      "confidence": 0.9928841590881348
+    },
+    {
+      "text": "Parameters",
+      "bbox": null,
+      "confidence": 0.9995272755622864
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9996852874755859
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.999896764755249
+    },
+    {
+      "text": "Normal Value (MIN",
+      "bbox": null,
+      "confidence": 0.9808049201965332
+    },
+    {
+      "text": "MAX)",
+      "bbox": null,
+      "confidence": 0.994491457939148
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.9997878670692444
+    },
+    {
+      "text": "S.BILIRUBIN TOTAL",
+      "bbox": null,
+      "confidence": 0.9986345767974854
+    },
+    {
+      "text": "0.18",
+      "bbox": null,
+      "confidence": 0.999548077583313
+    },
+    {
+      "text": "mg/dl",
+      "bbox": null,
+      "confidence": 0.9985355138778687
+    },
+    {
+      "text": "0.2-1",
+      "bbox": null,
+      "confidence": 0.9991635084152222
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.9999498128890991
+    },
+    {
+      "text": "S.BILIRUBIN DIRECT",
+      "bbox": null,
+      "confidence": 0.9994735717773438
+    },
+    {
+      "text": "0.12",
+      "bbox": null,
+      "confidence": 0.9994035959243774
+    },
+    {
+      "text": "mg/dl",
+      "bbox": null,
+      "confidence": 0.9980669021606445
+    },
+    {
+      "text": "0-0.2",
+      "bbox": null,
+      "confidence": 0.9981728792190552
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.9999004602432251
+    },
+    {
+      "text": "S.BILIRUBIN INDIRECT",
+      "bbox": null,
+      "confidence": 0.9745427370071411
+    },
+    {
+      "text": "0.06",
+      "bbox": null,
+      "confidence": 0.9997575283050537
+    },
+    {
+      "text": "mg/dl",
+      "bbox": null,
+      "confidence": 0.997223973274231
+    },
+    {
+      "text": "0-0.8",
+      "bbox": null,
+      "confidence": 0.9705107808113098
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.9998693466186523
+    },
+    {
+      "text": "SGPT(ALT)",
+      "bbox": null,
+      "confidence": 0.9976231455802917
+    },
+    {
+      "text": "24",
+      "bbox": null,
+      "confidence": 0.9999656081199646
+    },
+    {
+      "text": "IU/L",
+      "bbox": null,
+      "confidence": 0.9557791948318481
+    },
+    {
+      "text": "0-42",
+      "bbox": null,
+      "confidence": 0.9893369674682617
+    },
+    {
+      "text": "Recommendations:",
+      "bbox": null,
+      "confidence": 0.9995942115783691
+    },
+    {
+      "text": "1 Report is based on the Quality of Sample/s received",
+      "bbox": null,
+      "confidence": 0.9819766283035278
+    },
+    {
+      "text": "dependent on multiple variables",
+      "bbox": null,
+      "confidence": 0.97832852602005
+    }
+  ]
+}

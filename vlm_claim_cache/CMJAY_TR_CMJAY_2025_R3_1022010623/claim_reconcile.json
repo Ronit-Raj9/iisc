@@ -1,0 +1,28 @@
+{
+  "suggested_timeline_flags": [
+    "Post-date discrepancy: '24 Febu' is incomplete and requires clarification.",
+    "Pre-date present: '22-01-2023' is present.",
+    "Multiple discharge summaries: Review for consistency.",
+    "Multiple investigation reports: Review for consistency."
+  ],
+  "manual_review_notes": [
+    "Patient's name appears inconsistently across documents.",
+    "ICD coding is present in some clinical notes but not consistently.",
+    "Vitals charts show temperature fluctuations; review for clinical significance.",
+    "Feedback form present, assess for patient experience insights.",
+    "Multiple extra documents present; categorize and review content.",
+    "Discharge summary mentions 'Package Booked : Eulic Feuen:' - clarify this term."
+  ],
+  "duplicate_upload_groups": [
+    [
+      "000585__CMJAY_TR_CMJAY_2025_R3_1022010623__SUDHAN_DB.pdf",
+      "000591__CMJAY_TR_CMJAY_2025_R3_1022010623__SUDAM.pdf"
+    ]
+  ],
+  "evidence_alignment_notes": [
+    "Widal test results are present in multiple investigation reports; confirm consistency.",
+    "Temperature readings are present in multiple vitals charts; confirm consistency.",
+    "Patient age (60) is consistently reported across documents.",
+    "PMJAY ID and Case ID are consistently reported."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "text": "CR1\n8 15o\nRA\nTemp monstonng\n44\n6worly\n3\n9",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 41,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "CR1",
+      "bbox": null,
+      "confidence": 0.4561038911342621
+    },
+    {
+      "text": "8 15o",
+      "bbox": null,
+      "confidence": 0.4273355007171631
+    },
+    {
+      "text": "RA",
+      "bbox": null,
+      "confidence": 0.30384668707847595
+    },
+    {
+      "text": "Temp monstonng",
+      "bbox": null,
+      "confidence": 0.7670546174049377
+    },
+    {
+      "text": "44",
+      "bbox": null,
+      "confidence": 0.23901286721229553
+    },
+    {
+      "text": "6worly",
+      "bbox": null,
+      "confidence": 0.7507309317588806
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.5552256107330322
+    },
+    {
+      "text": "9",
+      "bbox": null,
+      "confidence": 0.223634734749794
+    }
+  ]
+}

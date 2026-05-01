@@ -1,0 +1,238 @@
+{
+  "text": "B\nNUITRADNENNN\nTEE-HAL01\nERNAOLN\n70WEA2/N\nELOTa\nIPNO\nDept./Unit\nAgas\nDO4111/03/2025 02-30 PM\nIPHO:1P/L51982\nHeldtond Blo\nor. Mame\nVUROWGBEM\nAOTEVPETHIVETIONG\nNVALLIATION/GUTCOME\npoor sutyational\nTo Porpoove\nAssess t palfeo\npatienthealh\nstatos pelated\npatien\ngeneral\nvoUp\n0nd 200 08\n0 300 oF\nfo\nma18\nDN 0\nto\nb60se:\nrion ao owidue\n91patieN\nare ononitonig end\nnealth stale\nbecouded\n0n ous.of geavato\nAU to orediation\nlafven s peo 0r\naudited\nDBF+8061-di\n+ORs -Oriven\nAN\n2pm18\no\nScanned with OkEN Scanni",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 498,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "B",
+      "bbox": null,
+      "confidence": 0.15842486917972565
+    },
+    {
+      "text": "NUITRADNENNN",
+      "bbox": null,
+      "confidence": 0.299290269613266
+    },
+    {
+      "text": "TEE-HAL01",
+      "bbox": null,
+      "confidence": 0.5398239493370056
+    },
+    {
+      "text": "ERNAOLN",
+      "bbox": null,
+      "confidence": 0.4318874180316925
+    },
+    {
+      "text": "70WEA2/N",
+      "bbox": null,
+      "confidence": 0.4941824674606323
+    },
+    {
+      "text": "ELOTa",
+      "bbox": null,
+      "confidence": 0.3999740481376648
+    },
+    {
+      "text": "IPNO",
+      "bbox": null,
+      "confidence": 0.8813567161560059
+    },
+    {
+      "text": "Dept./Unit",
+      "bbox": null,
+      "confidence": 0.8910505175590515
+    },
+    {
+      "text": "Agas",
+      "bbox": null,
+      "confidence": 0.6011273860931396
+    },
+    {
+      "text": "DO4111/03/2025 02-30 PM",
+      "bbox": null,
+      "confidence": 0.9104440808296204
+    },
+    {
+      "text": "IPHO:1P/L51982",
+      "bbox": null,
+      "confidence": 0.5953543782234192
+    },
+    {
+      "text": "Heldtond Blo",
+      "bbox": null,
+      "confidence": 0.5043118000030518
+    },
+    {
+      "text": "or. Mame",
+      "bbox": null,
+      "confidence": 0.5706799030303955
+    },
+    {
+      "text": "VUROWGBEM",
+      "bbox": null,
+      "confidence": 0.4449707567691803
+    },
+    {
+      "text": "AOTEVPETHIVETIONG",
+      "bbox": null,
+      "confidence": 0.4246898889541626
+    },
+    {
+      "text": "NVALLIATION/GUTCOME",
+      "bbox": null,
+      "confidence": 0.9286594390869141
+    },
+    {
+      "text": "poor sutyational",
+      "bbox": null,
+      "confidence": 0.7075755596160889
+    },
+    {
+      "text": "To Porpoove",
+      "bbox": null,
+      "confidence": 0.8433787822723389
+    },
+    {
+      "text": "Assess t palfeo",
+      "bbox": null,
+      "confidence": 0.7998354434967041
+    },
+    {
+      "text": "patienthealh",
+      "bbox": null,
+      "confidence": 0.9069402813911438
+    },
+    {
+      "text": "statos pelated",
+      "bbox": null,
+      "confidence": 0.8570432066917419
+    },
+    {
+      "text": "patien",
+      "bbox": null,
+      "confidence": 0.8512882590293884
+    },
+    {
+      "text": "general",
+      "bbox": null,
+      "confidence": 0.9424416422843933
+    },
+    {
+      "text": "voUp",
+      "bbox": null,
+      "confidence": 0.5864511132240295
+    },
+    {
+      "text": "0nd 200 08",
+      "bbox": null,
+      "confidence": 0.48245638608932495
+    },
+    {
+      "text": "0 300 oF",
+      "bbox": null,
+      "confidence": 0.6180203557014465
+    },
+    {
+      "text": "fo",
+      "bbox": null,
+      "confidence": 0.29865002632141113
+    },
+    {
+      "text": "ma18",
+      "bbox": null,
+      "confidence": 0.48350152373313904
+    },
+    {
+      "text": "DN 0",
+      "bbox": null,
+      "confidence": 0.37709471583366394
+    },
+    {
+      "text": "to",
+      "bbox": null,
+      "confidence": 0.7150622606277466
+    },
+    {
+      "text": "b60se:",
+      "bbox": null,
+      "confidence": 0.7340893149375916
+    },
+    {
+      "text": "rion ao owidue",
+      "bbox": null,
+      "confidence": 0.7222132682800293
+    },
+    {
+      "text": "91patieN",
+      "bbox": null,
+      "confidence": 0.7957640886306763
+    },
+    {
+      "text": "are ononitonig end",
+      "bbox": null,
+      "confidence": 0.6883019804954529
+    },
+    {
+      "text": "nealth stale",
+      "bbox": null,
+      "confidence": 0.8119971752166748
+    },
+    {
+      "text": "becouded",
+      "bbox": null,
+      "confidence": 0.8734977841377258
+    },
+    {
+      "text": "0n ous.of geavato",
+      "bbox": null,
+      "confidence": 0.6087118983268738
+    },
+    {
+      "text": "AU to orediation",
+      "bbox": null,
+      "confidence": 0.7174858450889587
+    },
+    {
+      "text": "lafven s peo 0r",
+      "bbox": null,
+      "confidence": 0.7515648007392883
+    },
+    {
+      "text": "audited",
+      "bbox": null,
+      "confidence": 0.7320999503135681
+    },
+    {
+      "text": "DBF+8061-di",
+      "bbox": null,
+      "confidence": 0.574281632900238
+    },
+    {
+      "text": "+ORs -Oriven",
+      "bbox": null,
+      "confidence": 0.8431200385093689
+    },
+    {
+      "text": "AN",
+      "bbox": null,
+      "confidence": 0.646265983581543
+    },
+    {
+      "text": "2pm18",
+      "bbox": null,
+      "confidence": 0.5863139629364014
+    },
+    {
+      "text": "o",
+      "bbox": null,
+      "confidence": 0.3036206364631653
+    },
+    {
+      "text": "Scanned with OkEN Scanni",
+      "bbox": null,
+      "confidence": 0.8792402148246765
+    }
+  ]
+}

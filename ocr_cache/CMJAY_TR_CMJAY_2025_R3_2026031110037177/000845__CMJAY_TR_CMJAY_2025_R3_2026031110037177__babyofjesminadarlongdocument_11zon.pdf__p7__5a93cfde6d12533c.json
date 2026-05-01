@@ -1,0 +1,118 @@
+{
+  "text": "COLLECTION\nFINALRE\nGRAM STAIN\nPRELIM REPORT\nSPECIMEN\nDATE\nURINE\nBLOOD\nSPUTUM\nOTHERS\nECHO\nLiSG\nSignatiate\nDule\nSignabure\nDato\nCTIMRI\nOTHERS\nSignature\nDate:\nDate :\nSignature",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 171,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "COLLECTION",
+      "bbox": null,
+      "confidence": 0.9726095199584961
+    },
+    {
+      "text": "FINALRE",
+      "bbox": null,
+      "confidence": 0.8156241774559021
+    },
+    {
+      "text": "GRAM STAIN",
+      "bbox": null,
+      "confidence": 0.8793185949325562
+    },
+    {
+      "text": "PRELIM REPORT",
+      "bbox": null,
+      "confidence": 0.999141275882721
+    },
+    {
+      "text": "SPECIMEN",
+      "bbox": null,
+      "confidence": 0.8939259648323059
+    },
+    {
+      "text": "DATE",
+      "bbox": null,
+      "confidence": 0.9807539582252502
+    },
+    {
+      "text": "URINE",
+      "bbox": null,
+      "confidence": 0.9758965373039246
+    },
+    {
+      "text": "BLOOD",
+      "bbox": null,
+      "confidence": 0.9585500955581665
+    },
+    {
+      "text": "SPUTUM",
+      "bbox": null,
+      "confidence": 0.991216242313385
+    },
+    {
+      "text": "OTHERS",
+      "bbox": null,
+      "confidence": 0.99955815076828
+    },
+    {
+      "text": "ECHO",
+      "bbox": null,
+      "confidence": 0.9549494385719299
+    },
+    {
+      "text": "LiSG",
+      "bbox": null,
+      "confidence": 0.6259113550186157
+    },
+    {
+      "text": "Signatiate",
+      "bbox": null,
+      "confidence": 0.8399211764335632
+    },
+    {
+      "text": "Dule",
+      "bbox": null,
+      "confidence": 0.6736687421798706
+    },
+    {
+      "text": "Signabure",
+      "bbox": null,
+      "confidence": 0.8404269218444824
+    },
+    {
+      "text": "Dato",
+      "bbox": null,
+      "confidence": 0.8532124161720276
+    },
+    {
+      "text": "CTIMRI",
+      "bbox": null,
+      "confidence": 0.8690183758735657
+    },
+    {
+      "text": "OTHERS",
+      "bbox": null,
+      "confidence": 0.9545812010765076
+    },
+    {
+      "text": "Signature",
+      "bbox": null,
+      "confidence": 0.9465177059173584
+    },
+    {
+      "text": "Date:",
+      "bbox": null,
+      "confidence": 0.95232093334198
+    },
+    {
+      "text": "Date :",
+      "bbox": null,
+      "confidence": 0.8905503153800964
+    },
+    {
+      "text": "Signature",
+      "bbox": null,
+      "confidence": 0.8997993469238281
+    }
+  ]
+}

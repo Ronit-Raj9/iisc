@@ -1,0 +1,83 @@
+{
+  "text": "Dear: Abdul Rehman Alauddin Shaikh\nBeneficiary ID: PSO2P0SKS\nPackage Code: [MG006A]\nHospital Name: Government Hospital Marwad Daman( HOSP25G00698 )- DAMAN\nHG YE/ABHINANDAN PATRA\nRR\nE\nWe are glad that you are returning home after recovering from illness. We hope that you are\nsatisfied with the free health services provided under Ayushman Bharat Pradhan Mantri Jan\nArogya Yojana.\nHT\nHSE TEHGH\nWe request you to share your experience in the form enclosed with this letter. Your feedback\nwill help us to improve the services being offered under the scheme.\n3\nWe also request you to share your experience with others and encourage them to get\ntheir Ayushman cards by visiting CSC or empanelled hospital.\n4R\nWe wish you and your family a happy & healthy life head.",
+  "embedded_text_chars": 154,
+  "ocr_text_chars": 605,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "HG YE/ABHINANDAN PATRA",
+      "bbox": null,
+      "confidence": 0.8575048446655273
+    },
+    {
+      "text": "RR",
+      "bbox": null,
+      "confidence": 0.5551796555519104
+    },
+    {
+      "text": "E",
+      "bbox": null,
+      "confidence": 0.574285089969635
+    },
+    {
+      "text": "We are glad that you are returning home after recovering from illness. We hope that you are",
+      "bbox": null,
+      "confidence": 0.9887073040008545
+    },
+    {
+      "text": "satisfied with the free health services provided under Ayushman Bharat Pradhan Mantri Jan",
+      "bbox": null,
+      "confidence": 0.9886150360107422
+    },
+    {
+      "text": "Arogya Yojana.",
+      "bbox": null,
+      "confidence": 0.9990242123603821
+    },
+    {
+      "text": "HT",
+      "bbox": null,
+      "confidence": 0.5526224970817566
+    },
+    {
+      "text": "HSE TEHGH",
+      "bbox": null,
+      "confidence": 0.5400108098983765
+    },
+    {
+      "text": "We request you to share your experience in the form enclosed with this letter. Your feedback",
+      "bbox": null,
+      "confidence": 0.973611056804657
+    },
+    {
+      "text": "will help us to improve the services being offered under the scheme.",
+      "bbox": null,
+      "confidence": 0.965813934803009
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.45023006200790405
+    },
+    {
+      "text": "We also request you to share your experience with others and encourage them to get",
+      "bbox": null,
+      "confidence": 0.9743038415908813
+    },
+    {
+      "text": "their Ayushman cards by visiting CSC or empanelled hospital.",
+      "bbox": null,
+      "confidence": 0.9936035871505737
+    },
+    {
+      "text": "4R",
+      "bbox": null,
+      "confidence": 0.517342209815979
+    },
+    {
+      "text": "We wish you and your family a happy & healthy life head.",
+      "bbox": null,
+      "confidence": 0.886857807636261
+    }
+  ]
+}

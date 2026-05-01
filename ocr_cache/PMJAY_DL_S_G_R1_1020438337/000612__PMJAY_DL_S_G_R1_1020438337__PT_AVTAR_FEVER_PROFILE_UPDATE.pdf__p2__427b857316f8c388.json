@@ -1,0 +1,233 @@
+{
+  "text": "PATIENT NAME\n••\nCOLLECTED\n: 22-01-2026 10:50PM\nAGE /GENDER\n: 58YRS/M\nRECEIVED\n: 22-01-2026 10:55PM\nREF. DOCTOR\n.•\nREPORTED\n: 23-01-2026 12:35AM\nUHID\n: 1767/UHIDHNO\nSTATUS\nIPD\n: FINAL REPORT\n: 165/IPD25HO\nCATEGORY\nDATE\n: ICU\n: 22-01-2026\nLAB SERIAL NO\n: COHO2072\nDEPARTMENT OF MICROBIOLOGY\nWIDAL AGLLUTINATION TEST\n(QUALITATIVE METHOD)\nInvestigations\nResult\nBio Ref Interval\nSalmonella typhi ,O Antigen (TO)\n1:320\n<1:160\nSalmonella typhi ,H Antigen (TH)\n1:320\n<1:160\nSalmonella paratyphi A, H\n1:320\n<1:160\nAntigen (AH)\nSalmonella paratyphi B H\n1:320\nAntigen (BH)\n<1:160\n(MD PATHOLOGIST)",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 585,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "PATIENT NAME",
+      "bbox": null,
+      "confidence": 0.9736332893371582
+    },
+    {
+      "text": "••",
+      "bbox": null,
+      "confidence": 0.5990579724311829
+    },
+    {
+      "text": "COLLECTED",
+      "bbox": null,
+      "confidence": 0.9998652338981628
+    },
+    {
+      "text": ": 22-01-2026 10:50PM",
+      "bbox": null,
+      "confidence": 0.9952095150947571
+    },
+    {
+      "text": "AGE /GENDER",
+      "bbox": null,
+      "confidence": 0.9779360294342041
+    },
+    {
+      "text": ": 58YRS/M",
+      "bbox": null,
+      "confidence": 0.9978522062301636
+    },
+    {
+      "text": "RECEIVED",
+      "bbox": null,
+      "confidence": 0.9995830059051514
+    },
+    {
+      "text": ": 22-01-2026 10:55PM",
+      "bbox": null,
+      "confidence": 0.98997563123703
+    },
+    {
+      "text": "REF. DOCTOR",
+      "bbox": null,
+      "confidence": 0.9900034070014954
+    },
+    {
+      "text": ".•",
+      "bbox": null,
+      "confidence": 0.6158753037452698
+    },
+    {
+      "text": "REPORTED",
+      "bbox": null,
+      "confidence": 0.9998824596405029
+    },
+    {
+      "text": ": 23-01-2026 12:35AM",
+      "bbox": null,
+      "confidence": 0.9841912984848022
+    },
+    {
+      "text": "UHID",
+      "bbox": null,
+      "confidence": 0.99974524974823
+    },
+    {
+      "text": ": 1767/UHIDHNO",
+      "bbox": null,
+      "confidence": 0.9884601831436157
+    },
+    {
+      "text": "STATUS",
+      "bbox": null,
+      "confidence": 0.9998493194580078
+    },
+    {
+      "text": "IPD",
+      "bbox": null,
+      "confidence": 0.9999212622642517
+    },
+    {
+      "text": ": FINAL REPORT",
+      "bbox": null,
+      "confidence": 0.9690870046615601
+    },
+    {
+      "text": ": 165/IPD25HO",
+      "bbox": null,
+      "confidence": 0.964133620262146
+    },
+    {
+      "text": "CATEGORY",
+      "bbox": null,
+      "confidence": 0.9999104738235474
+    },
+    {
+      "text": "DATE",
+      "bbox": null,
+      "confidence": 0.999748170375824
+    },
+    {
+      "text": ": ICU",
+      "bbox": null,
+      "confidence": 0.9891519546508789
+    },
+    {
+      "text": ": 22-01-2026",
+      "bbox": null,
+      "confidence": 0.975475013256073
+    },
+    {
+      "text": "LAB SERIAL NO",
+      "bbox": null,
+      "confidence": 0.9729734659194946
+    },
+    {
+      "text": ": COHO2072",
+      "bbox": null,
+      "confidence": 0.9555865526199341
+    },
+    {
+      "text": "DEPARTMENT OF MICROBIOLOGY",
+      "bbox": null,
+      "confidence": 0.9861719608306885
+    },
+    {
+      "text": "WIDAL AGLLUTINATION TEST",
+      "bbox": null,
+      "confidence": 0.9850175976753235
+    },
+    {
+      "text": "(QUALITATIVE METHOD)",
+      "bbox": null,
+      "confidence": 0.9991472363471985
+    },
+    {
+      "text": "Investigations",
+      "bbox": null,
+      "confidence": 0.9999731779098511
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9999596476554871
+    },
+    {
+      "text": "Bio Ref Interval",
+      "bbox": null,
+      "confidence": 0.9892297983169556
+    },
+    {
+      "text": "Salmonella typhi ,O Antigen (TO)",
+      "bbox": null,
+      "confidence": 0.9761644005775452
+    },
+    {
+      "text": "1:320",
+      "bbox": null,
+      "confidence": 0.9999395608901978
+    },
+    {
+      "text": "<1:160",
+      "bbox": null,
+      "confidence": 0.999862015247345
+    },
+    {
+      "text": "Salmonella typhi ,H Antigen (TH)",
+      "bbox": null,
+      "confidence": 0.9995659589767456
+    },
+    {
+      "text": "1:320",
+      "bbox": null,
+      "confidence": 0.9999407529830933
+    },
+    {
+      "text": "<1:160",
+      "bbox": null,
+      "confidence": 0.9998958706855774
+    },
+    {
+      "text": "Salmonella paratyphi A, H",
+      "bbox": null,
+      "confidence": 0.9809148907661438
+    },
+    {
+      "text": "1:320",
+      "bbox": null,
+      "confidence": 0.9999017715454102
+    },
+    {
+      "text": "<1:160",
+      "bbox": null,
+      "confidence": 0.9998738169670105
+    },
+    {
+      "text": "Antigen (AH)",
+      "bbox": null,
+      "confidence": 0.9947265982627869
+    },
+    {
+      "text": "Salmonella paratyphi B H",
+      "bbox": null,
+      "confidence": 0.9945972561836243
+    },
+    {
+      "text": "1:320",
+      "bbox": null,
+      "confidence": 0.9998890161514282
+    },
+    {
+      "text": "Antigen (BH)",
+      "bbox": null,
+      "confidence": 0.9998729228973389
+    },
+    {
+      "text": "<1:160",
+      "bbox": null,
+      "confidence": 0.9998815655708313
+    },
+    {
+      "text": "(MD PATHOLOGIST)",
+      "bbox": null,
+      "confidence": 0.9745209813117981
+    }
+  ]
+}

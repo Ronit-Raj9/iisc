@@ -1,0 +1,41 @@
+# ── Core PDF/Image rendering ──────────────────────────────────────────────────
+pymupdf>=1.24          # PDF rendering (fitz) — pip-installable, no Poppler needed
+pillow>=10             # Image loading / manipulation
+
+# ── Computer Vision / Preprocessing ──────────────────────────────────────────
+# Newer OpenCV wheels in this environment require NumPy 2.x, which conflicts
+# with the rest of the scientific stack used on common notebook images.
+opencv-python-headless>=4.9,<4.13   # Deskew, border crop, contrast normalization
+
+# ── OCR ───────────────────────────────────────────────────────────────────────
+# Paddle 3.3.0+ can throw oneDNN+PIR errors on CPU OCR (Paddle #77340). Stay on 3.2.x.
+paddlepaddle>=3.2.0,<3.3
+paddleocr>=2.9.0       # OCR: angle correction, table extraction, multilingual
+
+# ── Barcode / QR detection ────────────────────────────────────────────────────
+zxing-cpp>=2.2.0       # QR / 1D barcode decode — pip wheel, no system zbar needed
+
+# ── Data / Matching ───────────────────────────────────────────────────────────
+# Keep NumPy on the 1.x ABI so it stays compatible with the common scientific
+# stack already present in the base environment (numba, contourpy, gensim).
+numpy>=1.26,<2.0
+pandas>=2.0
+rapidfuzz>=3.6         # Fuzzy string matching for lab labels / doc types
+python-dateutil>=2.8   # Date parsing
+regex>=2023.0          # Extended regex for clinical field extraction
+
+# ── Structured output / Validation ───────────────────────────────────────────
+pydantic>=2.6
+json-repair>=0.25      # Recover malformed JSON from LLM responses
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+tqdm>=4.66
+python-dotenv>=1.0   # Load OPENROUTER_API_KEY from repo-root .env (Jupyter-safe)
+huggingface_hub>=0.23  # Model downloads (if using offline HF models)
+
+# ── Compatibility constraints for shared environments ─────────────────────────
+# These are not imported by this repo directly, but capping them prevents pip
+# from upgrading shared-site packages into versions that break preinstalled
+# tooling in notebook/base images.
+scipy>=1.7,<1.14
+pyarrow>=15,<20

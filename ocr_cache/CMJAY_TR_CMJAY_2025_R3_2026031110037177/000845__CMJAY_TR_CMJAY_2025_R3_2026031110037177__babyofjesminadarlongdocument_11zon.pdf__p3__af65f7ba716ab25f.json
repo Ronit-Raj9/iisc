@@ -1,0 +1,83 @@
+{
+  "text": "DISCHARGE SUMNIARY\nArTer\nIhem\nATH\n00070M\ntht ai\nJheot\nMEMMAM\nTASOERANPRAY CROAY)\nTindhruidaer\nANCUIEOT\nN\nhnlofoveinlagy kintSlpaaure\nM\nHope1us",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 142,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "DISCHARGE SUMNIARY",
+      "bbox": null,
+      "confidence": 0.9497033357620239
+    },
+    {
+      "text": "ArTer",
+      "bbox": null,
+      "confidence": 0.7469589114189148
+    },
+    {
+      "text": "Ihem",
+      "bbox": null,
+      "confidence": 0.44269147515296936
+    },
+    {
+      "text": "ATH",
+      "bbox": null,
+      "confidence": 0.6558773517608643
+    },
+    {
+      "text": "00070M",
+      "bbox": null,
+      "confidence": 0.3910379707813263
+    },
+    {
+      "text": "tht ai",
+      "bbox": null,
+      "confidence": 0.45363011956214905
+    },
+    {
+      "text": "Jheot",
+      "bbox": null,
+      "confidence": 0.39348936080932617
+    },
+    {
+      "text": "MEMMAM",
+      "bbox": null,
+      "confidence": 0.407085657119751
+    },
+    {
+      "text": "TASOERANPRAY CROAY)",
+      "bbox": null,
+      "confidence": 0.7080097198486328
+    },
+    {
+      "text": "Tindhruidaer",
+      "bbox": null,
+      "confidence": 0.6755594611167908
+    },
+    {
+      "text": "ANCUIEOT",
+      "bbox": null,
+      "confidence": 0.5066273212432861
+    },
+    {
+      "text": "N",
+      "bbox": null,
+      "confidence": 0.787824273109436
+    },
+    {
+      "text": "hnlofoveinlagy kintSlpaaure",
+      "bbox": null,
+      "confidence": 0.4525531232357025
+    },
+    {
+      "text": "M",
+      "bbox": null,
+      "confidence": 0.39863473176956177
+    },
+    {
+      "text": "Hope1us",
+      "bbox": null,
+      "confidence": 0.568771481513977
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "text": "Agn/Clandes\n0-45574\n2  OM gy faal\nCuse No\n:LA82/00\n:010\nEase Plate\n11/01/2026 06198\nSample Tuk\n122/01/202 0t05 AM\nRaput Dute\n212012001 0.04 4\nURUNE EXAMINATION TEST\nSCALEXANINATION\nPALEYELOW\nCLDUR\nUFEARANCE\n#PUGHTLY.MEY\n4\n20\nPOOT\nPRESENT\nRemice piammatios\nPOORC GRONITY\ntNs\nPUTON LL\nJILL\nquioone\nNL\nBLEMAT\nSARSENT\nHLEPIOMGNT\nKERONE\nWB8ENT\neuone\nABBEHT\nHUISAT\nWREENT\nTCNOSCOPICEXAMINATION\nPitlcall\nSPe\nCs\n144\nFHELAOULCS\n2OHF\nDOST\nANDENT",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 435,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Agn/Clandes",
+      "bbox": null,
+      "confidence": 0.6041771173477173
+    },
+    {
+      "text": "0-45574",
+      "bbox": null,
+      "confidence": 0.4984714090824127
+    },
+    {
+      "text": "2  OM gy faal",
+      "bbox": null,
+      "confidence": 0.49098700284957886
+    },
+    {
+      "text": "Cuse No",
+      "bbox": null,
+      "confidence": 0.797236442565918
+    },
+    {
+      "text": ":LA82/00",
+      "bbox": null,
+      "confidence": 0.4319645166397095
+    },
+    {
+      "text": ":010",
+      "bbox": null,
+      "confidence": 0.8876179456710815
+    },
+    {
+      "text": "Ease Plate",
+      "bbox": null,
+      "confidence": 0.7255188226699829
+    },
+    {
+      "text": "11/01/2026 06198",
+      "bbox": null,
+      "confidence": 0.8231042623519897
+    },
+    {
+      "text": "Sample Tuk",
+      "bbox": null,
+      "confidence": 0.7589923143386841
+    },
+    {
+      "text": "122/01/202 0t05 AM",
+      "bbox": null,
+      "confidence": 0.5773516893386841
+    },
+    {
+      "text": "Raput Dute",
+      "bbox": null,
+      "confidence": 0.8472591638565063
+    },
+    {
+      "text": "212012001 0.04 4",
+      "bbox": null,
+      "confidence": 0.5040532946586609
+    },
+    {
+      "text": "URUNE EXAMINATION TEST",
+      "bbox": null,
+      "confidence": 0.9153851866722107
+    },
+    {
+      "text": "SCALEXANINATION",
+      "bbox": null,
+      "confidence": 0.8520039319992065
+    },
+    {
+      "text": "PALEYELOW",
+      "bbox": null,
+      "confidence": 0.9424724578857422
+    },
+    {
+      "text": "CLDUR",
+      "bbox": null,
+      "confidence": 0.7141547799110413
+    },
+    {
+      "text": "UFEARANCE",
+      "bbox": null,
+      "confidence": 0.798054575920105
+    },
+    {
+      "text": "#PUGHTLY.MEY",
+      "bbox": null,
+      "confidence": 0.8235850930213928
+    },
+    {
+      "text": "4",
+      "bbox": null,
+      "confidence": 0.39485281705856323
+    },
+    {
+      "text": "20",
+      "bbox": null,
+      "confidence": 0.40295329689979553
+    },
+    {
+      "text": "POOT",
+      "bbox": null,
+      "confidence": 0.5481649041175842
+    },
+    {
+      "text": "PRESENT",
+      "bbox": null,
+      "confidence": 0.9759354591369629
+    },
+    {
+      "text": "Remice piammatios",
+      "bbox": null,
+      "confidence": 0.6739979386329651
+    },
+    {
+      "text": "POORC GRONITY",
+      "bbox": null,
+      "confidence": 0.7646785378456116
+    },
+    {
+      "text": "tNs",
+      "bbox": null,
+      "confidence": 0.4564312994480133
+    },
+    {
+      "text": "PUTON LL",
+      "bbox": null,
+      "confidence": 0.40023815631866455
+    },
+    {
+      "text": "JILL",
+      "bbox": null,
+      "confidence": 0.43946608901023865
+    },
+    {
+      "text": "quioone",
+      "bbox": null,
+      "confidence": 0.46699708700180054
+    },
+    {
+      "text": "NL",
+      "bbox": null,
+      "confidence": 0.613046407699585
+    },
+    {
+      "text": "BLEMAT",
+      "bbox": null,
+      "confidence": 0.6699517369270325
+    },
+    {
+      "text": "SARSENT",
+      "bbox": null,
+      "confidence": 0.8253077864646912
+    },
+    {
+      "text": "HLEPIOMGNT",
+      "bbox": null,
+      "confidence": 0.8098150491714478
+    },
+    {
+      "text": "KERONE",
+      "bbox": null,
+      "confidence": 0.8660151362419128
+    },
+    {
+      "text": "WB8ENT",
+      "bbox": null,
+      "confidence": 0.41020432114601135
+    },
+    {
+      "text": "euone",
+      "bbox": null,
+      "confidence": 0.5871877670288086
+    },
+    {
+      "text": "ABBEHT",
+      "bbox": null,
+      "confidence": 0.7634563446044922
+    },
+    {
+      "text": "HUISAT",
+      "bbox": null,
+      "confidence": 0.6575151085853577
+    },
+    {
+      "text": "WREENT",
+      "bbox": null,
+      "confidence": 0.69847172498703
+    },
+    {
+      "text": "TCNOSCOPICEXAMINATION",
+      "bbox": null,
+      "confidence": 0.8533170819282532
+    },
+    {
+      "text": "Pitlcall",
+      "bbox": null,
+      "confidence": 0.5203790664672852
+    },
+    {
+      "text": "SPe",
+      "bbox": null,
+      "confidence": 0.40695738792419434
+    },
+    {
+      "text": "Cs",
+      "bbox": null,
+      "confidence": 0.6924681663513184
+    },
+    {
+      "text": "144",
+      "bbox": null,
+      "confidence": 0.6001891493797302
+    },
+    {
+      "text": "FHELAOULCS",
+      "bbox": null,
+      "confidence": 0.5802630186080933
+    },
+    {
+      "text": "2OHF",
+      "bbox": null,
+      "confidence": 0.5119062662124634
+    },
+    {
+      "text": "DOST",
+      "bbox": null,
+      "confidence": 0.49231886863708496
+    },
+    {
+      "text": "ANDENT",
+      "bbox": null,
+      "confidence": 0.7048643231391907
+    }
+  ]
+}

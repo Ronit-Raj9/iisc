@@ -1,0 +1,273 @@
+{
+  "text": "Visit ID\n: RC124395\nRegistration\n: 24/30n/2026 12:49PM\nUHID/MR NO\n: RC1.0000021604\nCollected\n: 24/Jan/2026 12:50PM\nReceived\n: 24/Jan/2026 12:50PM\nAge/Gender\n:58Y0M0D/M\nReparted\n: 24/Jan/2026 01:53PM\nRef Decter\n83\nStatus\n: Final Report\nClent Name\nCllent Code\n:320\nClient Add\nI\n8\nBarcode No\n: 10082636\nDEPARTMENT OF HAEMATOLOGY\nBlo. Ref. Range\nMethod\nTest Name\nResult\nUnit\nERYTHROCYTE SEDIMENTATION RATE\nample Type: WHOLE BLOOD EDTA\nERYTHROCYTE SEDIMENTATION RATE\nmm/hr\n<12 mr/hr\n68\nWestergren\nCOMMENTS: EsR is an acute phase reactent that Indlicates the presence and Intensity of an Inflammatory\nrecess. It is never dliagnustic of a specific disease. It is used to monitor the course or response to trestment of\nerta-n disesses. Extremely high levels are found in cases of mallgnency, hematologic diseases, cailagen\nisorders, and renal diseases.  Increased Ievels may Indicate: Chronic renal fallure (e.., nephritis, nephrasis).\nnalignant drseases (e.g, multiple myeloma, Hodgkin disease, advanced Carcinamas)., bacterial Infectians (e-g.\nDdominal snfectiens. acute pelvic inflammatory disease, syphills, pneumonia), Inflammatory disesses (e.g.\nmporal arteritis, polymyalgia rheumatic, rheumatoid erthritis, rheumatic fever, systemic lupus erythematosus\nSLE]), necrotic diseases (e.g, acute myocerdlel Infarction, necrutic tumar, gangrene af an extremity), diseases\nssociated with increased proteins (e.g., hyperfibrinogenemia, mecraglobulinemia), and severe enemias (e-g., Iran\nefuciency or B12 deficiency).\naisely decreased tevels may indicate Sickle cell anemie, spherocytosis, hypofibrinogenemla, ar polycythemin vera.\nM885,DCP\nConsuhtart Pathaloglst\nPage 3 of 3",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 1665,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Visit ID",
+      "bbox": null,
+      "confidence": 0.9754064083099365
+    },
+    {
+      "text": ": RC124395",
+      "bbox": null,
+      "confidence": 0.9403063058853149
+    },
+    {
+      "text": "Registration",
+      "bbox": null,
+      "confidence": 0.996876060962677
+    },
+    {
+      "text": ": 24/30n/2026 12:49PM",
+      "bbox": null,
+      "confidence": 0.9205561280250549
+    },
+    {
+      "text": "UHID/MR NO",
+      "bbox": null,
+      "confidence": 0.959132969379425
+    },
+    {
+      "text": ": RC1.0000021604",
+      "bbox": null,
+      "confidence": 0.9437437057495117
+    },
+    {
+      "text": "Collected",
+      "bbox": null,
+      "confidence": 0.9996691942214966
+    },
+    {
+      "text": ": 24/Jan/2026 12:50PM",
+      "bbox": null,
+      "confidence": 0.9327141046524048
+    },
+    {
+      "text": "Received",
+      "bbox": null,
+      "confidence": 0.9509041905403137
+    },
+    {
+      "text": ": 24/Jan/2026 12:50PM",
+      "bbox": null,
+      "confidence": 0.9756468534469604
+    },
+    {
+      "text": "Age/Gender",
+      "bbox": null,
+      "confidence": 0.9977162480354309
+    },
+    {
+      "text": ":58Y0M0D/M",
+      "bbox": null,
+      "confidence": 0.9672336578369141
+    },
+    {
+      "text": "Reparted",
+      "bbox": null,
+      "confidence": 0.9955891370773315
+    },
+    {
+      "text": ": 24/Jan/2026 01:53PM",
+      "bbox": null,
+      "confidence": 0.96038818359375
+    },
+    {
+      "text": "Ref Decter",
+      "bbox": null,
+      "confidence": 0.9248661994934082
+    },
+    {
+      "text": "83",
+      "bbox": null,
+      "confidence": 0.22702142596244812
+    },
+    {
+      "text": "Status",
+      "bbox": null,
+      "confidence": 0.9996077418327332
+    },
+    {
+      "text": ": Final Report",
+      "bbox": null,
+      "confidence": 0.9957881569862366
+    },
+    {
+      "text": "Clent Name",
+      "bbox": null,
+      "confidence": 0.9514659643173218
+    },
+    {
+      "text": "Cllent Code",
+      "bbox": null,
+      "confidence": 0.9827594757080078
+    },
+    {
+      "text": ":320",
+      "bbox": null,
+      "confidence": 0.934084415435791
+    },
+    {
+      "text": "Client Add",
+      "bbox": null,
+      "confidence": 0.9270585775375366
+    },
+    {
+      "text": "I",
+      "bbox": null,
+      "confidence": 0.45849180221557617
+    },
+    {
+      "text": "8",
+      "bbox": null,
+      "confidence": 0.21555431187152863
+    },
+    {
+      "text": "Barcode No",
+      "bbox": null,
+      "confidence": 0.9750642776489258
+    },
+    {
+      "text": ": 10082636",
+      "bbox": null,
+      "confidence": 0.9766775369644165
+    },
+    {
+      "text": "DEPARTMENT OF HAEMATOLOGY",
+      "bbox": null,
+      "confidence": 0.9976133108139038
+    },
+    {
+      "text": "Blo. Ref. Range",
+      "bbox": null,
+      "confidence": 0.9742477536201477
+    },
+    {
+      "text": "Method",
+      "bbox": null,
+      "confidence": 0.9970524907112122
+    },
+    {
+      "text": "Test Name",
+      "bbox": null,
+      "confidence": 0.9986889362335205
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9932094216346741
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9470160007476807
+    },
+    {
+      "text": "ERYTHROCYTE SEDIMENTATION RATE",
+      "bbox": null,
+      "confidence": 0.9824008941650391
+    },
+    {
+      "text": "ample Type: WHOLE BLOOD EDTA",
+      "bbox": null,
+      "confidence": 0.9441252946853638
+    },
+    {
+      "text": "ERYTHROCYTE SEDIMENTATION RATE",
+      "bbox": null,
+      "confidence": 0.9826710820198059
+    },
+    {
+      "text": "mm/hr",
+      "bbox": null,
+      "confidence": 0.9965411424636841
+    },
+    {
+      "text": "<12 mr/hr",
+      "bbox": null,
+      "confidence": 0.8865963220596313
+    },
+    {
+      "text": "68",
+      "bbox": null,
+      "confidence": 0.9995416402816772
+    },
+    {
+      "text": "Westergren",
+      "bbox": null,
+      "confidence": 0.9830185174942017
+    },
+    {
+      "text": "COMMENTS: EsR is an acute phase reactent that Indlicates the presence and Intensity of an Inflammatory",
+      "bbox": null,
+      "confidence": 0.96992027759552
+    },
+    {
+      "text": "recess. It is never dliagnustic of a specific disease. It is used to monitor the course or response to trestment of",
+      "bbox": null,
+      "confidence": 0.9562687873840332
+    },
+    {
+      "text": "erta-n disesses. Extremely high levels are found in cases of mallgnency, hematologic diseases, cailagen",
+      "bbox": null,
+      "confidence": 0.9442336559295654
+    },
+    {
+      "text": "isorders, and renal diseases.  Increased Ievels may Indicate: Chronic renal fallure (e.., nephritis, nephrasis).",
+      "bbox": null,
+      "confidence": 0.9207118153572083
+    },
+    {
+      "text": "nalignant drseases (e.g, multiple myeloma, Hodgkin disease, advanced Carcinamas)., bacterial Infectians (e-g.",
+      "bbox": null,
+      "confidence": 0.9220316410064697
+    },
+    {
+      "text": "Ddominal snfectiens. acute pelvic inflammatory disease, syphills, pneumonia), Inflammatory disesses (e.g.",
+      "bbox": null,
+      "confidence": 0.911905825138092
+    },
+    {
+      "text": "mporal arteritis, polymyalgia rheumatic, rheumatoid erthritis, rheumatic fever, systemic lupus erythematosus",
+      "bbox": null,
+      "confidence": 0.9015213251113892
+    },
+    {
+      "text": "SLE]), necrotic diseases (e.g, acute myocerdlel Infarction, necrutic tumar, gangrene af an extremity), diseases",
+      "bbox": null,
+      "confidence": 0.9471903443336487
+    },
+    {
+      "text": "ssociated with increased proteins (e.g., hyperfibrinogenemia, mecraglobulinemia), and severe enemias (e-g., Iran",
+      "bbox": null,
+      "confidence": 0.9344559907913208
+    },
+    {
+      "text": "efuciency or B12 deficiency).",
+      "bbox": null,
+      "confidence": 0.9398646950721741
+    },
+    {
+      "text": "aisely decreased tevels may indicate Sickle cell anemie, spherocytosis, hypofibrinogenemla, ar polycythemin vera.",
+      "bbox": null,
+      "confidence": 0.9498277306556702
+    },
+    {
+      "text": "M885,DCP",
+      "bbox": null,
+      "confidence": 0.8583953380584717
+    },
+    {
+      "text": "Consuhtart Pathaloglst",
+      "bbox": null,
+      "confidence": 0.8625314831733704
+    },
+    {
+      "text": "Page 3 of 3",
+      "bbox": null,
+      "confidence": 0.7436209321022034
+    }
+  ]
+}

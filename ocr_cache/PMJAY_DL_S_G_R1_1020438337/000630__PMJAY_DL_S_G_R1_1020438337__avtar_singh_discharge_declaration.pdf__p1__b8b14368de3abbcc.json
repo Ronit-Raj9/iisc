@@ -1,0 +1,58 @@
+{
+  "text": "DECLARATION\ndo hereby solemnly affirm and declare under: -\nThat I am the Medical Superintendent in charge of\nsituated at\n2.That we have submitted necessary documents, and\nis fit for Discharge\nThat all the information provided by me in the portal is correct.\nDate29-0/-26\nSignature with Stamp\n0",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 293,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "DECLARATION",
+      "bbox": null,
+      "confidence": 0.9998701214790344
+    },
+    {
+      "text": "do hereby solemnly affirm and declare under: -",
+      "bbox": null,
+      "confidence": 0.9844224452972412
+    },
+    {
+      "text": "That I am the Medical Superintendent in charge of",
+      "bbox": null,
+      "confidence": 0.9520772099494934
+    },
+    {
+      "text": "situated at",
+      "bbox": null,
+      "confidence": 0.9950900673866272
+    },
+    {
+      "text": "2.That we have submitted necessary documents, and",
+      "bbox": null,
+      "confidence": 0.9778595566749573
+    },
+    {
+      "text": "is fit for Discharge",
+      "bbox": null,
+      "confidence": 0.9918023347854614
+    },
+    {
+      "text": "That all the information provided by me in the portal is correct.",
+      "bbox": null,
+      "confidence": 0.9927480816841125
+    },
+    {
+      "text": "Date29-0/-26",
+      "bbox": null,
+      "confidence": 0.9056148529052734
+    },
+    {
+      "text": "Signature with Stamp",
+      "bbox": null,
+      "confidence": 0.9870651364326477
+    },
+    {
+      "text": "0",
+      "bbox": null,
+      "confidence": 0.4461292326450348
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Optional: local Gemma 3 on GPU (Colab Pro / H100). Install in the same env as the notebook.
+# pip install -r requirements-gemma-local.txt
+torch>=2.4.0
+transformers>=4.50.0
+accelerate>=0.34.0
+safetensors>=0.4.0
+sentencepiece>=0.2.0

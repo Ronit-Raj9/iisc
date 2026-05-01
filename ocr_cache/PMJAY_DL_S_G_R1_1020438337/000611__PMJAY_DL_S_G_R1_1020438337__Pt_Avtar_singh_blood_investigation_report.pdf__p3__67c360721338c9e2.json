@@ -1,0 +1,533 @@
+{
+  "text": "Visit 10\n:RC124354\nUHID/MR NO\nRegistration\n23/3an/2026 03:DEPM\nRC1.0000021563\nPatient Name\nCallected\n:23/3an/2026 03:09PM\nAge'Gender\n:\nReceived\n: 23/3an/2026 03 13PM\n:58Y0M0D/M\nRef Doctor\nReported\n:23/3an/2026 05.01PM\nStatus\nClient Neme\n: Final Report\n:\nClient Code\n:320\nClrent Add\nBarcode No\n: 10082595\nDEPARTMENT OF BIOCHEMISTRY\nTest Name\nResult\nUnit\nBlo. Ref. Range\nMethod\nEXTENDED KIDNEY FUNCTION TEST\nSample Type: SERUM\nSERUM UREA\n20.2\nmg/di\n16:8-43.2\nUrease GLOH\nSERUM CREATININE\n0.80\nmg/al\n0.8-1.3\nJaffe\nSERUM URIC ACID\n4.70\nmg/dl\n3.6-8.2\nURICASE\nBlood Urea Nitrogen (BUn)\n9.62\nmg/d\n5-25\nCalculated\nTOTAL PROTEINS\n6.50\ngm/dl\n6.6-8.3\nBiuret\nALBUMIN\n3.50\ngmy/dt\n3.5-5.3\nBCG\nGLOBULIN\n3\nem/di\n2.0-4.1\nCalculated\n©\nA/G RATIO\n1.17\n1.0-2.0\nCalculated\nSERUM SODIUM\n138.0\nmmol/t\n133-147\nISE\nSERUM POTASSILM\n4.30\nmmol/\n3.50-5.20\nISE\nSERUM CALCIUM\n9.0\nmg/dt\n8.6-10.3\nArsenazo III\nUrea is the end product of protein catabolism and Urea undergoes filtrations at the glomerulus as well as\nsecretion and re absorption at the tubular level. But the level may also be affected by dict as well as certain\nnon kidincy related disorders.\nBlood Ures Nitrogen can be easily calculated from the serum urea level and the serum urea levels can be\ncome to BUN by mulplin t by0..Cratin s altpeptie fd in heu\nis simply used as a marker of renal function. Serum creatinine is a beter indicator of renal function and\nmore specifically glomerular function than urea, Creatinine is filtered at the glomerulus and its reabsorption\nat the tubular level is insignificant. Becatse of this creatinine clearance can be used to meausure Glomerular\nFiltration Rate (GFR).\nUric ucid leve's are typically 3.5-7.2 milligrams per deciliter (mg/dL) in males and 2.6-6.0 mg/dL in\nfenales. Low levels are rare, but high levels can lead to gout, kidncy disease, and other health issues.\nSodium is the moin detenminant of plasma osmotality, and serum levels ure closely related to hydration\n(volurie) status. Potassium is stored almost entirely intracellutarly and is exereted by the kidneys.\nMBBS.DCP\nConsutant Patheloist\nPage 1 of",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 2090,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Visit 10",
+      "bbox": null,
+      "confidence": 0.9523539543151855
+    },
+    {
+      "text": ":RC124354",
+      "bbox": null,
+      "confidence": 0.9518213272094727
+    },
+    {
+      "text": "UHID/MR NO",
+      "bbox": null,
+      "confidence": 0.7915570735931396
+    },
+    {
+      "text": "Registration",
+      "bbox": null,
+      "confidence": 0.9979729652404785
+    },
+    {
+      "text": "23/3an/2026 03:DEPM",
+      "bbox": null,
+      "confidence": 0.9065160155296326
+    },
+    {
+      "text": "RC1.0000021563",
+      "bbox": null,
+      "confidence": 0.9398987889289856
+    },
+    {
+      "text": "Patient Name",
+      "bbox": null,
+      "confidence": 0.9991711974143982
+    },
+    {
+      "text": "Callected",
+      "bbox": null,
+      "confidence": 0.9784201383590698
+    },
+    {
+      "text": ":23/3an/2026 03:09PM",
+      "bbox": null,
+      "confidence": 0.953341007232666
+    },
+    {
+      "text": "Age'Gender",
+      "bbox": null,
+      "confidence": 0.9582173228263855
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.14579637348651886
+    },
+    {
+      "text": "Received",
+      "bbox": null,
+      "confidence": 0.9936053156852722
+    },
+    {
+      "text": ": 23/3an/2026 03 13PM",
+      "bbox": null,
+      "confidence": 0.9621272087097168
+    },
+    {
+      "text": ":58Y0M0D/M",
+      "bbox": null,
+      "confidence": 0.9592978358268738
+    },
+    {
+      "text": "Ref Doctor",
+      "bbox": null,
+      "confidence": 0.9552253484725952
+    },
+    {
+      "text": "Reported",
+      "bbox": null,
+      "confidence": 0.9976544976234436
+    },
+    {
+      "text": ":23/3an/2026 05.01PM",
+      "bbox": null,
+      "confidence": 0.9703396558761597
+    },
+    {
+      "text": "Status",
+      "bbox": null,
+      "confidence": 0.9989702105522156
+    },
+    {
+      "text": "Client Neme",
+      "bbox": null,
+      "confidence": 0.9239753484725952
+    },
+    {
+      "text": ": Final Report",
+      "bbox": null,
+      "confidence": 0.9440507292747498
+    },
+    {
+      "text": ":",
+      "bbox": null,
+      "confidence": 0.8715759515762329
+    },
+    {
+      "text": "Client Code",
+      "bbox": null,
+      "confidence": 0.9563412070274353
+    },
+    {
+      "text": ":320",
+      "bbox": null,
+      "confidence": 0.9276758432388306
+    },
+    {
+      "text": "Clrent Add",
+      "bbox": null,
+      "confidence": 0.9606634974479675
+    },
+    {
+      "text": "Barcode No",
+      "bbox": null,
+      "confidence": 0.9526612162590027
+    },
+    {
+      "text": ": 10082595",
+      "bbox": null,
+      "confidence": 0.9742063283920288
+    },
+    {
+      "text": "DEPARTMENT OF BIOCHEMISTRY",
+      "bbox": null,
+      "confidence": 0.9953844547271729
+    },
+    {
+      "text": "Test Name",
+      "bbox": null,
+      "confidence": 0.9953950047492981
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9974969029426575
+    },
+    {
+      "text": "Unit",
+      "bbox": null,
+      "confidence": 0.9974721670150757
+    },
+    {
+      "text": "Blo. Ref. Range",
+      "bbox": null,
+      "confidence": 0.9657209515571594
+    },
+    {
+      "text": "Method",
+      "bbox": null,
+      "confidence": 0.9992480874061584
+    },
+    {
+      "text": "EXTENDED KIDNEY FUNCTION TEST",
+      "bbox": null,
+      "confidence": 0.9957623481750488
+    },
+    {
+      "text": "Sample Type: SERUM",
+      "bbox": null,
+      "confidence": 0.985406219959259
+    },
+    {
+      "text": "SERUM UREA",
+      "bbox": null,
+      "confidence": 0.9968048930168152
+    },
+    {
+      "text": "20.2",
+      "bbox": null,
+      "confidence": 0.9405056834220886
+    },
+    {
+      "text": "mg/di",
+      "bbox": null,
+      "confidence": 0.9048768877983093
+    },
+    {
+      "text": "16:8-43.2",
+      "bbox": null,
+      "confidence": 0.967144250869751
+    },
+    {
+      "text": "Urease GLOH",
+      "bbox": null,
+      "confidence": 0.9520349502563477
+    },
+    {
+      "text": "SERUM CREATININE",
+      "bbox": null,
+      "confidence": 0.9993541836738586
+    },
+    {
+      "text": "0.80",
+      "bbox": null,
+      "confidence": 0.9999160766601562
+    },
+    {
+      "text": "mg/al",
+      "bbox": null,
+      "confidence": 0.7932855486869812
+    },
+    {
+      "text": "0.8-1.3",
+      "bbox": null,
+      "confidence": 0.9708127975463867
+    },
+    {
+      "text": "Jaffe",
+      "bbox": null,
+      "confidence": 0.9532182812690735
+    },
+    {
+      "text": "SERUM URIC ACID",
+      "bbox": null,
+      "confidence": 0.9672539234161377
+    },
+    {
+      "text": "4.70",
+      "bbox": null,
+      "confidence": 0.999681830406189
+    },
+    {
+      "text": "mg/dl",
+      "bbox": null,
+      "confidence": 0.9630987048149109
+    },
+    {
+      "text": "3.6-8.2",
+      "bbox": null,
+      "confidence": 0.9411402344703674
+    },
+    {
+      "text": "URICASE",
+      "bbox": null,
+      "confidence": 0.980417788028717
+    },
+    {
+      "text": "Blood Urea Nitrogen (BUn)",
+      "bbox": null,
+      "confidence": 0.9607917070388794
+    },
+    {
+      "text": "9.62",
+      "bbox": null,
+      "confidence": 0.9293409585952759
+    },
+    {
+      "text": "mg/d",
+      "bbox": null,
+      "confidence": 0.9377572536468506
+    },
+    {
+      "text": "5-25",
+      "bbox": null,
+      "confidence": 0.9975860118865967
+    },
+    {
+      "text": "Calculated",
+      "bbox": null,
+      "confidence": 0.9978496432304382
+    },
+    {
+      "text": "TOTAL PROTEINS",
+      "bbox": null,
+      "confidence": 0.9990746378898621
+    },
+    {
+      "text": "6.50",
+      "bbox": null,
+      "confidence": 0.998499870300293
+    },
+    {
+      "text": "gm/dl",
+      "bbox": null,
+      "confidence": 0.6861890554428101
+    },
+    {
+      "text": "6.6-8.3",
+      "bbox": null,
+      "confidence": 0.9772195816040039
+    },
+    {
+      "text": "Biuret",
+      "bbox": null,
+      "confidence": 0.998340368270874
+    },
+    {
+      "text": "ALBUMIN",
+      "bbox": null,
+      "confidence": 0.999328076839447
+    },
+    {
+      "text": "3.50",
+      "bbox": null,
+      "confidence": 0.9989752173423767
+    },
+    {
+      "text": "gmy/dt",
+      "bbox": null,
+      "confidence": 0.6726937294006348
+    },
+    {
+      "text": "3.5-5.3",
+      "bbox": null,
+      "confidence": 0.9841834902763367
+    },
+    {
+      "text": "BCG",
+      "bbox": null,
+      "confidence": 0.9975139498710632
+    },
+    {
+      "text": "GLOBULIN",
+      "bbox": null,
+      "confidence": 0.9974366426467896
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.9991220831871033
+    },
+    {
+      "text": "em/di",
+      "bbox": null,
+      "confidence": 0.8791714906692505
+    },
+    {
+      "text": "2.0-4.1",
+      "bbox": null,
+      "confidence": 0.996634304523468
+    },
+    {
+      "text": "Calculated",
+      "bbox": null,
+      "confidence": 0.9993151426315308
+    },
+    {
+      "text": "©",
+      "bbox": null,
+      "confidence": 0.476249098777771
+    },
+    {
+      "text": "A/G RATIO",
+      "bbox": null,
+      "confidence": 0.9969786405563354
+    },
+    {
+      "text": "1.17",
+      "bbox": null,
+      "confidence": 0.9779677391052246
+    },
+    {
+      "text": "1.0-2.0",
+      "bbox": null,
+      "confidence": 0.9910253882408142
+    },
+    {
+      "text": "Calculated",
+      "bbox": null,
+      "confidence": 0.9983770251274109
+    },
+    {
+      "text": "SERUM SODIUM",
+      "bbox": null,
+      "confidence": 0.9909384846687317
+    },
+    {
+      "text": "138.0",
+      "bbox": null,
+      "confidence": 0.9143606424331665
+    },
+    {
+      "text": "mmol/t",
+      "bbox": null,
+      "confidence": 0.9039285182952881
+    },
+    {
+      "text": "133-147",
+      "bbox": null,
+      "confidence": 0.998492419719696
+    },
+    {
+      "text": "ISE",
+      "bbox": null,
+      "confidence": 0.9878455996513367
+    },
+    {
+      "text": "SERUM POTASSILM",
+      "bbox": null,
+      "confidence": 0.9615944027900696
+    },
+    {
+      "text": "4.30",
+      "bbox": null,
+      "confidence": 0.916501522064209
+    },
+    {
+      "text": "mmol/",
+      "bbox": null,
+      "confidence": 0.987359344959259
+    },
+    {
+      "text": "3.50-5.20",
+      "bbox": null,
+      "confidence": 0.9945016503334045
+    },
+    {
+      "text": "ISE",
+      "bbox": null,
+      "confidence": 0.9699429869651794
+    },
+    {
+      "text": "SERUM CALCIUM",
+      "bbox": null,
+      "confidence": 0.9919178485870361
+    },
+    {
+      "text": "9.0",
+      "bbox": null,
+      "confidence": 0.997819721698761
+    },
+    {
+      "text": "mg/dt",
+      "bbox": null,
+      "confidence": 0.7851924896240234
+    },
+    {
+      "text": "8.6-10.3",
+      "bbox": null,
+      "confidence": 0.939194917678833
+    },
+    {
+      "text": "Arsenazo III",
+      "bbox": null,
+      "confidence": 0.9130026698112488
+    },
+    {
+      "text": "Urea is the end product of protein catabolism and Urea undergoes filtrations at the glomerulus as well as",
+      "bbox": null,
+      "confidence": 0.9466886520385742
+    },
+    {
+      "text": "secretion and re absorption at the tubular level. But the level may also be affected by dict as well as certain",
+      "bbox": null,
+      "confidence": 0.9631046652793884
+    },
+    {
+      "text": "non kidincy related disorders.",
+      "bbox": null,
+      "confidence": 0.9577308297157288
+    },
+    {
+      "text": "Blood Ures Nitrogen can be easily calculated from the serum urea level and the serum urea levels can be",
+      "bbox": null,
+      "confidence": 0.974685549736023
+    },
+    {
+      "text": "come to BUN by mulplin t by0..Cratin s altpeptie fd in heu",
+      "bbox": null,
+      "confidence": 0.599327802658081
+    },
+    {
+      "text": "is simply used as a marker of renal function. Serum creatinine is a beter indicator of renal function and",
+      "bbox": null,
+      "confidence": 0.9724543690681458
+    },
+    {
+      "text": "more specifically glomerular function than urea, Creatinine is filtered at the glomerulus and its reabsorption",
+      "bbox": null,
+      "confidence": 0.981181263923645
+    },
+    {
+      "text": "at the tubular level is insignificant. Becatse of this creatinine clearance can be used to meausure Glomerular",
+      "bbox": null,
+      "confidence": 0.9668022394180298
+    },
+    {
+      "text": "Filtration Rate (GFR).",
+      "bbox": null,
+      "confidence": 0.9697193503379822
+    },
+    {
+      "text": "Uric ucid leve's are typically 3.5-7.2 milligrams per deciliter (mg/dL) in males and 2.6-6.0 mg/dL in",
+      "bbox": null,
+      "confidence": 0.9526968002319336
+    },
+    {
+      "text": "fenales. Low levels are rare, but high levels can lead to gout, kidncy disease, and other health issues.",
+      "bbox": null,
+      "confidence": 0.9668098092079163
+    },
+    {
+      "text": "Sodium is the moin detenminant of plasma osmotality, and serum levels ure closely related to hydration",
+      "bbox": null,
+      "confidence": 0.9639975428581238
+    },
+    {
+      "text": "(volurie) status. Potassium is stored almost entirely intracellutarly and is exereted by the kidneys.",
+      "bbox": null,
+      "confidence": 0.9703176617622375
+    },
+    {
+      "text": "MBBS.DCP",
+      "bbox": null,
+      "confidence": 0.8508312106132507
+    },
+    {
+      "text": "Consutant Patheloist",
+      "bbox": null,
+      "confidence": 0.8136663436889648
+    },
+    {
+      "text": "Page 1 of",
+      "bbox": null,
+      "confidence": 0.814548134803772
+    }
+  ]
+}

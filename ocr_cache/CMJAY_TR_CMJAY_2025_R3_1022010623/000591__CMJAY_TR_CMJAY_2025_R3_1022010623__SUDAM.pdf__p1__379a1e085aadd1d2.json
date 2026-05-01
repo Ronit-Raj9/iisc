@@ -1,0 +1,273 @@
+{
+  "text": "pof Patient\nC\nAWT\nfe g lica\nD/o Wio\nC\n0\nI.C.D Coding\nBrought by\nAddress(P\nPO\nDate & Time of Admission:\n2121.2da.\n140pm\nDate & Time of Discharge/Refe.ral:..\nj\nProvisional Diagnosis...\n………\nFinal Diagnosis...\nreue\nClinical Notes :\nDIET\n4o- Ceun\ncold\ncem )\nAdvice :\n2\nDn.1n0f80 mutes1\n(nDVC\nQ:NS\n1 1  (0d)\nDA.\n+\n(2) dy. cefriame18\ncul-\nNAN\nw.\n=upmm(A).\nCNI-\nBaulipraall\n(2) d.\nInvestigation advised :\n-upu\ndiy. siclo\n(u)\n2Mpromx0ssu\nMruit\nwidalhur\nneuprenit\n1.nM60\n(C)\nUrneNz\nlmbrr",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 477,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "pof Patient",
+      "bbox": null,
+      "confidence": 0.871560275554657
+    },
+    {
+      "text": "C",
+      "bbox": null,
+      "confidence": 0.9653191566467285
+    },
+    {
+      "text": "AWT",
+      "bbox": null,
+      "confidence": 0.3577287495136261
+    },
+    {
+      "text": "fe g lica",
+      "bbox": null,
+      "confidence": 0.6357032060623169
+    },
+    {
+      "text": "D/o Wio",
+      "bbox": null,
+      "confidence": 0.8509499430656433
+    },
+    {
+      "text": "C",
+      "bbox": null,
+      "confidence": 0.26496532559394836
+    },
+    {
+      "text": "0",
+      "bbox": null,
+      "confidence": 0.4121425747871399
+    },
+    {
+      "text": "I.C.D Coding",
+      "bbox": null,
+      "confidence": 0.9429264068603516
+    },
+    {
+      "text": "Brought by",
+      "bbox": null,
+      "confidence": 0.9199486970901489
+    },
+    {
+      "text": "Address(P",
+      "bbox": null,
+      "confidence": 0.9536837339401245
+    },
+    {
+      "text": "PO",
+      "bbox": null,
+      "confidence": 0.9849742650985718
+    },
+    {
+      "text": "Date & Time of Admission:",
+      "bbox": null,
+      "confidence": 0.9742605686187744
+    },
+    {
+      "text": "2121.2da.",
+      "bbox": null,
+      "confidence": 0.7337768077850342
+    },
+    {
+      "text": "140pm",
+      "bbox": null,
+      "confidence": 0.9196551442146301
+    },
+    {
+      "text": "Date & Time of Discharge/Refe.ral:..",
+      "bbox": null,
+      "confidence": 0.8160152435302734
+    },
+    {
+      "text": "j",
+      "bbox": null,
+      "confidence": 0.7443236112594604
+    },
+    {
+      "text": "Provisional Diagnosis...",
+      "bbox": null,
+      "confidence": 0.9449172019958496
+    },
+    {
+      "text": "………",
+      "bbox": null,
+      "confidence": 0.43545469641685486
+    },
+    {
+      "text": "Final Diagnosis...",
+      "bbox": null,
+      "confidence": 0.8327746987342834
+    },
+    {
+      "text": "reue",
+      "bbox": null,
+      "confidence": 0.6512339115142822
+    },
+    {
+      "text": "Clinical Notes :",
+      "bbox": null,
+      "confidence": 0.979374885559082
+    },
+    {
+      "text": "DIET",
+      "bbox": null,
+      "confidence": 0.8624112010002136
+    },
+    {
+      "text": "4o- Ceun",
+      "bbox": null,
+      "confidence": 0.6067599654197693
+    },
+    {
+      "text": "cold",
+      "bbox": null,
+      "confidence": 0.9460644721984863
+    },
+    {
+      "text": "cem )",
+      "bbox": null,
+      "confidence": 0.5900512933731079
+    },
+    {
+      "text": "Advice :",
+      "bbox": null,
+      "confidence": 0.9769268035888672
+    },
+    {
+      "text": "2",
+      "bbox": null,
+      "confidence": 0.5433866381645203
+    },
+    {
+      "text": "Dn.1n0f80 mutes1",
+      "bbox": null,
+      "confidence": 0.6346293091773987
+    },
+    {
+      "text": "(nDVC",
+      "bbox": null,
+      "confidence": 0.5547049045562744
+    },
+    {
+      "text": "Q:NS",
+      "bbox": null,
+      "confidence": 0.8829593062400818
+    },
+    {
+      "text": "1 1  (0d)",
+      "bbox": null,
+      "confidence": 0.7421247959136963
+    },
+    {
+      "text": "DA.",
+      "bbox": null,
+      "confidence": 0.7411942481994629
+    },
+    {
+      "text": "+",
+      "bbox": null,
+      "confidence": 0.321749746799469
+    },
+    {
+      "text": "(2) dy. cefriame18",
+      "bbox": null,
+      "confidence": 0.6347398161888123
+    },
+    {
+      "text": "cul-",
+      "bbox": null,
+      "confidence": 0.5015333890914917
+    },
+    {
+      "text": "NAN",
+      "bbox": null,
+      "confidence": 0.7605262398719788
+    },
+    {
+      "text": "w.",
+      "bbox": null,
+      "confidence": 0.646644115447998
+    },
+    {
+      "text": "=upmm(A).",
+      "bbox": null,
+      "confidence": 0.6812190413475037
+    },
+    {
+      "text": "CNI-",
+      "bbox": null,
+      "confidence": 0.7733203768730164
+    },
+    {
+      "text": "Baulipraall",
+      "bbox": null,
+      "confidence": 0.5385556817054749
+    },
+    {
+      "text": "(2) d.",
+      "bbox": null,
+      "confidence": 0.7791567444801331
+    },
+    {
+      "text": "Investigation advised :",
+      "bbox": null,
+      "confidence": 0.98466557264328
+    },
+    {
+      "text": "-upu",
+      "bbox": null,
+      "confidence": 0.8732166290283203
+    },
+    {
+      "text": "diy. siclo",
+      "bbox": null,
+      "confidence": 0.7030119299888611
+    },
+    {
+      "text": "(u)",
+      "bbox": null,
+      "confidence": 0.7913569808006287
+    },
+    {
+      "text": "2Mpromx0ssu",
+      "bbox": null,
+      "confidence": 0.4989480674266815
+    },
+    {
+      "text": "Mruit",
+      "bbox": null,
+      "confidence": 0.7871378064155579
+    },
+    {
+      "text": "widalhur",
+      "bbox": null,
+      "confidence": 0.7512369155883789
+    },
+    {
+      "text": "neuprenit",
+      "bbox": null,
+      "confidence": 0.7019071578979492
+    },
+    {
+      "text": "1.nM60",
+      "bbox": null,
+      "confidence": 0.6572631001472473
+    },
+    {
+      "text": "(C)",
+      "bbox": null,
+      "confidence": 0.9040821194648743
+    },
+    {
+      "text": "UrneNz",
+      "bbox": null,
+      "confidence": 0.6555935740470886
+    },
+    {
+      "text": "lmbrr",
+      "bbox": null,
+      "confidence": 0.48424434661865234
+    }
+  ]
+}

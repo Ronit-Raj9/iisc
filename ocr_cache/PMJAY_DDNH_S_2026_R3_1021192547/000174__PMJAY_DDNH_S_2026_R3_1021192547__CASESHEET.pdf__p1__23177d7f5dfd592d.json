@@ -1,0 +1,258 @@
+{
+  "text": "ADMISSION AND DISCHARGE RECORD\nDISCHARGE\n07/02/2026\nAdmission Date\nTotal pagus = 3p pages\nTime\n10:21:29\nPatient Categofy\nBILLING FOR NON DOMICILE\nREG No: 480562\nIPD No: 121953\nAdmission To : PEDIATRIC WARD\nName\nAge: 10 Years\nGender: Male\nFather/Husband Name\nContact No:\nAddress\nState:\n3day\nAdmission advised by :\nTotal Days of admission :\nDis Date an6 Time: nDischarge advised by:\nProvisional Diagnosis:ndi.fev\nICD Code:\nFinal Diagnosis(in Block letters):\nSecondary Diagnosis or Complication(in Block letters):\nOperation Procedure(in Block Letters):\nResult\nharge\nDied\nResult\nWith Medial Advice\nUnder 48 hrs.\nYes\nLAMA\nOver 48 hrs.\nNo\nAbsconded\nRef. to other Hospital\nCause of Death (in\nI, Direct Cause\nII. Other significant\nBlock Letters)\nconditions(Contrubuting to the death, but\nnot related to ther dsease or condition in\nusing it)\nSignature\nSister I/C\nEVERY POOR DESERVE THE BEST",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 881,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "ADMISSION AND DISCHARGE RECORD",
+      "bbox": null,
+      "confidence": 0.9869015216827393
+    },
+    {
+      "text": "DISCHARGE",
+      "bbox": null,
+      "confidence": 0.9989938735961914
+    },
+    {
+      "text": "07/02/2026",
+      "bbox": null,
+      "confidence": 0.9998372197151184
+    },
+    {
+      "text": "Admission Date",
+      "bbox": null,
+      "confidence": 0.999731719493866
+    },
+    {
+      "text": "Total pagus = 3p pages",
+      "bbox": null,
+      "confidence": 0.9057945013046265
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.9995695948600769
+    },
+    {
+      "text": "10:21:29",
+      "bbox": null,
+      "confidence": 0.99860018491745
+    },
+    {
+      "text": "Patient Categofy",
+      "bbox": null,
+      "confidence": 0.9656247496604919
+    },
+    {
+      "text": "BILLING FOR NON DOMICILE",
+      "bbox": null,
+      "confidence": 0.9994230270385742
+    },
+    {
+      "text": "REG No: 480562",
+      "bbox": null,
+      "confidence": 0.9600547552108765
+    },
+    {
+      "text": "IPD No: 121953",
+      "bbox": null,
+      "confidence": 0.9575614333152771
+    },
+    {
+      "text": "Admission To : PEDIATRIC WARD",
+      "bbox": null,
+      "confidence": 0.9018312096595764
+    },
+    {
+      "text": "Name",
+      "bbox": null,
+      "confidence": 0.9967318773269653
+    },
+    {
+      "text": "Age: 10 Years",
+      "bbox": null,
+      "confidence": 0.9690051674842834
+    },
+    {
+      "text": "Gender: Male",
+      "bbox": null,
+      "confidence": 0.9841824173927307
+    },
+    {
+      "text": "Father/Husband Name",
+      "bbox": null,
+      "confidence": 0.9997614026069641
+    },
+    {
+      "text": "Contact No:",
+      "bbox": null,
+      "confidence": 0.9994747042655945
+    },
+    {
+      "text": "Address",
+      "bbox": null,
+      "confidence": 0.9997272491455078
+    },
+    {
+      "text": "State:",
+      "bbox": null,
+      "confidence": 0.9921075701713562
+    },
+    {
+      "text": "3day",
+      "bbox": null,
+      "confidence": 0.9816378355026245
+    },
+    {
+      "text": "Admission advised by :",
+      "bbox": null,
+      "confidence": 0.9799503087997437
+    },
+    {
+      "text": "Total Days of admission :",
+      "bbox": null,
+      "confidence": 0.9768586754798889
+    },
+    {
+      "text": "Dis Date an6 Time: nDischarge advised by:",
+      "bbox": null,
+      "confidence": 0.8786855340003967
+    },
+    {
+      "text": "Provisional Diagnosis:ndi.fev",
+      "bbox": null,
+      "confidence": 0.8994355201721191
+    },
+    {
+      "text": "ICD Code:",
+      "bbox": null,
+      "confidence": 0.9911836981773376
+    },
+    {
+      "text": "Final Diagnosis(in Block letters):",
+      "bbox": null,
+      "confidence": 0.9888937473297119
+    },
+    {
+      "text": "Secondary Diagnosis or Complication(in Block letters):",
+      "bbox": null,
+      "confidence": 0.995829701423645
+    },
+    {
+      "text": "Operation Procedure(in Block Letters):",
+      "bbox": null,
+      "confidence": 0.9986626505851746
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.998103678226471
+    },
+    {
+      "text": "harge",
+      "bbox": null,
+      "confidence": 0.9676985740661621
+    },
+    {
+      "text": "Died",
+      "bbox": null,
+      "confidence": 0.9996770620346069
+    },
+    {
+      "text": "Result",
+      "bbox": null,
+      "confidence": 0.9997227787971497
+    },
+    {
+      "text": "With Medial Advice",
+      "bbox": null,
+      "confidence": 0.9912706017494202
+    },
+    {
+      "text": "Under 48 hrs.",
+      "bbox": null,
+      "confidence": 0.9876660704612732
+    },
+    {
+      "text": "Yes",
+      "bbox": null,
+      "confidence": 0.9998571276664734
+    },
+    {
+      "text": "LAMA",
+      "bbox": null,
+      "confidence": 0.9997862577438354
+    },
+    {
+      "text": "Over 48 hrs.",
+      "bbox": null,
+      "confidence": 0.9989051818847656
+    },
+    {
+      "text": "No",
+      "bbox": null,
+      "confidence": 0.9998328685760498
+    },
+    {
+      "text": "Absconded",
+      "bbox": null,
+      "confidence": 0.9998734593391418
+    },
+    {
+      "text": "Ref. to other Hospital",
+      "bbox": null,
+      "confidence": 0.9915181994438171
+    },
+    {
+      "text": "Cause of Death (in",
+      "bbox": null,
+      "confidence": 0.9873714447021484
+    },
+    {
+      "text": "I, Direct Cause",
+      "bbox": null,
+      "confidence": 0.9939983487129211
+    },
+    {
+      "text": "II. Other significant",
+      "bbox": null,
+      "confidence": 0.9605150818824768
+    },
+    {
+      "text": "Block Letters)",
+      "bbox": null,
+      "confidence": 0.963584840297699
+    },
+    {
+      "text": "conditions(Contrubuting to the death, but",
+      "bbox": null,
+      "confidence": 0.9954210519790649
+    },
+    {
+      "text": "not related to ther dsease or condition in",
+      "bbox": null,
+      "confidence": 0.9940312504768372
+    },
+    {
+      "text": "using it)",
+      "bbox": null,
+      "confidence": 0.9930342435836792
+    },
+    {
+      "text": "Signature",
+      "bbox": null,
+      "confidence": 0.9996773600578308
+    },
+    {
+      "text": "Sister I/C",
+      "bbox": null,
+      "confidence": 0.9876081347465515
+    },
+    {
+      "text": "EVERY POOR DESERVE THE BEST",
+      "bbox": null,
+      "confidence": 0.9806601405143738
+    }
+  ]
+}

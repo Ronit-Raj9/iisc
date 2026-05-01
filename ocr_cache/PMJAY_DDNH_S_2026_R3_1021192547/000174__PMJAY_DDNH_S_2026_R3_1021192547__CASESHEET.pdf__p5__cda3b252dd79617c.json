@@ -1,0 +1,83 @@
+{
+  "text": "PROGRESS NOTES\nTreatment\nDate &\nClinical Findings\nInvestigation\nTime\n026\n2 Disonge conaul\nUN\nαfakta\nFalbla perween\nmother7490821016\n7\n1\nA",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 137,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "PROGRESS NOTES",
+      "bbox": null,
+      "confidence": 0.9994301199913025
+    },
+    {
+      "text": "Treatment",
+      "bbox": null,
+      "confidence": 0.9998797178268433
+    },
+    {
+      "text": "Date &",
+      "bbox": null,
+      "confidence": 0.9384328722953796
+    },
+    {
+      "text": "Clinical Findings",
+      "bbox": null,
+      "confidence": 0.9991918206214905
+    },
+    {
+      "text": "Investigation",
+      "bbox": null,
+      "confidence": 0.9843741655349731
+    },
+    {
+      "text": "Time",
+      "bbox": null,
+      "confidence": 0.8833027482032776
+    },
+    {
+      "text": "026",
+      "bbox": null,
+      "confidence": 0.832768440246582
+    },
+    {
+      "text": "2 Disonge conaul",
+      "bbox": null,
+      "confidence": 0.5973330140113831
+    },
+    {
+      "text": "UN",
+      "bbox": null,
+      "confidence": 0.776964545249939
+    },
+    {
+      "text": "αfakta",
+      "bbox": null,
+      "confidence": 0.7775373458862305
+    },
+    {
+      "text": "Falbla perween",
+      "bbox": null,
+      "confidence": 0.6830688714981079
+    },
+    {
+      "text": "mother7490821016",
+      "bbox": null,
+      "confidence": 0.8887647390365601
+    },
+    {
+      "text": "7",
+      "bbox": null,
+      "confidence": 0.7167912721633911
+    },
+    {
+      "text": "1",
+      "bbox": null,
+      "confidence": 0.6198757290840149
+    },
+    {
+      "text": "A",
+      "bbox": null,
+      "confidence": 0.5200214982032776
+    }
+  ]
+}

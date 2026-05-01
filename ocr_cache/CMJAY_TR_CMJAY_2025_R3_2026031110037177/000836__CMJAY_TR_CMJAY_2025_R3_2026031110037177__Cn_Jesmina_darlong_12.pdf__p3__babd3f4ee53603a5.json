@@ -1,0 +1,198 @@
+{
+  "text": "US, FICM, NBE(Delhi)DCH\nare,\nPatreits Name:\nAddress:-\nAGE-1Y 9M\nSex-F\nUHID-15678\nKGT\nMobile No:\nFather Name\nDATE-11/03/2026\nMother Name\nEfenic\nFewn\nut 9.81g\nBuT -2.4k\nsuck dook\nofe - refebarle\nmitable\ncus\nNAD\nR/as\n①\nAluunon\nbug\nAmikacin. -1song\n②\nat prul\n3\n1V0\nIUL DNS-\nso0m.\n12 hourly\nanfenttenll\naf\n⑨\nSyr\n2n-20 - 5m",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 317,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "US, FICM, NBE(Delhi)DCH",
+      "bbox": null,
+      "confidence": 0.8911266922950745
+    },
+    {
+      "text": "are,",
+      "bbox": null,
+      "confidence": 0.9701400995254517
+    },
+    {
+      "text": "Patreits Name:",
+      "bbox": null,
+      "confidence": 0.8247973322868347
+    },
+    {
+      "text": "Address:-",
+      "bbox": null,
+      "confidence": 0.9296045303344727
+    },
+    {
+      "text": "AGE-1Y 9M",
+      "bbox": null,
+      "confidence": 0.9936140775680542
+    },
+    {
+      "text": "Sex-F",
+      "bbox": null,
+      "confidence": 0.9962665438652039
+    },
+    {
+      "text": "UHID-15678",
+      "bbox": null,
+      "confidence": 0.9964014887809753
+    },
+    {
+      "text": "KGT",
+      "bbox": null,
+      "confidence": 0.9994892477989197
+    },
+    {
+      "text": "Mobile No:",
+      "bbox": null,
+      "confidence": 0.9787201881408691
+    },
+    {
+      "text": "Father Name",
+      "bbox": null,
+      "confidence": 0.9996801614761353
+    },
+    {
+      "text": "DATE-11/03/2026",
+      "bbox": null,
+      "confidence": 0.9994813203811646
+    },
+    {
+      "text": "Mother Name",
+      "bbox": null,
+      "confidence": 0.9997530579566956
+    },
+    {
+      "text": "Efenic",
+      "bbox": null,
+      "confidence": 0.6577672958374023
+    },
+    {
+      "text": "Fewn",
+      "bbox": null,
+      "confidence": 0.7385460734367371
+    },
+    {
+      "text": "ut 9.81g",
+      "bbox": null,
+      "confidence": 0.6173800826072693
+    },
+    {
+      "text": "BuT -2.4k",
+      "bbox": null,
+      "confidence": 0.7297344207763672
+    },
+    {
+      "text": "suck dook",
+      "bbox": null,
+      "confidence": 0.9435566663742065
+    },
+    {
+      "text": "ofe - refebarle",
+      "bbox": null,
+      "confidence": 0.7055937051773071
+    },
+    {
+      "text": "mitable",
+      "bbox": null,
+      "confidence": 0.9753762483596802
+    },
+    {
+      "text": "cus",
+      "bbox": null,
+      "confidence": 0.9617345929145813
+    },
+    {
+      "text": "NAD",
+      "bbox": null,
+      "confidence": 0.997807502746582
+    },
+    {
+      "text": "R/as",
+      "bbox": null,
+      "confidence": 0.5604619979858398
+    },
+    {
+      "text": "①",
+      "bbox": null,
+      "confidence": 0.8768860101699829
+    },
+    {
+      "text": "Aluunon",
+      "bbox": null,
+      "confidence": 0.5104957222938538
+    },
+    {
+      "text": "bug",
+      "bbox": null,
+      "confidence": 0.5280980467796326
+    },
+    {
+      "text": "Amikacin. -1song",
+      "bbox": null,
+      "confidence": 0.6970440149307251
+    },
+    {
+      "text": "②",
+      "bbox": null,
+      "confidence": 0.6701845526695251
+    },
+    {
+      "text": "at prul",
+      "bbox": null,
+      "confidence": 0.7818449139595032
+    },
+    {
+      "text": "3",
+      "bbox": null,
+      "confidence": 0.709571897983551
+    },
+    {
+      "text": "1V0",
+      "bbox": null,
+      "confidence": 0.6046635508537292
+    },
+    {
+      "text": "IUL DNS-",
+      "bbox": null,
+      "confidence": 0.8445545434951782
+    },
+    {
+      "text": "so0m.",
+      "bbox": null,
+      "confidence": 0.8138998746871948
+    },
+    {
+      "text": "12 hourly",
+      "bbox": null,
+      "confidence": 0.742018461227417
+    },
+    {
+      "text": "anfenttenll",
+      "bbox": null,
+      "confidence": 0.8666936755180359
+    },
+    {
+      "text": "af",
+      "bbox": null,
+      "confidence": 0.4918442964553833
+    },
+    {
+      "text": "⑨",
+      "bbox": null,
+      "confidence": 0.3492496907711029
+    },
+    {
+      "text": "Syr",
+      "bbox": null,
+      "confidence": 0.6332066059112549
+    },
+    {
+      "text": "2n-20 - 5m",
+      "bbox": null,
+      "confidence": 0.7555322051048279
+    }
+  ]
+}

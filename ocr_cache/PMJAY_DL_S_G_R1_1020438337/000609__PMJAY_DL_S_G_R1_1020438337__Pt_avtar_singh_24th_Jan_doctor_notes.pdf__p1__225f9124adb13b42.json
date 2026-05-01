@@ -1,0 +1,193 @@
+{
+  "text": "Patient's Name\nFather's/ Husband's Name..\nUHID No.....\nWard..C\nBed No...3\nCONSULTANT NOTES SHEET\nHISTORY & EXAMINATION\n,\nAeciluated eppulersin/Enteni\n24\n01\n2026\nfre/AGE/LRTD Ee UTT\n.:\nM\nPater Syptomale ath\nC\nPain abdonew. bid fetip of dstensson:\n.Sre epreside of vohicthig i the wiphh\nNausa et  r..\n(onfh u eppuctation\nBP= 196/102sPR -106/n=\nSen- 99,80  8p0 -90%\nChnt - B lhegeA CieptF\nAd-\nP/A -BclensinA endernest\ncls\ndrs\nNN2\n.Aone\nRE.\nCors\nStoud\nR\nContme ltt Same hedicatün.\n,\nRUN & OPERATED BY MOHIMA HEALTH CARE PVT LTD",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 523,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Patient's Name",
+      "bbox": null,
+      "confidence": 0.9697996973991394
+    },
+    {
+      "text": "Father's/ Husband's Name..",
+      "bbox": null,
+      "confidence": 0.9937928915023804
+    },
+    {
+      "text": "UHID No.....",
+      "bbox": null,
+      "confidence": 0.7949325442314148
+    },
+    {
+      "text": "Ward..C",
+      "bbox": null,
+      "confidence": 0.838671863079071
+    },
+    {
+      "text": "Bed No...3",
+      "bbox": null,
+      "confidence": 0.8918231725692749
+    },
+    {
+      "text": "CONSULTANT NOTES SHEET",
+      "bbox": null,
+      "confidence": 0.9995403289794922
+    },
+    {
+      "text": "HISTORY & EXAMINATION",
+      "bbox": null,
+      "confidence": 0.9996927380561829
+    },
+    {
+      "text": ",",
+      "bbox": null,
+      "confidence": 0.34514909982681274
+    },
+    {
+      "text": "Aeciluated eppulersin/Enteni",
+      "bbox": null,
+      "confidence": 0.7980843782424927
+    },
+    {
+      "text": "24",
+      "bbox": null,
+      "confidence": 0.7306442260742188
+    },
+    {
+      "text": "01",
+      "bbox": null,
+      "confidence": 0.92444908618927
+    },
+    {
+      "text": "2026",
+      "bbox": null,
+      "confidence": 0.8402367830276489
+    },
+    {
+      "text": "fre/AGE/LRTD Ee UTT",
+      "bbox": null,
+      "confidence": 0.684066891670227
+    },
+    {
+      "text": ".:",
+      "bbox": null,
+      "confidence": 0.4869672656059265
+    },
+    {
+      "text": "M",
+      "bbox": null,
+      "confidence": 0.3871742784976959
+    },
+    {
+      "text": "Pater Syptomale ath",
+      "bbox": null,
+      "confidence": 0.666279673576355
+    },
+    {
+      "text": "C",
+      "bbox": null,
+      "confidence": 0.48444461822509766
+    },
+    {
+      "text": "Pain abdonew. bid fetip of dstensson:",
+      "bbox": null,
+      "confidence": 0.6624682545661926
+    },
+    {
+      "text": ".Sre epreside of vohicthig i the wiphh",
+      "bbox": null,
+      "confidence": 0.5557770729064941
+    },
+    {
+      "text": "Nausa et  r..",
+      "bbox": null,
+      "confidence": 0.6195234060287476
+    },
+    {
+      "text": "(onfh u eppuctation",
+      "bbox": null,
+      "confidence": 0.5582796335220337
+    },
+    {
+      "text": "BP= 196/102sPR -106/n=",
+      "bbox": null,
+      "confidence": 0.7675667405128479
+    },
+    {
+      "text": "Sen- 99,80  8p0 -90%",
+      "bbox": null,
+      "confidence": 0.7341595888137817
+    },
+    {
+      "text": "Chnt - B lhegeA CieptF",
+      "bbox": null,
+      "confidence": 0.5667927861213684
+    },
+    {
+      "text": "Ad-",
+      "bbox": null,
+      "confidence": 0.8680173754692078
+    },
+    {
+      "text": "P/A -BclensinA endernest",
+      "bbox": null,
+      "confidence": 0.6931850910186768
+    },
+    {
+      "text": "cls",
+      "bbox": null,
+      "confidence": 0.7618349194526672
+    },
+    {
+      "text": "drs",
+      "bbox": null,
+      "confidence": 0.6153943538665771
+    },
+    {
+      "text": "NN2",
+      "bbox": null,
+      "confidence": 0.7520856261253357
+    },
+    {
+      "text": ".Aone",
+      "bbox": null,
+      "confidence": 0.6987019777297974
+    },
+    {
+      "text": "RE.",
+      "bbox": null,
+      "confidence": 0.9032365679740906
+    },
+    {
+      "text": "Cors",
+      "bbox": null,
+      "confidence": 0.7379928827285767
+    },
+    {
+      "text": "Stoud",
+      "bbox": null,
+      "confidence": 0.7323931455612183
+    },
+    {
+      "text": "R",
+      "bbox": null,
+      "confidence": 0.6604878902435303
+    },
+    {
+      "text": "Contme ltt Same hedicatün.",
+      "bbox": null,
+      "confidence": 0.6836470365524292
+    },
+    {
+      "text": ",",
+      "bbox": null,
+      "confidence": 0.3059840500354767
+    },
+    {
+      "text": "RUN & OPERATED BY MOHIMA HEALTH CARE PVT LTD",
+      "bbox": null,
+      "confidence": 0.9860463738441467
+    }
+  ]
+}

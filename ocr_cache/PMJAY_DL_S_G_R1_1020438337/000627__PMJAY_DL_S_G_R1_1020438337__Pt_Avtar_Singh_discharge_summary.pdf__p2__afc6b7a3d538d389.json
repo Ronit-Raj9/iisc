@@ -1,0 +1,148 @@
+{
+  "text": "11. Inj Lasix 40mg Stat, 20mg BD\n12. Tab Telma-H OD\n13. Syp Looz 30 ml HS\n14. Inj Dynapar SOS\n15. Inj MVI OD\n16. Tab Amlo AT OD\n17. Steam inhalation TDS\n18. N/S Fluticasone 2 puffs both nostrils BD\nDiet: Low salt Diet\nINVESTIGATIONS DONE\n22.01.2026 - Chest X ray, ECG, Fever profile,\n23.01.2026 - ECG, CBC, KFT, LFT, Serum Amylase, CRP, Urine R/E\n24.01.2026 - ESR, USG W/A\n26.01.2026 - Widal\nADVICED MEDICATION AFTER DISCHARGE\n1. Tab Azee 500mg OD\n2Tab Pan 40 OD\n.Tab Montair Lc HS\n4.\nSteam Inhalation TDS\nND Nasivion BD\nCap MVI OD\n7.Tab Udiliv 300mg OD\n8Tab Telma H OD\n. Tab Amlo AT OD\nReview: - After 07 days in Medicine OPD.\nReport immediately to (Emergency department) if Fever, Intense Pain in Abdomen\nVomiting Severe Vertigo and Unconscious",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 746,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "11. Inj Lasix 40mg Stat, 20mg BD",
+      "bbox": null,
+      "confidence": 0.9951985478401184
+    },
+    {
+      "text": "12. Tab Telma-H OD",
+      "bbox": null,
+      "confidence": 0.9853832721710205
+    },
+    {
+      "text": "13. Syp Looz 30 ml HS",
+      "bbox": null,
+      "confidence": 0.9969415068626404
+    },
+    {
+      "text": "14. Inj Dynapar SOS",
+      "bbox": null,
+      "confidence": 0.9962828755378723
+    },
+    {
+      "text": "15. Inj MVI OD",
+      "bbox": null,
+      "confidence": 0.994688093662262
+    },
+    {
+      "text": "16. Tab Amlo AT OD",
+      "bbox": null,
+      "confidence": 0.9712586998939514
+    },
+    {
+      "text": "17. Steam inhalation TDS",
+      "bbox": null,
+      "confidence": 0.9967852234840393
+    },
+    {
+      "text": "18. N/S Fluticasone 2 puffs both nostrils BD",
+      "bbox": null,
+      "confidence": 0.9958122372627258
+    },
+    {
+      "text": "Diet: Low salt Diet",
+      "bbox": null,
+      "confidence": 0.9947781562805176
+    },
+    {
+      "text": "INVESTIGATIONS DONE",
+      "bbox": null,
+      "confidence": 0.9615287780761719
+    },
+    {
+      "text": "22.01.2026 - Chest X ray, ECG, Fever profile,",
+      "bbox": null,
+      "confidence": 0.982667863368988
+    },
+    {
+      "text": "23.01.2026 - ECG, CBC, KFT, LFT, Serum Amylase, CRP, Urine R/E",
+      "bbox": null,
+      "confidence": 0.9926350116729736
+    },
+    {
+      "text": "24.01.2026 - ESR, USG W/A",
+      "bbox": null,
+      "confidence": 0.9789373278617859
+    },
+    {
+      "text": "26.01.2026 - Widal",
+      "bbox": null,
+      "confidence": 0.9695218205451965
+    },
+    {
+      "text": "ADVICED MEDICATION AFTER DISCHARGE",
+      "bbox": null,
+      "confidence": 0.9986501336097717
+    },
+    {
+      "text": "1. Tab Azee 500mg OD",
+      "bbox": null,
+      "confidence": 0.9934229850769043
+    },
+    {
+      "text": "2Tab Pan 40 OD",
+      "bbox": null,
+      "confidence": 0.9571962356567383
+    },
+    {
+      "text": ".Tab Montair Lc HS",
+      "bbox": null,
+      "confidence": 0.9733425974845886
+    },
+    {
+      "text": "4.",
+      "bbox": null,
+      "confidence": 0.9999212026596069
+    },
+    {
+      "text": "Steam Inhalation TDS",
+      "bbox": null,
+      "confidence": 0.9915561676025391
+    },
+    {
+      "text": "ND Nasivion BD",
+      "bbox": null,
+      "confidence": 0.9856706857681274
+    },
+    {
+      "text": "Cap MVI OD",
+      "bbox": null,
+      "confidence": 0.9963547587394714
+    },
+    {
+      "text": "7.Tab Udiliv 300mg OD",
+      "bbox": null,
+      "confidence": 0.978919267654419
+    },
+    {
+      "text": "8Tab Telma H OD",
+      "bbox": null,
+      "confidence": 0.9805964231491089
+    },
+    {
+      "text": ". Tab Amlo AT OD",
+      "bbox": null,
+      "confidence": 0.9525991082191467
+    },
+    {
+      "text": "Review: - After 07 days in Medicine OPD.",
+      "bbox": null,
+      "confidence": 0.9848170280456543
+    },
+    {
+      "text": "Report immediately to (Emergency department) if Fever, Intense Pain in Abdomen",
+      "bbox": null,
+      "confidence": 0.9839688539505005
+    },
+    {
+      "text": "Vomiting Severe Vertigo and Unconscious",
+      "bbox": null,
+      "confidence": 0.9955573678016663
+    }
+  ]
+}

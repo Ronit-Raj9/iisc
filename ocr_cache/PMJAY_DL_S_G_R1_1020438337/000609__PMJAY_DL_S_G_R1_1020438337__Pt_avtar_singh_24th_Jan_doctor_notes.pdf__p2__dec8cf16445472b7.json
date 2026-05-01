@@ -1,0 +1,103 @@
+{
+  "text": "Accerated Hppulensi Eutunc\n01/206\nfuer/AGE./UTI/PLRT\nK\nSymplonate iett - fever (100f)\nPaeir aldomen /Arconfot\nabdomen\nNauen Vonting - ore\nepisode wtin\nveng\nAcadathe . Oecenl Vitig\nBP-194/108 PR-94/\nSPO-90%  RA.\nChaat B/ Wheze  Crap\n8/A - Guandip Pendevos\novor eigatsien\nersPWn\nR.Tab Vizyfe. BD.\nRot OSt.",
+  "embedded_text_chars": 0,
+  "ocr_text_chars": 303,
+  "skipped_full_ocr": 0,
+  "lines": [
+    {
+      "text": "Accerated Hppulensi Eutunc",
+      "bbox": null,
+      "confidence": 0.6070806384086609
+    },
+    {
+      "text": "01/206",
+      "bbox": null,
+      "confidence": 0.8390375971794128
+    },
+    {
+      "text": "fuer/AGE./UTI/PLRT",
+      "bbox": null,
+      "confidence": 0.6607380509376526
+    },
+    {
+      "text": "K",
+      "bbox": null,
+      "confidence": 0.8842396140098572
+    },
+    {
+      "text": "Symplonate iett - fever (100f)",
+      "bbox": null,
+      "confidence": 0.6187618970870972
+    },
+    {
+      "text": "Paeir aldomen /Arconfot",
+      "bbox": null,
+      "confidence": 0.7614150643348694
+    },
+    {
+      "text": "abdomen",
+      "bbox": null,
+      "confidence": 0.9373555183410645
+    },
+    {
+      "text": "Nauen Vonting - ore",
+      "bbox": null,
+      "confidence": 0.6489982604980469
+    },
+    {
+      "text": "episode wtin",
+      "bbox": null,
+      "confidence": 0.6921527981758118
+    },
+    {
+      "text": "veng",
+      "bbox": null,
+      "confidence": 0.8774017691612244
+    },
+    {
+      "text": "Acadathe . Oecenl Vitig",
+      "bbox": null,
+      "confidence": 0.6667900681495667
+    },
+    {
+      "text": "BP-194/108 PR-94/",
+      "bbox": null,
+      "confidence": 0.8942446708679199
+    },
+    {
+      "text": "SPO-90%  RA.",
+      "bbox": null,
+      "confidence": 0.7966057658195496
+    },
+    {
+      "text": "Chaat B/ Wheze  Crap",
+      "bbox": null,
+      "confidence": 0.6797329783439636
+    },
+    {
+      "text": "8/A - Guandip Pendevos",
+      "bbox": null,
+      "confidence": 0.7297659516334534
+    },
+    {
+      "text": "ovor eigatsien",
+      "bbox": null,
+      "confidence": 0.6901415586471558
+    },
+    {
+      "text": "ersPWn",
+      "bbox": null,
+      "confidence": 0.36332300305366516
+    },
+    {
+      "text": "R.Tab Vizyfe. BD.",
+      "bbox": null,
+      "confidence": 0.6753537058830261
+    },
+    {
+      "text": "Rot OSt.",
+      "bbox": null,
+      "confidence": 0.5766384601593018
+    }
+  ]
+}
