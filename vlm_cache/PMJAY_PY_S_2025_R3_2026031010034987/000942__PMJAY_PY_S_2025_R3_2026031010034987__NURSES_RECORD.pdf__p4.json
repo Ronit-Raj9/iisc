@@ -1,0 +1,27 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "NURSES REPORT by senior Nurse. Child is conscious and oriented. Vital signs checked and recorded: pulse 90/min. Respiration 22. Temp 102.2°F given about –  Vijayawada. to Dr. Indumon. temperature continued recorded 7-102.2°F. -Vijayawada. Taken Over Vijayawada",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.9,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

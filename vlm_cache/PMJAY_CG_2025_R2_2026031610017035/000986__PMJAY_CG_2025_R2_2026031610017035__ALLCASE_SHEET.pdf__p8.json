@@ -1,0 +1,32 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.8,
+  "ocr_snippet": "Broncho Pneumonia. – No fever Spike. PR- 140/min R.R- 24/min SpO2 - 98% on 4L.A.",
+  "language": "en",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12/12/22",
+      "13/12/22"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "broncho pneumonia"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

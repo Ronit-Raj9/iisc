@@ -1,0 +1,30 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DOK: 11/03/2026 02:30 PM  HIS No.: 11164553-01  WARD: PIC  Date: 12/12/26  ADMISSION\nINPUT\nWT/HT\nENTERED  DONE\n27.5, 142\nHYGIENE\nPERTINENT/UNIT Maintaining Maintain",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/03/2026",
+      "12/12/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

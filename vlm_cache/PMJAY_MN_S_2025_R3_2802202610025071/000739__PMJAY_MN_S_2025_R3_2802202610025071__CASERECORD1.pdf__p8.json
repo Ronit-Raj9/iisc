@@ -1,0 +1,35 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "10/8/22 PT kept well last night RX CET Advice 1) Tab Ceftriaxone 1gm IV 12 hourly 2) Tab P.P. Acetamol 500mg SOS 3) Tab I.B. Acton 1 tablet",
+  "language": "en|hi",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "10/8/22"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "ceftriaxone",
+      "paracetamol",
+      "actamol"
+    ]
+  }
+}

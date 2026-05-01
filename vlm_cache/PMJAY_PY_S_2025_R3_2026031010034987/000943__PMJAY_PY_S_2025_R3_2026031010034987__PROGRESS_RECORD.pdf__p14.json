@@ -1,0 +1,34 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient’s Name PROGRESS SHEET PIMS No. Date & Time 16/2/24 9:30am Child Reviewed. C/o Fever, Spike at top yesterday 102.6°F. No new complaints. 0/E: Child is Alert/Active/At Home. RR – 100/min Sp02 – 98%. Soft/non tender/lumb. Painful from 3cm",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/2/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 36.94,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "fever",
+      "pain"
+    ],
+    "treatments": []
+  }
+}

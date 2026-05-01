@@ -1,0 +1,34 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "ORS, HR 90 bpm, PR 120/min, Resp 20, BP 110/70 mmHg, T 100.8 F. Flatened T Wave(V1), ST depression V(5). Status: Hypotension Still Persisting. PQRST Lines: PR, ORS",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "10-02-2024"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.2,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "hypotension"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "ors",
+      "blood transfusion"
+    ]
+  }
+}

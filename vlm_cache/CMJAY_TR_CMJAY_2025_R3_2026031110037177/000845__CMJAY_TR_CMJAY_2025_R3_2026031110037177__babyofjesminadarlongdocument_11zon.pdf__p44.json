@@ -1,0 +1,29 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "CBC ( COMPLETE BLOOD COUNT ) Sample Date : 11/12/2023 08:39 PM Date of Birth : 11/12/1998/F Age/Gender : 24/Female LAB No : LAB2009 Contact No : Case Date : 11/12/2023 08:39 PM Biological Ref. Range Total Leucocyte count(DLC) 11.6 x 10^9/L (4000-11000) DIFFERENTIAL LEUCOCYTE COUNT(DLC) NEUTROPHIL 50 % (40-75) LYMPHOCYTES 41 % (20-45) MONOCYTES 9 % (2-10) EOSINOPHILS 1 % (1-6) BASOPHILS 0 % (0-2) RBC COUNT 4.14 Million/mm 55-48% PCV 32.6 % 35-48% MCV 78.2 fL 83-101",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "24",
+    "dates_found": [
+      "11/12/2023"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

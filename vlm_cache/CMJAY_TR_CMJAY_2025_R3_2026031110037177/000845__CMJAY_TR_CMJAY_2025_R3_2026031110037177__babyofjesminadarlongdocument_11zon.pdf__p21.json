@@ -1,0 +1,38 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Type 3 Time Pressure Pulse Temp  6:00 AM 113/70 72 99.6  7:00 AM 113/68 70 98.9  8:00 AM 112/70 68 98.7  9:00 AM 112/70 68 98.8  10:00 AM 113/72 68 99.3  11:00 AM 114/72 70 99.4  12:00 PM 114/70 70 99.0  1:00 PM 114/70 72 99.2  2:00 PM 113/70 72 99.0  3:00 PM 113/70 70 98.8 Scanned with OKEN Scanner",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "6:00 AM",
+      "7:00 AM",
+      "8:00 AM",
+      "9:00 AM",
+      "10:00 AM",
+      "11:00 AM",
+      "12:00 PM",
+      "1:00 PM",
+      "2:00 PM",
+      "3:00 PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

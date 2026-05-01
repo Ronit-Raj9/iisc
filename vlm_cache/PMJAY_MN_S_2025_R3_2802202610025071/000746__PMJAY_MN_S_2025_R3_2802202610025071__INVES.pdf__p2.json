@@ -1,0 +1,31 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "HAEMOGROB Haemoglobin Calorimetric method 9.3 gms% Packed Cell Volume Calculated 4.1 Million/cumm RBC Count Calculated Mean Cell Volume Calculated Mean Cell Haemoglobin Calculated 22 fl Mean Cell Haemoglobin Conc 34 % RDW (CV) Calculated 14 % RDW (SD) Calculated 37 fl Total Leucocyte Count (TLC) Flow cytometry 6,090 /cumm",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "50 Y",
+    "dates_found": [
+      "26-Feb-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      9.3
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

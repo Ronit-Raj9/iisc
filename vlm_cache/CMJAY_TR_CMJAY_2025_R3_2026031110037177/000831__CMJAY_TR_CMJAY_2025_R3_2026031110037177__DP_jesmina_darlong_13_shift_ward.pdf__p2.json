@@ -1,0 +1,36 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "PROGRESS NOTE Age: 14 Sex: Male IP No: 11/03/2026 02:30 PM DOA: 11/03/2026 CHILDREN WARD o/e - Conscious, stable, afebrile PR - 130 bp RR - 29 bpm Temp 97.2°F 8.1.26 Hub with NS 3ml -> 18 hours Sy. CRID-M 3ml light",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "14",
+    "dates_found": [
+      "11/03/2026",
+      "8.1.26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 30.7,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "afebrile"
+    ],
+    "symptoms": [
+      "cough"
+    ],
+    "treatments": [
+      "ns"
+    ]
+  }
+}

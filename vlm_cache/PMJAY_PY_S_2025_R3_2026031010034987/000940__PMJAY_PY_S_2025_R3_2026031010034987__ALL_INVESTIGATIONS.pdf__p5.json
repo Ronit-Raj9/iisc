@@ -1,0 +1,32 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "WIDAL Bill/UMR No : IP251978 / 2024062570844 Admn/Room/Bed : S4213436 / RES4086169 WARD/ROOM/BED : PAEDIATRICS II/UNIT II/PAE-2-29 Lab No : ISE 1890 TITRE Normal Range Specimen : Serum WIDAL * 160 < 80 TH: * < 160 AH: * < 20 < 160 BH: * < 160 INTERPRETATION : TITRES SUGGESTIVE OF EARLY ENTERIC FEVER. KINDLY SEND A REPEAT SAMPLE AFTER 1 WEEK FOR CONFIRMATION.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "6",
+    "dates_found": [
+      "10-Mar-2026",
+      "12-Mar-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

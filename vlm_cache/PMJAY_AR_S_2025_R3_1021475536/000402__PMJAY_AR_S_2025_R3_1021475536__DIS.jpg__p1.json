@@ -1,0 +1,37 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "ADMITTED ON 10/2/2016 DISCHARGED ON 13/02/2016 HOSP REG NO IPRD REG NO MRD NO Diagnosis Thrombocytopenia/ Anemia / Mild Rt. Hypochondrium Consuctar. B. P. O.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "10/2/2016",
+      "13/02/2016"
+    ],
+    "doa": "10/2/2016",
+    "dod": "13/02/2016",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "thrombocytopenia",
+      "anemia"
+    ],
+    "symptoms": [
+      "rt hypochondrium pain"
+    ],
+    "treatments": [
+      "consultation"
+    ]
+  }
+}

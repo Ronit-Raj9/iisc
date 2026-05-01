@@ -1,0 +1,41 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.75,
+  "ocr_snippet": "21/03/26\n015/5 Casualty Team\n clO Neck pain & swelling\nAfebrile x 24hrs\n\nBP-110/80mmHg\nPR-98 bpm\n$pO2-94% @RA\n\nORS\nONS\n P/A\n\nAdvice:\n1) I.ONS\n2) T.OMEZ 20mg 1-0-1\n3) T.BCL 150\n4) T.STOP 50mg SOS\n5) T. SEFATOPEPTIDASE 10mg 1-0-1\n6) I/G dressings\n7) HOTPACK APPLICATION",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "21/03/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "neck pain",
+      "swelling",
+      "afebrile"
+    ],
+    "treatments": [
+      "i.ons",
+      "t.omez",
+      "t.bcl",
+      "t.stop",
+      "t. sefatopeptidase",
+      "i/g dressings",
+      "hotpack application"
+    ]
+  }
+}

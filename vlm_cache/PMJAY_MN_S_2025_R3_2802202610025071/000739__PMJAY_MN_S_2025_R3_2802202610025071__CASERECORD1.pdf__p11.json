@@ -1,0 +1,35 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Progress Record/Advice Bed No. - 394/88 Age/Sex 55/M Doctors Order Stop milk 3 ty RL 10 iv stat 3 ty D2 100ml iv stat 1 ty otta 2",
+  "language": "en|hi",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "55",
+    "dates_found": [
+      "21/3/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "milk",
+      "rl 10",
+      "iv stat",
+      "d2 100ml",
+      "otta"
+    ]
+  }
+}

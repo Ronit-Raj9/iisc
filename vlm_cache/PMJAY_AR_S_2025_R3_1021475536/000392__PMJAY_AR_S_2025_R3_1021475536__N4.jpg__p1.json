@@ -1,0 +1,34 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "11/02/26 BP - 100/90 m/4 2.30pm BP - 100/80 m/4 22. 22.500ml 11/02/26 BP- 120/90 m/4 11:50Am BP - 112/81 mm 2PA=116/6/m1 2PM BP 120/90 m/4 S/Ion- 118/mm 11/02/26 BP - 120/90 m/4 S/Ion = 99 in 10/02/26 BP - 120/90 m/4 S/ion - 99 8pm Inj. Dinaset 40 IV 1/cke109 sin 14yr 6am Inj Dinaset 40 IV 1/ck109 sin 14yr Ciprofloxacin 1gm IV",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/02/26",
+      "10/02/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "blood transfusion",
+      "dinaset",
+      "ciprofloxacin injection"
+    ]
+  }
+}

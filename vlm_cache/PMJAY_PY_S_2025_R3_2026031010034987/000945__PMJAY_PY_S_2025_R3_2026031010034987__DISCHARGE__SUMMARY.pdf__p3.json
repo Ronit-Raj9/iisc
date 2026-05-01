@@ -1,0 +1,31 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient Name : Neck - RR - 26/min Temperature- 98.4 F Examination (AT ADMISSION) Class III according to Modified Kuppuswamy scale Child is active and alert Pallor+ , clubbing or pedal edema No icterus, cyanosis lymphadenopathy VITALS: HR - 98/min SpO2 - 98% in R.A. All peripheral pulses well felt ANTHROPOMETRY: HEAD-TOE : Head - normal Face - normal",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 36.89,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "pallor",
+      "clubbing",
+      "edema"
+    ],
+    "treatments": []
+  }
+}

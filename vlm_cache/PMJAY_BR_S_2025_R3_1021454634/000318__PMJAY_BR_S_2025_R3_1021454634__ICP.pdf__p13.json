@@ -1,0 +1,35 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Doctors Progress & Re-Assessment Notes\nDMC/Consultancy 11/101/2026-1734 / Apalhemia\nS magaloblastic Anemia CI PRBC transfused\ncontinue Same Treatment\nBP 114/80 mmHg\nSpO2 98% on RR",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "26/11/09"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.8,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "smagaloblastic anemia",
+      "apalhemia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "transfused",
+      "treatment"
+    ]
+  }
+}

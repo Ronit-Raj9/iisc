@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.8,
+  "ocr_snippet": "Doctors Order Progress Report/Advice BP - 110/70 P/S - 79 TPR - 99.4 F Hb - 3.8 g/dL  s/ Lab 82 /TLI TLI - 200 x 888 g/dL- DI blood infection. Latra Soms So belation @ 5g Xpa 9 ml a/ - 9 ml L.D. 10 32.8 m0 1.8, 36.3 2000 & 100ml NS",
+  "language": "en|hi",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      3.8
+    ],
+    "temperature_celsius": 37.4,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "blood infection"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "ns"
+    ]
+  }
+}

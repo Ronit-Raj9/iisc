@@ -1,0 +1,31 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "HAEMATOLOGY Hb 5.2 TLC 7.0 ESR 8 PCV 19.3 MCV Platelet Count 294 PS for Sickling Reticulocyte Count Peripheral Smear CT ACE/Blood Grouping & Rh AB+",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "22/1/19"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      5.2
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

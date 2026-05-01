@@ -1,0 +1,37 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Nurses Report ALL documentation should be with time, Special care to be counter signed by senior Nurse.  Date & Time NURSE'S NOTES DIET Details 2pm fluid Conscious  8:30 fluid tolerated well 4pm reassessment done. pain-0. BUX-89. V.I.P. IV line some out Supplemental to Dr. Deepti SLb Dr. Monica Advised to IV line & cont. IV Antibiotic",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "69",
+    "dates_found": [
+      "16/12/96"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "pain"
+    ],
+    "treatments": [
+      "fluid",
+      "antibiotic",
+      "iv line"
+    ]
+  }
+}

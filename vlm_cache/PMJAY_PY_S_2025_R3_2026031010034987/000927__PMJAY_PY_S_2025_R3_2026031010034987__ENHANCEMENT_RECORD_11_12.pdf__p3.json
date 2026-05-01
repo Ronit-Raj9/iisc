@@ -1,0 +1,38 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient’s Name.......PIMS No.......2024062570844.....050.....Tropical....Incapable....Fever....-> do ↓oral Intake....-> No do lethargy....-> do V0m1t1ng x 3 episodes....-> No do loose stools x 3 episodes....-> No do altered sensorium....tone pain....HR-132/min....RR-34min....SF-97...",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "20240625"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.8,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "fever",
+      "vomiting",
+      "loose stools",
+      "lethargy",
+      "altered sensorium",
+      "tone pain"
+    ],
+    "treatments": []
+  }
+}

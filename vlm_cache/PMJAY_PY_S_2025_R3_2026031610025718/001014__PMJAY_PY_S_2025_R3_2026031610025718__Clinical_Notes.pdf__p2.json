@@ -1,0 +1,36 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "COMPLAINTS: C/o fever & fatigue. N/E for apparently 1 week. No other longer duration. apparently and progressively after which developed fever, which was insidious in onset, progressive in nature. Low grade in nature. with NO palpitations & relieving factors. No vomiting, weight loss, Expectoration.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": 7,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "fever",
+      "fatigue",
+      "palpitations",
+      "vomiting",
+      "weight loss",
+      "expectoration"
+    ],
+    "treatments": []
+  }
+}

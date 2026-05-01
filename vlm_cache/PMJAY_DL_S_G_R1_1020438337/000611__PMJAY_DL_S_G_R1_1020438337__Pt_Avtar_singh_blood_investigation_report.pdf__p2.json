@@ -1,0 +1,32 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "CBC\n\nTest Name\nSample Type : WHOLE BLOOD EDTA\nTOTAL LEUKOCYTE COUNT (TLC)\nNEUTROPHIL\nLYMPHOCYTE\nMONOCYTE\nEOSINOPHIL\nMONONEUTROPHIL\n\nABSOLUTE NEUTROPHIL COUNT\nABSOLUTE MONOCYTE COUNT",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "23/Jan/2023 03:13PM",
+      "23/Jan/2023 01:33PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      13.6
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

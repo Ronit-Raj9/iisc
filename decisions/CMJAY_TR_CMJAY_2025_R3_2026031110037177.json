@@ -1,0 +1,54 @@
+{
+  "case_id": "CMJAY_TR_CMJAY_2025_R3_2026031110037177",
+  "package_code": "MG006A",
+  "decision": "FAIL",
+  "confidence": 0.9,
+  "reasons": [
+    "[claim-review] Patient is a 1-year-old female admitted for enteric fever.",
+    "[claim-review] Multiple clinical notes document the patient's condition and treatment plan.",
+    "[claim-review] Investigation report indicates a negative Malaria Rapid Test.",
+    "[claim-review] Discharge summary confirms PMJAY/CMJAY coverage.",
+    "[claim-review] Photo evidence and feedback forms are present.",
+    "Missing mandatory document: investigation_post",
+    "Fever threshold/duration not proven: need >=38.3 C / 101 F and >2 days."
+  ],
+  "missing_documents": [
+    "investigation_post"
+  ],
+  "rule_flags": [
+    "TMS_RULE_1_FEVER",
+    "TMS_RULE_2_POST_LAB"
+  ],
+  "timeline_flags": [
+    "Pre-admission investigation on 05-03-2026",
+    "Admission on 11-03-2026",
+    "Discharge on 14-03-2026"
+  ],
+  "claim_reconciliation": {
+    "suggested_timeline_flags": [
+      "Pre-admission investigation on 05-03-2026",
+      "Admission on 11-03-2026",
+      "Discharge on 14-03-2026"
+    ],
+    "manual_review_notes": [
+      "Patient is a 1-year-old female admitted for enteric fever.",
+      "Multiple clinical notes document the patient's condition and treatment plan.",
+      "Investigation report indicates a negative Malaria Rapid Test.",
+      "Discharge summary confirms PMJAY/CMJAY coverage.",
+      "Photo evidence and feedback forms are present."
+    ],
+    "duplicate_upload_groups": [
+      [
+        "000836__CMJAY_TR_CMJAY_2025_R3_2026031110037177__Cn_Jesmina_darlong_12.pdf",
+        "000845__CMJAY_TR_CMJAY_2025_R3_2026031110037177__babyofjesminadarlongdocument_11zon.pdf",
+        "000845__CMJAY_TR_CMJAY_2025_R3_2026031110037177__babyofjesminadarlongdocument_11zon.pdf"
+      ]
+    ],
+    "evidence_alignment_notes": [
+      "Admission date (11/03/2026) is consistent across clinical notes, discharge summary, and indoor case document.",
+      "Discharge date (14/03/2026) is consistent across discharge summary and indoor case document.",
+      "Patient age (1Y 9M) is consistently reported across multiple documents.",
+      "UHID (15678) is consistent across all documents."
+    ]
+  }
+}

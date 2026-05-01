@@ -1,0 +1,35 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DOCTORS PROGRESS & RE-ASSESSMENT NOTES. IP No: 26/110098. UHID: 101301186. Patient Rina Kumari 38f, normotensive c/o complaint of - ❷ Black colored stools x 2 days ❷ Pain abdomen x 20 days. Patient was apparently well 20 days back when she developed - ❷ Black colored stools x 5 days - gradual onset, progressively 3-4 episodes/day. Nature - foul smelling ass w constipation. ass w generalized weakness.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38",
+    "dates_found": [
+      "11/2/24",
+      "20 days"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "black colored stools",
+      "pain abdomen",
+      "constipation",
+      "generalized weakness"
+    ],
+    "treatments": []
+  }
+}

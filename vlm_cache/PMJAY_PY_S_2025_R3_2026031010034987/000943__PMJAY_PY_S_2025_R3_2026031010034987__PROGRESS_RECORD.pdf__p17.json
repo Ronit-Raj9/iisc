@@ -1,0 +1,38 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient’s Name… PROGRESS SHEET… PIMS No… 808/26 7/81.8… A ENTERIC FEVER No C/o Fever spike No C/o abdominal pain No C/o Altered sensorium No C/o Vomitting No C/o Headache... ",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "8/8/26",
+      "7/81.8"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "headache",
+      "vomitting",
+      "altered sensorium",
+      "abdominal pain",
+      "fever"
+    ],
+    "treatments": []
+  }
+}

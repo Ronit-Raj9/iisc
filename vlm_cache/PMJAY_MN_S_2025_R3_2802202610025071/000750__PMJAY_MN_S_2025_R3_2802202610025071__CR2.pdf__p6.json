@@ -1,0 +1,31 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "BP - 130/80, 80, PR - 98, T - 98.4°F. Psychiatry Referral Informed about visit today 3/3/26 Doctors Order Progress Report / Advice Bed No. 308 …………. Age/Sex …………. 50y.lf.",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "50",
+    "dates_found": [
+      "3/3/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.0,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "psychiatry"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DAILY NOTES TREATMENT DATE 18/1/22 SpO2 - 98% BP - 130/80 mmHg Treatment 18/1/22 BP - 140/90 mmHg SpO2 - 94% Hb - 11.6gm/dL 19/1/22 - 120/80 mmHg Hb - 11.8 gm/dL",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "18/1/22",
+      "19/1/22"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      11.6,
+      11.8
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

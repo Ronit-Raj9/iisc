@@ -1,0 +1,36 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "BP - 110/70 mmHg Pulse - 120/1 Temp - 102°F SPO2 - 98% FPD Serial No. OPD visit within 13-Mar-2028. Old visit between 14-Mar-2026 and 29-Mar-2026. 50 kg/Sex : 50 Y/Female Unit: Endo/Med. Psychosis NOS. x today, diarrhoea/ Irrelevant/cor st...",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "50",
+    "dates_found": [
+      "14-Mar-2026",
+      "29-Mar-2026",
+      "13-Mar-2028",
+      "26-Feb-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.89,
+    "fever_duration_days": 1,
+    "diagnoses": [
+      "psychosis nos"
+    ],
+    "symptoms": [
+      "diarrhoea"
+    ],
+    "treatments": []
+  }
+}

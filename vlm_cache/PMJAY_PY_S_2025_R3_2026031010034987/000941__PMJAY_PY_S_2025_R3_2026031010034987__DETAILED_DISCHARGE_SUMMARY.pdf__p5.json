@@ -1,0 +1,31 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "TOTAL WHITE LEUCOCYTE COUNT 5.42 x 1000/µL NEUTROPHIL 62% LYMPHOCYTE 30% MONOCYTE 8% LIVER PROFILE Bilirubin Total 0.2 mg/dL Bilirubin Direct 50 U/L SGOT 31 U/L SGPT 102 U/L Alkaline Phosphatase U/L",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "10-Mar-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      8.6
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

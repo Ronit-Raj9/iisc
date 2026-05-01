@@ -1,0 +1,36 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Paediatric & Neonatology Consultant & Critical Care, Patients Name: EGT, AGE-1Y 9M  Sex-F UMID-15678 Address: Father Name: JESTMINA DARLONG Mobile No: 7022051223 DATE-11/03/2026 eye -Nephrite sick book writable clean oft. cu and NAD...",
+  "language": "en|mixed",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "1Y 9M",
+    "dates_found": [
+      "11/03/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "sick"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "amikacin",
+      "dns",
+      "syrup",
+      "bn"
+    ]
+  }
+}

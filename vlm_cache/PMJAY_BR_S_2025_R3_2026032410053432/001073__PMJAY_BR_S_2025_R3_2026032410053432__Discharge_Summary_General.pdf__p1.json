@@ -1,0 +1,46 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "A PATIENT OF AGE 41 YEAR FEMALE CAME ON 24/03/2026 AT 11:37:32 WITH COMPLAINT OF WEAKNESS SINCE 7 MONTHS. NO H/O BLEEDING ON EXAMINATION BP: 110/80MMHG RESP: 16/MIN BP: 120/80 MM/HG A PATIENT OF AGE YEAR FEMALE WITH ABOVE COMPLAINT WAS ADMITTED IN WARD UNDER FOLIC ACID (S) 1-0-0 IRON PAN 40 1-0-0 FOLLOW UP AFTER 5 DAYS IN OPD NO:101-108 THE PATIENT / NEAREST EMERGENCY DEPARTMENT IF ANY OF THE FOLLOWING SYMPTOMS DEVELOP AFTER DISCHARGE: -PERSISTENT FEVER OR DIFFICULTY IN BREATHING -SEVERE WEAKNESS, EXTREME FATIGUE, OR BODY PAIN -REPEATED VOMITING AND/OR LOOSE MOTIONS -DIZZINESS, DIZZINESS, OR F",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "41",
+    "dates_found": [
+      "24/03/2026",
+      "25/03/2026"
+    ],
+    "doa": "24/03/2026",
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe deficiency anemia"
+    ],
+    "symptoms": [
+      "weakness",
+      "fever",
+      "difficulty in breathing",
+      "severe weakness",
+      "extreme fatigue",
+      "body pain",
+      "vomiting",
+      "loose motions",
+      "dizziness",
+      "fainting episodes"
+    ],
+    "treatments": [
+      "iron sucrose injection",
+      "iron pan"
+    ]
+  }
+}

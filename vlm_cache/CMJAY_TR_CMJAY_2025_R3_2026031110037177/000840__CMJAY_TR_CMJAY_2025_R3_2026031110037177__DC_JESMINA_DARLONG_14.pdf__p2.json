@@ -1,0 +1,30 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.98,
+  "ocr_snippet": "DISCHARGE SUMMARY IPD No : II/25/1382 Consultant : UHI-15678 Bed Number : PICU BED-1 AYUSHMAN BHARAT (PMJAY/CMJAY) Signature (Patient Party) If patient party then Relation THE HOPEWARATA - TRIPURA MEDICAL COLLEGE-RETINA DEPT.- HAPANIA | UNAKOTI HOSPITAL - KAILASAHAR",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/02/2026",
+      "11/03/2026"
+    ],
+    "doa": "11/02/2026",
+    "dod": "11/03/2026",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "13/1/26 BP- 158/95 mmlig. SpO2 - 97% BP- 131/87 DR- ulftmed R- BP. 14/1/26 BP- 116/69 mmHg Spo2 92d.d- 96137 BP- 116/69 mmHg",
+  "language": "en",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "13/1/26",
+      "14/1/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "injected"
+    ]
+  }
+}

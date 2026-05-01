@@ -1,0 +1,41 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "CONDITION AT DISCHARGE:- STABLE. DIET ADVICE:- SOFT DIET. ADVICE MEDICINE:- S.NO MEDICINE NAME DOSE ROUTE FREQUENCY DAYS 1. TAB EMESET 500MG ORAL TWICE A DAY 5 DAYS 2. CAP VIZYLAC ORAL SOS 5 DAYS 3. TAB METFORMIN 500MG ORAL ONCE A DAY 5 DAYS 4. SYP LOZOR 10ML AT BED TIME 5 DAYS 5. TAB SHEL-HD 1 ORAL ONCE A DAY 5 DAYS 6. CAP ULTRACET 1 ORAL SOS 5 DAYS 7. TAB VITAMIN-C 1 ORAL ONCE A DAY 5 DAYS 8. SYR ARISTOZYME 2 TSP ORAL TWICE A DAY 5 DAYS Advice :- Hold Cosprin/or any blood thinner for 30 days.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "5 DAYS"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anemia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "emeiset",
+      "vizylac",
+      "metformin",
+      "lozor",
+      "shel-hd",
+      "ultracet",
+      "vitamin-c",
+      "aristozyme",
+      "cosprin"
+    ]
+  }
+}

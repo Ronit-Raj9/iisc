@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "Systemic Examination: CVS – Soft S1, S2. RS – B/L B. No added sounds. Abdomen: T – Normoactive. L/S – Slightly tenderness in R.I.Q. Co-ex. CNS: GCS – 15/15. Provisional Diagnosis: Typhoid Fever. Investigation’s: CBC, CRP, LFT, USG, CT. Blood Examination’s: HB g/ml, TLC, DC.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "19/9/23"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "typhoid fever"
+    ],
+    "symptoms": [
+      "tenderness"
+    ],
+    "treatments": []
+  }
+}

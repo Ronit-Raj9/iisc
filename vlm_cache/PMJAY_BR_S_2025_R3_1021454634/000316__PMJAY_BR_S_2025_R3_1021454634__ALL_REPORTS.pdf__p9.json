@@ -1,0 +1,38 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Blood Group (ABO and Rh) measures the rate at which RBCs settle at the bottom of a test tube. A higher than normal ESR indicates an underlying inflammatory process which can be seen in arthritis, rheumatic fever, vasculitis, kidney diseases, various malignancies and physiological conditions like pregnancy, spherocytosis etc.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38",
+    "dates_found": [
+      "11/02/2026",
+      "12/02/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "arthritis",
+      "rheumatic fever",
+      "vasculitis",
+      "kidney diseases",
+      "malignancies",
+      "pregnancy",
+      "spherocytosis"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

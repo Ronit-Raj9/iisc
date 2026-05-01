@@ -1,0 +1,37 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "PERIPHERAL SMEAR STUDY AND CBC HEMOGLOBIN 9.0 g/dl RBC COUNT 3.66 million/µL MCV 76.8 fL MCH 24.6 pg MCHC 32.0 % PLATELET COUNT 495 WBC TOTAL CELL COUNT 9.72 x 1000/µL LYMPHOCYTE 50% A year old male child came with the above mentioned complaints. On examination mild blanchable rash, purpura revealed pallor. Head to toe examination was normal. There was no eschar, or scab. Limited investigations were done with CRP...",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "1",
+    "dates_found": [
+      "11-Mar-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      9.0
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "rash",
+      "purpura",
+      "pallor"
+    ],
+    "treatments": []
+  }
+}

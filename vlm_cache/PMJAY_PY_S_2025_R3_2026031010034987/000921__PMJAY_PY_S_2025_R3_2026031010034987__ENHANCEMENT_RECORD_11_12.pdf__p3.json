@@ -1,0 +1,36 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient’s Name …………………………………PIMS No ……………………………………..2024062570844.  4/12/2.  O.S.B. -> Tropical Fever. Inaptable Enteric fever. -> do ↓ oral intake. -> No do lethargy. -> do Vomiting x 3 episodes. -> No do altered sensorium. No do bone pain. HR - 132/min RR - 34min. SF – 99.2°F PP – ttt//tt (PA) =>do fever=>",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "4/12/2"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.33,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "fever",
+      "vomiting",
+      "lethargy",
+      "bone pain"
+    ],
+    "treatments": []
+  }
+}

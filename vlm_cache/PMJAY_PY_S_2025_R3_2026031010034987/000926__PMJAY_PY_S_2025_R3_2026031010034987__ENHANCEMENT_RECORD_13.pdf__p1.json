@@ -1,0 +1,39 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "PROGRESS SHEET PIMS No. 2024062570844 10/06/24 7:i am ENTERIC FEVER Nutritional Anemia do Fever do loose Stool x 2 episodes No do altered sensorium No do abdominal pain No do decrease urine output. No do joint pain Hbn 100/min RR 26/min SPo2 97 BP: 120/70mmhg",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "10/06/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever",
+      "anemia"
+    ],
+    "symptoms": [
+      "fever",
+      "loose stool",
+      "altered sensorium",
+      "abdominal pain",
+      "decrease urine output",
+      "joint pain"
+    ],
+    "treatments": []
+  }
+}

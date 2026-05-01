@@ -1,0 +1,32 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "LAB INVESTIGATION: TEST NAME: BLOOD GROUP  DATE: 24/03/2026  Result  Normal Value (MIN-MAX)  AB+  NEAGTIVE  TEST NAME: HAEMOGRAM CBC  DATE: 24/03/2026  Sr. No. Parameters   1   RDW-CV   2   BASO   3   MONO   4   EOSIN   5   LYMPHO   6   POLYS   7   PLT   8   MCH   9   MCV   10  MCH",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "41",
+    "dates_found": [
+      "24/03/2026",
+      "24/03/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anemia"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

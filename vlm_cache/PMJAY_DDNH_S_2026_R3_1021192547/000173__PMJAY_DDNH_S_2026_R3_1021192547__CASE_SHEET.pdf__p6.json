@@ -1,0 +1,35 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Nurses Note 2/2/96. Came hospital & conscious. Room OPD Pt. very weak. BD SL. B. IDD. Paracetamol. Pt. special care end Record. T- 102. Bimu SPO - 98%. Pt. Admission Record done. Pt medication given. cespy. Welsh orders, pending. Staff. 7pm Pt. Hlo dive. to empty.",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "2/2/96"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 36.9,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "idd"
+    ],
+    "symptoms": [
+      "weak"
+    ],
+    "treatments": [
+      "paracetamol"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "SCRUB TYPHUS Bill No/Result No : S4215437 / RE54085210 Sample Rec. : 10-Mar-2026 03:14 PM Admn/UMR No : IP251978 / 202402570844 Report Date : 11-Mar-2026 01:43 PM Ward/Room/Bed : PEDIATRICS II/UNIT II/PAE2-29 Lab No : SS 330 Final Report Biological Reference Method",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "10-Mar-2026",
+      "11-Mar-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

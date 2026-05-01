@@ -1,0 +1,47 @@
+{
+  "case_id": "PMJAY_BR_S_2025_R3_1021667188",
+  "package_code": "MG006A",
+  "decision": "FAIL",
+  "confidence": 0.9,
+  "reasons": [
+    "[claim-review] Clinical notes mention fever, headache, backache, vertigo, and constipation. Confirm diagnosis of enteric fever aligns with discharge summary.",
+    "[claim-review] Extra document appears to be a feedback form related to PMJAY services.",
+    "[claim-review] Discharge summary confirms patient was treated for enteric fever.",
+    "Missing mandatory document: investigation_pre",
+    "Missing mandatory document: vitals_treatment",
+    "Missing mandatory document: investigation_post",
+    "Fever threshold/duration not proven: need >=38.3 C / 101 F and >2 days."
+  ],
+  "missing_documents": [
+    "investigation_pre",
+    "vitals_treatment",
+    "investigation_post"
+  ],
+  "rule_flags": [
+    "TMS_RULE_1_FEVER",
+    "TMS_RULE_2_PRE_LAB",
+    "TMS_RULE_2_POST_LAB"
+  ],
+  "timeline_flags": [
+    "pre_date_present",
+    "post_date_present",
+    "dates_match"
+  ],
+  "claim_reconciliation": {
+    "suggested_timeline_flags": [
+      "pre_date_present",
+      "post_date_present",
+      "dates_match"
+    ],
+    "manual_review_notes": [
+      "Clinical notes mention fever, headache, backache, vertigo, and constipation. Confirm diagnosis of enteric fever aligns with discharge summary.",
+      "Extra document appears to be a feedback form related to PMJAY services.",
+      "Discharge summary confirms patient was treated for enteric fever."
+    ],
+    "duplicate_upload_groups": [],
+    "evidence_alignment_notes": [
+      "CBC report date (16/02/2026) aligns with pre-date and post-date.",
+      "Clinical notes and discharge summary both indicate a diagnosis of enteric fever."
+    ]
+  }
+}

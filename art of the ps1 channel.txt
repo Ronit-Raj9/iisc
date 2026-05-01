@@ -1,0 +1,2532 @@
+art of the #ps1 channel. 
+Vipin — 4/21/26, 1:29 PM
+HI rAKSHIT
+Rakshit Ramesh (Moderator) — 4/21/26, 1:30 PM
+Made you moderator sir
+Vipin — 4/21/26, 1:30 PM
+ADD JTOYI mA'AM
+AS WELL
+Rakshit Ramesh (Moderator) — 4/21/26, 1:32 PM
+Please send her the link sir. Will make her moderator. I have made shaileja and hardik mods. They can create and send invites.
+Hardik — 4/21/26, 1:33 PM
+Rakshit i can give the same link on website as well right which you shared with me for discord?
+https://discord.gg/jyyeuauG
+
+
+this one
+Rakshit Ramesh (Moderator) — 4/21/26, 1:35 PM
+Yess
+Hardik — 4/21/26, 1:41 PM
+Platform Link
+
+https://aaehackathon.nhaad.in/
+Hardik
+ pinned a message to this channel. See all pinned messages. — 4/21/26, 1:41 PM
+Vipin — 4/21/26, 2:19 PM
+I THINK ... ON OPEN DISCUSSION PLATFORM , 2-3 PEOPLE HAVE RAISED QUERIES... HAVE WE ADDRESSED THEM AND PL RESPOND TO THOSE QUERIESUNDER DISCUSSIONS FORUM
+Rakshit Ramesh (Moderator) — 4/21/26, 2:35 PM
+Yes sir. All of them have been addressed on whatsapp as well. I will make a separate channel and message you there for our internal discussions.
+Rizentenium — 4/21/26, 4:36 PM
+i have mistakenly renamed the file. Will it be a problem?
+Vishnu Tripathi — 4/21/26, 4:50 PM
+I understood your point @Rakshit Ramesh (Moderator) but how can i evalute my output to check accuracies on leaderboard.
+
+or i have to put entire code/ uplaod my notebook in the jupyter lab to check ?? 
+Dr Pradeep Achhwan — 4/21/26, 4:57 PM
+Hello, Good Evening Everyone !!
+Vishnu Tripathi — 4/21/26, 5:00 PM
+@Rakshit Ramesh (Moderator) , I'm not able to open my existing running noteobok
+Image
+Novoneel Chakraborty (moderator) — 4/21/26, 5:02 PM
+Are you able to click on the Action button and get a dropdown?
+Rakshit Ramesh (Moderator) — 4/21/26, 5:09 PM
+Actions -> Start. Open.
+Rakshit Ramesh (Moderator) — 4/21/26, 5:09 PM
+Yes
+Vishnu Tripathi — 4/21/26, 5:25 PM
+ok, thanks
+Vishnu Tripathi — 4/21/26, 5:36 PM
+..
+Novoneel Chakraborty (moderator) — 4/21/26, 5:50 PM
+You have to submit your code through the jupyter notebook for the evaluation to take place. Leaderboard will be based on that
+JantaFlash — 4/21/26, 5:51 PM
+We need to go for submission through an evaluation option given at the PS page? And how many times we can run evaluate
+JantaFlash — 4/21/26, 6:11 PM
+Can we add packages for ps1 from 4 to 12.
+Also the gold truth label set for 40 claims published? (As without that we can only do self report accuracy)
+What is the sla for confidence threshold for auto approve
+Also , will hospitals send structured FHIR/HL7 fields or is ocr the permanent input format
+Hardik — 4/21/26, 6:19 PM
+We don’t get FHIR /HL7 fields from hospitals we only get documents hence we have to build our models to extract data
+Hardik — 4/21/26, 6:20 PM
+Label data is with us only you will see results on evaluation 
+That won’t be published
+Rizentenium — 4/21/26, 6:23 PM
+My note book is still not opening
+@Rakshit Ramesh (Moderator) sir
+Amarthya (Moderator) — 4/21/26, 6:23 PM
+can you share your email?
+Rizentenium — 4/21/26, 6:23 PM
+rizwankhan3105@gmail.com
+I have prepared all the codes their now it's not opening
+Dr Pradeep Achhwan — 4/21/26, 6:25 PM
+Looking for one strong CV/ML engineer as a technical partner !!
+Rakshit Ramesh (Moderator) — 4/21/26, 6:26 PM
+Will it be ok if we mail you your past work?
+Rizentenium — 4/21/26, 6:27 PM
+Is it gone sir? I can't access that?
+Vishnu Tripathi — 4/21/26, 6:28 PM
+Thank you @Novoneel Chakraborty (moderator) 
+JantaFlash — 4/21/26, 6:32 PM
+Thank you.
+Rakshit Ramesh (Moderator) — 4/21/26, 6:32 PM
+It's not gone. Just helping you out.
+Vamsi Naik — 4/21/26, 6:47 PM
+can you check now 
+Vamsi Naik — 4/21/26, 6:52 PM
+are you able to open notebook now?
+Rizentenium — 4/21/26, 7:27 PM
+Let me check and confirm you.
+Rizentenium — 4/21/26, 8:21 PM
+Yes it's opening
+Thank you so much
+How many times I can evaluate myself?
+Rizentenium — 4/21/26, 8:38 PM
+What is the data bank id? One is available is not working.
+Image
+Novoneel Chakraborty (moderator) — 4/21/26, 9:12 PM
+what error are you getting with the databank ID?
+Debasmita Pal — 4/21/26, 9:40 PM
+Only one team member will register?or all team members have to register
+Novoneel Chakraborty (moderator) — 4/21/26, 9:44 PM
+you can register as a team and share the credentials with your team members
+Debasmita Pal — 4/21/26, 10:05 PM
+Ok thanks
+Athiq — 4/21/26, 11:01 PM
+I can see a demo.ipynb which is different from what was shown during the platform session today ? I dont see the tempalte version nor I can see any code snippet on model, is this right ?
+Joel_DJ — 4/21/26, 11:02 PM
+Can you send a screenshot and tell me for which problem statements are you seeing this ?
+Rakshit Ramesh (Moderator) — 4/21/26, 11:03 PM
+You're most likely still running the sandbox from the weekend. Backup your content, delete your notebook and create it again.
+Athiq — 4/21/26, 11:03 PM
+ps 1
+Image
+Athiq — 4/21/26, 11:04 PM
+I just logged in few mins back
+Joel_DJ — 4/21/26, 11:04 PM
+Is the notebook created today?
+Athiq — 4/21/26, 11:04 PM
+yes, just few mins back
+Rakshit Ramesh (Moderator) — 4/21/26, 11:05 PM
+You have directly created a notebook. 
+Go to hackathon -> PS1 -> open in sandbox. 
+In project tab go to create notebook, don't change the prefilled name.
+Athiq — 4/21/26, 11:06 PM
+I went through Profile - Dashboard - My projects - Create notebook, is this not correct ?
+Rakshit Ramesh (Moderator) — 4/21/26, 11:06 PM
+Nope. Go to hackathon tab, for the specific problem statement, open In sandbox. It will redirect, switch to create tab and create. 
+Delete whatever you created earlier. 
+Athiq — 4/21/26, 11:10 PM
+cool, it worked, thnks
+Athiq — 4/21/26, 11:19 PM
+can you pls point me as how to get the client ID / secret, I went to profile section but unable to download any file over there
+Joel_DJ — 4/21/26, 11:20 PM
+You have to scroll down the profile page it will be a bit down
+Rakshit Ramesh (Moderator) — 4/21/26, 11:20 PM
+Security and access section
+Athiq — 4/21/26, 11:22 PM
+Ideally we should see get credentials, but I am seeing
+Image
+Rakshit Ramesh (Moderator) — 4/21/26, 11:22 PM
+Reset it. It'll download
+Adil Patel — 4/22/26, 7:35 AM
+Can anyone explain to me this I tried understanding but was not able to do it
+Hardik — 4/22/26, 7:37 AM
+Please let us know briefly about your query, what you are not able to understand?
+Adil Patel — 4/22/26, 7:38 AM
+As in how to proceed for the solution with these LLM, checked the sent documents
+Hardik — 4/22/26, 7:39 AM
+Go through output guidelines and STG under resource tab
+Adil Patel — 4/22/26, 7:40 AM
+Will check that sir. Thanks 🙏
+Rizentenium — 4/22/26, 8:51 AM
+When I give it, it's showing 401/404 error code
+Novoneel Chakraborty (moderator) — 4/22/26, 9:07 AM
+Can you try regenerating your credentials from your profile page? And using your updated clientid and secret
+virat [GPU],  — 4/22/26, 9:28 AM
+Unable to import the models, even with correct paths and credentials:
+from nha_client import NHAclient
+import base64
+
+
+clientId="my-clientID"
+clientSecret="my-clientSecret"
+
+
+nc = NHAclient(clientId, clientSecret)
+
+
+with open("c110a5f8-6e79-43bd-bd7a-979677354958/Claims/MG006A/CMJAY_TR_CMJAY_2025_R3_1022010623/000585CMJAY_TR_CMJAY_2025_R3_1022010623SUDHAN_DB.pdf", "rb") as image_file:
+    image_bytes = image_file.read()
+
+image_base64 = base64.b64encode(image_bytes).decode("utf-8")
+data_url = f"data:image/jpeg;base64,{image_base64}"
+
+response = nc.completion(
+    model="Ministral 3B", #use one of the models
+    messages=[
+        {
+            "role": "user",
+            "content": [
+                {"type": "image_url", "image_url": {"url": data_url}},
+                {"type": "text", "text": "What do you see"},
+            ],
+        }
+    ],
+    metadata={
+            "problem_statement":1
+        }
+)
+
+print(response)
+ [GPU], 
+Novoneel Chakraborty (moderator) — 4/22/26, 9:29 AM
+Are you using your clientid and secret?
+What error are you getting
+virat [GPU],  — 4/22/26, 9:31 AM
+Getting the JSONDecodeError 
+Attachment file type: unknown
+modelError
+2.86 KB
+ [GPU], 
+Novoneel Chakraborty (moderator) — 4/22/26, 9:33 AM
+Thanks, we'll look into this and get back shortly
+Rakshit Ramesh (Moderator) — 4/22/26, 9:38 AM
+It seems you're sending PDF to the LLM. You need to convert it to an image.
+Joel_DJ — 4/22/26, 9:39 AM
+Can you try with a single image ?
+virat [GPU],  — 4/22/26, 9:40 AM
+My bad, copied the wrong path. Working correctly with image. Thanks @Rakshit Ramesh (Moderator)
+virat [GPU],  — 4/22/26, 9:40 AM
+Yes, worked
+Rizentenium — 4/22/26, 9:55 AM
+I Don't know how to do that.
+Novoneel Chakraborty (moderator) — 4/22/26, 9:58 AM
+Click on your profile icon in the top right to go to your profile page, scroll down till you see Security and Access. You should see a button "Reset Credentials"
+Novoneel Chakraborty (moderator) — 4/22/26, 9:59 AM
+Click that button and download your creds. Use those when you are importing the databank along with the databank id
+Saravana Rajan — 4/22/26, 10:27 AM
+I created one for PS1 itself 
+And I tried to delete, action button was not working , so I tried create a new notebook again ,it shows this error me to facing this error
+can someone help me please
+Image
+Rakshit Ramesh (Moderator) — 4/22/26, 10:49 AM
+Hi @Saravana Rajan 
+We will reach out to you directly in half an hour.
+Dinakar V — 4/22/26, 10:50 AM
+Sir, this processes more difficult kidly do it heilp sir
+Saravana Rajan — 4/22/26, 10:50 AM
+thanks for the quick reply @Rakshit Ramesh (Moderator)
+
+age, scroll down till you see Security and Access. You should see a button "Reset Credentials"
+Novoneel Chakraborty (moderator) — 4/22/26, 9:59 AM
+Click that button and download your creds. Use those when you are importing the databank along with the databank id
+Saravana Rajan — 4/22/26, 10:27 AM
+I created one for PS1 itself 
+And I tried to delete, action button was not working , so I tried create a new notebook again ,it shows this error me to facing this error
+can someone help me please
+Image
+Rakshit Ramesh (Moderator) — 4/22/26, 10:49 AM
+Hi @Saravana Rajan 
+We will reach out to you directly in half an hour.
+Dinakar V — 4/22/26, 10:50 AM
+Sir, this processes more difficult kidly do it heilp sir
+Saravana Rajan — 4/22/26, 10:50 AM
+thanks for the quick reply @Rakshit Ramesh (Moderator)
+JantaFlash — 4/22/26, 11:00 AM
+Is this the right format in xls for ps1?
+Image
+Hardik — 4/22/26, 11:01 AM
+Please check output guidelines 
+You have to give output in json format as mentioned in the respective packages json
+JantaFlash — 4/22/26, 11:02 AM
+Okay
+Debasmita Pal — 4/22/26, 11:05 AM
+How can I join as a team
+CHIRASHREE — 4/22/26, 11:10 AM
+do i need to request for credits to move forward with my work?
+Joel_DJ — 4/22/26, 11:10 AM
+one can register and share the creds amongst teammates
+CHIRASHREE — 4/22/26, 11:10 AM
+how to do that?
+Joel_DJ — 4/22/26, 11:11 AM
+no you don't need to request anything . just download your client id and secret from profile and proceed.
+Vamsi Naik — 4/22/26, 11:11 AM
+Hey, I've DM'd you the meeting link — please check your personal chat. please join
+Debasmita Pal — 4/22/26, 11:11 AM
+How to do that
+CHIRASHREE — 4/22/26, 11:12 AM
+now it is showing credits 0 after creating notebook what to do?
+Soham — 4/22/26, 11:12 AM
+For a particular package output, should the json be at a file level or a case level?
+
+The output guidelines have the output at a file level
+Joel_DJ — 4/22/26, 11:12 AM
+so one person can register on the platform with their mail id and share those credentials amongst your teammates
+Joel_DJ — 4/22/26, 11:13 AM
+don't worry about that . you can proceed. you have take care the of the limit of token usage as mentioned in the models tab
+Hardik — 4/22/26, 11:52 AM
+Json is at file+page level please check output guidelines json format 
+Darth Vader — 4/22/26, 11:54 AM
+I am still facing problem creating a notebook for PS1
+Joel_DJ — 4/22/26, 11:55 AM
+are you not able to create one ?
+or is it taking too much time to make one ?
+Darth Vader — 4/22/26, 11:56 AM
+The status is showing as stopped
+Joel_DJ — 4/22/26, 11:57 AM
+@Vamsi Naik
+Joel_DJ — 4/22/26, 12:08 PM
+if there is an action button can click on it and start ?
+Darth Vader — 4/22/26, 12:34 PM
+Ya now its working
+
+Thank you
+Joel_DJ — 4/22/26, 12:43 PM
+great
+True_blue — 4/22/26, 1:10 PM
+can someone point me towards the expected output format?
+can someone point me towards the
+6 Messages ›
+There are no recent messages in this thread.
+JantaFlash — 4/22/26, 1:55 PM
+PS1: 4 JSONs · PS2: 4 Excel + 4 PDF · PS3: JSON + per-page YAML?
+Hardik — 4/22/26, 1:57 PM
+Correct, 
+Just in PS2: instead of excel there would be Json only whose structure is same as given excel; 
+Soon will update the output guidelines for the same.
+
+Rest is all correct
+KOUSHIK S — 4/22/26, 3:22 PM
+In the PS 1 only the given LLM model can be used or anyother models also can I use ?
+Joel_DJ — 4/22/26, 3:25 PM
+you can use only the models given
+if you use other models make sure they are offline and open source cause final evaluation will not entertain otherwise
+and please inform the orgasnisers if you are using any other models
+Rizentenium — 4/22/26, 3:48 PM
+Thank u sir
+Soham — 4/22/26, 4:05 PM
+In the output guidelines, we could not see any specific keywords or field for bounding box coordinates, so where should we stamp coordinates. (Also clarify the format, 4 coordinate or 8 coordinate system)
+
+Also where in the output jsons do we show the Claim Clinical Rule Checks or Remarks
+
+Kindly respond ASAP
+virat [GPU],  — 4/22/26, 4:06 PM
+Did something happen ? Suddenly getting jwt auth fail error on ps1 notebook. Tried logging out and back in a few times, still the same:
+Image
+Did something happen ? Suddenly getting
+6 Messages ›
+There are no recent messages in this thread.
+Kushal — 4/22/26, 4:06 PM
+How can we request GPU access for running OCR?
+Novoneel Chakraborty (moderator) — 4/22/26, 4:07 PM
+no GPU access
+kalash0403 — 4/22/26, 4:40 PM
+What is the preocedure if we want to use a custom model?
+Rakshit Ramesh (Moderator) — 4/22/26, 4:45 PM
+Upload the model into the notebook, install the dependencies.
+Model has to be opensource, trained on open data. Provide references in the notebook.
+kalash0403 — 4/22/26, 4:46 PM
+Thank you! And will be able to access GPU? Or we have to run the model on CPU?
+Novoneel Chakraborty (moderator) — 4/22/26, 5:17 PM
+You will not be provided gpu access
+Kanisha — 4/22/26, 6:06 PM
+Should the output JSON strictly match key order and naming exactly as provided, or is minor variation allowed?
+Joel_DJ — 4/22/26, 7:33 PM
+order can differ
+Hardik — 4/22/26, 9:45 PM
+Keep key name as is
+kalash0403 — 4/22/26, 10:23 PM
+Can someone please clarify the exact rate limits and time (per minute or day)?
+I am getting 403 error, after consuming 1000 tokens in total. And it shows auth token successful Status 200
+Joel_DJ — 4/22/26, 10:24 PM
+There are no per day limits
+Please check models tab on the platform to see the limits for models
+kalash0403 — 4/22/26, 10:27 PM
+Yes, my usage is well within the limit mentioned. Can you please clarify why I am getting 403 Error?
+Joel_DJ — 4/22/26, 10:28 PM
+Can you send a screenshot
+Of the error trace and your code
+kalash0403 — 4/22/26, 10:34 PM
+My bad, I forgot the metadata : problem statement argument in the completions function
+Anyways, Thanks
+JantaFlash — 4/23/26, 8:24 AM
+Good morning. Is the evaluate model working now?
+Good morning. Is the evaluate model
+1 Message ›
+There are no recent messages in this thread.
+Novoneel Chakraborty (moderator)
+ started a thread: Good morning. Is the evaluate model. See all threads. — 4/23/26, 9:45 AM
+On_Our_Way — 4/23/26, 11:29 AM
+For PS1, had a small query, in output guidelines i see the json, should we save these json? Or just print/ display @Hardik or @Rakshit Ramesh (Moderator)
+Joel_DJ — 4/23/26, 11:30 AM
+save as json file
+On_Our_Way — 4/23/26, 11:30 AM
+Naming format for json?
+Rakshit Ramesh (Moderator) — 4/23/26, 11:30 AM
+<package-name>.json
+Pragyanand saho — 4/23/26, 3:20 PM
+@Rakshit Ramesh (Moderator)  I have two questions
+Can we use HuggingFace models?
+For each case, is the output JSON dynamic or static?
+ 
+@Rakshit Ramesh (Moderator) I have
+4 Messages ›
+There are no recent messages in this thread.
+Pytesseract is a famous library for OCR 
+But it needs a system-level installation 
+If we use this, how can we proceed with that ? 
+Rakshit Ramesh (Moderator) — 4/23/26, 4:07 PM
+You can install Pytesseract from Conda forge
+In your notebook, hit the + tab and open terminal
+Let us know if you face issues with this.
+Pragyanand saho — 4/23/26, 4:09 PM
+and what about this
+Novoneel Chakraborty (moderator)
+ started a thread: @Rakshit Ramesh (Moderator)  I have. See all threads. — 4/23/26, 4:13 PM
+Kartikey — 4/23/26, 4:14 PM
+Do we have to also identify the package codes as a part of the process from the document or the input will be provided  as it is now for sample cases where we can identify the procedure codes from input folder.
+Do we have to also identify the package
+3 Messages ›
+There are no recent messages in this thread.
+Anshu — 4/23/26, 5:02 PM
+please involve me as well
+Pragyanand saho — 4/23/26, 6:57 PM
+@Novoneel Chakraborty (moderator) I have to confirm two things
+In the output JSON, what exactly does case_id represent?
+Is it a unique identifier for each patient case/claim (i.e., same across all pages of a document)?
+Or should it be different for each page (like C1, C2 per page)?
+
+In the output guidelines, only JSON submission is mentioned, but the problem statement also shows a summary table and timeline. Do we need to build and submit these as well, or just the JSON output?
+Hardik — 4/23/26, 7:03 PM
+1) folder name in which documents are present is the case_id, for each package you would have 10 claims hence you will see 40 case ids 
+2) stick to json only ignore everything else, json covers everything which is mentioned in output guidelines
+Hardik — 4/23/26, 7:04 PM
+Usually case id would start from pmjay_ 
+So it will repeat for all pages of that case
+It is a folder name basically
+Pragyanand saho — 4/23/26, 7:09 PM
+ok Understood, Thank you.
+Vishnu Tripathi — 4/23/26, 7:20 PM
+Hey @Rakshit Ramesh (Moderator)  , I’m a bit confused - just want to clarify the structure.
+For each package, do we have a single array of JSON objects containing all 10 claims in that package?
+Or does each individual claim folder contain its own array of JSON objects?
+On_Our_Way — 4/23/26, 10:18 PM
++1 even i have the same query
+Rakshit Ramesh (Moderator) — 4/23/26, 10:20 PM
+For each package, single json containing all 10 claims.
+So in total you will have 4 jsons.
+lokesh97bansal — 4/23/26, 11:42 PM
+@Rakshit Ramesh (Moderator) , @Novoneel Chakraborty (moderator) - how the NHA is going to give the STGs (other than the 4 that are given for development) during runtime? like how can we design the system to ingest any new unknown STG and then the solution will fetch all the guidelines and do required auditing?
+to enable any STG - the notebook has to be defined to have any STG as input- are there any provisions for this?
+Rakshit Ramesh (Moderator) — 4/23/26, 11:55 PM
+You have to create some kind of a rule lookup using the STG document. That is part of your solutioning. 
+Are you referring to using STG PDF document as input to LLM?
+Please feel free to include that inside your project folder then. When we evaluate, we will take whatever extra resources you have up
+
+
+Rakshit Ramesh (Moderator) — 4/23/26, 4:07 PM
+In your notebook, hit the + tab and open terminal
+Let us know if you face issues with this.
+Pragyanand saho — 4/23/26, 4:09 PM
+and what about this
+Novoneel Chakraborty (moderator)
+ started a thread: @Rakshit Ramesh (Moderator)  I have. See all threads. — 4/23/26, 4:13 PM
+Kartikey — 4/23/26, 4:14 PM
+Do we have to also identify the package codes as a part of the process from the document or the input will be provided  as it is now for sample cases where we can identify the procedure codes from input folder.
+Do we have to also identify the package
+3 Messages ›
+There are no recent messages in this thread.
+Anshu — 4/23/26, 5:02 PM
+please involve me as well
+Pragyanand saho — 4/23/26, 6:57 PM
+@Novoneel Chakraborty (moderator) I have to confirm two things
+In the output JSON, what exactly does case_id represent?
+Is it a unique identifier for each patient case/claim (i.e., same across all pages of a document)?
+Or should it be different for each page (like C1, C2 per page)?
+
+In the output guidelines, only JSON submission is mentioned, but the problem statement also shows a summary table and timeline. Do we need to build and submit these as well, or just the JSON output?
+Hardik — 4/23/26, 7:03 PM
+1) folder name in which documents are present is the case_id, for each package you would have 10 claims hence you will see 40 case ids 
+2) stick to json only ignore everything else, json covers everything which is mentioned in output guidelines
+Hardik — 4/23/26, 7:04 PM
+Usually case id would start from pmjay_ 
+So it will repeat for all pages of that case
+It is a folder name basically
+Pragyanand saho — 4/23/26, 7:09 PM
+ok Understood, Thank you.
+Vishnu Tripathi — 4/23/26, 7:20 PM
+Hey @Rakshit Ramesh (Moderator)  , I’m a bit confused - just want to clarify the structure.
+For each package, do we have a single array of JSON objects containing all 10 claims in that package?
+Or does each individual claim folder contain its own array of JSON objects?
+On_Our_Way — 4/23/26, 10:18 PM
++1 even i have the same query
+Rakshit Ramesh (Moderator) — 4/23/26, 10:20 PM
+For each package, single json containing all 10 claims.
+So in total you will have 4 jsons.
+lokesh97bansal — 4/23/26, 11:42 PM
+@Rakshit Ramesh (Moderator) , @Novoneel Chakraborty (moderator) - how the NHA is going to give the STGs (other than the 4 that are given for development) during runtime? like how can we design the system to ingest any new unknown STG and then the solution will fetch all the guidelines and do required auditing?
+to enable any STG - the notebook has to be defined to have any STG as input- are there any provisions for this?
+Rakshit Ramesh (Moderator) — 4/23/26, 11:55 PM
+You have to create some kind of a rule lookup using the STG document. That is part of your solutioning. 
+Are you referring to using STG PDF document as input to LLM?
+Please feel free to include that inside your project folder then. When we evaluate, we will take whatever extra resources you have uploaded as well. 
+We will inspect all of your imports and make sure you are not using an unauthorized LLM or any proprietary models.
+SwapnilAswale — 4/24/26, 12:29 AM
+@Rakshit Ramesh (Moderator)  Is there any chance to use Sarvam Vision 3B model 
+https://www.sarvam.ai/blogs/sarvam-vision
+beacuse this best benchmarking for this use case ?
+Sarvam AI
+Sarvam Vision | Sarvam AI
+Sarvam Document Intelligence
+Sarvam Vision | Sarvam AI
+Bharat Arora — 4/24/26, 1:08 AM
+@Rakshit Ramesh (Moderator) are we required to strictly follow the provided coding skeleton, like the functions and their parameters, or are we free to add new?
+rock — 4/24/26, 8:45 AM
+@Rakshit Ramesh (Moderator) two questions 
+The model should only focus on verifying and checking the docs according to STGs right ?
+Also we only have to make a model of python which takes input and provides the required output, no additional frontend is needed na ?
+Joel_DJ — 4/24/26, 8:50 AM
+You're free to create your own code structure
+Joel_DJ — 4/24/26, 8:51 AM
+To answer your second point ..there is no need of front end or anything. Just code
+Kartikey — 4/24/26, 10:44 AM
+As per output guideline pdf in the output json , we don’t have remarks also no keys for bounding box display etc ? So where we have to show these details if only output.json is expected.
+Hardik — 4/24/26, 10:45 AM
+Output json are different for different problem statements 
+For problem statement 1 stick with output guidelines json format only
+Rizentenium — 4/24/26, 2:55 PM
+What is client id and client secret? How to download it?
+WhoKnows — 4/24/26, 3:09 PM
+You can find this in the profile section of https://aaehackathon.nhaad.in/ after login
+Dinakar V — 4/24/26, 3:46 PM
+https://discord.gg/ErPRZ3RWQ
+ABPMJAY Auto Adjudication Challenge
+ABPMJAY Auto Adjudication Challenge
+54 Online
+530 Members
+Est. Apr 2026
+
+Go to Server
+Rizentenium — 4/24/26, 3:57 PM
+Not showing. That's why asking.
+lokesh97bansal — 4/24/26, 4:22 PM
+@Hardik if there is marginal gap between patient reports against the STG guidelines, for instance let's say in STG guideline for Enteric fever temp > 101 and in patient report if temp is 100.8 or something then should we consider if valid or invalid?
+kalash0403 — 4/24/26, 4:45 PM
+Is it necesaary to provide OCR outputs or visual entities? Or providing the correctly formatted JSON is enough for the sake of the hackathon?
+Hardik — 4/24/26, 4:53 PM
+Stick to json only
+Hardik — 4/24/26, 4:53 PM
+Consider it valid
+Vishnu Tripathi — 4/24/26, 5:38 PM
+@Rakshit Ramesh (Moderator) 
+one package -> one array of json -> on json element is for single page (possible single image or any pdf's page 
+am i right? 
+Rizentenium — 4/24/26, 5:52 PM
+How to download the client id and client secret credentials?
+Rizentenium — 4/24/26, 5:57 PM
+@Rakshit Ramesh (Moderator) @Novoneel Chakraborty (moderator)
+@Rakshit Ramesh (Moderator) @Novoneel
+8 Messages ›
+There are no recent messages in this thread.
+Kindly help.
+Novoneel Chakraborty (moderator)
+ started a thread: @Rakshit Ramesh (Moderator) @Novoneel. See all threads. — 4/24/26, 6:18 PM
+SwapnilAswale — 4/24/26, 7:27 PM
+@Rakshit Ramesh (Moderator)  structure output I clear we need 4 package and all clain output within that package json 
+but also we need to show Human-readable Summary — Sample Table for each claim 
+so for this which format we need like HTML table or any other?
+and this is per claim output right?
+Asim — 4/24/26, 9:47 PM
+How to submit the NoteBook?
+Rizentenium — 4/24/26, 10:34 PM
+Token usage is becoming a big issues sir. Gamma3 12 B is getting out of the tokens. How to solve the issue? Can I get more token?
+Claim data sets are very big to read
+Joel_DJ — 4/24/26, 10:39 PM
+switch to other models for now
+Rizentenium — 4/24/26, 10:39 PM
+Can't. Not solving the issue
+Joel_DJ — 4/24/26, 10:49 PM
+you hit the limit on all 4 models ?
+Rizentenium — 4/24/26, 11:00 PM
+Other models can't pick up all issues. Tried nova lite.
+Can I request for more tokens?
+Rakshit Ramesh (Moderator) — 4/24/26, 11:01 PM
+@Hardik
+Rizentenium — 4/24/26, 11:30 PM
+It's solved for now. Thank you everyone for the help.
+metalcupid — 4/25/26, 7:50 AM
+same here
+Rizentenium — 4/25/26, 8:12 AM
+Pdf qualities are too poor. Anyone facing this issue?
+metalcupid — 4/25/26, 8:13 AM
+Yes. Me too.
+On_Our_Way — 4/25/26, 8:58 AM
+Quick question in the json what is S3 link? The path to image or pdf?
+Rakshit Ramesh (Moderator) — 4/25/26, 9:01 AM
+Treat it as relative path from the Samples folder
+MK — 4/25/26, 10:27 AM
+Hi all - can u share where we can access STG
+Rakshit Ramesh (Moderator) — 4/25/26, 10:28 AM
+Resources -> Knowledge hub
+MK — 4/25/26, 10:28 AM
+Thank u
+Kishore Ram R — 4/25/26, 11:20 AM
+Hi. Guys any one need a team member I only in single person and I finest my coding and test success but next step what to do I do no kindly anyone interested dm me
+Pranay Agarwal — 4/25/26, 11:21 AM
+@Kishore Ram R Hlo Kishore.
+Let's discuss
+Kishore Ram R — 4/25/26, 11:21 AM
+@Pranay Agarwal hello
+Joel_DJ — 4/25/26, 1:37 PM
+Please ensure all generated files are placed inside a folder named output/.
+
+The directory structure should look like this:
+
+output/
+├── MG006A.json
+├── MG064A.json
+├── SB039A.json
+└── SG039C.json
+Amarthya (Moderator)
+ pinned a message to this channel. See all pinned messages. — 4/25/26, 1:38 PM
+lokesh97bansal — 4/25/26, 1:40 PM
+@Hardik Q) What should happen when a single claim contains pages with clearly different patient ages?
+This is a systemic issue — found in 10 of 18 sample claims across all 4 packages.
+Real example (Claim PMJAY_MH_S_G_R2_2026040210013057, SG039C):
+OCR (user-verified correct, not an OCR error) shows FOUR different ages across pages:
+USG 000056ABD1.jpg: 54 Years
+Admission card 000057ADMISSION.jpg: 63 Yr/F
+CBC 000058CBC.jpg: 72 years Female
+Labs 000069RFTLFT.jpg: 72 years Female
+Doctor's order 000079__C1.jpg: 85
+All pages share the same UHID, bundled under the same claim. 
+lokesh97bansal — 4/25/26, 6:48 PM
+@Hardik , @Novoneel Chakraborty (moderator) Q)  if doctor wrote "abdominal pain" without specifying right hypochondrium/epigastrium,  biliary colic, exact anatomical location word-- in this scenario should we consider the claim valid or not?  i.e. If it says “abdominal pain” but no location: A) No — location (RUQ/epigastric) must be mentioned
+B) Yes — any abdominal pain is acceptable
+
+similarly, let's say if a 28F patient with Hb 7.2, S/O severe anemia, transfused 2 PCV units- should we consider it valid claim for severe anemia or it has to be strictly less than Hb 7?
+
+similarly in clinical_condition in SG039C- do we explicitly require exact word ("acute cholecystitis", "biliary colic", etc.) or just "Cholelithiasis with C/o pain- we should consider it as valid case for claim?
+
+Q) What should happen when a single claim contains pages with clearly different patient ages?
+This is a systemic issue — found in 10 of 18 sample claims across all 4 packages.
+Real example (Claim PMJAY_MH_S_G_R2_2026040210013057, SG039C):
+OCR (user-verified correct, not an OCR error) shows FOUR different ages across pages:
+USG 000056ABD1.jpg: 54 Years
+Admission card 000057ADMISSION.jpg: 63 Yr/F
+CBC 000058CBC.jpg: 72 years Female
+Labs 000069RFTLFT.jpg: 72 years Female
+Doctor's order 000079__C1.jpg: 85
+All pages share the same UHID, bundled under the same claim.
+
+Q) For a given STG- if something is not explicitly mentioned as required document but they are clinical documents such common tests are present but not mentioned in that specific STG- CBC/PT-INR/CXR - then should we consider these documents in "extra" category or should we consider these documents in some other category ? similar doubt I have for documents related to pre and post anesthesia related -What counts as pre-anaesthesia: A) Only the PAC (pre-op assessment form) B) All anaesthesia-related records (pre, intra, post) --- if intra operation and post operation investigation reports are not under pre-anaesthesia then will they come in 'extra' document? 
+
+Q) “Cholecystitis” without acute/chronic
+If it just says “cholecystitis” (no type mentioned):
+A) No — must clearly say “acute”
+B) Yes — assume acute if surgery is being performed
+
+Q) Hospital workflow documents
+For documents like nurse notes, consent forms, charts:
+A) Treat as extra documents
+B) Include under “indoor case papers”
+
+Q) Duplicate documents in same claim
+If the same document set is submitted multiple times:
+A) Score all copies
+B) Keep one, mark rest as duplicates 
+On_Our_Way — 4/25/26, 7:58 PM
+@Rakshit Ramesh (Moderator) @Vamsi Naik @Hardik @moderator 
+
+For PS1, I am running out of tokens specifically output tokens, since for each page JSON is expected. Can you please look into this? It's stopping us from further development/ refinement
+On_Our_Way — 4/25/26, 8:12 PM
+@Rakshit Ramesh (Moderator) @Hardik same concern here as well! Multiple participants are facing this issue
+Vignesh — 4/25/26, 9:40 PM
+@everyone how to get the client id..
+??
+Joel_DJ — 4/25/26, 9:48 PM
+On profile page - security and access 
+On_Our_Way — 4/25/26, 9:54 PM
+@Joel_DJ  ps1, evaluation is working?
+For evaluation to work output folder should have .json files right?
+Amarthya (Moderator) — 4/25/26, 9:55 PM
+please follow this folder structure for outputs
+or else evaluations will fail
+SwapnilAswale — 4/25/26, 11:25 PM
+Same here
+Rizentenium — 4/26/26, 12:03 AM
+After running the codes max files are not readable and claims got rejected. Anyone facing the issue?
+lokesh97bansal — 4/26/26, 12:25 AM
+anyone able to run evaluation for PS1???
+@Rakshit Ramesh (Moderator) , I am unable to run evaluate on PS1, it is showing error, can you please help me in this regard?
+Image
+Ari — 4/26/26, 12:45 AM
+So in principle, the evaluation should work as long as we have a notebook named "clinical-document-classification-complia" (it can be shut down, just not deleted) with a folder called output/ inside it containing those 4 JSON files you mentioned? If that's the case, the current PS1 evaluation should run fine right?
+Piyush Kumar — 4/26/26, 1:08 AM
+We can use all models whose combined value is 1350000! Right?
+Rakshit Ramesh (Moderator) — 4/26/26, 11:11 AM
+Yes
+kalash0403 — 4/26/26, 11:52 AM
+Is the leaderboard only evaluating document classification? As we do not store PASS/FAIL/Conditional in the outputs/abc.json as per the guidelines 
+SwapnilAswale — 4/26/26, 12:00 PM
+@Rakshit Ramesh (Moderator)  yes where to show Human-readable Summary — Sample Table for each claim mention in problem statement ( PASS/FAIL/Conditional)
+Rakshit Ramesh (Moderator) — 4/26/26, 12:08 PM
+Human readable summary is not part of auto evaluation.  It will be part of the subjective evaluation and you can store the summary inside your notebook itself.
+Rakshit Ramesh (Moderator) — 4/26/26, 12:18 PM
+Has anybody  tried PS1 evaluation today?
+Please follow up closely with me on it. 
+We will not decrement your daily limit if there's an error.
+kalash0403 — 4/26/26, 12:24 PM
+Thanks, so just to confirm: 40% (weightage of doc classification) is auto evaluated, rest 60% will be manually evaluated for final scoring correct?
+JantaFlash — 4/26/26, 12:31 PM
+Image
+JantaFlash — 4/26/26, 12:32 PM
+Image
+Image
+lokesh97bansal — 4/26/26, 12:36 PM
+I tried evaluation but it is running since past 30 minutes
+Image
+Joel_DJ — 4/26/26, 12:36 PM
+
+
+
+close this tab
+and click on view my evaluations 
+Joel_DJ — 4/26/26, 12:40 PM
+hey are you saving your results in a folder called output ?
+On_Our_Way — 4/26/26, 12:42 PM
+Did it work @JantaFlash ?
+lokesh97bansal — 4/26/26, 12:42 PM
+I got this - error
+Image
+JantaFlash — 4/26/26, 12:43 PM
+No
+JantaFlash — 4/26/26, 12:43 PM
+Same error
+Joel_DJ — 4/26/26, 12:49 PM
+I think you guys are not saving your results in a folder named output
+can you send me a screenshot of how you are saving the results?
+lokesh97bansal — 4/26/26, 12:51 PM
+can you help by providing any code script of output format? I am trying to open the notebook- it is not opening it is constantly rendering
+Image
+Joel_DJ — 4/26/26, 12:52 PM
+I have provided it here
+lokesh97bansal — 4/26/26, 12:53 PM
+thanks for reference- I will try to fix it
+On_Our_Way — 4/26/26, 12:58 PM
+DM'd you the pic of folder structure kindly check if it is correct!
+Joel_DJ — 4/26/26, 1:03 PM
+yes replied to you
+vijay.balaji — 4/26/26, 2:05 PM
+cc @Kartikey
+Kartikey — 4/26/26, 3:20 PM
+Hi @moderator can you help us fetch the logs for the latest evaluation run.
+Image
+Now getting this
+Image
+vijay.balaji — 4/26/26, 3:36 PM
+@moderator can you pls help on the above ^
+Rakshit Ramesh (Moderator) — 4/26/26, 3:39 PM
+Have you confirmed output formats?
+Kartikey — 4/26/26, 3:50 PM
+Yes 
+In the output folder 
+Package_name.json 
+In which i have all the records page wise in a single json array of objects for that pavkage 
+Piyush Kumar — 4/26/26, 3:52 PM
+How much is the average score you guys are getting?
+Mine is 52% is it good? 
+Rakshit Ramesh (Moderator) — 4/26/26, 3:55 PM
+have you done auto evaluation? We're not able to see you on the leaderboard?
+kalash0403 — 4/26/26, 3:56 PM
+@Rakshit Ramesh (Moderator) can you please reply to this?
+Piyush Kumar — 4/26/26, 3:57 PM
+I have done on my own simulator with the provided claim data and API
+Rakshit Ramesh (Moderator) — 4/26/26, 3:57 PM
+That's right for now.
+Rakshit Ramesh (Moderator) — 4/26/26, 3:57 PM
+Can you try submitting it online now?
+Piyush Kumar — 4/26/26, 3:58 PM
+I will but before my projections are more than 87% so i will try for that then I will submit
+Kartikey — 4/26/26, 4:00 PM
+@Rakshit Ramesh (Moderator)  can you confirm pls
+Rakshit Ramesh (Moderator) — 4/26/26, 4:01 PM
+Taking this on DM
+Piyush Kumar — 4/26/26, 4:06 PM
+And also if your team agrees to provide me access to one more account and more limit of API and  trials I can submit it now it will be absolutely more than 61% for now
+Rakshit Ramesh (Moderator) — 4/26/26, 4:14 PM
+Important: 
+Please note, for PS1, the key called S3Link/Document, s3_link, etc, it's inconsistent for each package code. 
+Please use "link" for all packages.
+Rakshit Ramesh (Moderator)
+ pinned a message to this channel. See all pinned messages. — 4/26/26, 4:14 PM
+Rakshit Ramesh (Moderator) — 4/26/26, 4:42 PM
+Important: 
+Please stop your notebook and then hit evaluate.
+We are baking the logic into the button to redirect you to stop your notebook.
+But for now, stop and then evaluate.
+Rakshit Ramesh (Moderator) — 4/26/26, 4:51 PM
+Whoever is trying to evaluate, please react to this message.
+Sanjar — 4/26/26, 5:45 PM
+Where is the STG? are they on discord? Are they on https://aaehackathon.nhaad.in/ ?
+Are they in notebook?
+
+Please, need clarity
+Also, why were they not available with the data. This has caused me so much hassle and confusion.
+Discord is supposed to be for help, it's not meant to be a staging area for part of the problem/data.
+@Rakshit Ramesh (Moderator) can you tell me in one shot where the STGs are, what is there structure, are they JSON/PDF what else.
+I've spent the past 1 hour trying to set up MCP for Discord, so I don't need to read all previous message.
+Its a govt hackathon, but this sort of mismanagement is not what I was expecting.
+I don't even understand how to proceed, like problem discovery itself is taking so much work. let alone solution
+Someone can you send all STG for problem 1 as a .zip here
+Joel_DJ — 4/26/26, 5:52 PM
+you can find the stg under the resources -> knowledge hub
+Image
+Sanjar — 4/26/26, 5:53 PM
+Can you guide me where STG for prob 2 and 3 are?
+Joel_DJ — 4/26/26, 5:54 PM
+for prob 1 and 2 you can find it here . There are no stgs for prob 3
+Sanjar — 4/26/26, 5:54 PM
+Also, do I need anything apart from:
+Data
+Output format/guidelines
+STG
+Jupyter notebook
+
+as input. I'm trying to create an AI engineering pipeline. @Joel_DJ
+Joel_DJ — 4/26/26, 5:55 PM
+you can use LLMs only for ps 1 and 2
+not for ps 3
+Sanjar — 4/26/26, 5:55 PM
+yes I know that, please answer on the input (if I have it all)
+Joel_DJ — 4/26/26, 5:55 PM
+you can use the models that are provided by the nha
+Sanjar — 4/26/26, 5:55 PM
+So the workflow is that we edit the notebook, run it (using the jupyter web console), and we'll get our scores printed in the notebook right?
+Joel_DJ — 4/26/26, 5:56 PM
+rest you have everything you need for getting started 
+Joel_DJ — 4/26/26, 5:56 PM
+no you will have to submit for evaluation and you will see your score on the leaderboard if executed sucessfully else you can see the logs of failiure
+Sanjar — 4/26/26, 5:57 PM
+Ok, so scores are printed on the leaderboard. Cool.
+Thanks. You can just update these basics on Twitter, and attach the handle on the website.
+Answering repetitive questions here doesn't scale. Wastes everyone's time. Good researchers will probably drop out just because of the hassle of asking.
+Joel_DJ — 4/26/26, 5:58 PM
+did you attend our masterclasses ?
+Rakshit Ramesh (Moderator) — 4/26/26, 6:01 PM
+Nothing was staged on discord. 
+All the master class videos have been available on the hackathon website. Guidelines were also available there.
+We're a minute away from responding on discord so maybe message us first before wasting your time.
+I agree, we could have bundled the STGs along with the data. Will do so now.
+Sanjar — 4/26/26, 6:03 PM
+Its just a 2/10 experience. first of all why are there 2 websites, and second, keeping everything offline, and using an API_KEY would have solved half the problems, no website would have been needed to navigate (and therefore no master class videos needed). This half on platform, half on disk (download) is bad design.
+
+Anyways, I don't want to do a UX audit here. Thanks for your help.
+Rakshit Ramesh (Moderator) — 4/26/26, 6:05 PM
+We'll take your feedback to NHA. 
+Let us know if you face any roadblocks in participating. 
+On_Our_Way — 4/26/26, 6:32 PM
+@Joel_DJ  PS1 evaluate button isn't responding,  i am not able to evaluate
+Joel_DJ — 4/26/26, 6:41 PM
+Its working
+Can you check your evaluations history ??
+On_Our_Way — 4/26/26, 6:42 PM
+Yes
+On_Our_Way — 4/26/26, 6:42 PM
+No it's isn't, i will DM you video of what's happening
+Joel_DJ — 4/26/26, 6:43 PM
+Sure
+Moteesh — 4/26/26, 7:50 PM
+Guyz anyone say that if i evaluate it isnt the final submission right
+vedanthP — 4/26/26, 9:12 PM
+If we have a certain score  achieved in eval and next time after changes if we are getting lower score 
+
+May i know which eval will be considered ?
+Sanjar — 4/26/26, 9:12 PM
+Error:
+2026-04-26 15:41:08,131 - INFO - Fetching new auth token...
+2026-04-26 15:41:08,170 - INFO - HTTP Request: POST https://aaehackathon.nhaad.in/controlplane/iudx/v2/auth/token "HTTP/1.1 200 OK"
+2026-04-26 15:41:08,171 - INFO - Auth token obtained successfully
+---------------------------------------------------------------------------
+FileNotFoundError                         Traceback (most recent call last)
+Cell In[6], line 12
+      6 clientSecret="4076c69854b18b5f2d301dd7902fe3914ac64e9b"
+      9 nc = NHAclient(clientId, clientSecret)
+---> 12 with open("Sample.jpg", "rb") as image_file:
+     13     image_bytes = image_file.read()
+     15 image_base64 = base64.b64encode(image_bytes).decode("utf-8")
+
+File /opt/conda/lib/python3.13/site-packages/IPython/core/interactiveshell.py:344, in _modified_open(file, *args, **kwargs)
+    337 if file in {0, 1, 2}:
+    338     raise ValueError(
+    339         f"IPython won't let you open fd={file} by default "
+    340         "as it is likely to crash IPython. If you know what you are doing, "
+    341         "you can use builtins' open."
+    342     )
+--> 344 return io_open(file, *args, **kwargs)
+
+FileNotFoundError: [Errno 2] No such file or directory: 'Sample.jpg'
+Added DATABASE_ID, CLIENT_ID, CLIENT_TOKEN as expected.
+Tried 2 times, still failing. I tried regenrating credentials as well
+Joel_DJ — 4/26/26, 9:14 PM
+You're trying it in the notebook ?
+Rakshit Ramesh (Moderator) — 4/26/26, 9:18 PM
+Highest.
+Rakshit Ramesh (Moderator) — 4/26/26, 9:19 PM
+Error says the file you're referencing is not found. 
+You must point the client to the correct file
+mardromus — 4/26/26, 9:20 PM
+cant create new notebook always showing failed
+Rakshit Ramesh (Moderator) — 4/26/26, 9:27 PM
+Lots of load on the system because of evaluation. Will get back to you. Please DM me your email
+Sanjar — 4/26/26, 9:33 PM
+I guess that file just doesn't exist. Will simply skip it. Adding keywords so others can search it. Sample.jpg, FileNotFoundError
+Rakshit Ramesh (Moderator) — 4/26/26, 9:34 PM
+Replace Sample.jpg with path to the jpg file of the dataset that you just downloaded. Remember to convert pdf to jpg.
+Sanjar — 4/26/26, 9:34 PM
+We need to write conversion code?
+Feedback: please hire a hackathon consultant for 10k INR or something next time. The whole system is flaky and breaks in noob ways .
+Feedback: please use markdown file for all things, except the data. It's way easier to load into Claude. I had to context engineer and convert a lot of files.
+confusednsoon — 4/26/26, 9:46 PM
+Hi. Our account is showing this on https://aaehackathon.nhaad.in/consumer/data-provider-entity: 
+
+Your request is still pending. Your request will be approved by the Platform Administrator shortly.
+
+And our profile does not have client id/secret. Are we missing something? Please look into this and help @Rakshit Ramesh (Moderator) @Joel_DJ
+
+
+ng keywords so others can search it. Sample.jpg, FileNotFoundError
+Rakshit Ramesh (Moderator) — 4/26/26, 9:34 PM
+Replace Sample.jpg with path to the jpg file of the dataset that you just downloaded. Remember to convert pdf to jpg.
+Sanjar — 4/26/26, 9:34 PM
+We need to write conversion code?
+Feedback: please hire a hackathon consultant for 10k INR or something next time. The whole system is flaky and breaks in noob ways .
+Feedback: please use markdown file for all things, except the data. It's way easier to load into Claude. I had to context engineer and convert a lot of files.
+confusednsoon — 4/26/26, 9:46 PM
+Hi. Our account is showing this on https://aaehackathon.nhaad.in/consumer/data-provider-entity: 
+
+Your request is still pending. Your request will be approved by the Platform Administrator shortly.
+
+And our profile does not have client id/secret. Are we missing something? Please look into this and help @Rakshit Ramesh (Moderator) @Joel_DJ
+Sanjar — 4/26/26, 9:47 PM
+Fix for FileNotFoundError on Sample.jpg
+Add this code in the first block, and run it
+import requests
+
+# Image URL (public domain / Wikimedia)
+url = "https://www.brainyquote.com/photos_tr/en/b/benjaminfranklin/383997/benjaminfranklin1-2x.jpg"
+
+# Output file name
+output_file = "Sample.jpg"
+
+try:
+    response = requests.get(url, stream=True)
+    response.raise_for_status()  # Raise error for bad status
+
+    with open(output_file, "wb") as file:
+        for chunk in response.iter_content(1024):
+            file.write(chunk)
+
+    print(f"Image successfully downloaded and saved as {output_file}")
+
+except requests.exceptions.RequestException as e:
+    print(f"Error downloading image: {e}")
+ 
+Feedback: next time, ensure I can run the code successfully. TDD (test driven development style). Like how am I supposed to know the model code name?
+confusednsoon — 4/26/26, 9:53 PM
+Thanks, worked for me.
+Sanjar — 4/26/26, 9:54 PM
+Can I have a list of supported modelcode names (i.e. to be added to right side of model="")? For god's sake.
+{'detail': 'That my friend is not a supported model'}
+
+And why doesn't the https://aaehackathon.nhaad.in/models page have the model code names.
+Feedback: next time, add an enum that has all the model names, so people can just use autocomplete. THis is programming 101. does NHA not have even one proper coder??
+I've wasted the past 1 hour trying to solve very stupid errors. 
+@Rakshit Ramesh (Moderator)
+confusednsoon — 4/26/26, 9:54 PM
+Got the client id and secret. But the warning still remains.
+JantaFlash — 4/26/26, 9:58 PM
+Finally, PS1 goes through
+Image
+Asim — 4/26/26, 10:00 PM
+Why does the kernel keep disconnecting in the middle of processing? I’ve tried multiple times, but the same issue keeps happening.
+Rakshit Ramesh (Moderator) — 4/26/26, 10:01 PM
+Looks like you're running something heavy
+Beyond the resources provided.
+Hardik — 4/26/26, 10:06 PM
+@Sanjar 
+
+We appreciate your feedback and understand that you may have faced some issues during the hackathon. That said, several participants have been able to successfully work through all the problem statements many of them also encountered challenges but chose to engage constructively and resolve them through discussion.
+
+We request you to maintain the decorum of this platform. Participation is completely voluntary, and we expect all interactions to remain respectful and professional.
+Don’t give your personal suggestions apart from doubts
+Sanjar — 4/26/26, 10:09 PM
+@Hardik I've posted on twitter, not gonna give any more feedback here.
+Now, coming to work, can I have the model series codenames?
+need for ministral-8b
+Rakshit Ramesh (Moderator) — 4/26/26, 10:20 PM
+Just copy it from models tab. The markdown above the llm client also has the names.
+Joel_DJ — 4/26/26, 10:24 PM
+Image
+confusednsoon — 4/26/26, 10:54 PM
+where can i find the json format? they are hidden somethere but i could not find them. code also talks about them:
+
+EXAMPLE_JSON_PATHS = {
+    "SG039C": "data/SG039C_Cholecystectomy.json",
+    "SB039A": "data/SB039A_Knee_Replacement.json",
+    "MG064A": "data/MG064A_Anemia.json",
+    "MG006A": "data/MG006A_Fever.json",
+}
+vedanthP — 4/26/26, 11:29 PM
+How do we know if evaluation is done its just loading continuously
+Image
+Rakshit Ramesh (Moderator) — 4/26/26, 11:29 PM
+Please check announcements channel for expected output format output format
+Rakshit Ramesh (Moderator) — 4/26/26, 11:30 PM
+It takes about 5-10 minutes
+You can close that popup and see your submissions after 5-10 minutes
+vedanthP — 4/26/26, 11:31 PM
+got it thank you
+i tried running the empty notebook i recieved if eval is succesfully running but i didnt get any eval output 
+
+i changed the outputs folder name to output 
+
+may i know what else should i do 
+
+Below are the logs
+
+time=2026-04-26T17:55:09.548Z level=INFO msg="waiting for signals" argo=true signalPath=/var/run/argo/ctr/main/signal
+[runner] copied participant output directory from /mnt/databanks/output into /workspace/ps1-run/./output
+[runner] copied participant notebook into /workspace/ps1-run/nha_ps1_skeletal_notebook_main.ipynb
+[runner] using PS1 output_dir=/workspace/ps1-run/./output output_xlsx=/workspace/ps1-run/./final_output.xlsx label_dir=/mnt/ps1-data/label_data
+missing generated PS1 output file: /workspace/ps1-run/./output/MG006A.json
+time=2026-04-26T17:55:10.550Z level=INFO msg="file signal handler exiting due to context cancellation" argo=true
+time=2026-04-26T17:55:10.550Z level=INFO msg="sub-process exited" argo=true error="exit status 3"
+Error: exit status 3
+Rakshit Ramesh (Moderator) — 4/26/26, 11:38 PM
+You need to have those files. Folder structure shown in announcements channel
+You will also need to stop the sandbox before you hit evaluate.
+vedanthP — 4/26/26, 11:40 PM
+ok
+vedanthP — 4/27/26, 12:19 AM
+do we need to still continue stopping our notebook for eval to work ?
+every time i run eval it is running 2 evals every time leading to reaching daily limit
+Image
+lokesh97bansal — 4/27/26, 1:55 AM
+are we supposed to run all 40 claims in the notebook and then save the output and then click on evaluate??? if yes- how are we dealing with LLM calls getting exhausted- we were told there will be separate evaluation calls- I am confused and don't know how to evaluate exactly- the whole day got just wasted after this can someone please help
+Rizentenium — 4/27/26, 8:38 AM
+During running a batch it's hitting 429 multiple times and with zero progress after few cases. How to solve it?
+Rizentenium — 4/27/26, 8:45 AM
+Persistent HTTP 429 on Gemma 3 4B and 12 B vision models for last 3 days. Like solo participants has been blocked. Kindly advise what to do?
+@Rakshit Ramesh (Moderator) sir @Hardik sir
+Rizentenium — 4/27/26, 9:11 AM
+I have mailed too to support team but no reply. Kindly help. I am stuck here.
+Rakshit Ramesh (Moderator) — 4/27/26, 9:21 AM
+Hi Rizentoum. 
+Can you DM me your screenshots
+Rakshit Ramesh (Moderator) — 4/27/26, 9:21 AM
+@Vamsi Naik
+Pragyanand saho — 4/27/26, 9:44 AM
+@Rakshit Ramesh (Moderator) 
+I have a doubt regarding document ranking.
+In the sample notebook, a rank map is provided for 4 packages.
+But during evaluation, do we need to set the document rank on our own, or will a rank map be provided for all packages like it is in the sample?
+Rakshit Ramesh (Moderator) — 4/27/26, 9:51 AM
+The rank map provided is what will be used during final evaluation too
+Mr. Code Yogi — 4/27/26, 10:46 AM
+@Vishnu Tripathi
+vedanthP — 4/27/26, 10:48 AM
+@Rakshit Ramesh (Moderator)
+vedanthP — 4/27/26, 10:48 AM
+@Rakshit Ramesh (Moderator)
+Amarthya (Moderator) — 4/27/26, 10:48 AM
+it wont affect your daily limit
+Amarthya (Moderator) — 4/27/26, 10:49 AM
+yes
+vedanthP — 4/27/26, 10:54 AM
+thank you
+JantaFlash — 4/27/26, 12:00 PM
+I think, there is a bug in output json as an eval log giving the same stale output issue with fixed accuracy every time even when the issue is fixed
+Rakshit Ramesh (Moderator) — 4/27/26, 12:01 PM
+Didn't get you. You're seeing the same error log every time you make a change?
+JantaFlash — 4/27/26, 12:01 PM
+Yes
+Rakshit Ramesh (Moderator) — 4/27/26, 12:01 PM
+Can you please DM screenshot?
+Kushal — 4/27/26, 2:35 PM
+How much time does it take for evaluation to complete?
+Ashish — 4/27/26, 2:44 PM
+For every evaluation two replicas are created and not able to submit evaluations now
+what could be the possible reason
+Kushal — 4/27/26, 2:46 PM
+Can somebody share screenshot or pic of their output folder who has successfully made submission?
+Ashish — 4/27/26, 2:50 PM
+says evaluation in progress But no evaluation is running.
+@Rakshit Ramesh (Moderator) 
+Image
+Mr. Code Yogi — 4/27/26, 2:59 PM
+@Rakshit Ramesh (Moderator) 
+As mentioned in the output guidelines, the rule engine should be based on the STGs. We would like to clarify whether the evaluation will be conducted only on these four specified packages or on the entire package (1900).
+Hardik — 4/27/26, 3:04 PM
+The code should be designed in a generic and scalable manner, without hardcoding it specifically for the four packages.
+
+While the evaluation will be conducted using outputs from these four packages, the primary focus will be on the robustness of your approach specifically how effectively you structure the stages (STG), extract relevant information, and integrate it into your overall data pipeline.
+
+That said if your pipeline is package/STG agnostic you will have bonus
+lokesh97bansal — 4/27/26, 3:10 PM
+@Hardik , @Rakshit Ramesh (Moderator) Hi can you please resolve following doubts on urgent basis- it's been 3 days I asked but couldn't get resolutions. Please clarify:
+1. Duplicate documents — score each copy or deduplicate?
+question: "If the hospital uploads the same discharge summary twice as two separate PDF files with identical content, does the evaluator count both copies, or treat them as one?"
+example: A claim contains DISCHARGE_SUMMARY.pdf (9 pages) AND DETAILED_DISCHARGE_SUMMARY.pdf (also 9 identical pages). Should we mark all 18 pages as discharge_summary=1, or only one set of 9 pages?
+2. Multi-page PDF rank for mixed bundles
+question: "The spec says all pages of a multi-page PDF must have the same document_rank. But Indian hospitals often scan multiple different reports into a single PDF. Does each page get its own rank based on what is on that page, or does the whole PDF get one rank based on the dominant content?"
+example: A PDF named LAB_REPORTS.pdf has 14 pages — pages 1 to 7 are CBC report (which is investigation_pre), pages 8 to 11 are kidney function test (not in STG mandatory list), pages 12 to 14 are ultrasound (not STG mandatory for this package). Should all 14 pages have the same rank, or should pages 1 to 7 be rank 2 with investigation_pre=1, and pages 8 to 14 be rank 99 with extra_document=1?
+
+message.txt
+7 KB
+confusednsoon — 4/27/26, 4:25 PM
+You can try calling the moderators, I think some number has been provided by them.
+Joel_DJ — 4/27/26, 4:33 PM
+@Hardik
+lokesh97bansal — 4/27/26, 4:33 PM
+where can I found the contact number of Hardik?
+Hardik — 4/27/26, 4:52 PM
+Please ping me privately let’s connect
+confusednsoon — 4/27/26, 5:09 PM
+Do we have to declare all the participant members somewhere? I could not find this option anywhere. I want to add my team members.
+Dinakar V — 4/27/26, 5:25 PM
+Forwarded
+@doremon._.
+#ps3  •  Monday
+Forwarded
+@doremon._.
+#ps3  •  Monday
+confusednsoon — 4/27/26, 5:26 PM
+Hi Mods @Rakshit Ramesh (Moderator) @Swarup E (Moderator) , I am getting this whenever trying to submit eval: Evaluation is already in progress for this problem statement.
+
+
+
+nking be assigned:
+Per physical PDF file (i.e., all pages in the PDF receive the same document_rank), or
+Per logical document within the PDF (i.e., pages grouped by document type/content receive different ranks)?
+Could you please clarify which interpretation should be followed for evaluation? @moderator @Hardik 
+Joel_DJ — 4/29/26, 4:22 PM
+@Hardik
+Digloo [ODE],  — 4/29/26, 5:03 PM
+Forwarded
+Hello sir, in my notebook, there was an issue with the file save error. So I deleted the notebook and tried to create a new one, but the creation failed. Please guide me, sir.
+Image
+Image
+ [ODE], 
+Rakshit Ramesh (Moderator) — 4/29/26, 5:05 PM
+@Vamsi Naik
+Naimish — 4/29/26, 5:11 PM
+Hi @Rakshit Ramesh (Moderator) ,
+For PS1 output structure as mentioned in announcements channel is following:
+output/
+├── MG006A.json
+├── MG064A.json
+├── SB039A.json
+└── SG039C.json
+
+Can you pls tell what structure of each package json should look like? (As per my understanding we need both page level classification and claim level adjudication) 
+Mr. Code Yogi — 4/29/26, 5:31 PM
+Hi @Rakshit Ramesh (Moderator), I have a doubt regarding document ranking.
+
+If all sections (Clinical Notes, Investigations, Treatment Details, etc.) are combined into a single-page document instead of separate pages, how should we assign the document rank?
+
+Should the entire page get just one rank?
+Image
+Rakshit Ramesh (Moderator) — 4/29/26, 5:42 PM
+@Hardik
+Nashra — 4/29/26, 5:49 PM
+how much time it will take for evaluation its been 2 hours
+Rakshit Ramesh (Moderator) — 4/29/26, 6:17 PM
+@Vamsi Naik please see. 
+Nashra, it takes only about 5 minutes
+Nashra — 4/29/26, 6:42 PM
+for me its taking too much time
+i started again for evaluation
+Image
+Nashra — 4/29/26, 6:50 PM
+@Rakshit Ramesh (Moderator)
+Joel_DJ — 4/29/26, 6:51 PM
+Close this pop up and click on view my evaluation 
+Bans06 — 4/29/26, 6:51 PM
+Same issue the evaluation is not getting end and keeps going on how to stop it ?
+Bans06 — 4/29/26, 6:52 PM
+After how much time we should close it ?
+Joel_DJ — 4/29/26, 6:52 PM
+You can Close immediately
+Nashra — 4/29/26, 7:31 PM
+after waiting so long its i stopped and its showing this
+Image
+i corrected the file format and all
+Mr. Code Yogi — 4/29/26, 7:34 PM
+@Hardik @Rakshit Ramesh (Moderator)
+Ari — 4/29/26, 7:44 PM
+@Hardik @moderator @Rakshit Ramesh (Moderator)
+Hardik — 4/29/26, 7:46 PM
+Give rank for those which you think is more prominent 
+A single page cant be all
+Bans06 — 4/29/26, 7:50 PM
+Is there any limit of evaluation per day ?
+Vishnu Tripathi — 4/29/26, 8:00 PM
+Hey @Hardik , could you please check your DMs? I sent you a message about a day and a half ago.
+Mr. Code Yogi — 4/29/26, 8:01 PM
+Hey @Hardik , thanks for the reply!
+
+I’m still a bit confused about what you meant by Single Page can't be all.” Could you please explain a bit more? 
+Hardik — 4/29/26, 8:06 PM
+Single page can’t have clinical notes, investigation, treatment details all together 
+That page would be one either of these
+Nashra — 4/29/26, 8:13 PM
+can u please check this
+Image
+Rakshit Ramesh (Moderator) — 4/29/26, 8:14 PM
+Dm'd
+Ari — 4/29/26, 8:27 PM
+if for example a pdf has usg report (12th jan), clinical notes (10th jan), discharge summary (5th jan)
+so our document rank is Discharge summary -> then Clinical notes 
+but because all these are in same pdf so as mentioned in output guidelines pdf we should assign same document rank to the whole pdf?
+Can you please clarify and maybe give an example 
+lokesh97bansal — 4/29/26, 8:33 PM
+Hi @Hardik , in PS1- if we are having Radiology images and reports such as USG report, XRay, MRI, endoscopy etc then are they supposed to be classified as respective image name such ad classified as endoscopy, MRI etc. or they are supposed to be classified under the document category name of investigation and no radiological name? I am having this doubt because in the PS1 spec these document classes are not specified
+Ari — 4/29/26, 8:35 PM
+Typical Order Example
+Clinical Notes
+Investigations (CBC / Hb reports)
+Treatment Details
+Post Hb Report
+Discharge Summary
+---
+@Hardik is this always the case or can this order be different for a case 
+Hardik — 4/29/26, 9:12 PM
+This is sample
+Hardik — 4/29/26, 9:13 PM
+Please follow output guidelines json keys, tag images under that only
+Hardik — 4/29/26, 9:14 PM
+@Dr Shaileja Yadav please respond
+Dr Shaileja Yadav — 4/29/26, 9:19 PM
+Please rank based on the dates of the documents. As for the question on how to treat the documents if multiple documents are combined in one pdf...please refer to the output guidelines: rank individual pages. So if a pdf has multiple documents, the group of pages belonging to once document, will receive the same rank. 
+
+
+For example you have one pdf, in which there are 3 docs - page 1-3 are clinical notes (3 Mar), page 4-5 are discharge summary (6 Mar) and page 6-7 are investigations (1 Mar) then your ranking (page wise) will be - 
+
+Rank 1 for page 6-7 (investigation - 1 Mar) 
+
+Rank 2 for page 1-3 (clinical notes - 3 Mar)
+
+Rank 3 for page 4-5 (discharge summary - 6 Mar)
+
+Does that answer your question? 
+Subodh Swaroop Achar — 4/29/26, 9:23 PM
+i have applied for evaluation and have waited for an hour . its still loading
+Image
+i have applied for evaluation and have
+4 Messages ›
+Subodh Swaroop Achar
+1d ago
+Rakshit Ramesh (Moderator) — 4/29/26, 9:27 PM
+@Vamsi Naik
+Vyas Mareeswaran — 4/29/26, 9:41 PM
+@Rakshit Ramesh (Moderator) where are we supposed to submit summary pdf sir?
+Vishnu Tripathi — 4/29/26, 9:43 PM
+@Rakshit Ramesh (Moderator) @Hardik If a document states that a doctor diagnosed anaemia and describes the treatment given, should the output JSON automatically mark severe anaemia as 1, or should we instead evaluate specific clinical conditions—such as Hb < 7 and whether the patient received a blood transfusion (Yes)—before assigning that value?
+Piyush Kumar — 4/29/26, 9:48 PM
+What is the limit of PS1 submission?
+Naimish — 4/29/26, 9:55 PM
+@Rakshit Ramesh (Moderator) @Hardik can you pls reply?
+Hardik — 4/29/26, 9:57 PM
+Yes do that before saying 1
+Hardik — 4/29/26, 9:58 PM
+Check output guidelines please
+Rakshit Ramesh (Moderator) — 4/29/26, 10:06 PM
+PS1 evaluation limit will be set to total 15 today and tomorrow.
+Subodh Swaroop Achar — 4/29/26, 10:08 PM
+could you please tell me what should be the ouput directory name is it output/
+Hardik — 4/29/26, 10:10 PM
+Please note that the leaderboard rankings are based on your current submissions and only outputs.
+
+Your code and overall approach will be evaluated after 1st May. Therefore, these rankings should not be considered final, as they may change following the evaluation.
+
+Please ensure that your approach is scalable and not limited to solving only the sample documents provided. It should generalize well to broader and unseen datasets.
+Ari — 4/29/26, 10:12 PM
+That clears up my confusion thanks
+Vishnu Tripathi — 4/29/26, 10:13 PM
+@Hardik we don't have hb_value in same document. 
+Image
+Ari — 4/29/26, 10:14 PM
+Will the unseen data (Claim files) be based off the same 4 STG's (MG006A, MG064A, SB039A, SG039C) in PS1?
+Hardik — 4/29/26, 10:14 PM
+Yes
+Hardik — 4/29/26, 10:16 PM
+Put 1 if you see enough evidence of procedure given else 0 
+
+It would depend on your understanding of the package 
+Vishnu Tripathi — 4/29/26, 10:18 PM
+I’ve reviewed and understood the package. However, I’d like to clarify—do we offer any value in supporting doctors with diagnosis?
+Hardik — 4/29/26, 10:21 PM
+I didn’t get you
+Please text me separately 
+Need clarity on your doubt
+Vishnu Tripathi — 4/29/26, 10:23 PM
+already did almost 2 days ago, but i think you didn't get time to  check your DM 
+
+
+writing entire query in your DM and there is also a previous query 
+Kindly check
+Hardik — 4/29/26, 10:26 PM
+Previous query can’t be fulfilled at that/this point 
+Please share your this query in detail
+Thanks
+Varshith — 4/29/26, 11:07 PM
+@Hardik One quick question while I have you: @SwapnilAswale  mentioned Sarvam Vision 3B in this PS1 channel a few days ago — would we be allowed to use it? It's an Indian open-source vision model that benchmarks well on Indian medical documents (which is what we're processing). I'd download the weights from HuggingFace and run it offline in the sandbox per the rules. The model fits in 16GB RAM. Would that be permitted?
+Rakshit Ramesh (Moderator) — 4/29/26, 11:09 PM
+yesss, if it fits and runs then it's fine.
+I think @Vishnu Tripathi was also asking, but for chandra. Unfortunately that won't run inside the sandbox. And it isn't available in a secure environment so we won't be able to support. 
+But @Vishnu Tripathi you can try sarvam..
+Praveen Sridhar — 4/29/26, 11:38 PM
+@Varshith @SwapnilAswale @Rakshit Ramesh (Moderator)  is Sarvam Vision 3B model weights available anywhere? I had checked few days back but seems like they have not released it on their huggingface account yet - https://huggingface.co/sarvamai
+Rizentenium — Yesterday at 12:24 AM
+Is the best score calculated or the last submission?
+Vishnu Tripathi — Yesterday at 12:51 AM
+I spoke with Hardik, and for this hackathon I’ve decided to stick with the provided models. Next time, we’ll make sure to align and communicate earlier.
+
+Also, huge thanks to @Rakshit Ramesh (Moderator) , @Hardik , and @moderator in BTS—you all handled and are handling things really well. Appreciate the effort!
+Piyush Kumar — Yesterday at 12:52 AM
+What is the correct date format 12/03/2005. Or 12-04-2004 ?
+Kalidas — Yesterday at 6:40 AM
+@Rakshit Ramesh (Moderator) Dear Organizers... We have semester closing time with heavy teaching closure loads, lab exams to conduct, students who are participating also have exams, invigilation works etc. Requesting to kindly extend the submission deadline to Sunday night i.e. May/03 please.
+Rakshit Ramesh (Moderator) — Yesterday at 7:04 AM
+Please message @Hardik sir.
+Kalidas — Yesterday at 7:05 AM
+@Hardik ji can you kindly consider my request for deadline extension to May/03.. this is due to semester closing works of both faculty and students in participating team.
+Sumanth.tks — Yesterday at 10:42 AM
+@Hardik @Rakshit Ramesh (Moderator) Kindly please check your Dm.
+Pranay Agarwal — Yesterday at 12:11 PM
+@Rakshit Ramesh (Moderator) how can I update my team details?
+Rakshit Ramesh (Moderator) — Yesterday at 12:11 PM
+Reach out to @Hardik
+Hardik — Yesterday at 12:12 PM
+What details you want to update
+Pankil Soni — Yesterday at 12:22 PM
+not able to create the notebook it says failed
+I deleted the older one because it was failing and created a new one...
+
+ the moderators, I think some number has been provided by them.
+Joel_DJ — 4/27/26, 4:33 PM
+@Hardik
+lokesh97bansal — 4/27/26, 4:33 PM
+where can I found the contact number of Hardik?
+Hardik — 4/27/26, 4:52 PM
+Please ping me privately let’s connect
+confusednsoon — 4/27/26, 5:09 PM
+Do we have to declare all the participant members somewhere? I could not find this option anywhere. I want to add my team members.
+Dinakar V — 4/27/26, 5:25 PM
+Forwarded
+@doremon._.
+#ps3  •  Monday
+Forwarded
+@doremon._.
+#ps3  •  Monday
+confusednsoon — 4/27/26, 5:26 PM
+Hi Mods @Rakshit Ramesh (Moderator) @Swarup E (Moderator) , I am getting this whenever trying to submit eval: Evaluation is already in progress for this problem statement.
+
+Machine is already stopped. 
+
+Kindly help.
+Image
+Image
+Dinakar V — 4/27/26, 5:30 PM
+Forwarded
+@doremon._.
+#ps3  •  Monday
+confusednsoon — 4/27/26, 6:01 PM
+It started working now, thanks.
+vedanthP — 4/27/26, 6:34 PM
+@Rakshit Ramesh (Moderator) 
+
+what is the last time to submit on May 1, 2026?
+Rakshit Ramesh (Moderator) — 4/27/26, 7:13 PM
+For now, yes.
+Rizentenium — 4/27/26, 10:26 PM
+Sorry to bother, can anyone kindly help me please by guiding me on how to submit?
+Joel_DJ — 4/27/26, 10:27 PM
+Hi
+Can you dm me please
+I'll help you out
+Rizentenium — 4/27/26, 10:28 PM
+Done sir
+ANSHUMAN — 4/27/26, 10:40 PM
+My evaluation failed but there are no logs so how can i know what caused it?
+Joel_DJ — 4/27/26, 10:40 PM
+please send your registered email
+ANSHUMAN — 4/27/26, 10:41 PM
+sent in dm
+SwapnilAswale — 4/27/26, 11:03 PM
+same issue with me also 
+If we need to store the output on notebook first  then LLM usage was already exhausted so how to do and resolved this?
+
+evaluation need separate usage right? @Rakshit Ramesh (Moderator)
+Joel_DJ — 4/27/26, 11:04 PM
+that we will take care of. right now we are just evaluating the outputs
+vedanthP — 4/28/26, 7:12 AM
+Any update here please
+Rakshit Ramesh (Moderator) — 4/28/26, 7:23 AM
+We'll let you know soon. Please watch the announcements channel
+Mr. Code Yogi — 4/28/26, 9:24 AM
+@Rakshit Ramesh (Moderator) Please check DM
+Vishnu Tripathi — 4/28/26, 9:42 AM
+can anyone please help me out, we can use hugging face models but only in offline mode, can inference without internet ?? 
+Rakshit Ramesh (Moderator) — 4/28/26, 9:44 AM
+You can use hugging face if model is open source. But you can't make network calls, you have to only inference offline.
+And the code should run on the sandbox provided.
+Vishnu Tripathi — 4/28/26, 9:44 AM
+so where should i contact you to provide some models on cloud ?? 
+Kalidas — 4/28/26, 9:47 AM
+Dear Organizers, can you kindly let us know exactly what function call back to be provided for automatic evaluation? We are able to run ipynb files, but how exactly does the system automatically evaluate? what is the input and output contract between the platform and submitted codes? @Vinay and platform organizers to plesae respond. 
+Rakshit Ramesh (Moderator) — 4/28/26, 10:00 AM
+Hi Kalidas. 
+You should just make sure that the your notebook writes to output folder.
+Structure of the folder should be as shown in this chat message.
+
+⁠announcements⁠
+For the json bodies, you can follow the instructions given in output guideline
+Vishnu Tripathi — 4/28/26, 10:10 AM
+@Rakshit Ramesh (Moderator)
+Rakshit Ramesh (Moderator) — 4/28/26, 10:11 AM
+Hi @Vishnu Tripathi which model are you intereseted in
+Vishnu Tripathi — 4/28/26, 10:16 AM
+ok @Rakshit Ramesh (Moderator) , I'm sending details in your DM 
+Pankil Soni — 4/28/26, 10:27 AM
+Hello @Rakshit Ramesh (Moderator) the evaluation fails without any logs...I have shared the photo in your dm Kindly help...
+Rakshit Ramesh (Moderator) — 4/28/26, 10:37 AM
+Replied
+msharmas — 4/28/26, 11:39 AM
+Team, Need your help. I had kept the notebook idle for a while (to resume once work was done) but it kept showing connection to server lost. So i tried refreshing the page but now its only showing this
+
+I tried recreating the book but its throwing an error there too (i tried refreshing the page, logging in during incognito and a different browser)
+Image
+Team, Need your help. I had kept the
+4 Messages ›
+There are no recent messages in this thread.
+Ayush — 4/28/26, 3:03 PM
+Team, The S3 link / file path — should it be relative to / (the filesystem root where the notebook runs), or relative to the c110a5f8-... UUID folder ?
+Rakshit Ramesh (Moderator) — 4/28/26, 3:03 PM
+we're doing regex compare. Let it be the local file path to the file.
+Ayush — 4/28/26, 3:06 PM
+ok thanks
+Yiipppeeee — 4/28/26, 3:27 PM
+Basically how long will it take for evaluation??
+Meghana Thota — 4/28/26, 3:43 PM
+@Rakshit Ramesh (Moderator)  It is taking lot of time to evaluate.Can you please check
+Image
+DOREMON..😼 — 4/28/26, 3:45 PM
+Any one can help me i didn't done any work due to my academics
+kalash0403 — 4/28/26, 3:52 PM
+Do we have 15 evaluations per day?
+For PS1 @Rakshit Ramesh (Moderator)
+Meghana Thota — 4/28/26, 4:30 PM
+@Rakshit Ramesh (Moderator) I am facing issue while  evaluating .At first I got score but now I didn't get anything
+Image
+JantaFlash — 4/28/26, 4:31 PM
+Yes getting the same logs.
+Rakshit Ramesh (Moderator) — 4/28/26, 5:08 PM
+For all those who were stuck on evaluation.
+We got rate limited by aws. We should be back in 15 minutes.
+thelegend3117 — 4/28/26, 5:24 PM
+Can we run eval now?
+Rakshit Ramesh (Moderator) — 4/28/26, 5:25 PM
+Please wait for my call. 
+Apologies for the delay.
+Evaluation service is back up again!
+Apologies for the down time.
+Ashish — 4/28/26, 6:36 PM
+when is the final deadline ?
+Pragyanand saho — 4/28/26, 6:47 PM
+@Rakshit Ramesh (Moderator) Help me plz with that. I am facing an output folder issue when I already correctly configured it
+Image
+Joel_DJ — 4/28/26, 6:49 PM
+we are looking into this
+Amarthya (Moderator) — 4/28/26, 6:51 PM
+is the sandbox stopped?
+Pragyanand saho — 4/28/26, 6:59 PM
+yeah for evaluate, we need to stop first.
+system asks to stop the notebook and come back to evaluate.
+Rakshit Ramesh (Moderator) — 4/28/26, 7:08 PM
+DM us your output folder structure
+msm — 4/28/26, 8:07 PM
+Is we have to use "link" for all packages or key like S3Link/Document, s3_link, etc,
+msm — 4/28/26, 9:00 PM
+@Rakshit Ramesh (Moderator) @Joel_DJ
+Rakshit Ramesh (Moderator) — 4/28/26, 9:05 PM
+Please use link
+msm — 4/28/26, 9:05 PM
+thanks
+Pragyanand saho — 4/28/26, 9:54 PM
+Plz check DM
+abhiiiesh — 4/28/26, 9:55 PM
+HTTPStatusError: Client error '404 Not Found' for url 'https://aaehackathon.nhaad.in/controlplane/iudx/v2/auth/token'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+MDN Web Docs
+404 Not Found - HTTP | MDN
+The HTTP 404 Not Found client error response status code indicates that the server cannot find the requested resource.
+Links that lead to a 404 page are often called broken or dead links and can be subject to link rot.
+Image
+thelegend3117 — 4/28/26, 9:58 PM
+Please check dm @Rakshit Ramesh (Moderator)
+Rakshit Ramesh (Moderator) — 4/28/26, 10:01 PM
+Please DM me. Not sure how or why you go tthat error.
+Varshith — 4/28/26, 10:02 PM
+@Rakshit Ramesh (Moderator) Hi Rakshit, I'm hitting the same stale-output evaluation bug JantaFlash reported on April 27. My current output JSONs at /home/jovyan/output/ have the correct schema (16/16/18/19 keys for MG064A/MG006A/SG039C/SB039A respectively, no extra columns). But every evaluation log shows the runner is reading files with extra columns like 'file_name' that my current code doesn't even produce. The evaluator's /mnt/databanks/output/ appears stuck on files from a much earlier run.
+
+I've followed the right sequence multiple times: stop sandbox via UI → click Evaluate. Can you check on your end whether /mnt/databanks/output/ for my account is being synced from my sandbox, or trigger a manual refresh?
+Joel_DJ — 4/28/26, 10:05 PM
+hi varshit
+can you dm me please
+we can take a closer look
+Rakshit Ramesh (Moderator) — 4/28/26, 10:09 PM
+With @JantaFlash, it seemed that he was not updating the outputs correctly. @JantaFlash can you please update. 
+@Varshith can you DM me and joel a screenshot of what you're seeing?
+Joel_DJ — 4/28/26, 10:35 PM
+@Varshith  issue is resolved
+Pranay Agarwal — 4/28/26, 10:39 PM
+for Output/JSON files do we need to classify the claim in 2 category - > PASS / FAIL 
+or 3 Category PASS/FAIL/CONDITIONAL?
+Rakshit Ramesh (Moderator) — 4/28/26, 10:40 PM
+PS1 or PS2?
+Joel_DJ — 4/28/26, 10:40 PM
+for ps1
+Image
+Pranay Agarwal — 4/28/26, 10:41 PM
+PS1
+Joel_DJ — 4/28/26, 10:44 PM
+but this is not required in the json for auto eval
+please follow the given guidelines
+vedanthP — 4/29/26, 12:03 AM
+if we follow stg in the test case can we get >0.95 
+
+@Rakshit Ramesh (Moderator)  can oyu confirm this ?
+Rakshit Ramesh (Moderator) — 4/29/26, 12:04 AM
+Yes maybe..
+vedanthP — 4/29/26, 12:26 AM
+can we update rules additional on top of stg rules ?
+confusednsoon — 4/29/26, 12:45 AM
+Is there any plan to increase the token limits?
+If the limits get over, what's the alternate? Shall we use local machine to do testing and copy jsons in the sandbox for running evals. Is this fine?
+Rakshit Ramesh (Moderator) — 4/29/26, 12:46 AM
+That's fine but same models have to be used. 
+When we do final evaluation we will run your notebook and cut off internet. Only the models provided will be allowed.
+We can increase token limits. Will take it up with NHA. Please wait for my update.
+confusednsoon — 4/29/26, 12:47 AM
+This?
+Token limit is low vs the amount of data to be processed for testing.
+Rakshit Ramesh (Moderator) — 4/29/26, 12:48 AM
+Not sure.. participants are able to get good scores.
+
+
+g in the test case can we get >0.95 
+
+@Rakshit Ramesh (Moderator)  can oyu confirm this ?
+Rakshit Ramesh (Moderator) — 4/29/26, 12:04 AM
+Yes maybe..
+vedanthP — 4/29/26, 12:26 AM
+can we update rules additional on top of stg rules ?
+confusednsoon — 4/29/26, 12:45 AM
+Is there any plan to increase the token limits?
+If the limits get over, what's the alternate? Shall we use local machine to do testing and copy jsons in the sandbox for running evals. Is this fine?
+Rakshit Ramesh (Moderator) — 4/29/26, 12:46 AM
+That's fine but same models have to be used. 
+When we do final evaluation we will run your notebook and cut off internet. Only the models provided will be allowed.
+We can increase token limits. Will take it up with NHA. Please wait for my update.
+confusednsoon — 4/29/26, 12:47 AM
+This?
+Token limit is low vs the amount of data to be processed for testing.
+Rakshit Ramesh (Moderator) — 4/29/26, 12:48 AM
+Not sure.. participants are able to get good scores.
+Ari — 4/29/26, 1:27 AM
+image_base64 = base64.b64encode(image_bytes).decode("utf-8")
+data_url = f"data:image/jpeg;base64,{image_base64}"
+
+response = nc.completion(
+    model="bedrock/converse/nvidia.nemotron-nano-3-30b", #use one of the models
+    messages=[
+        {
+            "role": "user",
+            "content": [
+                {"type": "image_url", "image_url": {"url": data_url}},
+                {"type": "text", "text": "What do you see"},
+            ],
+        }
+    ],
+    metadata={
+            "problem_statement":1
+        }
+)
+
+Why am i getting this??
+
+2026-04-28 19:54:57,013 - INFO - Fetching new auth token...
+2026-04-28 19:54:57,051 - INFO - HTTP Request: POST https://aaehackathon.nhaad.in/controlplane/iudx/v2/auth/token "HTTP/1.1 200 OK"
+2026-04-28 19:54:57,052 - INFO - Auth token obtained successfully
+2026-04-28 19:54:57,094 - INFO - HTTP Request: POST https://aaehackathon.nhaad.in/nhm-proxy/v1/chat/completions "HTTP/1.1 403 Forbidden"
+{'detail': 'That my friend is not a supported model'}
+Rakshit Ramesh (Moderator) — 4/29/26, 1:28 AM
+Wrong model name. Copy model name from models tab of hackathon page, or find the model name in cell above this one.
+Ari — 4/29/26, 1:29 AM
+yeah gave a wrong exmp was supposed to put the gemma one
+Ari — 4/29/26, 1:30 AM
+Oh ok thanks. I was using the model id given in the LLM usage one
+Image
+Thanks it works now 👌
+Piyush Kumar — 4/29/26, 2:23 AM
+I keep getting stuck due to your rate limiting
+Rakshit Ramesh (Moderator) — 4/29/26, 6:10 AM
+Which rate limit?
+confusednsoon — 4/29/26, 8:43 AM
+Can the mods pl explain how would the final evaluation take place? I am assuming after the cut off of 1st May 2026 11:59 PM, our sandbox would not be accessible by us. Then the notebooks would be run on same/different datasets and winners would be announced. During the final run, sandbox would not have internet access so everything would happen locally, without calling any 3rd party APIs. If we want to get another open source model installed, we have to do it now. 
+
+How would the tokens limit be enforced during the final runs?
+Would there be new limits or do we have to leave limits for the final runs also in our account?
+Would the final eval take place on same or diff dataset for deciding the winners?
+Is there any doc which clarifies all these?
+
+Sorry for asking all this but could not find answers anywhere. Thanks.
+Rupesh — 4/29/26, 11:05 AM
+Hi, I am getting 429: too many requests error from yesterday, how to proceed? I tried changing models didnt worked out.
+Joel_DJ — 4/29/26, 11:05 AM
+hi
+can you send me ss of llm usage ?
+Rupesh — 4/29/26, 11:12 AM
+sent you please check
+Pragyanand saho — 4/29/26, 11:28 AM
+@Rakshit Ramesh (Moderator) Thank you, finally evaluation is running
+But I got some errors on S3link, so what is the bucket name, and how to get the document link?
+Rakshit Ramesh (Moderator) — 4/29/26, 11:29 AM
+let the key be "link". Value is path of the file in your local sandbox.
+Pragyanand saho — 4/29/26, 11:29 AM
+ok
+thelegend3117 — 4/29/26, 11:34 AM
+Hi Rakshit, please check DM.
+Piyush Kumar — 4/29/26, 12:01 PM
+LlM too much of a request problem this is a large dataset so too much Api request is common but due to rate limit I am stuck; what should I do?
+Rakshit Ramesh (Moderator) — 4/29/26, 12:13 PM
+We are taking your request to NHA
+Swarup E (Moderator) — 4/29/26, 12:26 PM
+Model Limits Increased Again!
+
+Hey everyone — we’ve increased the model token limits by 2× from the previous limits.
+
+✅ Updated Token Limits
+Model                 | PS | Input Tokens | Output Tokens | Total Tokens
+----------------------|----|--------------|---------------|-------------
+Ministral 3B          | 1  | 24,000,000   | 1,800,000     | 25,800,000
+Ministral 3B          | 2  | 30,000,000   | 3,000,000     | 33,000,000
+Ministral 8B          | 1  | 24,000,000   | 1,500,000     | 25,500,000
+Ministral 8B          | 2  | 30,000,000   | 2,100,000     | 32,100,000
+Nemotron Nano 30B     | 1  | 24,000,000   | 1,500,000     | 25,500,000
+Nemotron Nano 30B     | 2  | 30,000,000   | 2,100,000     | 32,100,000
+Gemma 3 12B           | 1  | 24,000,000   | 1,500,000     | 25,500,000
+Gemma 3 12B           | 2  | 30,000,000   | 2,100,000     | 32,100,000
+Gemma 3 4B            | 1  | 24,000,000   | 1,800,000     | 25,800,000
+Gemma 3 4B            | 2  | 30,000,000   | 3,000,000     | 33,000,000
+Piyush Kumar — 4/29/26, 12:43 PM
+What about rate limit?
+Piyush Kumar — 4/29/26, 12:44 PM
+Rate limit is the real bottleneck
+Piyush Kumar — 4/29/26, 12:45 PM
+My system is stuck for 4 hours
+Rakshit Ramesh (Moderator) — 4/29/26, 1:11 PM
+What rate limit, not understanding your issue. Can we setup a meeting.?
+Piyush Kumar — 4/29/26, 1:41 PM
+When I run the project or the solution on the sandbox with api then the api call keeps taking much time as the call increase this is called the api rate limit so because of this initially everything was good at start but as call increases time also increase because of that my system is stuck
+Rakshit Ramesh (Moderator) — 4/29/26, 1:49 PM
+@Joel_DJ can you see what the issue is?
+Joel_DJ — 4/29/26, 1:51 PM
+yes
+Nashra — 4/29/26, 2:15 PM
+I am also getting rate limit error
+Joel_DJ — 4/29/26, 2:15 PM
+hi
+can you please dm me with an ss of your llm usage
+lokesh97bansal — 4/29/26, 2:24 PM
+I am also facing same issue- how to deal with it @Rakshit Ramesh (Moderator) , @Joel_DJ ?
+lokesh97bansal — 4/29/26, 2:28 PM
+I am also facing this issue- what is the solution for this @Joel_DJ , can you please tell
+Joel_DJ — 4/29/26, 2:29 PM
+please dm me
+Ari — 4/29/26, 4:03 PM
+In the starter notebook the function description for infer_document_rank() says:
+keep the same rank across all pages belonging to the same logical document where required
+
+However, in the output guidelines PDF, it says:
+
+If a document spans multiple pages (e.g., a multi-page PDF such as an investigation report), the same document_rank must be assigned to all pages of that document. For example, if an investigation report is ranked as 3, then all pages belonging to that investigation PDF must have document_rank = 3.
+
+My confusion is about claim files that are single PDFs containing multiple pages, where different pages appear to belong to different document classes or logical sub-documents.
+
+In that case, should ranking be assigned:
+Per physical PDF file (i.e., all pages in the PDF receive the same document_rank), or
+Per logical document within the PDF (i.e., pages grouped by document type/content receive different ranks)?
+Could you please clarify which interpretation should be followed for evaluation? @moderator @Hardik 
+Joel_DJ — 4/29/26, 4:22 PM
+@Hardik
+Digloo [ODE],  — 4/29/26, 5:03 PM
+Forwarded
+Hello sir, in my notebook, there was an issue with the file save error. So I deleted the notebook and tried to create a new one, but the creation failed. Please guide me, sir.
+Image
+Image
+ [ODE], 
+Rakshit Ramesh (Moderator) — 4/29/26, 5:05 PM
+@Vamsi Naik
+Naimish — 4/29/26, 5:11 PM
+Hi @Rakshit Ramesh (Moderator) ,
+For PS1 output structure as mentioned in announcements channel is following:
+output/
+├── MG006A.json
+├── MG064A.json
+├── SB039A.json
+└── SG039C.json
+
+Can you pls tell what structure of each package json should look like? (As per my understanding we need both page level classification and claim level adjudication) 
+Mr. Code Yogi — 4/29/26, 5:31 PM
+Hi @Rakshit Ramesh (Moderator), I have a doubt regarding document ranking.
+
+If all sections (Clinical Notes, Investigations, Treatment Details, etc.) are combined into a single-page document instead of separate pages, how should we assign the document rank?
+
+Should the entire page get just one rank?
+Image
+Rakshit Ramesh (Moderator) — 4/29/26, 5:42 PM
+@Hardik
+Nashra — 4/29/26, 5:49 PM
+how much time it will take for evaluation its been 2 hours
+Rakshit Ramesh (Moderator) — 4/29/26, 6:17 PM
+@Vamsi Naik please see. 
+Nashra, it takes only about 5 minutes
+Nashra — 4/29/26, 6:42 PM
+for me its taking too much time
+i started again for evaluation
+Image
+Nashra — 4/29/26, 6:50 PM
+@Rakshit Ramesh (Moderator)
+Joel_DJ — 4/29/26, 6:51 PM
+Close this pop up and click on view my evaluation 
+Bans06 — 4/29/26, 6:51 PM
+Same issue the evaluation is not getting end and keeps going on how to stop it ?
+Bans06 — 4/29/26, 6:52 PM
+After how much time we should close it ?
+Joel_DJ — 4/29/26, 6:52 PM
+You can Close immediately
+Nashra — 4/29/26, 7:31 PM
+after waiting so long its i stopped and its showing this
+Image
+i corrected the file format and all
+Mr. Code Yogi — 4/29/26, 7:34 PM
+@Hardik @Rakshit Ramesh (Moderator)
+Ari — 4/29/26, 7:44 PM
+@Hardik @moderator @Rakshit Ramesh (Moderator)
+Hardik — 4/29/26, 7:46 PM
+Give rank for those which you think is more prominent 
+A single page cant be all
+Bans06 — 4/29/26, 7:50 PM
+Is there any limit of evaluation per day ?
+Vishnu Tripathi — 4/29/26, 8:00 PM
+Hey @Hardik , could you please check your DMs? I sent you a message about a day and a half ago.
+Mr. Code Yogi — 4/29/26, 8:01 PM
+Hey @Hardik , thanks for the reply!
+
+I’m still a bit confused about what you meant by Single Page can't be all.” Could you please explain a bit more? 
+Hardik — 4/29/26, 8:06 PM
+Single page can’t have clinical notes, investigation, treatment details all together 
+That page would be one either of these
+
+
+Close immediately
+Nashra — 4/29/26, 7:31 PM
+after waiting so long its i stopped and its showing this
+Image
+i corrected the file format and all
+Mr. Code Yogi — 4/29/26, 7:34 PM
+@Hardik @Rakshit Ramesh (Moderator)
+Ari — 4/29/26, 7:44 PM
+@Hardik @moderator @Rakshit Ramesh (Moderator)
+Hardik — 4/29/26, 7:46 PM
+Give rank for those which you think is more prominent 
+A single page cant be all
+Bans06 — 4/29/26, 7:50 PM
+Is there any limit of evaluation per day ?
+Vishnu Tripathi — 4/29/26, 8:00 PM
+Hey @Hardik , could you please check your DMs? I sent you a message about a day and a half ago.
+Mr. Code Yogi — 4/29/26, 8:01 PM
+Hey @Hardik , thanks for the reply!
+
+I’m still a bit confused about what you meant by Single Page can't be all.” Could you please explain a bit more? 
+Hardik — 4/29/26, 8:06 PM
+Single page can’t have clinical notes, investigation, treatment details all together 
+That page would be one either of these
+Nashra — 4/29/26, 8:13 PM
+can u please check this
+Image
+Rakshit Ramesh (Moderator) — 4/29/26, 8:14 PM
+Dm'd
+Ari — 4/29/26, 8:27 PM
+if for example a pdf has usg report (12th jan), clinical notes (10th jan), discharge summary (5th jan)
+so our document rank is Discharge summary -> then Clinical notes 
+but because all these are in same pdf so as mentioned in output guidelines pdf we should assign same document rank to the whole pdf?
+Can you please clarify and maybe give an example 
+lokesh97bansal — 4/29/26, 8:33 PM
+Hi @Hardik , in PS1- if we are having Radiology images and reports such as USG report, XRay, MRI, endoscopy etc then are they supposed to be classified as respective image name such ad classified as endoscopy, MRI etc. or they are supposed to be classified under the document category name of investigation and no radiological name? I am having this doubt because in the PS1 spec these document classes are not specified
+Ari — 4/29/26, 8:35 PM
+Typical Order Example
+Clinical Notes
+Investigations (CBC / Hb reports)
+Treatment Details
+Post Hb Report
+Discharge Summary
+---
+@Hardik is this always the case or can this order be different for a case 
+Hardik — 4/29/26, 9:12 PM
+This is sample
+Hardik — 4/29/26, 9:13 PM
+Please follow output guidelines json keys, tag images under that only
+Hardik — 4/29/26, 9:14 PM
+@Dr Shaileja Yadav please respond
+Dr Shaileja Yadav — 4/29/26, 9:19 PM
+Please rank based on the dates of the documents. As for the question on how to treat the documents if multiple documents are combined in one pdf...please refer to the output guidelines: rank individual pages. So if a pdf has multiple documents, the group of pages belonging to once document, will receive the same rank. 
+
+
+For example you have one pdf, in which there are 3 docs - page 1-3 are clinical notes (3 Mar), page 4-5 are discharge summary (6 Mar) and page 6-7 are investigations (1 Mar) then your ranking (page wise) will be - 
+
+Rank 1 for page 6-7 (investigation - 1 Mar) 
+
+Rank 2 for page 1-3 (clinical notes - 3 Mar)
+
+Rank 3 for page 4-5 (discharge summary - 6 Mar)
+
+Does that answer your question? 
+Subodh Swaroop Achar — 4/29/26, 9:23 PM
+i have applied for evaluation and have waited for an hour . its still loading
+Image
+i have applied for evaluation and have
+4 Messages ›
+Subodh Swaroop Achar
+1d ago
+Rakshit Ramesh (Moderator) — 4/29/26, 9:27 PM
+@Vamsi Naik
+Vyas Mareeswaran — 4/29/26, 9:41 PM
+@Rakshit Ramesh (Moderator) where are we supposed to submit summary pdf sir?
+Vishnu Tripathi — 4/29/26, 9:43 PM
+@Rakshit Ramesh (Moderator) @Hardik If a document states that a doctor diagnosed anaemia and describes the treatment given, should the output JSON automatically mark severe anaemia as 1, or should we instead evaluate specific clinical conditions—such as Hb < 7 and whether the patient received a blood transfusion (Yes)—before assigning that value?
+Piyush Kumar — 4/29/26, 9:48 PM
+What is the limit of PS1 submission?
+Naimish — 4/29/26, 9:55 PM
+@Rakshit Ramesh (Moderator) @Hardik can you pls reply?
+Hardik — 4/29/26, 9:57 PM
+Yes do that before saying 1
+Hardik — 4/29/26, 9:58 PM
+Check output guidelines please
+Rakshit Ramesh (Moderator) — 4/29/26, 10:06 PM
+PS1 evaluation limit will be set to total 15 today and tomorrow.
+Subodh Swaroop Achar — 4/29/26, 10:08 PM
+could you please tell me what should be the ouput directory name is it output/
+Hardik — 4/29/26, 10:10 PM
+Please note that the leaderboard rankings are based on your current submissions and only outputs.
+
+Your code and overall approach will be evaluated after 1st May. Therefore, these rankings should not be considered final, as they may change following the evaluation.
+
+Please ensure that your approach is scalable and not limited to solving only the sample documents provided. It should generalize well to broader and unseen datasets.
+Ari — 4/29/26, 10:12 PM
+That clears up my confusion thanks
+Vishnu Tripathi — 4/29/26, 10:13 PM
+@Hardik we don't have hb_value in same document. 
+Image
+Ari — 4/29/26, 10:14 PM
+Will the unseen data (Claim files) be based off the same 4 STG's (MG006A, MG064A, SB039A, SG039C) in PS1?
+Hardik — 4/29/26, 10:14 PM
+Yes
+Hardik — 4/29/26, 10:16 PM
+Put 1 if you see enough evidence of procedure given else 0 
+
+It would depend on your understanding of the package 
+Vishnu Tripathi — 4/29/26, 10:18 PM
+I’ve reviewed and understood the package. However, I’d like to clarify—do we offer any value in supporting doctors with diagnosis?
+Hardik — 4/29/26, 10:21 PM
+I didn’t get you
+Please text me separately 
+Need clarity on your doubt
+Vishnu Tripathi — 4/29/26, 10:23 PM
+already did almost 2 days ago, but i think you didn't get time to  check your DM 
+
+
+writing entire query in your DM and there is also a previous query 
+Kindly check
+Hardik — 4/29/26, 10:26 PM
+Previous query can’t be fulfilled at that/this point 
+Please share your this query in detail
+Thanks
+Varshith — 4/29/26, 11:07 PM
+@Hardik One quick question while I have you: @SwapnilAswale  mentioned Sarvam Vision 3B in this PS1 channel a few days ago — would we be allowed to use it? It's an Indian open-source vision model that benchmarks well on Indian medical documents (which is what we're processing). I'd download the weights from HuggingFace and run it offline in the sandbox per the rules. The model fits in 16GB RAM. Would that be permitted?
+Rakshit Ramesh (Moderator) — 4/29/26, 11:09 PM
+yesss, if it fits and runs then it's fine.
+I think @Vishnu Tripathi was also asking, but for chandra. Unfortunately that won't run inside the sandbox. And it isn't available in a secure environment so we won't be able to support. 
+But @Vishnu Tripathi you can try sarvam..
+Praveen Sridhar — 4/29/26, 11:38 PM
+@Varshith @SwapnilAswale @Rakshit Ramesh (Moderator)  is Sarvam Vision 3B model weights available anywhere? I had checked few days back but seems like they have not released it on their huggingface account yet - https://huggingface.co/sarvamai
+Rizentenium — Yesterday at 12:24 AM
+Is the best score calculated or the last submission?
+Vishnu Tripathi — Yesterday at 12:51 AM
+I spoke with Hardik, and for this hackathon I’ve decided to stick with the provided models. Next time, we’ll make sure to align and communicate earlier.
+
+Also, huge thanks to @Rakshit Ramesh (Moderator) , @Hardik , and @moderator in BTS—you all handled and are handling things really well. Appreciate the effort!
+Piyush Kumar — Yesterday at 12:52 AM
+What is the correct date format 12/03/2005. Or 12-04-2004 ?
+Kalidas — Yesterday at 6:40 AM
+@Rakshit Ramesh (Moderator) Dear Organizers... We have semester closing time with heavy teaching closure loads, lab exams to conduct, students who are participating also have exams, invigilation works etc. Requesting to kindly extend the submission deadline to Sunday night i.e. May/03 please.
+Rakshit Ramesh (Moderator) — Yesterday at 7:04 AM
+Please message @Hardik sir.
+Kalidas — Yesterday at 7:05 AM
+@Hardik ji can you kindly consider my request for deadline extension to May/03.. this is due to semester closing works of both faculty and students in participating team.
+Sumanth.tks — Yesterday at 10:42 AM
+@Hardik @Rakshit Ramesh (Moderator) Kindly please check your Dm.
+Pranay Agarwal — Yesterday at 12:11 PM
+@Rakshit Ramesh (Moderator) how can I update my team details?
+Rakshit Ramesh (Moderator) — Yesterday at 12:11 PM
+Reach out to @Hardik
+Hardik — Yesterday at 12:12 PM
+What details you want to update
+Pankil Soni — Yesterday at 12:22 PM
+not able to create the notebook it says failed
+I deleted the older one because it was failing and created a new one...
+
+please help @moderator
+Image
+Rakshit Ramesh (Moderator) — Yesterday at 12:26 PM
+How long has it been since you last tried it?
+Amarthya (Moderator) — Yesterday at 12:28 PM
+@Pankil Soni please try now
+Pankil Soni — Yesterday at 12:29 PM
+done thanks
+Pranay Agarwal — Yesterday at 1:14 PM
+2 more members joined my team yesterday so I want to add their details in the team
+In the registration form
+Rizentenium — Yesterday at 1:27 PM
+How to do the final submission? Anyone enlighten please?
+Hardik — Yesterday at 1:34 PM
+No worries 
+You can tell us after submission if you are one of the winner, we will reach out to winners you can declare at that time
+Hardik — Yesterday at 1:38 PM
+Your latest submission at 11.59 pm tomorrow will be considered as final submission
+zero2 — Yesterday at 2:25 PM
+Its been more than 10 minutes not able to open the instance. My code is already in there. Can anyone help me with this?
+Can i hit the api locally or it will only work within the instance?
+Image
+1. Its been more than 10 minutes not
+1 Message ›
+Vamsi Naik
+1d ago
+It worked.
+
+Can I work locally then import the code within the instance?
+Vinay — Yesterday at 2:42 PM
+most of my submissions have  rank score as around 0.0316.  everyone getting the similar scores? is this score based on document_rank?
+Vamsi Naik
+ started a thread: 1. Its been more than 10 minutes not. See all threads. — Yesterday at 2:42 PM
+Vinay — Yesterday at 3:12 PM
+What is the logic for rank score? What fields are used for scoring this?
+Thamill_Indian — Yesterday at 3:16 PM
+have anyone got this error
+Image
+Sumanth.tks — Yesterday at 3:31 PM
+I raised a concern in your DM box @Hardik . Any information provided will be helpful for everyone 
+Sumanth.tks — Yesterday at 3:44 PM
+same issue!!
+Amarthya (Moderator) — Yesterday at 3:45 PM
+do you have output directory present in sandbox? 
+@Sumanth.tks and @Thamill_Indian ?
+Sumanth.tks — Yesterday at 3:47 PM
+Check ur dm once @Amarthya (Moderator)
+Thamill_Indian — Yesterday at 4:00 PM
+@Amarthya (Moderator) please check the DM
+Subodh Swaroop Achar — Yesterday at 4:01 PM
+whenever i run i am getting this. could you please tell me why is this occuring
+Image
+Joel_DJ — Yesterday at 4:02 PM
+you are running something beyond the compute provided
+
+
+
+un i am getting this. could you please tell me why is this occuring
+Image
+Joel_DJ — Yesterday at 4:02 PM
+you are running something beyond the compute provided
+Subodh Swaroop Achar — Yesterday at 4:02 PM
+no
+Amarthya (Moderator) — Yesterday at 4:02 PM
+guys the directory name is output and not outputs
+please follow the guidelines
+datamatrixai — Yesterday at 4:04 PM
+are we suppose to combine all the claim json in a single individual json and put it inside outout folder.
+
+for example SG039C folder contains 10 claims. Do you want to generate json each of the claims and merge them in one single file like SG039C_Cholecystectomy.json
+thelegend3117 — Yesterday at 4:05 PM
+SH039C.json
+Amarthya (Moderator) — Yesterday at 4:06 PM
+each claim should be it's own json inside output
+datamatrixai — Yesterday at 4:08 PM
+so SG039C folder will contains 10 json files for each claim
+Amarthya (Moderator) — Yesterday at 4:09 PM
+no
+it will be SG039C.json
+so 4 jsons total
+Amarthya (Moderator) — Yesterday at 4:09 PM
+apologies, I meant package id
+Amarthya (Moderator) — Yesterday at 4:10 PM
+this format
+Ashish — Yesterday at 4:25 PM
+For Ps1 also we have 5 submission per day or 15 ?
+For me it is capped at 5
+Joel_DJ — Yesterday at 4:25 PM
+it is 15
+Ashish — Yesterday at 4:26 PM
+email - athiqahmed.ai@gmail.com
+can you please check
+yesterday also I was capped at 5
+Amarthya (Moderator) — Yesterday at 4:45 PM
+done can you please check
+Ashish — Yesterday at 4:52 PM
+sure
+Thank you
+SwapnilAswale — Yesterday at 5:12 PM
+I am getting an issue for every run evaluation use old output folder files 
+not sure why this happen?
+Need help how to resolved this 
+@Joel_DJ
+Joel_DJ — Yesterday at 5:34 PM
+delete the anyother output folder and keep only the required one and try
+if you still face issues please let me kow
+SwapnilAswale — Yesterday at 5:53 PM
+ok will try
+SwapnilAswale — Yesterday at 6:12 PM
+@Joel_DJ  Still same issue I clean everything still refering old json files
+Joel_DJ — Yesterday at 6:24 PM
+Dm me
+Bans06 — Yesterday at 6:46 PM
+I’m getting limit for evaluation of 5 per day is it 5 per day or 15 ?
+thelegend3117 — Yesterday at 6:53 PM
+Hi @Amarthya (Moderator) please check your DM.
+Amarthya (Moderator) — Yesterday at 7:06 PM
+@Bans06 please dm you email
+Ari — Yesterday at 7:18 PM
+@moderator  if you could please hint at the parameters being evaluated for rank_score (as seen in the eval logs) 
+Naimish — Yesterday at 7:54 PM
+@Amarthya (Moderator) @Rakshit Ramesh (Moderator) facing error while evaluation. Pls help
+We have saved outputs as per guidlines. 
+Image
+Amarthya (Moderator) — Yesterday at 7:58 PM
+kindly wait for a while
+Amarthya (Moderator) — Yesterday at 8:13 PM
+.
+Please follow the guidelines @Ritwik Upadhyay .
+Joel_DJ — Yesterday at 8:14 PM
+Forwarded
+Output Structure for all Problem Statements:
+Please ensure all generated files are placed inside a folder named output/.
+
+---
+
+PS1
+output/
+├── MG006A.json
+├── MG064A.json
+├── SB039A.json
+└── SG039C.json
+
+Note: The JSON file names above are only indicative. Use the actual package codes present in your data.
+---
+
+PS2
+output/
+├── MC011A.json
+├── MG029A.json
+├── SG039C.json
+└── SU007A.json
+
+
+Note: The JSON file names above are only indicative. Use the actual package codes present in your data.
+
+---
+
+PS3
+output/
+├── output.json
+├── <claim_1>.yaml
+├── <claim_2>.yaml
+└── <claim_3>.yaml
+
+
+The JSON and YAML files must reside in the same directory (output/).
+#announcements  •  Sunday
+Sumanth.tks — Yesterday at 8:22 PM
+Regarding the document ranking, how does the evaluator handle instances where multiple documents in a case folder have the exact same clinical priority (e.g., three separate pages of clinical notes)? Should we use a tie-breaker, like chronological or page order, or should they all receive the same rank?
+
+To ensure our outputs align perfectly with the evaluator, is the document_rank field expected to be a strict sequential list from 1 to N (where N is the total number of documents in the case), or are tied ranks (like multiple pages receiving a rank of '1') mathematically acceptable for the Spearman correlation calculation used in this competition?
+
+Could you clarify if the document_rank is meant to reflect the chronological order of the patient's journey, the clinical importance of the document, or a combination of both?
+
+Kindly answer these questions
+Joel_DJ — Yesterday at 8:23 PM
+@Hardik
+Hardik — Yesterday at 8:31 PM
+If multiple pages talk about sane thing, give same rank 
+
+Rank should reflect combination of both
+thelegend3117 — Yesterday at 8:39 PM
+Hi @Hardik please check DM
+Naimish — Yesterday at 8:51 PM
+Can I run evaluation now?
+Joel_DJ — Yesterday at 8:52 PM
+did you get your score for the previous one ?
+Naimish — Yesterday at 8:53 PM
+No
+Same error
+Image
+Joel_DJ — Yesterday at 8:53 PM
+@Amarthya (Moderator)
+Bans06 — Yesterday at 8:59 PM
+bansaripatel626@gmail.com
+Aryan — Yesterday at 9:20 PM
+hey @Joel_DJ @Hardik by any chance can the model limit be increased for ps1?it would be really helpful
+thelegend3117 — Yesterday at 10:09 PM
+Hi @Rakshit Ramesh (Moderator) and @Hardik  please check your DM 
+Naimish — Yesterday at 10:10 PM
+@Amarthya (Moderator) can you  pls check?
+Dhiraj Gandhi — Yesterday at 11:27 PM
+I am facing problem in my evaluation
+Meghana Thota — Yesterday at 11:57 PM
+hello @Joel_DJ my notebook creation is showing failed can you help me
+Image
+Joel_DJ — Yesterday at 11:58 PM
+Dm me your email
+Tejas_07 — Yesterday at 11:59 PM
+Can I upload my code tomorrow on 1 pm
+Joel_DJ — Yesterday at 11:59 PM
+Yes
+Pranay Agarwal — 12:04 AM
+@Joel_DJ  getting this error
+Image
+Joel_DJ — 12:04 AM
+Let me check
+zero2 — 12:05 AM
+Not able to create
+Image
+Joel_DJ — 12:05 AM
+That notebook must be already created
+zero2 — 12:06 AM
+Yes, Thank you
+Nashra — 12:09 AM
+Im getting this
+Image
+zero2 — 12:09 AM
+In what case it says access denied?
+Image
+Joel_DJ — 12:09 AM
+Clear your browser cache
+And then try
+Else incognito mode
+Nashra — 12:11 AM
+im running this locally
+Joel_DJ — 12:11 AM
+Check your llm usage 
+zero2 — 12:11 AM
+@Joel_DJ cache clear works, Thank you.
+Joel_DJ — 12:11 AM
+Great
+Nashra — 12:12 AM
+Image
+zero2 — 12:12 AM
+Also do i need to keep all the claim results in output? like 4 x 10 = 40
+Pranay Agarwal — 12:13 AM
+Any update?
+Joel_DJ — 12:13 AM
+No 4 json files
+Joel_DJ — 12:13 AM
+Not yet we are checking this issue
+Nashra — 12:13 AM
+this is my llm usage
+Joel_DJ — 12:14 AM
+@Pranay Agarwal can you try again
+zero2 — 12:14 AM
+4 json and each json contains 10 claim result?
+
+and is there any format of output json. As i am keeping necessary keys in json  for claim result
+Joel_DJ — 12:15 AM
+Please refer to the output guidelines. It can be found on the hackathon page for each ps
+zero2 — 12:16 AM
+got it @Joel_DJ . Thank you for the help.
+
+
+Please refer to the output guidelines. It can be found on the hackathon page for each ps
+zero2 — 12:16 AM
+got it @Joel_DJ . Thank you for the help.
+Joel_DJ — 12:17 AM
+Also the folder structure is given in the announcement channel
+Will forward it here
+Forwarded
+Output Structure for all Problem Statements:
+Please ensure all generated files are placed inside a folder named output/.
+
+---
+
+PS1
+output/
+├── MG006A.json
+├── MG064A.json
+├── SB039A.json
+└── SG039C.json
+
+Note: The JSON file names above are only indicative. Use the actual package codes present in your data.
+---
+
+PS2
+output/
+├── MC011A.json
+├── MG029A.json
+├── SG039C.json
+└── SU007A.json
+
+
+Note: The JSON file names above are only indicative. Use the actual package codes present in your data.
+
+---
+
+PS3
+output/
+├── output.json
+├── <claim_1>.yaml
+├── <claim_2>.yaml
+└── <claim_3>.yaml
+
+
+The JSON and YAML files must reside in the same directory (output/).
+#announcements  •  Sunday
+Joel_DJ — 12:32 AM
+Forwarded
+📢 Announcement:
+The submission limits are reset and the count is increased to 20 successfull submissions
+#announcements  •  12:32 AM
+Nashra — 12:34 AM
+I am getting too many request error unable to run
+Darth Vader — 12:54 AM
+Could anyone explain what is the meaning of different exit status errors that are coming so that a more directed debugging can be done
+
+Thank you
+msm — 1:03 AM
+I’m facing a 429 – Too Many Requests error while testing. Is there any resolution for this?
+Joel_DJ — 1:09 AM
+429 can happen for few reasons 
+
+you have crossed the max limit of the tokens ...change the model
+
+Too many requests to there..can happen if you're trying to send multiple requests to the server so if multiple people are sending requests to the same model 429 can occur.... Change the model for 30 to 40s or add other fallback, such as sleep for 1 minute.
+Some participants are using two or more accounts, to access the LLMs. If multiple people do that , it can cause 429 
+Please please note that we are actively monitoring for such participants and they will be disqualified.
+Some participants are trying to send 10 requests concurrently thereby blocking other users hence the 429. Please note that such things will noted and will affect your final evaluation 
+confusednsoon — 8:46 AM
+Hello Mods, are there any sample cases with their corresponding Json files which could be used as reference and to test our knowledge and codebase? Since I don't know what the correct answer is even for a single case, I think I am building the solution in dark.
+Is it possible to get 1 sample case json file for each package?
+lokesh97bansal — 9:00 AM
+Hi @Joel_DJ , @Rakshit Ramesh (Moderator) in final sumbmission are we supposed to just leave the final code file or any other things are also mandatory? for instance and output files? or anyother thing?
+Joel_DJ — 9:48 AM
+Please note:
+For the final submission, 
+Just clean up your code, leave the necessary documentation in the project itself. And have a readme file if there are any instructions to run. 
+Nothing more needs to be done.
+krushna — 10:16 AM
+@Amarthya (Moderator) @Hardik @Joel_DJ could you please help us resolve it we are not able to evaluate 
+any feedback would be useful to us
+Darth Vader — 10:17 AM
+call last):
+  File "/tmp/ps1_eval.py", line 335, in <module>
+    evaluate(parser.parse_args())
+    ~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/ps1_eval.py", line 219, in evaluate
+    raise ValueError(
+    ...<4 lines>...
+    )
+ValueError: no participant rows matched labels for claim=MG006A on merge_keys=['case_id', 'page_number']. This usually means output JSONs and label dataset are from different splits/runs (e.g., output from Testing but labels from Training). Verify --label-base points to the matching S3 label folder.
+time=2026-04-30T15:47:49.929Z level=INFO msg="file signal handler exiting due to context cancellation" argo=true
+time=2026-04-30T15:47:49.929Z level=INFO msg="sub-process exited" argo=true error="exit status 1"
+Error: exit status 1
+
+
+Could anyone help and explain the error 
+
+Thank you
+Joel_DJ — 10:18 AM
+You have wrong case id in json files
+Rakshit Ramesh (Moderator) — 10:22 AM
+@Amarthya (Moderator) please help @krushna
+Kalidas — 10:27 AM
+@Rakshit Ramesh (Moderator) it is not allowing to evaluate saying maximum limit of 5 reached for tdoay. Can you please increase?
+ganeev — 10:53 AM
+Hi @Rakshit Ramesh (Moderator)  @Amarthya (Moderator) @Joel_DJ ,
+I have a doubt, During submission the structure suggests: 
+"S3_link": "Bucket_name/document.pdf"
+, What is meant by bucket name/document in our context. Does it mean the 
+claim_id/filename
+ or 
+package/claim_id/filename
+ ? 
+ANSHUMAN — 10:56 AM
+I could not create a new notebook please help
+Joel_DJ — 10:59 AM
+please use "link" instead of this "S3_link" and instead of bucket name/document please use relative path of the files
+package/claim_id/filename should be enough
+Amarthya (Moderator) — 10:59 AM
+dm me your email/
+ganeev — 11:03 AM
+To confirm: "link" instead of "S3_link" for all 4 packages? The document suggests multiple different names for the different packages.
+E.g: 
+"link" in MG064A
+ and 
+"S3_link/DocumentName" in SG039C
+Rakshit Ramesh (Moderator) — 11:05 AM
+Yes 
+Just use link.
+Joel_DJ — 11:06 AM
+Forwarded
+Please refrain from deleting your notebooks.
+Opening notebooks may take time, but it will eventually open up. If you delete the notebook and create one, it will take even more time and is likely to fail as well.
+#announcements  •  11:06 AM
+True_blue — 11:20 AM
+it has been more than 24 hrs i am getting same error 
+HTTP/1.1 504 Gateway Time-out"
+Amarthya (Moderator) — 12:03 PM
+can you try in incognito
+rishipillai — 12:04 PM
+Hello, 
+I just want know , where we have to Upload the output file , and how ?
+@Amarthya (Moderator) @Rakshit Ramesh (Moderator)
+Amarthya (Moderator) — 12:06 PM
+in the sandbox
+you can upload the directory in the jupyter environment
+rishipillai — 12:07 PM
+what are the steps ?
+zero2 — 12:07 PM
+Is this the final output format with value in binary (0 or 1) ?
+I thought the results will be judgement of claim that it pass or not. If not what should be the reason.
+
+Am i correct or just output in the format just like in image
+Image
+rishipillai — 12:08 PM
+@Amarthya (Moderator)
+?
+Vishnu Tripathi — 12:09 PM
+@Amarthya (Moderator), @Rakshit Ramesh (Moderator) , @Hardik  I put my code into jupyter notebook in the sanbox, still it shows code is running. ACTION -> OPEN 
+
+then only white screen stuck 
+
+
+This was my first submission. Help to get it evaluate
+sometimes, even the platform is not opening.
+Image
+Amarthya (Moderator) — 12:14 PM
+please clear cache / open in incognito tab
+Vishnu Tripathi — 12:15 PM
+@Amarthya (Moderator) 
+Image
+Already in incognito ...
+ganeev — 12:15 PM
+Hi @Rakshit Ramesh (Moderator) @Amarthya (Moderator) @Joel_DJ 
+
+We guys are submitting output but seem to always get unsuccessful submission with no error logs that will help us debug.
+
+We have attached 
+1) the format we are using as a txt file (We are only sharing datatype without any sensitive information)
+2) the error logs 
+
+Could you guys please help us out 
+Image
+MG006A.json
+[
+  {
+    "case_id": "PMJAY_MN_S_2025_R3_2802202610025071",
+    "link": "MG006A/PMJAY_MN_S_2025_R3_2802202610025071/000753__PMJAY_MN_S_2025_R3_2802202610025071__CARD.jpg",
+    "procedure_code": "MG006A",
+
+output_format.txt
+3 KB
+Vishnu Tripathi — 12:19 PM
+tried everything multiple times and i'm on a decent internet, Still unable to open it.
+
+I have to evaluate it ASAP then do the further refinements.
+no this issue access denied..
+Image
+zero2 — 12:23 PM
+https://chromewebstore.google.com/detail/jkmpbdjckkgdaopigpfkahgomgcojlpg?utm_source=item-share-cb
+
+
+use this extension to clear the cache and cookies of the site. It worked for me
+Clear cache and cookies - Chrome Web Store
+Clear cache and cookies for one website with just one click. Easily manage and delete cache and cookies saving time on data removal
+Image
+Kashish Sharma — 12:29 PM
+Hello, 
+I just want know , where we have to Upload the output file , and how? What are the steps?
+
+ @Amarthya (Moderator)  @Rakshit Ramesh (Moderator)
+zero2 — 12:31 PM
+@Joel_DJ Could you please help in the format inside output json files?
+Joel_DJ — 12:32 PM
+Its given in the pdf
+Ari — 12:38 PM
+@Joel_DJ can you please give a hint on what are the parameters being evaluated for the rank_score being shown in the evaluation logs? It is coming out very low it would be helpful if you could give a hint
+Joel_DJ — 12:40 PM
+@Hardik
+rishipillai — 12:40 PM
+@Amarthya (Moderator) what are the steps for submit the output ?
+Rakshit Ramesh (Moderator) — 12:45 PM
+Usually happens only if you have multiple logins. 
+Try it in incognito or a different browser.
+Rakshit Ramesh (Moderator) — 12:46 PM
+Please see announcements and final submission channel. Nothing has to be done. Just keep the best version of your code in the sandbox
+Pragyanand saho — 12:58 PM
+Hi, @Rakshit Ramesh (Moderator)   I have sent you DM i have stucked in something plz check.
+Naimish — 1:04 PM
+Hi @Rakshit Ramesh (Moderator) @Amarthya (Moderator) @Joel_DJ 
+Can you pls help us ASAP. We aren't able to run evaluation successfully
+Amarthya (Moderator) — 1:06 PM
+Hi @Naimish 
+have you uploaded your output directory to sandbox?
+have you complied with the guidelines?
+have you stopped your sandbox before evaluation?
+Naimish — 1:07 PM
+Yes
+JSON schema for all 4 packages is as per guidlines and we have stopped the notebook before running evaluate.
+Image
+rishipillai — 1:44 PM
+is it imp to OCR all 4 dataset ?
+@Amarthya (Moderator)
+Vishnu Tripathi — 1:46 PM
+@Amarthya (Moderator) After this, JSON files stop being stored in the package’s JSON.
+Please help me out with this. from 6am i'm tryting to run and evaluate.
+Image
+Kalidas — 1:46 PM
+Do we have to release our code in nha_ps1_skeletal_notebook_main.ipynb file, strictly following their template?
+Amarthya (Moderator) — 1:46 PM
+Yes
+please keep your code in nha_ps1_skeletal_notebook_main.ipynb
+Amarthya (Moderator) — 1:47 PM
+Recommended for better scores
+Vishnu Tripathi — 1:48 PM
+..
+Vishnu Tripathi — 1:50 PM
+ohh there might be a lag, currently working.
+sorry @Amarthya (Moderator)
+
+
+Do we have to release our code in nha_ps1_skeletal_notebook_main.ipynb file, strictly following their template?
+Amarthya (Moderator) — 1:46 PM
+Yes
+please keep your code in nha_ps1_skeletal_notebook_main.ipynb
+Amarthya (Moderator) — 1:47 PM
+Recommended for better scores
+Vishnu Tripathi — 1:48 PM
+..
+Vishnu Tripathi — 1:50 PM
+ohh there might be a lag, currently working.
+sorry @Amarthya (Moderator)
+Nashra — 2:03 PM
+what is the evaluation limit for today?
+ganeev — 2:12 PM
+Hi @Amarthya (Moderator), We are stuck for a while, could you please help us out?
+Joel_DJ — 2:13 PM
+@Amarthya (Moderator)
+No logs
+Amarthya (Moderator) — 2:23 PM
+can you send your email?
+ganeev — 2:24 PM
+email Id: clinicalai@miimansa.com
+Amarthya (Moderator) — 2:31 PM
+please stop your sandbox before submitting for evaluation
+ganeev — 2:31 PM
+We are stopping sandbox before running
+Amarthya (Moderator) — 2:31 PM
+okay
+can you try again
+Kalidas — 2:34 PM
+Regarding setting environment variable.. DATA_ROOT you will be setting it to /home/<id>/<root-id> and later some test directory right? in our code if we hardcode, then when you are testing on your dataset, it will give problem by not changing the value. Can you please advise? @Amarthya (Moderator) @Rakshit Ramesh (Moderator) and team 
+Amarthya (Moderator) — 2:35 PM
+yes correct
+we are not evaluating the code as of now
+only the outputs
+ganeev — 2:36 PM
+We have tried multiple times without success, though have run again! Will let you know the results once complete
+Kalidas — 2:41 PM
+(from terminal) cd /home/<xx>; export DATA_ROOT="/home/<xx>/c110a5f8-6e79-43bd-bd7a-979677354958"
+export NHA_CLIENT_ID=<xx>
+export NHA_CLIENT_SECRET=<xx>
+
+jupyter nbconvert \
+  --to notebook \
+  --execute nha_ps1_skeletal_notebook_main.ipynb \
+  --output nha_ps1_skeletal_notebook_main_executed.ipynb \
+  --ExecutePreprocessor.timeout=-1 .. this worked. 
+ganeev — 2:57 PM
+Have tried again, same error. Please help us out @Amarthya (Moderator)
+Image
+Image
+Kalidas — 2:58 PM
+It is taking a lot of time (and still waiting) to open notebook
+Amarthya (Moderator) — 2:59 PM
+one moment
+Kalidas — 3:01 PM
+For the last 10+ minutes the notebook is still opening.
+Image
+Amarthya (Moderator) — 3:05 PM
+please stop sandbox.
+Vishnu Tripathi — 3:06 PM
+The gateway error is causing pages to be skipped during processing. @Amarthya (Moderator) 
+Image
+ganeev — 3:07 PM
+Sorry to trouble you, but could you help us out. We are stopping the notebook from action button before submitting using the eval button. Are we missing something?
+Amarthya (Moderator) — 3:07 PM
+I can see that the sandbox is still running
+Amarthya (Moderator) — 3:08 PM
+but yes, this is how you are supposed to stop the sandbox
+ganeev — 3:12 PM
+@Amarthya (Moderator) It is showcasing "stopped" at our end. We have rechecked. This is a ss we have taken right now. 
+Do we have to take some additional steps, like removing cookies from browser or some other unknown interference? 
+Image
+Amarthya (Moderator) — 3:12 PM
+can you resubmit now?
+ganeev — 3:12 PM
+yes, will do that
+Amarthya (Moderator) — 3:12 PM
+I will assist you if there is an issue
+akash_sparden — 3:15 PM
+@Amarthya (Moderator) 
+In our earlier implementation we used OCR functionality through Tesseract installed via "pip install pytesseract".
+
+We would like to confirm:
+
+Are third-party libraries such as Tesseract permitted in the hackathon environment?
+Or should we strictly use only the models and tools provided by the organizers?
+
+This clarification will help us ensure our solution complies with the hackathon guidelines.
+Amarthya (Moderator) — 3:16 PM
+python packages are allowed
+as long as they do not make any external requests
+

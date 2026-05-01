@@ -1,0 +1,35 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "CURRENT INVESTIGATION STAT/ OUTPUT DIABETIC NORMAL ALLT CURRENT PATIENT K.P.S. PGES DIAGNOSTIC VITAL, TAB. Metronidazol 400mg 8'ly, Tab. Syrup Iron Syrup 5ml TDS, IV Fluid Normal Saline 100ml Bis. HR. RR. BP. TEMP. SPO2. CVP. ETCO2. BASE. ART. PATIENT F",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "18/8/2023"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "diabetic"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "metronidazol",
+      "iron syrup",
+      "normal saline"
+    ]
+  }
+}

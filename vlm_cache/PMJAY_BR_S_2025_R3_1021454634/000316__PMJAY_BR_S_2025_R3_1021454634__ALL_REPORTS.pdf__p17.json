@@ -1,0 +1,34 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "The Ferritin blood test measures the level of ferritin in the blood. Ferritin is a protein inside your cells that stores iron. It allows your body to use the iron when it needs it. Afteritin measures the amount of iron in your blood. Ferritin is a compund composed of iron molecules bound to Apoferritin, a protein wherein is stored as ferritin. Ferritin found in many body cells, especially in the liver, spleen, bone marrow and in reticuloeothelial cells. Ferritin predicts and monitors iron deficiency, differentiate iron deficiency from chronic disease as cause of Anemia.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38",
+    "dates_found": [
+      "14/02/2023 11:00",
+      "11/02/2023 22:21",
+      "12/02/2023 06:21",
+      "12/02/2023 11:01"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "anemia"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

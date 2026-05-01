@@ -1,0 +1,29 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.8,
+  "ocr_snippet": "DETAIL OF BILLING 1) PATIENT NAME: 2) REG. NO. 3) IPD NO.: 96666 4) SSBY: YES 5) BILLING CATEGORY: SC / DOMICILE 6) ADMISSION DATE: ROOM CHARGES: FROM TO TOTAL NO. OF DAYS RATES TOTAL AMOUNT DIAGNOSTIC (XRAY, USG, CT SCAN, MRI, OPG, MAMMO) TOTAL NO. OF VIEWS RATES TOTAL AMOUNT OTHER CHARGES: (OT, DIALYSIS, LAB ETC) TOTAL NO. RATES TOTAL AMOUNT",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "24/3/28"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

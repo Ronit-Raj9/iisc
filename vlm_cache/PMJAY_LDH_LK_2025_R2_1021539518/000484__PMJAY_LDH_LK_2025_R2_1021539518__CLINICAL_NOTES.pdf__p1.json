@@ -1,0 +1,29 @@
+{
+  "doc_type": "indoor_case",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "SUMMARY OF DRUG/S SIPPLIED DURING HOSPITALIZATION. 1. Date of Admission: 79-55 pm (10-1-26) 2. Date of Discharge : 3. Total Hospital Stay : IMPROVED LAMA EXPIRE I understand hereby agree to the Hospital authorities carrying out whatever investigations, treatment & Operation that may be considered necessary in my interest & also to retention of Local/General anaesthesia as may consider necessary...Sig. of Ward I/C Serthi Printer, Fort Road Ltd",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "91",
+    "dates_found": [
+      "10-1-26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

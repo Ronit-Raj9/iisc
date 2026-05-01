@@ -1,0 +1,37 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "IMPRESSION: NO SIGNIFICANT ABNORMALITY DISCHARGE MEDICATION: TAB. NEUROKIND PLUS 1 TAB P/O OD X 20 DAYS TAB. FOLIC ACID 5 MG P/O OD X 20 DAYS ADVICE ON DISCHARGE: TAKE MEDICINE AS PRESCRIBED BY DOCTOR DIET: GREEN LEAFY VEGETABLES, NORMAL DIET NEXT FOLLOW UP: IN MEDICINE OPD ON WEDNESDAY/SOS WHEN YOU OBTAIN URGENT CARE: SOB / PAIN ABDOMEN / CHEST PAIN / GHABRAHAT",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "14/02/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "sobbing",
+      "pain abdomen",
+      "chest pain",
+      "ghabrahat"
+    ],
+    "treatments": [
+      "neurokind plus",
+      "folic acid"
+    ]
+  }
+}

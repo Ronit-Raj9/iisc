@@ -1,0 +1,32 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "HAEMOGLOBIN * 8.6 g/dl\nHEMATOCRIT * 25.8 %\nRBC COUNT 6.50 million/µL\nMCV * 73.7 fL\nMCH 24.6 pg\nMCHC 33.3 %\nPLATELET COUNT 156 x 1000/µL\nTOTAL LEUCOCYTE COUNT 5.42 x 1000/µL\nLYMPHOCYTE 62 %\nMONOCYTE 8 %",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "6 Y(s) / Male",
+    "dates_found": [
+      "10-Mar-2026",
+      "11-Mar-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      8.6
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

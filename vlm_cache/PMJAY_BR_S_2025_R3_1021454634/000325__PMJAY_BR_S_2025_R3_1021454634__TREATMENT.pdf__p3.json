@@ -1,0 +1,32 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "MEDICINE CHART Doctor Name INs Sumath Yarty IN OD 6AT Trans Buerkhan 1An IN SOS",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "inj",
+      "sos"
+    ]
+  }
+}

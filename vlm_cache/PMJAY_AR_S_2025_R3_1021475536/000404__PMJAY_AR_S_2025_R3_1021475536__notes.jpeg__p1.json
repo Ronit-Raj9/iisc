@@ -1,0 +1,35 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "RECENT Pt/PtobiS HISTORICAL Anemia. UNIT 1 Day 1. UNIT 1 w/B lood on PSC. INT IVIMMUNOACE. IG BLEW 2 1/2 Hour. OPSMGE OT ay showing. 3. BJECTOL 60 my 1/2 hours. 2 drops in Sublingual",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/02/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "anemia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "blood transfusion",
+      "immunolace",
+      "jectol"
+    ]
+  }
+}

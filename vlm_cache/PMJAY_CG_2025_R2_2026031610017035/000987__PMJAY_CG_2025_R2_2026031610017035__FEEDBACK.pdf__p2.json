@@ -1,0 +1,31 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Did you avail the medical treatment under AB PM-JAY योजना? Did you get any money from your pocket to the hospital for the healthcare service you availed? Are you satisfied with the treatment you received at the hospital?",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anemia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "blood transfusion"
+    ]
+  }
+}

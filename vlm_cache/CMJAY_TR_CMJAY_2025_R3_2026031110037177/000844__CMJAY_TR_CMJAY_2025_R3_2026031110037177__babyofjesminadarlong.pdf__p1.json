@@ -1,0 +1,32 @@
+{
+  "doc_type": "indoor_case",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "MEDICAL SERVICES PICU PER DAY PACKAGE -PMJAY / CMJAY 2100.00 1 2100.00 Total for MEDICAL SERVICES: 19100.00 Less Discount: 0.00 Net Amount: 19100.00",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "1y 9m",
+    "dates_found": [
+      "14/03/2026",
+      "11/03/2026"
+    ],
+    "doa": "11/03/2026",
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

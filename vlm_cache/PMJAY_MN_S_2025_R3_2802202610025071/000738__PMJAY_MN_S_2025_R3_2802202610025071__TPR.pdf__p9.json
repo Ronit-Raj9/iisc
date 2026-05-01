@@ -1,0 +1,33 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Parting After Lunch After Dinner 28/2/26 X X 314mg/dll at 7:50pm 2/26 286 mg/dl 2.4mg/dl 314mg/dll 299mg/dl at 9pm 1/3/26 95mg/dll 3.30pm 102mg/dll at 6am 2/3/26 66mg/dll 9.20am 81g/dll 4.4eam 4/3/26 136 mg/dl 222 mg/dl at 12:48pm 26ys 234 ng/dll at 9.50pm 3/3/26 257 mg/dl",
+  "language": "en",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "28/2/26",
+      "1/3/26",
+      "2/3/26",
+      "4/3/26",
+      "3/3/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

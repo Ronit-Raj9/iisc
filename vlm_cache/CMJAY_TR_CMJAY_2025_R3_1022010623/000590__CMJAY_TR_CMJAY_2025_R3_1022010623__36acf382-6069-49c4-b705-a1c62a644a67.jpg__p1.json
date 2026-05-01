@@ -1,0 +1,34 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Hospital Code:- Hospital Address:- PMJAY ID:- Patient Name:- AGE:- 60/M Registration No:- IPD Number (Text):- AR-288 Package Booked:- Enteric Fever Treating Consultant’s Name:- Dr. Treating Consultant’s Qualification:- MBBS Registration Number:- Treating Consultant’s Specialty:- Initial assessment (Text):-. Pulse: 80/min, Temperature:- 102.6 Final Diagnosis at the time of Discharge:- Enteric Fever ICD - 10 Code (s) for Final diagnosis:- Key Investigation:-",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "60",
+    "dates_found": [
+      "12/11/2021",
+      "22/11/2021"
+    ],
+    "doa": "12/11/2021",
+    "dod": "22/11/2021",
+    "hb_values": [],
+    "temperature_celsius": 39.0,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "enteric fever"
+    ]
+  }
+}

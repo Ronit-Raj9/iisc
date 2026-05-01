@@ -1,0 +1,32 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "COMPLETE BLOOD COUNT (CBC) *Hemoglobin 9.5g/dL 4-10 *Neutrophils 83.3% H 40-60 *Lymphocytes 18.60 % 20-40 *Monocytes 1.90 % 2-10 *Eosinophils 0.90 % 0-6 *RBC 4.50 L 4-5.5 *PACKED CELL VOLUME OR HEMATOCRIT (PCV) 18.40 L 36-50 *MCV 57.80 fl 83-101 *MCH 26.30 pg 27-32 *MCHC 30.00 g/dL 31.0-34.5 *RDW-SD 26.10 % 11.6-14.0 *PLATELET COUNT 112.00 150-410",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "15-03-2026",
+      "15-03-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      9.5
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

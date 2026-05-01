@@ -1,0 +1,30 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "LIVER PROFILE Bilirubin Total Specimen : Serum Specimen : Serum Specimen : Serum Specimen : Serum Specimen : Serum Specimen : Serum Specimen : Serum 0.3 mg/dl Adult : 0.3 - 1.2 mg/dl Direct : 0.2 mg/dl Adult : 0 - 0.2 mg/dl SGPT 31 U/L Males : < 40 U/L Females : < 32 U/L",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "6 Y(s) / Male",
+    "dates_found": [
+      "10-Mar-2026",
+      "11-Mar-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name\n15/12/24\n7:00 mm\nDO: Antibiotics\n>\nOral intake improved.\n> No further loose Stools\nO/E: Alert Active, Abdomen Soft, Normal TLC: 185/mm3\n\n",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "15/12/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.8,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "altered sensation",
+      "abdomen pain",
+      "loose stools",
+      "headache",
+      "vomiting",
+      "bone pain"
+    ],
+    "treatments": [
+      "antibiotics",
+      "ceftriaxone"
+    ]
+  }
+}

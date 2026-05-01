@@ -1,0 +1,29 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.7,
+  "ocr_snippet": "HRC हाल्का मिळतील सामीये फाटा वितानाशन बरवाशी कुणा कोणाला याची आवश्यकता अवधार क्षेत्रीय विवरण तयार आहे. उपचार दरम्यान कुणाखाती विवाद नाही आम्ही निवडार सूचना.",
+  "language": "mr",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/03/2016"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient: - 56/M UHID No:- 81/IPD25COHO Date & Time of Admission:- 22-01-2026 - 10:30 PM DISCHARGE SUMMARY Date & Time of Discharge: 29.01.2026 4:00 PM Treating Consultant:-  DEPT:- GENERAL MEDICINE CHIEF COMPLAINT:- ACC HTN / Enteric fever / AGE / UTI / LRTI Patient also had headache restlessness, cough with expectoration and pain in throat.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "56",
+    "dates_found": [
+      "22-01-2026",
+      "29.01.2026"
+    ],
+    "doa": "22-01-2026",
+    "dod": "29-01-2026",
+    "hb_values": [],
+    "temperature_celsius": 38.6,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "acc htn",
+      "enteric fever",
+      "age",
+      "uti",
+      "lrti"
+    ],
+    "symptoms": [
+      "headache",
+      "restlessness",
+      "cough",
+      "expectoration",
+      "pain in throat",
+      "vomiting",
+      "nausea",
+      "loose motion"
+    ],
+    "treatments": [
+      "medication"
+    ]
+  }
+}

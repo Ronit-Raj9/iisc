@@ -1,0 +1,27 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.8,
+  "ocr_snippet": "मरीज का नाम:  आइड.पी.डी. संख्या: 683908/298660  उम्र: 41 लिंग: f  वोईड: बे.नं. मुझे अस्पताल, सिलवासा मे आये हुए हूँ। मुझे श्री/श्रीमती/../ के साथ आए  और मुझे ... के लिए अस्पताल में भर्ती कराया गया। मैं बताता हूं कि इसके लिए उचित कारण और चिकित्सक की सलाह/प्रक्रिया के बारे में मैंने अपनी सहमति दी है। मैं अपने अनेक कर्मचारियों के साथ अस्पताल गया। मैं अपना मामूली दौरा पुनः प्राप्त करने के लिए अस्पताल जाऊंगा। मैं सूचित किया जाता है।।",
+  "language": "hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "41",
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

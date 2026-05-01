@@ -1,0 +1,32 @@
+{
+  "doc_type": "investigation_post",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Folic Acid [Folate] 9.03 ng/ml Bio. Ref. Range 2.6 - 12.2 Folate deficiency can be caused by decreased nutritional intake, poor absorption of ingested folate in the intestine or increased demand of folate, for example during physical activity or pregnancy. Deficiency of folate can also be a result of liver diseases or impaired folate metabolism due to genetic defects or drug interactions.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "19/Feb/2026",
+      "19/Feb/2026 08:37PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "folate deficiency"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

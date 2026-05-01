@@ -1,0 +1,33 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "TRUST | CARE | CURE (A Unit of AS Kidney Hospital & Stone Centre Pvt. Ltd.) ... Haemotology Rh Typing B+ HbA1c (Glycated hemoglobin) 7.6% Non Diabetic : 5.7 - 6.5% Pre-Diabetic : > 6.5% The Glycosylated Hemoglobin (HbA1c or A1c) test evaluates the average amount of glucose in the blood over the.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "71",
+    "dates_found": [
+      "17/02/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      7.6
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "diabetes"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "RDW-SD 15.80 11.1-15.5 14 March 2026 07:00 L RDW-CV 42.00 11.6-14.8 14 March 2026 07:00 L M.P.C. (Mean Platelet Volume) (MPV) 9.70 0.108-0.282 14 March 2026 07:00 H Plateletcrit (PCT) 0.11 10.0-17.9 14 March 2026 07:00 PDW 20.30 30-90 14 March 2026 07:00 P-LCC 40.00 11-45 14 March 2026 07:00 P-LCR",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "14/03/2026",
+      "14 March 2026 07:00"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      8.3
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

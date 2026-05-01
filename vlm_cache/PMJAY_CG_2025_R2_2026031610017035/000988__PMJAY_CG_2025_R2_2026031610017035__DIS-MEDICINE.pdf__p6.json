@@ -1,0 +1,30 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Neutrophils 77.20 20-40 13 March 2026 08:27 Lymphocytes 16.00 2-10 13 March 2026 08:27 Monocytes 5.10 2-6 13 March 2026 08:27 Eosinophils 1.00 1-3 13 March 2026 08:27 Basophils 0.70 0-1 13 March 2026 08:27 PACKED CELL VOLUME OR HEMATOCRIT (PCV) 8.80 36-50 13 March 2026 08:27 HCT 82.50 27-32 13 March 2026 08:27 MCV 24.60 30-34.5 13 March 2026 08:27 MCH 29.80 11-14.0 13 March 2026 08:27 MCHC 62.50 40-55 13 March 2026 08:27 RDW-CV 28.40 150-410 13 March 2026 08:27 PDW 71.40 13 March 2026 08:27 PLATELET COUNT 107.00 0.108-10.10 13 March 2026 08:27 Mean Platelet Volume (MPV) 10.10 11.0-17.7 13 Marc",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "13/03/2026",
+      "13 March 2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "LAB Order Id : LAB022602301 Order Date : 10/02/2026 08:16 PM Collected Date : 10/02/2026 08:29 PM Reported Date : 10/02/2026 10:53 PM TEST NAME Anti HCV measurement RESULTS HBsAg Confirmatory NEGATIVE",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "10/02/2026",
+      "10/02/2026 08:16 PM",
+      "10/02/2026 08:29 PM",
+      "10/02/2026 10:53 PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

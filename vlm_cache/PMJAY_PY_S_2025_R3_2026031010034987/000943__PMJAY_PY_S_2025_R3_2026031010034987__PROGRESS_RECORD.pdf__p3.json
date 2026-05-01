@@ -1,0 +1,35 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "Patient's Name 2024062570844 PIMS No ESS SHEET To continue IV cefotaxime To continue and doxycycline To continue IV fluids clinical Sensores reports child Reviewed No C/o Altered Sensations",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12/6/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "altered sensations"
+    ],
+    "treatments": [
+      "iv cefotaxime",
+      "iv fluids",
+      "doxycycline"
+    ]
+  }
+}

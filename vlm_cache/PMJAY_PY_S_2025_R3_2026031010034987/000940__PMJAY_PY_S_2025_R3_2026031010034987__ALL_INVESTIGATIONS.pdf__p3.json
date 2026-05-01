@@ -1,0 +1,33 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DEPARTMENT OF PATHOLOGY\n\nPatient Name : \nBill Date : 16-Mar-2026 09:45 PM\nSample Coll. : 16-Mar-2026 09:46 AM\nReport Date : 17-Mar-2026 09:53 AM\nRef By\nFinal Report\n\nParameter\nMONOCYTE*\nMETAMYELOXYTE*\nPERIPHERAL SMEAR STUDY (EDTA) \nRBC\nWBC\nPLATELTS\nABNORMAL CELLS\nHEMOPARASITES\nIMPRESSION",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "6",
+    "dates_found": [
+      "16/03/2026",
+      "16-Mar-2026",
+      "17-Mar-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "anemia"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

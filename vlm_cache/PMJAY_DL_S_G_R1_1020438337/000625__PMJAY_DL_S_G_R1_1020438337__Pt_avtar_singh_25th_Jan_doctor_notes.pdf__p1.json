@@ -1,0 +1,39 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Accelerated Hypertension / HTBP / AGE / Refuse Fever. Patient Symptomatic with No episode of loose motions. RBS - 137mg/dl SPO2 - 98% w/RA Temp - 101.2°F. DR - 92/min Chest - B/L Creps (?), P/A - Defloated, RS1( ), ONS (), WANT ( ), Run M/o cef.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "25/01/2024"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.44,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "accelerated hypertension",
+      "htbp"
+    ],
+    "symptoms": [
+      "fever",
+      "loose motions",
+      "headache",
+      "creps"
+    ],
+    "treatments": [
+      "cef"
+    ]
+  }
+}

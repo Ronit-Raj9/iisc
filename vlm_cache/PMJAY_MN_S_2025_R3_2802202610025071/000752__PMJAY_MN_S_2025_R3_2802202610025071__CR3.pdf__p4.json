@@ -1,0 +1,33 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "Doctors Order MRD No. 1432/2. Bed No. 308 Age/Sex 50/MProgress Report / Advice Investigation # 7:45PM S. Creatinine Inj Losix 40 iv bd from tomorrow Stop Tablet SITARA M (50) Stop NS 20 Stop DNS 18 Stop Inj O2 100 ml",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "50",
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "losix",
+      "tablet sitara m",
+      "ns 20",
+      "dns 18",
+      "inj o2"
+    ]
+  }
+}

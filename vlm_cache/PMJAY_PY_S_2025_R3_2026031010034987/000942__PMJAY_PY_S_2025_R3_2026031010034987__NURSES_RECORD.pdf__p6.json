@@ -1,0 +1,34 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "NURSES REPORT All documentation should be with time, Special care to be counter signed by senior Nurse. Date & Time NURSES NOTES 18-Nov-23 will be induced PHY/Fiah. 19-Nov-23 Soory child sleeping well — PHY/Fiah. e/w. Recent close pats e/w Broadon Gleve - 101°F 9 pm para - w/p Good all given in five hours - 15/10/20 with all given given 10/11/15",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "17",
+    "dates_found": [
+      "18-Nov-23",
+      "19-Nov-23",
+      "10/11/15"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.3,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "sleeping",
+      "given"
+    ]
+  }
+}

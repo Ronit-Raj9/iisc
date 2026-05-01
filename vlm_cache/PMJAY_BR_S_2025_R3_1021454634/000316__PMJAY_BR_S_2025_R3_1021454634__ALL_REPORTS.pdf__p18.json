@@ -1,0 +1,30 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "LIVER FUNCTION TEST (LFT)  Bilirubin Total (TBil) 1.35 H mg/dl 0.20 - 1.20 Diazonium Salt Bilirubin indirect 0.94 mg/dl 0 - 1 Direct Measure Bilirubin Direct 0.41 mg/dl Calculated SGOT (AST) 52 H IU/L 14 - 36 Enzymatic Colorimetric SGPT (ALT) 26 IU/L 38 - 126 DPP AMP Buffer Alkaline Phosphatase 46 IU/L 38 - 126 Burret Method Protein Total 7.60 g/dl 6.30 - 8.20 BCG Dye Method Albumin 4.10 g/dl 3.50 - 5.00 Calculated A/G Ratio (Albumin/Globulin Ratio) 1.38 g/di 1.60 - 2.00 Calculated GGT <10 U/L 12 - 43 ...",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38",
+    "dates_found": [
+      "11/02/2026",
+      "12/02/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

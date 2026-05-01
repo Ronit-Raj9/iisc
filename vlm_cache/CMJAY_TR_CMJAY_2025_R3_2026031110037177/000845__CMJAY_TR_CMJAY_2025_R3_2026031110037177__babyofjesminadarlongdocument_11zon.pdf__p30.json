@@ -1,0 +1,35 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "CHILDREN WARD  OKA/SRN/ID/17 ADMISSION DATE: POD DOA: 11/03/2020 02:30 PM  HYGIENE PERSONAL LINE  Investigations   TREND:, stool ad passed and last stool passed at 5 pm.  All vomiting stopped, Tolerating feed well.",
+  "language": "en",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/03/2020"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "vomiting"
+    ],
+    "treatments": [
+      "tolerating feed"
+    ]
+  }
+}

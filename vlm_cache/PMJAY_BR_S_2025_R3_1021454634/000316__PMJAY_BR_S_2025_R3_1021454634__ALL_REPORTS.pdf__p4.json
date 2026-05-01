@@ -1,0 +1,34 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient Name Reg No/IP No Age/Gender Bed No/Ward Dr. General Medicine Unit III CBC (COMPLETE HEMOGRAM) Sample: Whole Blood EDTA Haemoglobin (Hb) 6.3 L  cells/cummn 4000 - 10000 Biological Ref. Range Colourimetric Flow Cytometry Flow Cytometry Flow Cytometry Electrical Impedance Method CALCULATED CALCULATED CALCULATED Electrical Impedance Method",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38/Female",
+    "dates_found": [
+      "14/11/1957",
+      "12/02/2021",
+      "13/02/2021",
+      "13/02/2021"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      6.3
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "CBC: Total WBC Count: 11.0 .gm/dL. Monocytes: 0.2-% Lymphs: 68% Eosinophils: 0.2%. Platelets Count: 1,58 Lakhs/Cu.mm. Packed Cell Volume: 28.2% MCV:68.6fL MCH: 11.9pg MCHC: 31.9 g/dL Erythrocytes Sedimentation Rate: ........................mm/hour",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "19/1"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

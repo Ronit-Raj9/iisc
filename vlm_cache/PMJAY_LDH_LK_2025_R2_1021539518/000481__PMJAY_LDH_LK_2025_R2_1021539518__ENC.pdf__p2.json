@@ -1,0 +1,33 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DATE DAILY NOTES TREATMENT DATE DAILY NOTES TREATMENT 12/1/24 BP-176/116m, Pulse 108/min DIET Diet- Infused. 5% D/s with NS @ 60ml/hr. 13/1/24 BP-186/126m, Pulse 132/Min, Temp-101.5F DIET Diet- Infused. 5% D/s with NS @ 60ml/hr.",
+  "language": "en|hi|bn|gu|mr|ta|te|mixed",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12/1/24",
+      "13/1/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.6,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "infused",
+      "ns"
+    ]
+  }
+}

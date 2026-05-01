@@ -1,0 +1,37 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name...................................................PIMS No.......................................................PROGRESS SHEET Date & Time 16/3/24 1:08 pm A.E. - Fever Spike @ 1:00pm -100.8°F No C/o Cough No C/o Akd pain. No C/o Abd pain. No C/o Headache. PK: lastml RK: 2/min SpO2: 98% @ Room Air P/A:- Brundt, non tender, Liver Span: 12cm C.N.S:- No focal neurological deficit.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/3/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.2,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "fever",
+      "abd pain",
+      "headache"
+    ],
+    "treatments": [
+      "ceftriaxone"
+    ]
+  }
+}

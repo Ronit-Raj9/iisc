@@ -1,0 +1,31 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "COMPLETE BLOOD COUNT (CBC) Hemoglobin 7.20 L Neutrophils 4.75 L Lymphocytes 9.37 L Monocytes 1.06 L Eosinophils 1.00 L Basophils 0.07 L RBC 3.86 L Paeityckelled Cell Volume or Hematocrit 5.80 L MCV 98.54 f MCH 31.97 f MCHC 32.68 g/dL RDW-CV 18.98 % RDV 50.55",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "13-03-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      7.2
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

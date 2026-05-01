@@ -1,0 +1,31 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "LABORATORY RESULT Order Id 2026007391 Patient Name Age/Gender 91 (year) / Female Biochemistry TEST NAME RESULTS UNITS Bio. Ref. Range KIDNEY FUNCTION TEST Blood Urea Nitrogen (Method: Spectrophotometry technique) 97.2 mg/dl 10-40 Serum Creatinine (Method: Spectrophotometry technique) 1.2 mg/dl 0.6-1.4 LIVER FUNCTION TEST Serum Bilirubin Total Bilirubin Direct Bilirubin 1.83 mg/dl 0.1-1.0 SGOT (Method: Spectrophotometry technique) 23.2 IU/L 5-40 SGPT (Method: Spectrophotometry technique) 9.5 IU/L 5-40 Alkaline Phosphatase (Method: Spectrophotometry technique) 67.5 IU/L 60U/L-170 U/L S. Albumin ",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "91",
+    "dates_found": [
+      "10/02/2026",
+      "10/02/2026 10:52 PM",
+      "10/02/2026 08:16 PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

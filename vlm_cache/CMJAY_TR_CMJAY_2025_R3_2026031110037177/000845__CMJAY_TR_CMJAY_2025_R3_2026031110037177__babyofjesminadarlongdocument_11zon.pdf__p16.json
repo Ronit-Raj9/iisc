@@ -1,0 +1,34 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "PR: 125 bpm PA: 37/min RR: 23/min SpO2: 93% in RA. Pt: BP: Soft, warm. 12.2.2C (2:10pm) DE - Baby is unconscious but irritable. Sto- Right- Right, Lower 1/3 of the face, Lower 1/3 steps don't present steel edge better than (lower)",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "4/31",
+      "12.2.2C",
+      "2:10pm"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "unconscious",
+      "irritable"
+    ],
+    "treatments": []
+  }
+}

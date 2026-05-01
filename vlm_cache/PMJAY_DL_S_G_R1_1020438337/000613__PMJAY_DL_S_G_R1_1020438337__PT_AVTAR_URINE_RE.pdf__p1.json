@@ -1,0 +1,29 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "URINE ANALYSIS:\nPHYSICAL EXAMINATION\nCOLOUR\nDARK YELLOW\nRBCS\n30\nCHEMICAL EXAMINATION\nPH\n6.8\nPROTEIN\nNEGATIVE\nGLUCOSE\nNEGATIVE\nMICROSCOPIC EXAMINATION N\nPUS CELLS\nABUNDANCE\nEPITHELIAL CELLS\n9-12",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "58YRS/M",
+    "dates_found": [
+      "22-01-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Bill No/Result No : S4223994 / RES4092001  Sample Rec. : 16-Mar-2026 09:45 PM  Report Date : 17-Mar-2026 09:53 AM  Lab No : HEMIS1742701  MONOCYTE 1 %  METAMYELOXYTE* 1 %  PERIPHERAL SMEAR STUDY(ESCENTIA EDTA) RBC  Predominantly normocytic normochromic admixed with few microcytic hypochromic RBCs with aniso/poikilocytosis showing few elliptocytes and occasional polychromatophils",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "6",
+    "dates_found": [
+      "16-Mar-2026",
+      "17-Mar-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "normocytic normochromic anemia",
+      "microcytic hypochromic"
+    ],
+    "symptoms": [
+      "aniso/poikilocytosis",
+      "elliptocytes",
+      "polychromatophils"
+    ],
+    "treatments": []
+  }
+}

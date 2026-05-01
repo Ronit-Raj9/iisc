@@ -1,0 +1,31 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "BIRTH CERTIFICATE THIS IS TO CERTIFY THAT THE FOLLOWING INFORMATION HAS BEEN TAKEN FROM THE ORIGINAL RECORD OF BIRTH REGISTERED UNDER SECTION 12/17 OF THE REGISTRATION OF BIRTHS AND DEATHS ACT, 1969 AND RULE 8/13 OF THE TRIPURA REGISTRATION OF BIRTHS AND DEATHS RULES 1969. NAME OF FATHER / পিতা:",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "07-06-2024",
+      "07-06-2014",
+      "07-06-2014 11:45:59"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

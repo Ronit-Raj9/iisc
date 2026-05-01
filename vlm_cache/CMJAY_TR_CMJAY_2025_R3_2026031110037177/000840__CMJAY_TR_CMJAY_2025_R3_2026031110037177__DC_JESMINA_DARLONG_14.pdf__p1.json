@@ -1,0 +1,38 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DISCHARGE SUMMARY\n\nName : \nIPD No. : 11/25/1882\nConsultant : UHID - 15678\nAddress : \nBed Type : PICU\n\nChief Complaint : Cough and intermittent fever since last 2 weeks\n\nHistory of Illness : Patient presented with above mentioned complaints\nWIDAL TEST - Salmonella typhimurium - reactive\n\nOn-Examination : Conscious, Cough, 37 B/M\nRR- 22 B/M\nSpO2- 93% in RA\nTemp- 97.8 degree F\n\nInvestigation : \n\nDiagnosis : Enteric fever\n\nTreatment : INJ XONE 500MG IV/BD X 4 DAYS\n1. SYRP ZIN 20ML O D X 4 DAYS\n2. SYRP TUMMYS",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/25/1882"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 36.5,
+    "fever_duration_days": 2,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "cough",
+      "fever"
+    ],
+    "treatments": [
+      "inj xone",
+      "syrup zin",
+      "syrup tummysoft"
+    ]
+  }
+}

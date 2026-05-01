@@ -1,0 +1,32 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "12.3.00  10- Dr. Ogut (MB) CHILDREN WARD  No fresh complaints except cough & cold.  DIE - conscious, articulate, articulate PR - 13 bpm CA - 291mm TBP - 92.5°F",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12.3.00"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 33.61,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "cough",
+      "cold"
+    ],
+    "treatments": []
+  }
+}

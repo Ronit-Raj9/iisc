@@ -1,0 +1,31 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Incentive BILL Bill No: 28 Date: 22/03/2026 Patient Name: Age: 3MONTH MALE Scheme: Mahatma Jyotirao Phule Jan Arogya Yojana Procedure: Pneumonia(MG016A –Pneumonia) Total Approved Package: Incentive (10%): ₹ 1690/- Total package: ₹ 18590/- Declaration: Certified that the above mentioned patient was treated under Mahatma Jyotirao Phule Jan Arogya Yojana and the total approved package amount was ₹ 16900/-. As per norms, 10% incentive amounting to ₹ 1690/- is claimed. Total Amount-18590/-",
+  "language": "en|mr",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "3MONTH",
+    "dates_found": [
+      "22/03/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "pneumonia"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

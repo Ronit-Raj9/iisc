@@ -1,0 +1,39 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Admitted for severe anaemia. Hb Bleeding. 2 months. O/E:- Conscious, Oriented, Aphatetic. 8-9/min BP-94/61 mmHg SPO2 100%. @ 2 litres. Are suggest:- will review after blood transfusion - Inj. Tranex 500mg i/v slowly - Anobillis dint 1/4 - Supp. Cremaffin 15ml H/S.",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/03/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anaemia"
+    ],
+    "symptoms": [
+      "bleeding",
+      "aphatetic"
+    ],
+    "treatments": [
+      "blood transfusion",
+      "inj. tranex",
+      "anobillis",
+      "cremaffin"
+    ]
+  }
+}

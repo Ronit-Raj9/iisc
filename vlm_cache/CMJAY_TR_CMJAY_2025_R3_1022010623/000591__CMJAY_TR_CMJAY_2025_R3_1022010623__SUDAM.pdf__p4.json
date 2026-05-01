@@ -1,0 +1,31 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "REPORT OF THE BLOOD / SERUM Patient's Name................ Age 60 Sex M/F Referred by Dr....... OPD/IPD Serum Typhi O Serum Typhi H Serum paratyphi AH Serum paratyphi BH Typhidot Done subsequently Serumtyphi antibody IgM C- reactive protein Rheumatoid factor (RF)",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "60",
+    "dates_found": [
+      "22/12/2023"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Doctors Order Bed No. 308 Age/Sex 50/F 02/26 6AM BP - 110/80mmHg PR - 90/Min Temp - 98.6°F 1. Inj Phenigran Forte iv TDS 2. Inj 100ml NS r/y brachial vein BD 3. Inj Tapez T2 4.5gm iv TDS 4. Inj Metron 100ml iv TDS 5. Inj Serenade 2.5mg + Inj Phenigran 12.5mg IM BD/SOS",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "50",
+    "dates_found": [
+      "02/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.0,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "phenigran forte",
+      "ns",
+      "tapez t2",
+      "metron",
+      "serenade"
+    ]
+  }
+}

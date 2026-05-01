@@ -1,0 +1,38 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name. Admission Notes. PIMS No 2024062570844 10/2/26 6/2. 6/26 A 6 ½ year old male child came with c/o Fever (38.2°F) x 7 days c/o vomiting x 6 days. c/o poor appetite, decrease urine output. Also c/o burning micturition. No c/o last breathing. Fast history :- Child was active & alert.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "6.5",
+    "dates_found": [
+      "10/2/26",
+      "2024062570844"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.33,
+    "fever_duration_days": 7,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "fever",
+      "vomiting",
+      "poor appetite",
+      "decrease urine output",
+      "burning micturition"
+    ],
+    "treatments": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient received from morning duty staff BP Viscy. All vital Checkpoint and Recorded @ Duty PRBE IT 5/6 Land IT four Given in PCN Start Next Duty Nursing STAFF over to Duty 8am to 2h 18/1/26",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "18/1/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anemia"
+    ],
+    "symptoms": [
+      "pallor"
+    ],
+    "treatments": [
+      "blood transfusion",
+      "ferrous sulphate"
+    ]
+  }
+}

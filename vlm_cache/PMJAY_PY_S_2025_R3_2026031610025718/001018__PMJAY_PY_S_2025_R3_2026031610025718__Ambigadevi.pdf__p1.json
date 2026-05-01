@@ -1,0 +1,31 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "This is to certify that, Trmt. is admitted in under Ayushman Bharat health claim in TMS 2.0 and he was discharged without biometric due to degeneration of fingers. This is for your information. Kindly do the needful.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "23-03-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

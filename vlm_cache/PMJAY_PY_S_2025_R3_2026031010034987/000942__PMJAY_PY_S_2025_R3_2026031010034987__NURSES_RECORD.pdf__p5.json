@@ -1,0 +1,38 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "NURSE'S REPORT Name of the Patient UMR No: 257054 Ward: Paed. All documentation should be with time, Special care to be counter signed by senior Nurse. NURSE'S NOTES 2:10 am Unwell – Temp 102.6°F solid orally tolerated nilas. 2:30 pm. Peussesenton. Difficulty. OP. Bun – 35 VPS. Temp recowered. solid orally tolerated nilas. 2:40 PM.  Hygiene + Nourishment Given. Gutito.  3:30 PM. Same patients. T.P.O. Nil. Aussellent – Done. taken Bur/Dif. Night Duty. the child's is unwell and irritable.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12/3/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 39.2,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "unwell"
+    ],
+    "symptoms": [
+      "difficulty",
+      "unwell",
+      "irritable"
+    ],
+    "treatments": [
+      "nourishment",
+      "oral feeding"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient Name: Age/Sex: Date: 11/01/2023 03:30 pm   Vital Signs Chart  Pulse  Temp   RR  BP Resp  Conscious  Anindita   11/01/2023   98/60 37.6 30 120/80 16 98/60 31 120/80 16   97/60 32 120/80 16   98/60 32 120/80 16 99/60 32 120/80 16   98/60 33 120/80 16   97/60 33 120/80 16   98/60 33 120/80 16   97/60 34 120/80 16   98/60 34 120/80 16   97/60 34 120/80 16 98/60 34 120/80 16   95%",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/01/2023"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.6,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

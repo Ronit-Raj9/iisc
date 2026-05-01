@@ -1,0 +1,40 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Discharge certificate (CASUALTY) ... BP-150/100 mmHg - 91/72 mmHg PR- 95 per minute ... Tab. Linetozol 600 BD + wixk Tab. Parday 10mg BD + wixk Advice for bed sore: 2 hourly position change",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "91",
+    "dates_found": [
+      "20.2.26",
+      "26.2.26",
+      "12.2.9"
+    ],
+    "doa": "20.2.26",
+    "dod": "26.2.26",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "general weakness",
+      "peripheral azotemia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "maxolaz",
+      "pcm",
+      "iv fluids",
+      "parday",
+      "linetozol"
+    ]
+  }
+}

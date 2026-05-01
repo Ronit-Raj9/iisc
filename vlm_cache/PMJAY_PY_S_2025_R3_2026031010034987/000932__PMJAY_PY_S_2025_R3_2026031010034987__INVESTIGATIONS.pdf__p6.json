@@ -1,0 +1,32 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient Name : Master. GANVITH C Age/Gender : 6 Y(s) / Male Specimen : Serum CRP Specimen : Serum Result Values : 77 mg/l Normal Range : < 6 mg/l Method : Turbidometric assay (Tulip) Impression : Positive for C-Reactive Protein",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "6",
+    "dates_found": [
+      "10-Mar-2026",
+      "11-Mar-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "positive for c-reactive protein"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Admission Consent For Patient’s Name (In Block Letters): Ly 3m Age: Sex: Name of Son/Daughter/Wife/Husband: Nationality: Religion: Address: P.O.: P.S.: Mobile (1): Office Address: Registration No: Date of Admission: Mode of Admission Cash/Card/RTGS/NEFT/Google pay/UPI Name of any emergency person to be connected Alternate No.: Address: I do hereby give full consent knowingly for hold the staff and the treatment and result / risk factors of such disease or treatment procedures decided by the doctors of this center. The complications, if any due to medicine / consumable / blood product sourced f",
+  "language": "en",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "3m",
+    "dates_found": [
+      "11/2/14"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

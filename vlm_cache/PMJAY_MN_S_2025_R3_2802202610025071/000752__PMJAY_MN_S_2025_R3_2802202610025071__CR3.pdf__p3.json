@@ -1,0 +1,33 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "MRD No. 19/9049 Progress Report / Advice Investigation BP - 130/80 P - 98 Temp - 99.4F u/o- 2000 ml (directed) KPT - roh SITARAN S/o BD. Birac Ad Lav Sir. Ban. NS/PIVN DNS/20 MHIVALPURE 60 Squaris Xy MAXOTAZ 2.25 IVTODS (stop) LASIX 20mg IV",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.4,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "maxotaz",
+      "lasix",
+      "ns/pi",
+      "dns",
+      "mhivalpure"
+    ]
+  }
+}

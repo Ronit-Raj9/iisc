@@ -1,0 +1,40 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "PROGRESS SHEET 2024062570844 Date & Time 10/01/24 7:10 am ENTERIC FEVER. Nutritional anemia do fever do loose stools x 2 episodes. No c/s altered sensorium No c/s abdominal pain No do decreased urine output. No do altered mental behaviour. No c/s joint pain. O.E: child was...",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "10/01/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "anemia",
+      "fever",
+      "loose stools",
+      "altered sensorium",
+      "abdominal pain",
+      "decreased urine output",
+      "altered mental behaviour",
+      "joint pain"
+    ],
+    "treatments": []
+  }
+}

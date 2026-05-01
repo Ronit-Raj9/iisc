@@ -1,0 +1,33 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "HAEMATOLOGY CBC  Total WBC count 5.79  Hemoglobin 10.3 g/dl Lymphocyte count 7.0 % Absolute Neutrophils Count (AUTOMATED) 87.3 % Monocytes 4.7 % Eosinophils 1.0 % Basophils 0.0 %  LAB INCHARGE",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "10/02/2026 08:16",
+      "10/02/2026 08:27 PM",
+      "10/02/2026 09:04"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      10.3
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

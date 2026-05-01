@@ -1,0 +1,32 @@
+{
+  "doc_type": "indoor_case",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "BILL SETTLEMENT FOR AB-PMJAY BILL NO.: PIMS/AB-PMJAY/2026 1. NAME OF THE PATIENT : 7 YRS / MALE 2. AGE/GENDER : 7 YRS 3. IN PATIENT NUMBER : IP251978 4. CASE NO : CASE/PSS/HO SP34P126760/2026031010034987 5. ADDRESS : 6. ADDRESS : 7. ADMISSION DATE : 10/03/2026 8. DISCHARGE DATE : 18/03/2026 9. DIAGNOSIS/TREATMENT : ENTERIC FEVER (MG006A) 10. AMOUNT : RS. 2300 X 9 DAYS (ROUTINE WARD) GRAND TOTAL : RS 20,700/-",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "7",
+    "dates_found": [
+      "18/03/2026",
+      "10/03/2026"
+    ],
+    "doa": "10/03/2026",
+    "dod": "18/03/2026",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": 9,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

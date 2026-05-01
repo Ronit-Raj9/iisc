@@ -1,0 +1,39 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DRUG CHART  Age: 48 Sex: ♀  INR pan 40mg IV OD  INR Iron Sucrose 15ml IV BD  INR Tranexa 500mg IV TDS  syp Cremaffin 1sm PO H S  Anobliss mint - LA T. PAUSE 500mg PO TDS T. OROFEK-XT OD T. FA OD T. NEUROKIND OD T. ALBENDAZOLE 400mg Short",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "48",
+    "dates_found": [
+      "14/3/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "pan",
+      "iron sucrose",
+      "tranexa",
+      "cremaffin",
+      "anobliss mint",
+      "pause",
+      "orofer",
+      "neurokind",
+      "albendazole"
+    ]
+  }
+}

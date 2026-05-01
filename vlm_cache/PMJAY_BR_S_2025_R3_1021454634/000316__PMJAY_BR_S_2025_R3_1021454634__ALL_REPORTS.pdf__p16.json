@@ -1,0 +1,30 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "PHYSICAL EXAMINATION Color Pale Yellow Lab No 1409222 Receiving Date 12/02/2026 07:08 Report Status Final CHEMICAL EXAMINATION (By Dipstick method) pH 6.0 5.0 - 7.5 Specific Gravity 1.020 1.010 - 1.030 URINE SUGAR NIL Urine Sugar NIL Ketone NIL",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38 Yrs",
+    "dates_found": [
+      "11/02/2026",
+      "12/02/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

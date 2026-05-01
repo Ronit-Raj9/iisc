@@ -1,0 +1,38 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Progress Report /Advice...Res before lunch...BI metal...opa mouth ulcers.  -Tab. mosal/selend. (tb od. -Stop. NSION. -IUP TO DNS 1:1 Next trip to ant endon - DNS2 + MMV loupin wl - Candid oral paint for local application -sent CST.",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "89",
+    "dates_found": [
+      "2/2/26",
+      "9:20am"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "mouth ulcers"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "oral paint",
+      "dns",
+      "nsion",
+      "selend",
+      "mmv"
+    ]
+  }
+}

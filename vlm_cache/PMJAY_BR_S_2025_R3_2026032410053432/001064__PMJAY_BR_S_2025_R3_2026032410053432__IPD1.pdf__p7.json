@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "History Narrated by Chief Complaints Clos weakness & y joints. no fever – bleeding. that pt was admitted till 1 week back but recovering. pt is now well for further treatment. ASHer Family History Cleat – Adequate sleep – hubbin- 200 12/05/26.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12/05/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "weakness",
+      "bleeding",
+      "joint pain"
+    ],
+    "treatments": []
+  }
+}

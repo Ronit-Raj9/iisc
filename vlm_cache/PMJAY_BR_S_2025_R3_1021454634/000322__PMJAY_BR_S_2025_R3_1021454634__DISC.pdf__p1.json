@@ -1,0 +1,37 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DISCHARGE SUMMARY\n\nUHID : 10301186\nName : FGM-W1-UT-5-65\nDoctor : General Medicine\nSpecialization : General Medicine\n\nDIAGNOSIS:\nMEGALOBLASTIC ANEMIA (1 PRBC TRANSFUSED )",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38",
+    "dates_found": [
+      "11/02/2026",
+      "14/02/2026"
+    ],
+    "doa": "11/02/2026",
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "megaloblastic anemia"
+    ],
+    "symptoms": [
+      "generalized weakness",
+      "pain abdomen"
+    ],
+    "treatments": [
+      "blood transfusion"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "HISTORY & EXAMINATION 27/01/2006 Accelerated Hypertension / U.T.S/AGL LRTP Enteritis Fever. Patient a febrile B.P - 174/84mmHg PR - 82/min Temp - 98.6°F SpO2 - 90% R.A. Chest - Occasional Chept’s (↓) RR - Case of WNL.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "27/01/2006"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.0,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "accelerated hypertension",
+      "utss",
+      "agl",
+      "lrttp",
+      "enteritis fever"
+    ],
+    "symptoms": [
+      "febrile",
+      "abdominal discomfort"
+    ],
+    "treatments": []
+  }
+}

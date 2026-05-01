@@ -1,0 +1,32 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "SR. No. Patient’s Name – Sr. Adm. No. 81282 Sleeping & Comfortable. Recorded, I.P. | Incharge’, Card. Doctor also approved of the line treatment. So, please continue as prescribed. Nitesh Sharma is a 4 yr old male. As the patient is suffering from typhoid fever, so discovered in Widal test. The patient is now tolerated LTZ well. Monitor Vitals as usual & continue the line of treatment. All are stable. S.O. to continue IV fluids, Antibiotics and all other treatments as prescribed. Kindly revert as soon as possible.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "4",
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "typhoid fever"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "iv fluids",
+      "antibiotics"
+    ]
+  }
+}

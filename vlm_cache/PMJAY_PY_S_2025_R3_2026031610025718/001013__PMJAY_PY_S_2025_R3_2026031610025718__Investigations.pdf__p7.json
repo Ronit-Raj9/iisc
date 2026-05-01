@@ -1,0 +1,31 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "GCPP—142-C/5—2,00,000 Cps. (1492)—4—9—2024. INVESTIGATION REQUISITION FORM Ward and Bed No. 3944 Dept. and Unit Provisional Diagnosis Typhoid Custo",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "4/9/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "typhoid"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

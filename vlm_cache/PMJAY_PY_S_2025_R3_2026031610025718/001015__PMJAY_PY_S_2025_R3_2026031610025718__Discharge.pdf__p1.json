@@ -1,0 +1,42 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DISCHARGE SLIP I. P. No. : 406 Ward and Unit : FEMALE MEDICAL Name : Sex : F Age : 48 Date of admission : 14/02/26 Diagnosis : 1) ACUTE FEBRILE ILLNESS 2) ACID RESPIRATORY ANEMIA Treatment given : 1) IVF 1000ml & IONS @ 6TSM /hr 2) Inj. TAXIM 1g IV TDS 3) T. PARA being 500s 4) T. OMEZ 20mg 1-0-1 5) SYP. SUCRALFATE 10ml H.S 6) T. DICYLOMINE 10ml H.T 7. T. BC INSOL 1-0-1",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "48",
+    "dates_found": [
+      "14/02/26",
+      "23/02/26"
+    ],
+    "doa": "14/02/26",
+    "dod": "23/02/26",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "acute febrile illness",
+      "acid respiratory anemia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "ivf",
+      "ions",
+      "taxim",
+      "para",
+      "omez",
+      "sucralfate",
+      "dicylomine",
+      "bc insol"
+    ]
+  }
+}

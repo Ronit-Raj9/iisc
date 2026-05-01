@@ -1,0 +1,37 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Baby is conscious but irritable. PR: 33/min, SpO2: 92% in RA. Temp: 97.7°F. Baby is irritable, lower lid styx @ apex of R side. Last passed stool 2 days back first normal then loose.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "1Y 9M",
+    "dates_found": [
+      "11/03/2024",
+      "03-11-2024",
+      "12-3-24",
+      "21:10 PM",
+      "11:32",
+      "11-14k"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 30.9,
+    "fever_duration_days": 2,
+    "diagnoses": [],
+    "symptoms": [
+      "irritable",
+      "loose"
+    ],
+    "treatments": []
+  }
+}

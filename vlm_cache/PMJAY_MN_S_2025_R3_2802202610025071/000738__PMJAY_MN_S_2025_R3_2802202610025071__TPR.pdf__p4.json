@@ -1,0 +1,31 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Nurse’s Record Sheet Pulse Temp. Resp. B.P./M.R.D./Bed No. MR No. MRD No. FAM 83/min 98°F 20/4 110/70-80 mmHg All inj given. 12pm All inj given. 12:30pm Pt wound checked vital checked 1pm 83/min 98°F 20/4 120/80 mmHg SPO2 - 98%. Pt wound checked vital sign eleckted # 6/11 86/4 98°F 20/4 130/90 mmHg eleckital sign eleckted",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "6/11"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 36.67,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "inj"
+    ]
+  }
+}

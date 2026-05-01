@@ -1,0 +1,34 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "Patient Received Rebound Fever on Day 2. Patient Rx given as per protocol. Rx given as per protocol. Patient no any complain Sleeping well. Patient 874982216 Referred from allows cardiovascular",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "07/09/2018"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": 2,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "fever",
+      "sleeping"
+    ],
+    "treatments": []
+  }
+}

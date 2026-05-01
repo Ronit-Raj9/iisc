@@ -1,0 +1,27 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "मुझे यह ज्ञात होना चाहिए कि बिना मेरे हस्ताक्षर के किसी भी प्रकार की हरकतों/आदेश/कार्रवाई के लिए मैं जिम्मेदार नहीं हूँ। यदि स्वीकार किया गया है, तो उनके द्वारा आवश्यक कार्य (कदाचित आवश्यकता हो) complete किया जाएगा। बाएँ हाथ में प्रविष्ट है। एक नोटबुक में लिखे गए हैं। रोगी की तैयारी और उपचार के लिए, रोगी के पास और सहमति के बारे में निर्देश और कार्रवाई के संकेत के लिए अनुरोध किए जाएंगे। मुझे यह क्षतिपूर्ति नहीं और यह भी पता होना (/, पहले वह आवश्यक हो) आगे चर्चा करेंगे और ",
+  "language": "hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

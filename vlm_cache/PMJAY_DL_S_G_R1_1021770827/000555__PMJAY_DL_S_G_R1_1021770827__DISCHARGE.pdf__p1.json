@@ -1,0 +1,40 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DISCHARGE SUMMARY\n\nAge/Sex : 71 Yrs/female\nIPD No. : 25/0927\n\nCHIEF COMPLAINT & REASON FOR ADMISSION :: SUDDEN ONSET OF SEVERE ANEMIA WITH NEWLY DIAGNOSED T2DM. INABILITY TO WALK BY HERSELF SINCE 3-4 DAYS, H/O BLACKISH STOLL\n\nPAST HISTORY:- HTN/CAD POST PTCA.\nALLERGIES:- MVI.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "71",
+    "dates_found": [
+      "17-02-2026",
+      "21-02-2026"
+    ],
+    "doa": "17-02-2026",
+    "dod": "21-02-2026",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anemia",
+      "t2dm"
+    ],
+    "symptoms": [
+      "generalized weakness",
+      "blackish stool",
+      "pallor"
+    ],
+    "treatments": [
+      "metformin",
+      "antibiotics"
+    ]
+  }
+}

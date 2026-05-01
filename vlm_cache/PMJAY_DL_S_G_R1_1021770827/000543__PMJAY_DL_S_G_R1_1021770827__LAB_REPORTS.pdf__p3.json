@@ -1,0 +1,33 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Blood Group ABO Rh Typing (Glycated hemoglobin) Non Diabetic : Pre-Diabetic : Remark :- Hemoglobin A1c criteria for diagnosing diabetes have not been established for patients who are <18 years of age. The Glycosylated Hemoglobin (HbA1c or A1c) test evaluates the average amount of glucose in the blood over the last 2 to 3 months. It helps to evaluate how well the person’s monitor treatment in someone who has been diagnosed with diabetes.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "71 years",
+    "dates_found": [
+      "17/02/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      5.7
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "diabetes"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

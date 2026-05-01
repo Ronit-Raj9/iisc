@@ -1,0 +1,31 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.7,
+  "ocr_snippet": "PT-INR CRP FBS BG HIV HBA1C-798/12/1502 28/01/99 Saneet Yoomyaree",
+  "language": "en|hi",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "28/01/99"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "hiv"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

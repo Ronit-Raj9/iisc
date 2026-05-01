@@ -1,0 +1,33 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Discharge SUMMARY  Patient ID: 18060676  Name:  Age: 55 yrs  Discharge Date: 28/08/2023 10:00 AM  Chief Complaint: •  Patient presented with fever since 2 weeks. •  HCC involving small intestine with perforation.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "55",
+    "dates_found": [
+      "28/08/2023"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": 14,
+    "diagnoses": [
+      "hcc involving small intestine with perforation"
+    ],
+    "symptoms": [
+      "fever"
+    ],
+    "treatments": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "D.O.A. : 24/2/26 D.O.D. : 26/2/26 Clinical Presentation : Controlled T.O.M., AGE 2 AKI Schizophrenia. Final Diagnosis : Conccontrolled T.O.M., AGE 2 AKI Schizophrenia - Rx of ETS 2 week & ops...",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "24/2/26",
+      "26/2/26"
+    ],
+    "doa": "24/2/26",
+    "dod": "26/2/26",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "controlled tom",
+      "age 2",
+      "aki schizophrenia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "rx",
+      "ets",
+      "ops"
+    ]
+  }
+}

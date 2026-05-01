@@ -1,0 +1,34 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "Patient Name:- Age:- Sex:- Address:- Aadhar Number:- Contact Number:- Date of Admission:- Date of Discharge:- Diagnosis/Package Code. Certify that above mention patient Mr/Mrs/Miss is admitted in and availing treatment under AB-PMJAY scheme. He/She is not able to register/discharge via aadhar biometrics. I declare that I am solely certified them to register/discharge under TMS portal.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "45",
+    "dates_found": [
+      "10/01/2024",
+      "12/01/2024"
+    ],
+    "doa": "10/01/2024",
+    "dod": "12/01/2024",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anemia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "blood transfusion"
+    ]
+  }
+}

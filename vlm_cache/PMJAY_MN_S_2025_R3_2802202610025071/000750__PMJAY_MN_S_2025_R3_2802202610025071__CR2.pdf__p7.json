@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DOCORS ORDER Age/Sex.... Progress Report / Advice Investigation 3/10/26 Psy Note %- acc irrelevant tab in severeace 2.5n YM ITS & Sq Resh- C.S.T 3/10/26, A- Atup",
+  "language": "en|mixed",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "3/10/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "typhoid"
+    ],
+    "symptoms": [
+      "severeace"
+    ],
+    "treatments": []
+  }
+}

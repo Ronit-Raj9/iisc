@@ -1,0 +1,34 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Name of Patient: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . MRD NO: 48067 - 07 DOA: 21/06 Age : 10Y Sex: Male. Ward: 1100/8",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "10",
+    "dates_found": [
+      "21/06"
+    ],
+    "doa": "21/06",
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "fever"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "fluids",
+      "inj im tablet"
+    ]
+  }
+}

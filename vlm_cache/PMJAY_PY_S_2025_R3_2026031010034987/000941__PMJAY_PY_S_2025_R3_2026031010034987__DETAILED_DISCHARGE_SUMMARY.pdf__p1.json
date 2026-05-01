@@ -1,0 +1,36 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DEPARTMENT OF PEDIATRICS DISCHARGE SUMMARY Patient Name : 6 Years/Male Admission No : IP251978 Admission Dt : 20240625 70844 Discharge Dt : 18-Mar-2026 12:00 PM Consultant : Pediatric Department Ward : PEDIATRICS II/PAE-29 FINAL DIAGNOSIS ENTERIC FEVER - CULTURE PROVEN NUTRITIONAL ANEMIA CHIEF COMPLAINTS Complaints of fever x 6 days (3-4 episodes) Vomiting (3-4 episodes/ day) x 7 days, non-bilious, non-projectile, contains only food particles.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "6",
+    "dates_found": [
+      "20240625",
+      "18-Mar-2026"
+    ],
+    "doa": "20240625",
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": 7,
+    "diagnoses": [
+      "enteric fever",
+      "nutritional anemia"
+    ],
+    "symptoms": [
+      "fever",
+      "vomiting"
+    ],
+    "treatments": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "PATHOLOGY RESULT Order Date; 07/02/2026  Reg No: 480562 Patient Type: OUT PATIENT  SUGAR ABSENT BONE SALTS ABSENT EPITHELLIAL CELLS 1-2  VDRL NEGATIVE  WIDAL TEST POSITIVE  S.BILIRUBIN TOTAL 0.18 S.BILIRUBIN INDIRECT 0.06 S.G.P.T (ALT) 24",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "10 years",
+    "dates_found": [
+      "06/02/2026",
+      "07/02/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

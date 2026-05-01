@@ -1,0 +1,36 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Nurse's Record Sheet  Pulse Temp. Resp. B.P.   Nurse's Record 3/16  Pt sound done 12:36pm 1PM 1:30pm 98° pt 120/80 pulse  6PM 98° 284 12080 mmhg  150180 mmhg",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "3/16",
+      "12:36pm",
+      "1PM",
+      "1:30pm",
+      "6PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 36.7,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "medicine given",
+      "meal duly"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "URINE-GLUCOSE NIL\nSGPT, ALANINE AMINOTRANSFERASE\n(ALT) 10 12 March 2026 12:06\nMonocytes 3.80 12 March 2026 12:06\nVLDI. CHOLESTEROL 8.20 0-30 12 March 2026 12:06\nURINE-ALBUMIN NIL 6.4-8.3 12 March 2026 12:06\nSERUM ALKALINE PHOSPHATASE <128 H 12 March 2026 12:06\nCHOLESTEROL RATIO 3.28 1-5 12 March 2026 12:06",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12 March 2026",
+      "12 March 2026",
+      "12 March 2026",
+      "12 March 2026",
+      "12 March 2026",
+      "12 March 2026",
+      "12 March 2026",
+      "12 March 2026",
+      "12 March 2026",
+      "12 March 2026",
+      "12 March 2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name .................................... PIMS No ................................................................................ 11/2/23 to pm Child reviewed - No fresh issue Last 6 hrs 2 .. mmHg BP - afebrile x 12hrs - NAD - Follow Blood cts. supports - Continue SOF IV Fluids - SOS offer each liquid stool - HR, BP, RR, Urine volume SpO2, urine pile. /cpt. -  s/o dehydration",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/2/23"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "dehydration"
+    ],
+    "symptoms": [
+      "afebrile",
+      "liquid stool"
+    ],
+    "treatments": [
+      "sofi v fluids"
+    ]
+  }
+}

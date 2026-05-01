@@ -1,0 +1,31 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "INVESTIGATION SHEET HAEMATOLOGY Hb TLC ESR DLC PCV MCV Platelet Count PS for MP PT - INR ACE/Blood Grouping & Rh BIOCHEMISTRY Fasting Bl.Sugar Serum Proteins T/A/G BI. Urea",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "22/11/19"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      5.2
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

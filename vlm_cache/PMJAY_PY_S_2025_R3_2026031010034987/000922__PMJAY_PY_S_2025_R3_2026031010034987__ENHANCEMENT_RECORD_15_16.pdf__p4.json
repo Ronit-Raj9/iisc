@@ -1,0 +1,35 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient’s Name.................................................................................... PIMS No.............................................................................................. Date & Time 16/5/24 9:50 AM Child Reviewed C/o fever, spike at room temperature 100.8°F 0.K: Child to Alert, Active, Afebrile RR - 22/min spo2 - 98% Room Air BP - 100/min RS: B/L CTE O CNS - NEEND Continue Crystaline in next p/ck W/F complications",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/5/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.67,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "fever"
+    ],
+    "symptoms": [
+      "fever"
+    ],
+    "treatments": [
+      "crystaline"
+    ]
+  }
+}

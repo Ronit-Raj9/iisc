@@ -1,0 +1,31 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "LABO22602301\n91 (Year) / Female\nBIOC CHEMISTRY\nKIDNEY FUNCTION TEST\nSerum Urea\nMethod: Spectrophotometry technique)\nSerum Creatinine\nMethod: Spectrophotometry technique)\nLIVER FUNCTION TEST\nSERUM BILIRUBIN\nTotal Bilirubin\nDirect Bilirubin\nSGOT\nMethod: Spectrophotometry technique)\nSGPT\nMethod: Spectrophotometry technique)\nAlkaline Phosphatase\nMethod: Spectrophotometry technique)\nS. Albumin\nMethod: Spectrophotometry technique)\nSERUM ELECTROLYTES\nSerum Sodium",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "91",
+    "dates_found": [
+      "10/02/2026 08:16 PM",
+      "10/02/2026 10:52 PM",
+      "10/02/2026 10:52 PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

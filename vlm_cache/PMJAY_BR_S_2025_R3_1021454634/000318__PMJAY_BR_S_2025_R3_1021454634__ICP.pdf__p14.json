@@ -1,0 +1,40 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Our patient Rina kumari 38/F admitted in female medicine ward with ↓S.Anemia ↓ evaluation. patient had Hb of 5.6 on arrival. 1 PRBC was transfused on 12/01/2026. patient was started on Inst. vit-B12 folic acid and other supportive measure for treatment.",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 1,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38",
+    "dates_found": [
+      "12/01/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      5.6
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "anemia"
+    ],
+    "symptoms": [
+      "pallor"
+    ],
+    "treatments": [
+      "blood transfusion",
+      "vit-b12",
+      "folic acid",
+      "supportive measure"
+    ]
+  }
+}

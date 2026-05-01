@@ -1,0 +1,34 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "COMPLETE BLOOD COUNT (CBC), Blood 8.40 g/dL WBC 5.58 10^9/L Lyphocytes 20.40 % Monocytes 3.80 % Eosinophils 1.10 % Basophils 0.50 % RBC 4.38 10^6/uL HEMA TOC RIT (PCV or HCT) 29.50 % MCV 97.00 fL MCH 32.18 g/dL MCHC 33.11 g/dL RDW-CV 14.20",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12-03-2023",
+      "12-03-2023 10:33 AM",
+      "12-03-2023 10:33 AM",
+      "12-03-2023 12:06 PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      8.4
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

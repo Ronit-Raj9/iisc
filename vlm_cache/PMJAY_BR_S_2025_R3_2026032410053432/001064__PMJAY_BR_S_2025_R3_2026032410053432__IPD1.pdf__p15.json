@@ -1,0 +1,40 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Investigation Clinical Findings Treatment CBC 26/3/2016 Severe Anemia SPE BP/SpO2 4/5 5.2-7.0/100 Hb 7.0 PR 299 Nor 142 let 4.1 Quad 14.52 Reps 1 - 6.7, Stage 1 Supp 95  41b 3.7 Rp 457",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "26/3/2016"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      7.0
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anemia"
+    ],
+    "symptoms": [
+      "pallor"
+    ],
+    "treatments": [
+      "spe",
+      "bp",
+      "spo2",
+      "ferrous sulphate injection"
+    ]
+  }
+}

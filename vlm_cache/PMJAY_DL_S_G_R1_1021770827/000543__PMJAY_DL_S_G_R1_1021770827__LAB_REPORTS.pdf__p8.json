@@ -1,0 +1,34 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Vitamin B12 (Cobalamin) is an important water-soluble vitamin, in contrast to other water-soluble vitamins it is not excreted quickly in the urine, but rather accumulates and is stored. As a result, a vitamin B12 deficiency may not manifest itself until 5 or 6 years of a diet supplying inadequate amounts. Vitamin B12 functions as a methyl donor and works with folic acid in the synthesis of DNA and red blood cells and is vitally important in the development of the myelin sheath...",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "71",
+    "dates_found": [
+      "19/Feb/2026",
+      "19/Feb/2026 02:48PM",
+      "19/Feb/2026 03:13PM",
+      "19/Feb/2026 04:19PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "vitamin b12 deficiency"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

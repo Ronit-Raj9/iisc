@@ -1,0 +1,40 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "C-REACTIVE PROTEIN (CRP) is one of the proteins commonly referred to as acute phase response. CRP is distinguished by its rapid response to trauma or infection. CRP levels rapidly returns to normal after illness. CRP is a distinguished by its rapid response to trauma or infection. CRP rapidly returns to normal after illness.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "23/Jan/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "acute inflammation",
+      "rheumatoid arthritis",
+      "cardiovascular disease",
+      "atherosclerosis",
+      "oral contraceptives",
+      "inflammmatory bowel disease",
+      "giant cell arthritis",
+      "osteomyelitis",
+      "cancer of the lymph nodes",
+      "pregnancy"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

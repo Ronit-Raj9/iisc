@@ -1,0 +1,38 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "HISTORY & EXAMINATION Accelerated Hypertenstion 23/01/2016 Patient symptomatic with Nausea & Headache/Vitals (°F) appetite loss motion & episodes of loose motion BP – 201/116 mmHg PR – 102/min SP02 – 91% RA O/Ex – Mild tenderness Crepts (p) P/M – Wardship (p) Tenderness & epigastrium.",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "23/01/2016"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "hypertension"
+    ],
+    "symptoms": [
+      "nausea",
+      "headache",
+      "appetite loss",
+      "motion",
+      "loose motion",
+      "tenderness"
+    ],
+    "treatments": []
+  }
+}

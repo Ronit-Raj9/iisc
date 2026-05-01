@@ -1,0 +1,37 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DISCHARGE SLIP Admission No: 9549 C.R.no. 212272 Name Date of Admission 3/2/26 Date of Discharge 10/3/26 Time of Arrival 10:30am Time of discharge a cut 2:30pm 3 days Typhoid Capsule 5 B ronally 2 cuts Colute (8dp) MR Cos 2/ 10 Dory-100mg BD after food x 3 days. TB. Codex-cw (250) BD after food x 2 Weeks S. TB. Onyso (20mg) 1 Tablet OD before BF x 10 days = (Spar).",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "3/2/26",
+      "10/3/26"
+    ],
+    "doa": "03/02/26",
+    "dod": "10/03/26",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": 3,
+    "diagnoses": [
+      "typhoid",
+      "tb"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "doxy",
+      "codex-cw",
+      "onyso"
+    ]
+  }
+}

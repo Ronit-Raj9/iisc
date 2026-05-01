@@ -1,0 +1,42 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "D.O.A. : 26/2/26 D.O.D. : 8/3/26 UNIT : Exfolitad Clinical Presentation : Concontrolled T2 DM, ADE 2 ARI Schizophrenia Final Diagnosis : Concurrented Rx Treatment Given : Concurrented Status at Discharge : Stable Advice at Discharge 1. Tab. Dutan 50 - tab OD / Biolimine 2. Tab. Ecop 5 mg - tab OD. 3. Tab. Escip 15 mg - tab OD. 4. Tab. Lorage 1 tab OD. Bed time 5. Tab. Riset 1 tab OD. after lunch. 6. Tab Atanor 0.5 - 1 tab at after food 7. Inj. Gluconal 50% ops / - after 2 week @ Ref O/P D 2 KT",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "26/2/26",
+      "8/3/26"
+    ],
+    "doa": "26/2/26",
+    "dod": "08/03/26",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "controlled t2 dm",
+      "ade 2 ari schizophrenia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "dutan",
+      "biolimine",
+      "ecop",
+      "escip",
+      "lorage",
+      "riset",
+      "atanor",
+      "gluconal"
+    ]
+  }
+}

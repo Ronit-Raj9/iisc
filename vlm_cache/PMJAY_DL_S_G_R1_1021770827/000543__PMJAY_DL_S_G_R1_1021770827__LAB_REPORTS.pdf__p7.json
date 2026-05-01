@@ -1,0 +1,35 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Iron Panel Basic Sample Type : Serum Iron 18.20 ug/dL UIBC 399 ug/dL TIBC 417.2 ug/dL Transferrin Saturation 4.36 % COMMENT: Concern iron measures the amount of circulating iron that is bound to transferrin. Clinicians often consider when they are concerned about anemia, iron deficiency, which can cause anemia and other problems.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "71 Y O M O D/F",
+    "dates_found": [
+      "19/Feb/2026 02:48PM",
+      "19/Feb/2026 03:44PM",
+      "19/Feb/2026 04:19PM",
+      "19/Feb/2026 06:30PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "anemia",
+      "iron deficiency"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

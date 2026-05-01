@@ -1,0 +1,35 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name PIMS No. Progress Sheet. O/E: Active/Alert/Apathetic RR - 22/min SpO2 - 98% E Room Air 16/3126 Hb - 9.0 RC - 3.66 Plat - 495 CRP - 8 17/3126 C1SB Child to Cough No c/o fever spike Last fever spike yesterday at 12 pm-100.7°F No new complaints CO 118: child B Active/Alert/Apathetic",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/3126",
+      "17/3126"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      9.0
+    ],
+    "temperature_celsius": 38.1,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "cough",
+      "fever"
+    ],
+    "treatments": []
+  }
+}

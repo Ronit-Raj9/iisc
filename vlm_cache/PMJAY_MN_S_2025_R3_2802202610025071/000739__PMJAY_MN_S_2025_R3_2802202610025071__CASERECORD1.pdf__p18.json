@@ -1,0 +1,41 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "DOCTORS ORDER Progress Report/Advice 1. Inj. Riseta 40 mg IPBS 2. Inj. Riseta 40 mg IPBS 3. Inj. Levofloxacin 500 mg IP inj. before dinner 4. Tab. Reter 50 mg/HS 5. Tab. Drop Enzer Itab OD 6. Tab. Economergen 600 mg Itab OD 7. Tab. Reflac 40 mg Itab BD 8. Tab. A to Z Itab BD 9. Tablet Digestive Powders 10. Tab. antiemetic Itab OD 11. Tab. Alphaser DS Itab BD/FC 12. Candid oral mouth paint TDS",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "28/12/23"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "inj riseta",
+      "inj levofloxacin",
+      "tab reter",
+      "tab drop enzer",
+      "tab economergen",
+      "tab reflec",
+      "tab a to z",
+      "tablet digestive powders",
+      "tab antiemetic",
+      "tab alphaser",
+      "candid oral"
+    ]
+  }
+}

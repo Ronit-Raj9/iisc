@@ -1,0 +1,37 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Discharge certificate (CASUALTY) MRD No. 16991...Diagnosis: General Azedimia. Course of Treatment: Rx: Inj. Maxidex 4.5gm iv.BD. - Inj. PCM. 1gm iv.BD. - IVF - IONS...",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "91",
+    "dates_found": [
+      "10/02/26",
+      "12/02/26"
+    ],
+    "doa": "10/02/26",
+    "dod": "12/02/26",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "general azedimia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "maxidex",
+      "pcm",
+      "ivf",
+      "ions"
+    ]
+  }
+}

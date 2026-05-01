@@ -1,0 +1,38 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Department of Medicine 47 years old female presented to the emergency department with complaints of generalized weakness, giddiness since morning, intermittent dyspnea on walking, and bleeding per rectum during defecation. She has a past history of hemorrhoidectomy 2 years ago and gives a history of occasional bleeding since then, however, she has a history of chronic tobacco chewing for the past 15 years. On examination, she is hemodynamically unstable with blood pressure of 94/61 mmHg, pulse rate 93/min, respiratory rate 21/min, and SpO2 100% on room air. Systemic examination revealed normal",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "47",
+    "dates_found": [
+      "19-03-2026 02:00 PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anemia secondary to bleeding",
+      "chronic tobacco chewing",
+      "hypotthyroidism"
+    ],
+    "symptoms": [
+      "generalized weakness",
+      "giddiness",
+      "dyspnea",
+      "bleeding per rectum"
+    ],
+    "treatments": []
+  }
+}

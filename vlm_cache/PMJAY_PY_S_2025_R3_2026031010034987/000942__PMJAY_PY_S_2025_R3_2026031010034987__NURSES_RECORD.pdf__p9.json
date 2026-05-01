@@ -1,0 +1,41 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "NURSES REPORT Name of the Patient ...................... UMR No: ...................... Age: ...................... Ward: ...................... All documentation should be with time, Special care to be counter signed by SENIOR Doctor. DIET Details NURSES NOTES 1pm the child sleepy well ff(iv) 11am Reount close pairs. Stool - Proctite. Urine pleasant odour with speck. T - 99.8°F Temp with pt is punctual.  10 - 99.3°F Temp with is punctual, brisk and well. stool-23 Broadtone 8:07-23 manually stable and good Brondoke-23  10am Child orally tolerating well – anf Continue same - All 12pm Re-ays men",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "8/1/24",
+      "1pm the",
+      "11am",
+      "8:07-23",
+      "10am",
+      "10 - 99.3°F",
+      "12pm"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.4,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "proctite"
+    ],
+    "symptoms": [
+      "sleepy"
+    ],
+    "treatments": [
+      "iv"
+    ]
+  }
+}

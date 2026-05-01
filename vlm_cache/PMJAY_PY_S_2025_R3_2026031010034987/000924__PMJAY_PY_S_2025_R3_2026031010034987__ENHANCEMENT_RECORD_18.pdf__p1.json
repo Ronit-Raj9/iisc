@@ -1,0 +1,37 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name. . . . . . . . PIMS No Date & Time 8/5/26 9.00am No C/o Fever Spike No C/o Abdominal Pain No C/o Altered Sensorium No C/o Vomiting No C/o Headache No C/o Spite",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "8/5/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever",
+      "fever"
+    ],
+    "symptoms": [
+      "abdominal pain",
+      "altered sensorium",
+      "vomiting",
+      "headache"
+    ],
+    "treatments": []
+  }
+}

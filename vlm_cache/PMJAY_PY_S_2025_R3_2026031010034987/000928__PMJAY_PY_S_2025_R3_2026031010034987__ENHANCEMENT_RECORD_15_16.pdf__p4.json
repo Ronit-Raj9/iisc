@@ -1,0 +1,31 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Child Reviewed. C/o fever, spike at 100.8°F 01: Child to Alert, Active, Afebrile PR-12/min spo2 97% @ Room Air",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/5/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.2,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "fever"
+    ],
+    "treatments": []
+  }
+}

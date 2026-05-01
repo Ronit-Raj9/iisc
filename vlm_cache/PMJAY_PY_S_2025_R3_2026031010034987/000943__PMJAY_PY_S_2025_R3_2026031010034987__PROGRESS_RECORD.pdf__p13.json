@@ -1,0 +1,34 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Fever Spike @ 10pm Yesterday - 100.8°F No c/o Nasal Discharge No c/o Abdominal Pain No c/o Attened Sensum PK: 105/min RR: 24/min SpO2: 98% @ Room Air Sle...",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/3/25"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.2,
+    "fever_duration_days": 1,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "fever",
+      "headache"
+    ],
+    "treatments": []
+  }
+}

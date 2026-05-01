@@ -1,0 +1,27 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "The image appears to be a partial view of a document, possibly a receipt or invoice. The visible portion is largely blank with some indistinct markings and a small portion of what might be a logo or text in the upper left corner. Due to the damage and limited content, no specific text can be reliably extracted.",
+  "language": "en",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

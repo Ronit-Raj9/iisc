@@ -1,0 +1,30 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "ERYTHROCYTE SEDIMENTATION RATE SAMPLE Type : WHOLE BLOOD ERYTHROCYTE SEDIMENTATION RATE : 68 mm/hr Westergren COMMENTS: It is an acute phase reactant that indicates the presence and intensity of an inflammatory ESR & a non-specific test. It is used to monitor the course or response to treatment of certain diseases. Extremely high levels are found in cases of malignancy (e.g., renal cell carcinoma), malignant diseases (e.g., multiple myeloma, Hodgkin disease, advanced Carcinomas), bacterial infections (e.g., endocarditis, osteomyelitis, pneumonia), systemic lupus erythematosus, rheumatic fever,",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "58",
+    "dates_found": [
+      "24/Jan/2024 12:14PM",
+      "24/Jan/2024 12:53PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

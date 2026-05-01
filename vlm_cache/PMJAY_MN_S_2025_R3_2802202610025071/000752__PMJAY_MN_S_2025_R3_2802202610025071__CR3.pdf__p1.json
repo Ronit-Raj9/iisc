@@ -1,0 +1,36 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Tab. Gutam 50 mg I tab OD. 2. Inj. Davis 20 iv OD in IV SOS. 3. Inj. Exocit 40mg iv BD. 4. Inj. Eracefal 2.25 iv TDS. 5. Inj. Humisulin 10U SC (before lunch) 6. Inj Sereno 2.5 iv OD/ms.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "04/03/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.9,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "gutam",
+      "inj davis",
+      "exocit",
+      "eracefal",
+      "humisulin",
+      "sereno"
+    ]
+  }
+}

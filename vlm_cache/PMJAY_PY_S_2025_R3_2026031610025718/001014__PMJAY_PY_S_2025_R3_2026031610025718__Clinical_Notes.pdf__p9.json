@@ -1,0 +1,35 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "H/o using phn Refraction Refraction D/2/24 IVF: 10NS 10DNS 10RL gy-myocyte 9/3th 5y tapim 1g in 1v7 T. ptxr 650g 1v7 Ep- Susuralib 1g in 1v7 17/1/24 was not found for past 3 hours and was not present at the Ward.",
+  "language": "en|hi",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "05/12/2024",
+      "17/01/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "tapim",
+      "phn"
+    ]
+  }
+}

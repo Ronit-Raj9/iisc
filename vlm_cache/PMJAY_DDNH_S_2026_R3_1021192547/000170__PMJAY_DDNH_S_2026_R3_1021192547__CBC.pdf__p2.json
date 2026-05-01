@@ -1,0 +1,31 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "MALARIA PARASITE NOT SEEN Sr. No Parameters Result Unit Normal Value (MIN-MAX) 1 MALARIA PARASITE NOT SEEN Hb 11.9 gms% 12 - 18 TLC 6260 /cumm 4000 - 10000 PLT 2.88 Lac/cumm 1.5 - 4.5 POLYS 49 % 50 - 60 LYMPH 37 % 20 - 40 EOSIN 04 % 1 - 8 MONO 10 % 2 - 6",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "10 Years",
+    "dates_found": [
+      "06/02/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      11.9
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

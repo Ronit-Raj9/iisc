@@ -1,0 +1,31 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Age 58 / F  B.P. 182  R.R. 20  98°V. 12/1/26 6pm 96.5 116 182 20  12/1/26 10pm 97.5 107 116 20 12/1/26 1am 96.2 80 108 74 20 12/1/26 4pm 98.6 81 108 20",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "58",
+    "dates_found": [
+      "12/1/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "blood transfusion"
+    ]
+  }
+}

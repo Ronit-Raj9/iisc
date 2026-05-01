@@ -1,0 +1,31 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Nurse’s Record Sheet M/F/Room/Bed No. MRD No. Pulse Temp. Resp. B.P. 12:30pm 98-7 28th 110/80 mmHg 6:30pm 98-7 28th 100/80 mmHg 7:30pm 98-7 28th 98/80 mmHg 8PM 92-99. N/Duty Pt round done Medicine given",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "28th"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 36.7,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "medicine given"
+    ]
+  }
+}

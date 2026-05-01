@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "Patient Name : PAST HISTORY No previous hospitalization No previous nebulization FAMILY HISTORY Good scholastic performance Developmentally normal Immunised upto age BCG scar present Last vaccination at 1.5 years TREATMENT HISTORY Azithwok 200mg 7.5 ml BD Levosalbutamol 250 mg 8 ml qid Paracetamol 250 mg 8 ml qid BIRTH HISTORY Non consanguineous marriage/Spontaneous conception Term (3.45kg/ Male / Normal vaginal delivery",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "1.5 years"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "azithwok",
+      "levosalbutamol",
+      "paracetamol"
+    ]
+  }
+}

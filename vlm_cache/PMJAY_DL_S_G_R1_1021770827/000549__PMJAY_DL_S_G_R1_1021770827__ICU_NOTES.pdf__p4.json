@@ -1,0 +1,32 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.75,
+  "ocr_snippet": "Patient Record. Duty handover. Condition as mention below. 1 PRBC given - 16/1/26.  Patient hand over received from evening shift staff. Vitals are monitored. Fluid intake output Monitor - 10 PRBC given - on flow. No IV fluid. 1 PRBC – TPR-110/Hg",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/1/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "blood transfusion",
+      "prbc"
+    ]
+  }
+}

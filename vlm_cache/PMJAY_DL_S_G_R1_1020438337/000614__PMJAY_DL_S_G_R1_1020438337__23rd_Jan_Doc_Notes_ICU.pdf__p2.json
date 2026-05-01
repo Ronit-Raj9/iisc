@@ -1,0 +1,44 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "Accelerated Hypertension / UTI / RTE Cough with expectoration + Palpitations of pain abdomen Pallor & Discomfort No vomiting. Appetite poor. 02 tab of Lorax motion in iv drip Chest - Lobar & Crept @ Right lung. RSP - 192/112 heart",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "23/9/2006"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "accelerated hypertension",
+      "uti",
+      "rte"
+    ],
+    "symptoms": [
+      "cough",
+      "expectoration",
+      "palpitations",
+      "pain abdomen",
+      "pallor",
+      "discomfort",
+      "vomiting",
+      "appetite poor"
+    ],
+    "treatments": [
+      "lorax motion"
+    ]
+  }
+}

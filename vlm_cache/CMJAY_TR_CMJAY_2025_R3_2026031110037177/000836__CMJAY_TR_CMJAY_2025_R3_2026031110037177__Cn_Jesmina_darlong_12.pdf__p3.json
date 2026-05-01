@@ -1,0 +1,33 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.8,
+  "ocr_snippet": "mitable  Date-11/03/2026  Patient’s Name:  Age-1Y 9M Sex-F  UHID-15678  Address:  Mobile No:  Father Name  Mother Name  Sente Perno  But - 2.4mg  c/w  clean q/l  CUS  NAD  R/S  ① Inj Xone 500mg – W Bl ② Inj Amikacen - 150mg IV ③ 10% DNS – 500ml IV ou 12 hoursly contention ④ ½ 2n-20 – SM – AD",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "1Y 9M",
+    "dates_found": [
+      "11/03/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "inj xone",
+      "amikacen",
+      "dns"
+    ]
+  }
+}

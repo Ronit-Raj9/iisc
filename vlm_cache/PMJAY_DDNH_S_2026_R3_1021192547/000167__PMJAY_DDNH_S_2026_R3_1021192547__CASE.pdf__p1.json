@@ -1,0 +1,39 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "7/2/26 came, hospital & person. Pt. feeble & conscious. fever kind & chills start. SPP Pt. weak, cher & restless. P - 102. Temp - 98.4. Pt. H/o taken drug IV. Push Fluids. pt. conscious & oriented. Tem - 98.3 pulls - 90 bpm, SpO2 - 98%, RR - 24 bpm. Assured to comfortable & usual.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "7/2/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 36.89,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "fever"
+    ],
+    "symptoms": [
+      "conscious",
+      "chill",
+      "weak",
+      "restless"
+    ],
+    "treatments": [
+      "drug iv",
+      "push fluids"
+    ]
+  }
+}

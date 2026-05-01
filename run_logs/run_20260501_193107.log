@@ -1,0 +1,41 @@
+=== Run started 2026-05-01T19:31:07.468093 ===
+DATA_ROOT=/home/raj/Documents/CODING/Hackathon/IISC_Healthcare/IISC_Healthcare_PS1/data/Claims
+[run_log] Session mirror → /home/raj/Documents/CODING/Hackathon/IISC_Healthcare/IISC_Healthcare_PS1/run_logs/run_20260501_193107.log
+Discovering cases under /home/raj/Documents/CODING/Hackathon/IISC_Healthcare/IISC_Healthcare_PS1/data/Claims
+Found 40 cases.
+CONFIG: MAX_CASES_TO_RUN=5 → run_batch processes at most that many cases (see CONFIG cell).
+Cases per package:
+{'MG006A': 10, 'MG064A': 10, 'SB039A': 10, 'SG039C': 10}
+
+MAX_VLM_CALLS = None  (set in CONFIG cell; None = unlimited)
+Manifest written to output/dataset_manifest.csv files=434 probably_scanned=419
+[run_batch] MAX_CASES_TO_RUN=5 — only the first 5 cases (discovery order).
+/home/raj/Documents/CODING/Hackathon/IISC_Healthcare/IISC_Healthcare_PS1/.venv/lib/python3.12/site-packages/paddle/utils/cpp_extension/extension_utils.py:718: UserWarning: No ccache found. Please be aware that recompiling all source files may be required. You can download and install ccache from: https://github.com/ccache/ccache/blob/master/doc/INSTALL.md
+  warnings.warn(warning_message)
+/home/raj/Documents/CODING/Hackathon/IISC_Healthcare/IISC_Healthcare_PS1/.venv/lib/python3.12/site-packages/tqdm/auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+  from .autonotebook import tqdm as notebook_tqdm
+[32mCreating model: ('PP-LCNet_x1_0_doc_ori', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `/home/raj/.paddlex/official_models/PP-LCNet_x1_0_doc_ori`.[0m
+[32mCreating model: ('UVDoc', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `/home/raj/.paddlex/official_models/UVDoc`.[0m
+[32mCreating model: ('PP-LCNet_x1_0_textline_ori', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `/home/raj/.paddlex/official_models/PP-LCNet_x1_0_textline_ori`.[0m
+[32mCreating model: ('PP-OCRv5_server_det', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `/home/raj/.paddlex/official_models/PP-OCRv5_server_det`.[0m
+[32mCreating model: ('en_PP-OCRv5_mobile_rec', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `/home/raj/.paddlex/official_models/en_PP-OCRv5_mobile_rec`.[0m
+[write] output/MG064A.json rows=0 schema_ok=True
+[write] output/SG039C.json rows=0 schema_ok=True
+[write] output/MG006A.json rows=136 schema_ok=True
+[write] output/SB039A.json rows=0 schema_ok=True
+
+Fresh Gemma calls this run: 4
+Per-package output files written to /home/raj/Documents/CODING/Hackathon/IISC_Healthcare/IISC_Healthcare_PS1/output
+
+Combined output preview:
+
+Decisions preview:
+
+[run_log] Closing: /home/raj/Documents/CODING/Hackathon/IISC_Healthcare/IISC_Healthcare_PS1/run_logs/run_20260501_193107.log
+
+=== Run ended 2026-05-01T19:59:31.629956 ===

@@ -1,0 +1,31 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "COMPLETE BLOOD COUNT (CBC) Hemoglobin 9.1 g/dL Neutrophils 5.7%, Lymphocytes 8.2%, Monocytes 1.7%, Eosinophils 1.4%, Basophils 0.3%, RBC 3.60 /µL, HCT 30.3 % MCV 83.30 f, MCH 28.40 f, MCHC 34.80 g/dL RDW-CV 16.80 %",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "47 Y.9 M.13 D",
+    "dates_found": [
+      "14-03-2026 06:28 AM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      9.1
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

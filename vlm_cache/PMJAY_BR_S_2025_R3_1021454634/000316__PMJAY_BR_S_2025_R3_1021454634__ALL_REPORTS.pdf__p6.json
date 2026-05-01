@@ -1,0 +1,32 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.75,
+  "ocr_snippet": "Vitamin B 12 (Cobalamin) is an important water-soluble vitamin. In contrast to other water-soluble vitamins it is not excreted quickly in the urine, but rather accumulates and is store din the liver, kidney and other body tissues. Humans obtain vitamin B12 exclusively from animal sources, such as meat, eggs and milk. As a result, a vitamin B 12 deficiency may not manifest itself after 2 or 3 years of a diet supplying in adequate amounts. Vitamin B12 functions as a methyl donor and work with folic acid in the synthesis of DNA and red blood and is vitally important in maintaining the health of t",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38",
+    "dates_found": [
+      "26/11/2024",
+      "26/11/2024"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "vitamin b12 deficiency"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

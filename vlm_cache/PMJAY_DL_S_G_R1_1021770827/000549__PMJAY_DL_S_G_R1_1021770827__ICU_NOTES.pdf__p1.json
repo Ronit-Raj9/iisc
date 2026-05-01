@@ -1,0 +1,37 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "BED NO. INSTRUCTIONS DIET MONITOR VITALS BLOOD DIAGNOSIS ANK-M(B) O, 834 -3.77/989 -16/09/32 ORAL 2-D PRBC -S/T / NOR/W/M/7 // 20.0164 CO2/TIME BY P-SENSORY VERBAL RESPONSIVE GROSS CONFIGURATION BL TARE 12 13 14 15 16 17 18 19 20 21 22 23 24 O2 SAT ABG FIO2 93% O2 21% BP 139/81 PUL G/O STOO VIS 120/Min REE 18 ( VENTALATOR WIPPING RESMS LOUD WIMPLING",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/09/32"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "ank-m(b)"
+    ],
+    "symptoms": [
+      "pallor",
+      "wipping"
+    ],
+    "treatments": [
+      "blood transfusion",
+      "prbc"
+    ]
+  }
+}

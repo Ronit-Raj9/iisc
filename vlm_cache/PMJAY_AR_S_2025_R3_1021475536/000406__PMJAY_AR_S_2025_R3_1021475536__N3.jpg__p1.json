@@ -1,0 +1,33 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "Nursing Notes Hospital Read No. Ward No. Bed No. Patient’s Name Age Sex 18/3/2018 1. Pt. - 120/180 mmHg 2. BP - 95/110 1565 - 981. 3. Ectomylate S/C Inj. 1. Ironcure S/C Inj. 2. Ironcure Wattor Inj. a.i.r. - 665/1 8ne2 - 99/1",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "18/3/2018"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "blood transfusion",
+      "ectomylate",
+      "ironcure"
+    ]
+  }
+}

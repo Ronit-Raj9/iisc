@@ -1,0 +1,29 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Pressure Temp Respo Pulse SPO2 Correlat\nion Level Sign\n12/12 70/90 99.8 20bm 6/6 96 O\n12/12 70/90 99.8 20bm 6/6 96 \n11am 70°/90 99.8 20bm 130/0 96%\n10am 70°/90 98.6 20bm 130/0 97%\n9am 70°/90 98.6 20bm 130/0 97%\n8am 70°/90 98.6 20bm 150/0 98%\n7am 70°/90 98.6 20bm 140/0 97%\n6am 70°/90 98.6 20bm 140/0 98%\n5am 70°/90 98.6 20bm 140/0 98%\n4am 70°/90 98.6 20bm 140/0 98%\n3am 70°/90 98.6 20bm 130/0 98%\n2 am 70°/90 98.6 20bm 130/0 98%\n1 am 70°/90 98.6 20bm 130/0 98%\n12/12 70/90 98.6 20bm 130/0 97%\n1am 70°/90 98.6 110/0 97%\n3 am 70°/90 98.6 110/0 95%\n5 am 70°/90 98.6 110/0 98%\n7 am 70°/90 98.6 110/0 98%\n",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12/12"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

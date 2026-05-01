@@ -1,0 +1,40 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DISCHARGE SUMMARY\nUMID\nName\nAge/Gender\nDoctor\nDischarge\nType\nDISECHARGE\nDIAGNOSIS\nMEGALOBLASTIC ANEMIA (IT PBSC TRANSITUSED)\nCHIEF COMPLAINTS\nGENERALISED WEAKNESS X 2 MONTHS\nPAIN ABDOMEN X 20 DAYS\nPAST HISTORY:\nNO HD T2DM HTN HYPOTHYROID DISORDER\nSURALICAL NO, OPEN APPENDECTOMY 18 YRS AGO",
+  "language": "en",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38",
+    "dates_found": [
+      "11/10/2026",
+      "17/10/2026",
+      "18 YRS AGO"
+    ],
+    "doa": "11/10/2026",
+    "dod": "17/10/2026",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "megaloblastic anemia",
+      "it ppsc transitused"
+    ],
+    "symptoms": [
+      "generalized weakness",
+      "pain abdomen",
+      "pallor"
+    ],
+    "treatments": [
+      "blood transfusion"
+    ]
+  }
+}

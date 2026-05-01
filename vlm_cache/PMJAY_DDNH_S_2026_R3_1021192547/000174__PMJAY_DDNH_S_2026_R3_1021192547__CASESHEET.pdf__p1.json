@@ -1,0 +1,32 @@
+{
+  "doc_type": "indoor_case",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Admission and Discharge Record, REG No: 480562, IPD No: 121953, Admission Date: 10/02/2026, Age: 10 Years, Gender: Male, Provisional Diagnosis: Febrile fever, Final Diagnosis or Complication (in Block Letters): LAMA, Cause of Death (in Block Letters): I, Direct Cause, Signature: Sister I/C",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "10",
+    "dates_found": [
+      "10/02/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": 3,
+    "diagnoses": [
+      "febrile fever",
+      "lama"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

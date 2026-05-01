@@ -1,0 +1,39 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DISCHARGE SUMMARY A PATIENT OF AGE 10 YEAR MALE CAME ON 07/02/2026 AT 10:21AM WITH COMPLAINT OF ENTERIC FEVER TAB CEFURIME 100MG BD 5 DAYS TAB PCM 12S 5 DAYS SYRUP COMPREX YL SMl TDS 5 DAYS SYRUP AMBROXYL LSML TDS RESP: 24/MIN BP-MMHG PULSE-102/MIN TEMP-98.4 F RESP-22/MIN BP-MMHG ON DISCHARGE ADMITTED IN WARD UNDER I K FOR FURTHER TREATMENT MEDICATION ADMINISTERED DURING HIS STAY: INJ.ZOSTAM 1GM TAB AZM 500 1/2 SOS SYP.AMBROXYL SLS TDS ORS POWDER CBC,RM,UR,VDRL,WIDAL,SERUM ALBUMIN ENTERIC FEVER",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "10",
+    "dates_found": [
+      "07/02/2026"
+    ],
+    "doa": "07/02/2026",
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.0,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "cefurime",
+      "pcm",
+      "comprex",
+      "ambroxyl",
+      "zostam",
+      "azm",
+      "ors powder"
+    ]
+  }
+}

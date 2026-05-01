@@ -1,0 +1,29 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "SERUM URIC ACID 12.0 H ng/ml Clinical Pathology URINE-COLOR RESULT PALE YELLOW Unit Reference Range Method URINE-GLUCOSE Absent 5-50 mg/dL URINE-ALBUMEN Absent 2.5-12 mg/dL URINE-KETONE BODIES Absent 2.5-50 ppm",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12-03-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

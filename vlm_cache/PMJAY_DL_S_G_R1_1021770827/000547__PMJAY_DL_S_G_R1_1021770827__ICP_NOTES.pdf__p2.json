@@ -1,0 +1,36 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.75,
+  "ocr_snippet": "PLAN OF CARE Social support advised at home Home environment suitable at home. Client needs embedded at home Psychological assessment Functional needs Nutritional needs Restraint/Tethering Any other referral Psychological referral Physiotherapy referral Dietary referral Physician/Chemical Expected outcome/Measurable goals 23-C/f20n/1818 28/01/2023  support key 1. Blood transfusion 2. Iron infusion  3. Ferrous sulphate tablet 4. Mecobalamine tablet  Decision by Patient/Relative/Guardian I, hereby declare that the information provided above registering History Relevants based on my assumption an",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "28/01/2023"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anemia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "blood transfusion",
+      "iron infusion",
+      "ferrous sulphate tablet",
+      "mecobalamine tablet"
+    ]
+  }
+}

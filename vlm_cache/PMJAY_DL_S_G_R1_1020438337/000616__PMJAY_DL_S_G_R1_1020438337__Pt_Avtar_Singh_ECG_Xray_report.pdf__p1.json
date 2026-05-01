@@ -1,0 +1,34 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "21-01-2026 09:44 AM QTQFQCr : 374440 PORCr : 78/77/74 RVSRV : 12040897 HR : 72 bpm  Anticoagulated right atrial abnormality Possible ST elevation is mospecific Borderline ECG",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "58",
+    "dates_found": [
+      "21-01-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "right atrial abnormality",
+      "st elevation"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "anticoagulated"
+    ]
+  }
+}

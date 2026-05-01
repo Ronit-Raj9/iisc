@@ -1,0 +1,39 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Doctors Order Progress Report / Advice Investigation 24/8/20 Date / Time Capt: 24/8/20 FR: 95% SpO2: 98% Temp: 98.6°F 1. IV Ampicillin 50 ml BD 2. IV Enroflox 40 ml BD 3. IV Crystalloid 40ml IV BD 4. IV Essential 2.25 ml TDS 5. By Evomanial 1) Serum Bilirubin – if Blooming as 1.5 in admission 2) Serum Amylase 5c…more s/labs. 6) Tak Syrup Sing 5ml BO. 7. Tak Dypistrum-15 mm BO/HS. 8. Tak syrup Ng 1mg/WS. 9. Inj. Biphaim 50 ml BD. 10. Tak Oroshan 50 ml.",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "24/8/20"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.0,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "ampicillin",
+      "enroflox",
+      "crystalloid",
+      "essential",
+      "syrup sing",
+      "dypistrum",
+      "syrup ng",
+      "biphaim",
+      "orushan"
+    ]
+  }
+}

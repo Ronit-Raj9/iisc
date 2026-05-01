@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "PROGRESS SHEET Patient's Name  Date & Time PR 702/min RR -28/min SpO2 - 97% Room 415 JIE - Soft, non-tender, liver spleen palpable + 4 cm. Rt. BI.LAT(CNS: No focal neurological defect (USG: SRQ?) Plan: 1) Pt. no fever. ...",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "bi.lat"
+    ],
+    "symptoms": [
+      "fever"
+    ],
+    "treatments": [
+      "antibiotics"
+    ]
+  }
+}

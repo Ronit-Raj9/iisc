@@ -1,0 +1,32 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Sr. No Parameters Test Name Result Unit Normal Value (MIN-MAX) Remarks 1 ESR ESR 08 mm/1hr 1 - 7 Sr. No Parameters Test Name Result Unit Normal Value (MIN-MAX) Remarks 1 MALARIA PARASITE RETICULOCYTE COUNT NOT SEEN - 1.6% Sr. No Parameters Test Name Result Unit Normal Value (MIN-MAX) Remarks 1 RETICULOCYTE COUNT SGOT 17 - Sr. No Parameters Test Name Result Unit Normal Value (MIN-MAX) Remarks 1 SGOT SGPT 27",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "41",
+    "dates_found": [
+      "24/03/2026",
+      "26/03/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "malaria"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

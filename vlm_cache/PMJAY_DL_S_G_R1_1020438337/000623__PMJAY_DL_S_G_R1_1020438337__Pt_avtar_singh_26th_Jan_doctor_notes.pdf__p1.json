@@ -1,0 +1,37 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient : febrile since last one hour. Red frequency & irritability ( + ) on Widal. BP - 180/94 mmHg PR - 82/min SPO2 - 97% LPA Chest - B/L Crepts & settled, CVS to WNL",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "21/01/2016"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": 1,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "febrile",
+      "irritability",
+      "pallor",
+      "right hypochondrium pain",
+      "chest crepts"
+    ],
+    "treatments": []
+  }
+}

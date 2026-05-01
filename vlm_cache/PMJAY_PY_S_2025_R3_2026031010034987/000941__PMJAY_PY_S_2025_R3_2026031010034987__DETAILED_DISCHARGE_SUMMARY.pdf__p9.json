@@ -1,0 +1,35 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient Name : Admission No : IP251978 To review in Pediatrics OPD II on 24/3/25 (Saturday) or SO in casualty 8. For online consultation visit www.madrasmedicalmission.org.in/pims.php Danger signs explained - lethargy, abnormal movements, persistent vomiting, increased work of breathing, poor oral intake",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "24/3/25"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "lethargy",
+      "abnormal movements",
+      "persistent vomiting",
+      "increased work of breathing",
+      "poor oral intake"
+    ],
+    "treatments": []
+  }
+}

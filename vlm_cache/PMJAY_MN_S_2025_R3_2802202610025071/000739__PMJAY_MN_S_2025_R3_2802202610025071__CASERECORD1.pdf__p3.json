@@ -1,0 +1,37 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DOCTORS ORDER MRD NO. 17/189/26-27 Investigator Consultation 242 25/6 * 2 dm. 45° Deg. Cap on table Enteric  fever wt. Dozh Tabs.  PR. 110/90/K. Afyp Haematin 5mg.  PBM. Referral BP - 110/90 8.  By inject 50  mg Bids. 7. By Typer to 43 mg 80s 8. By. Tal Mel 4mg Be.  Add salve H Tab ss nt.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "25/6"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.78,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "cap on table",
+      "inject 50mg bids",
+      "typer 43mg 80s",
+      "tab ss nt",
+      "haematin 5mg"
+    ]
+  }
+}

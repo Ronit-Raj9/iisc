@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.75,
+  "ocr_snippet": "IPO No. Date - 13/06/2017 Name  Age/Sex  Notes ABO - B+ Diagnisis - Severe Anemia  OB - No RI - 13/06/2017 SPO2 - 97%  Alertness - Patient is well oriented.  Monitors - BP 100/60",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "13/06/2017"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anemia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "blood transfusion"
+    ]
+  }
+}

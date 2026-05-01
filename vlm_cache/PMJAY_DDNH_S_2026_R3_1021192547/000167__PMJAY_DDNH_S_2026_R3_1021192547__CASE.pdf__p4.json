@@ -1,0 +1,35 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "MRD No: 12193 Bed No: 01 Name of Patient : Signature : Age : 10/19 Sex : M DOA : 21/1/20 Time T P R BP S PO Pulse Advice : Vitals monitored. Intake: Fluids Advised : Iso-P 5ml/hr Rx : D/ib to fvb. Cefixime 1/2 hs IV. ",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "10",
+    "dates_found": [
+      "21/1/20"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "fever"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "cefizime",
+      "iv",
+      "fluids"
+    ]
+  }
+}

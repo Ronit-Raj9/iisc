@@ -1,0 +1,37 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.8,
+  "ocr_snippet": "Patient’s Name 2024062570844 To continue IV cefotaxime To continue ond d oxycycline To continue IV fluids. reports C.I.S.B child reviewed No C.I.O.alkzed",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/03/20"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "dengue"
+    ],
+    "symptoms": [
+      "rigors"
+    ],
+    "treatments": [
+      "iv cefotaxime",
+      "ond d oxycycline",
+      "iv fluids"
+    ]
+  }
+}

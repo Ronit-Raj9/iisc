@@ -1,0 +1,29 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "I agree and also give my consent to the following as mentioned below: Deposit shall be made at regular intervals as and when required in addition to the initial deposit. All deposit will be adjusted in the final bill at the time of discharge. I will also be responsible for any deficiency in payment of bill created by Resident Doctor and qualified nurse will look after my patient as per protocol.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "17/12/2019"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

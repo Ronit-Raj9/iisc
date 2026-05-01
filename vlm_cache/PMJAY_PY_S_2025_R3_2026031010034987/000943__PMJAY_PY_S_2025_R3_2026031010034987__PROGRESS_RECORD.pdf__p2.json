@@ -1,0 +1,41 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name 2024062570844 PIMS No\nIll 3:22b Hospital Fever.\nSuspect Typhoid Enteric Fever.\nDo oral intake\nNo do lethargy\nDo vomiting x 1 episode\nDo loose stools x 3 episodes\nNo do altered sensorium\nNo do tone pain\nHR - 132/min Fever - 102.4°F \nRR - 34/min",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "3/22b"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 39.1,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever",
+      "typhoid"
+    ],
+    "symptoms": [
+      "fever",
+      "vomiting",
+      "loose stools",
+      "lethargy",
+      "altered sensorium",
+      "tone pain"
+    ],
+    "treatments": [
+      "oral intake"
+    ]
+  }
+}

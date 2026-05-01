@@ -1,0 +1,33 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Medicine Chart\nIp No 26/110999\nName : MORNING EVENING\nTAB PANTOP 40mg P/o BBF 7AM Time Sig. Time Sig.\nInj EMOSET 4mg IV SOS\nInj BUSCORAN 10mg IV SOS\nInj EIDERVIT 1cc IV 24hrs\nTAB FOLIC ACID 5mg P/o dallys 2PM\nSft Diet",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38/Y",
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "pantop",
+      "emset",
+      "buscopan",
+      "eldervit",
+      "folic acid"
+    ]
+  }
+}

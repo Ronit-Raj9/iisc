@@ -1,0 +1,33 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "NURSES REPORT Time Nurses Notes DIET Details on 14/3/24 Health education given about Child safety measures. 8pm Handed over Evening Duty Report. 168 elevated, Anemial & Asthenic. increased specially. 8pm tested Initially tolerated well.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "14/3/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "anemia"
+    ],
+    "symptoms": [
+      "asthenia"
+    ],
+    "treatments": []
+  }
+}

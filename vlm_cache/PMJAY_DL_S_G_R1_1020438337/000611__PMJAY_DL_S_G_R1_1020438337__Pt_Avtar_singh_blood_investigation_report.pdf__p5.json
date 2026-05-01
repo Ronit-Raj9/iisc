@@ -1,0 +1,30 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "LIVER FUNCTION TEST\nTOTAL PROTEINS\nTOTAL BILIRUBIN\nCONJUGATED (D. I. Bilirubin)\nSGOT\nS.G.P.T\nALP\nALKLINE PHOSPHATASE\nGAMMA GT\nGLOBULIN\nALBUMIN\nDIMER",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "58/M",
+    "dates_found": [
+      "23/Jan/2026",
+      "23/Jan/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

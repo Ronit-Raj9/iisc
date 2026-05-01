@@ -1,0 +1,44 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "R 14 MAR 2026 4% fever x weeks no % cough, cold, vomiting abdominal pain, loose stools no % generalised ayalgia no % hunny motion Advice Applyaid Doxy 1 para today Depyra Cefto Typhos .",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "48",
+    "dates_found": [
+      "14/MAR/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": 2,
+    "diagnoses": [
+      "enteric fever",
+      "typhoid"
+    ],
+    "symptoms": [
+      "fever",
+      "cough",
+      "vomiting",
+      "abdominal pain",
+      "loose stools",
+      "ayalgia"
+    ],
+    "treatments": [
+      "doxycycline",
+      "depyra",
+      "cefto",
+      "typhos"
+    ]
+  }
+}

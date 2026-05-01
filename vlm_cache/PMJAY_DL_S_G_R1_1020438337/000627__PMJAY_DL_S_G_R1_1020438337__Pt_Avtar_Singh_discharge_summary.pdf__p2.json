@@ -1,0 +1,42 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.75,
+  "ocr_snippet": "INJ Lasix 40mg Stat, 20mg BD. Tab Lasix 30 ml HS. Tab Syrop Lozz 30 ml HS. INJ MVI OD. Tab Amlo AT OD. Steam inhalation TDD. N/S Fluticasone 2 puffs both nostrils BD. Diet: Low salt Diet. INVESTIGATIONS DONE 22.01.2026 – Chest X ray, ECG, CBC, KFT, LFT, Serum Amylase, CRP Urine R/E 24.01.2026 – ESR, USG W/A.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "22.01.2026",
+      "24.01.2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "vomiting",
+      "vertigo",
+      "unconscious"
+    ],
+    "treatments": [
+      "inj lasix",
+      "tab lasix",
+      "syrop lozz",
+      "inj mvi",
+      "tab amlo",
+      "steam inhalation",
+      "fluticasone"
+    ]
+  }
+}

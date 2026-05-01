@@ -1,0 +1,34 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "PROGRESS & RE-ASSESMENT NOTES Ip No: 26/110098  Name:  Age/Sex: 38/F  Bed/Ward/FGM-W1-5-65 / General Medicine  12/2/96  8am  S- Anemia J evaluation  CNS: Conscious, oriented  CUS: S, S2 heard  RJS: Full AJE  PA: Soft, BS  , ND mild diffuse tenderness  Spg: 98 / 1.0m RA",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38",
+    "dates_found": [
+      "12/2/96"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.5,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "anemia"
+    ],
+    "symptoms": [
+      "tenderness",
+      "pallor"
+    ],
+    "treatments": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "COMPLETE BLOOD COUNT (CBC) 8.6 g/dl 34 - 48 % HEMATOCRIT 25.6 % HEMOGLOBIN HEMATOCRIT RBC COUNT MCV MCH RDW-CV 73.7 fL 24.6 pg 13.7 % PLATELET COUNT 156 5.42 x 1000/µL TOTAL LEUKOCYTE COUNT NEUTROPHIL LYMPHOCYTE MONOCYTE LIVER PROFILE Bilirubin Total Bilirubin Direct SGOT SGPT Alkaline Phosphatase",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "10-MAR-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      8.6
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

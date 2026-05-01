@@ -1,0 +1,38 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "Progress Report / Advice 31/03/24 110/110 DPI 110/110 110/110 11040 in TDS 110/110 37.4° F by IV Fluid 50 ml In each arm Tablet Paracetamol 650 mg twice daily by Syrup T-R 15 ml x 3 TDS by Injection Acamol 1000 mg TDS by Injection 5% D/S 100 ml IV TDS. Att menl / Treat",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "31/03/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.4,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "iv fluid",
+      "paracetamol",
+      "t-r",
+      "syrup",
+      "injection acomol",
+      "d/s"
+    ]
+  }
+}

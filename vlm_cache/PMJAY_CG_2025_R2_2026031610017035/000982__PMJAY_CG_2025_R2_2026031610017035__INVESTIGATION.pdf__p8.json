@@ -1,0 +1,35 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "PERIPHERAL SMEAR EXAMINATION\nRBC Series-Predominantly Microcytic blood picture with moderate Hypochromia. Anisocytosis seen in the forms of Macrocytes and anmocytes.\nWBC Series- Adequate in number and morphology.\nPLATELET Series- Adequate in number and morphology.\nRemarks : DEMORPHIC ANEMIA & TRANSFUSION RELATED CHANGES IN RBC PICTURE.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16-03-2026",
+      "16-03-2026 10:26 AM",
+      "16-03-2026 12:32 PM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "anemia"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "blood transfusion"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "LIVER FUNCTION TEST (LFT) * SERUM BILIRUBIN TOTAL 1.46 hI. mg/dL * SERUM BILIRUBIN-INDIRECT 0.98 hI. mg/dL * SGOT, ASPARTATE AMINOTRANSFERASE (AST) 20 U/L * SGPT, ALANINE AMINOTRANSFERASE (ALT) 14 U/L * SERUM ALKALINE PHOSPHATASE 168 U/L * SERUM TOTAL PROTEIN 3.11 g/dL * SERUM ALBUMIN 3.40 g/dL * A/G RATIO 0.91",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "15-03-2026",
+      "09:34 AM",
+      "15-03-2026 09:34 AM",
+      "15-03-2026",
+      "15-03-2026 10:07 AM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

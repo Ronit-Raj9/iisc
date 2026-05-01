@@ -1,0 +1,36 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "LABORATORY FORM NAME OF PATIENT: ..........................H. No..................DATE: 5/3/26 AGE/SEX: 24/M OPD/WARD: .................... REFERRED BY: ..................... ADDRESS: DIAGNOSIS / CLINICAL HISTORY: HIV, TYPHOID, MALARIA, DENGUE SEROLOGY: WIDAL NEGATIVE HCV, HB sAg NEGATIVE RA, HCV-VIRAL-LOAD: 87160 HB Viral-load: Eff 160 BH: 1.20 KFT LFT",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "24",
+    "dates_found": [
+      "5/3/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      "9.2"
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "hiv",
+      "typhoid",
+      "malaria",
+      "dengue"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

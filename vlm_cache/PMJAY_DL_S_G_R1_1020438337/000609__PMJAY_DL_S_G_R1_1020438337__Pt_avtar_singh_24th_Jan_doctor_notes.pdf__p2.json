@@ -1,0 +1,43 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Accelerated Hypopulsins/Kaluec Fever / Age / UTI / HPLR?? Symptomatle with - Fever (100.6°F) Pain abdomen /Decomforts + Pauses + Vomiting - One episode w.l.s Kendrobe + Decocortin BP - 174/108 mmHg PR - 94/min SPO2 - 90% i RA Crepts Chest B/L wheeze + Tenderness B/A - Guarded + Tenderness CNs J WNL Cvs J WNL",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "01/2016"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.56,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever",
+      "uti",
+      "hplr"
+    ],
+    "symptoms": [
+      "fever",
+      "pain abdomen",
+      "pauses",
+      "vomiting",
+      "wheeze",
+      "tenderness",
+      "guarded"
+    ],
+    "treatments": [
+      "decocortin"
+    ]
+  }
+}

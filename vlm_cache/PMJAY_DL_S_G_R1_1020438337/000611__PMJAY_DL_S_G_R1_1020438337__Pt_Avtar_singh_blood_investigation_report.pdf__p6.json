@@ -1,0 +1,31 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "SEUM AMYLASE Sample Type : Serum U/L Bio. Ref. Range KINETIC Anytase is produced in the Pancreas and most of the elevation is due to increased rate of Anytase entry into the blood stream / decreased rate of clearance or both. Serum Amytase rises within 6 to 48 hours of Acute pancreatitis in 80% of patients, but is not proportional to the severity of the disease. Values persisting longer than this period suggest continuing necrosis of pancreas or pseudocyst formation.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "23/Jan/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "acute pancreatitis"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

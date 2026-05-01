@@ -1,0 +1,32 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "ADDRESS: WARD: FEMALE MEDICAL WARD (E-BLOCK) DATE: 24/03/2026 IPD NO: 683908 TEST NAME: SERUM CREATININE Sr. No 1 Parameters SERUM CREATININE Result 0.57 Normal Value (MIN-MAX) TEST NAME: SERUM ELECTROLYTES Sr. No 1 Parameters SERUM CHLORIDE 2 SERUM POTASSIUM 3 SERUM SODIUM",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "41",
+    "dates_found": [
+      "24/03/2026",
+      "25/03/2026"
+    ],
+    "doa": "24/03/2026",
+    "dod": "26/03/2026",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "severe anemia"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

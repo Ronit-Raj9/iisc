@@ -1,0 +1,35 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name ..................................... PIMS No....................................................................... 18/3/26 C. 13/B Reviewed Child Active & Alert & Afkake PK - Ind/min RK - 24/min Spea - 24 Boom 418 SIR Sft, non tender, liver 1.5cm below RCM RS - BILAE (C/NSI WEND 1) Discharge today to start iron supplements x 6 days Review next weekend",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "18/3/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "bilateral"
+    ],
+    "symptoms": [
+      "pain"
+    ],
+    "treatments": [
+      "iron supplements"
+    ]
+  }
+}

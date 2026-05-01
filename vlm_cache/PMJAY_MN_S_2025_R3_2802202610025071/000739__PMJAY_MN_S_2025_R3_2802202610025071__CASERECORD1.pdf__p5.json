@@ -1,0 +1,41 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "28/1/18 5:00pm Patient very Metwar toun to do disariline 5:10pm 5/15/13 5:20pm BLD. Na. sucking and drip in 5/17/18 Impartoral – I.V. from to Binds in serum and Impartly – Inflambral – Drin – Bluter –",
+  "language": "en|hi",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "28/1/18",
+      "5:00pm",
+      "5:10pm",
+      "5:20pm",
+      "5/15/13",
+      "5/17/18"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "disariline"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "iv",
+      "drip",
+      "inflambral",
+      "bluter"
+    ]
+  }
+}

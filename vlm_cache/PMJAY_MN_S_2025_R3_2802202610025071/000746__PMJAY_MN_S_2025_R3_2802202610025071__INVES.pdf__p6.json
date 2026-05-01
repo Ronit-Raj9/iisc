@@ -1,0 +1,31 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "WIDAL TEST Interpretation of Results: Agglutination titre of 1:80 or more is significant and increasing titre 4 to 5 days after the first test is suggestive of Salmonella infection. TAB vaccinated patient’s serum may show a moderate rise in Ab titres against “TH”, “AH” and “BH” Ag.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "50",
+    "dates_found": [
+      "26-Feb-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "salmonella infection"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

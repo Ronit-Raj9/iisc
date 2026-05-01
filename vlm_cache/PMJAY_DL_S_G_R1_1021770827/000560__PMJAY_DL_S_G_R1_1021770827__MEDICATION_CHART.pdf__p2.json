@@ -1,0 +1,29 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Resident Medical Officer (Remarks): Diabetic Normal diet onwards Name & Sign. N Name & Sign. All drugs should be prescribed in CAPITAL LETTERS with legible hand writing, doctor’s name, signature, date and Time. Only approved abbreviations to be used. First doses, loading doses, STAT, SOS, once only and specifically timed drug ‘Do Not follow standard administration timings.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "diabetic"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

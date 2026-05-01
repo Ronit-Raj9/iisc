@@ -1,0 +1,29 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.7,
+  "ocr_snippet": "नाव - विकासलक्षी दल HRC भारत सरकार भारत सरकार श्री आकाश कुणावी प्रकल्प विधानसभा विस्तार वितानजकु अल्पसंख्यी कल्याण मूलला हाजीवॉन निधी अपवार घेतल्यावर तयार आहेत उपचारा दरम्यान कुणावी씨 시민 과리 하वींची मोखा 참여",
+  "language": "hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/03/2016"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

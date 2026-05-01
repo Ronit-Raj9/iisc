@@ -1,0 +1,32 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "HAEMOGLOBIN * 9.0 g/dl  HEMATOCRIT * 28.1 %   RBC COUNT * 3.66 million/μL  MCV * 76.8 fL   MCH 24.6 pg   MCHC 32.0 %   PLATELET COUNT * 495 x 1000/μL  TOTAL LEUCOCYTE COUNT 9.72 x 1000/μL  NEUTROPHIL 38 %   LYMPHOCYTE 49 %   MONOCYTE 5 %   EOSINOPHIL 4 %   BASOPHIL 2 %   NEUTROPHILS (Absolute) 3141/μL",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "6 Y(s) / Male",
+    "dates_found": [
+      "16-Mar-2026",
+      "17-Mar-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      9.0
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

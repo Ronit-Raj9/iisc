@@ -1,0 +1,30 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Sr. No Parameters Test Name : SERUM ELECTROLYTES \n1 SERUM POTASSIUM Result 4.1 Unit mEq/L Normal Value (MIN-MAX) 3.5 - 5.5 \n2 SERUM SODIUM 142 Unit mEq/L Normal Value (MIN-MAX) 135 - 150\nSr. No Parameters Test Name : SERUM CREATININE \n1 AG RATIO Result 1.0 Unit Normal Value (MIN-MAX)",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "41",
+    "dates_found": [
+      "24/03/2026",
+      "26/03/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

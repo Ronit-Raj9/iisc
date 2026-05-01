@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "PROGRESS NOTE SIB Dr Uni (R) Dr Siddhi (R) T - AF P - 82 min BP - 120/80 mmHg SIB - BI L cleari CUS - 5152 (L) OUU - Conscious & Sponted PA - soft & AF",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "8:00 AM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "AF"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "adu"
+    ]
+  }
+}

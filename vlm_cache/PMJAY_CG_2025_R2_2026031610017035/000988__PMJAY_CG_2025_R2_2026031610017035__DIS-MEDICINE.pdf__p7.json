@@ -1,0 +1,40 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "SERUM CHOLESTEROL TOTAL (C.B.C) COMPLETE BLOOD COUNT (CBC) HIV I AND II DETECTION TEST SERUM SODIUM URINE-COLOR SERUM CHOLESTEROL TOTAL BLOOD UREA HEMOGLOBIN HBSAG CARD TEST SERUM POTASSIUM WBC URINE APPEARANCE HEMOGLOBIN SERUM CREATININE DIRECT (CONJUGATED) TRIGLYCERIDES ECV ANTIBODY CARD TEST COUNT WHITE CONJUGATED BILIRUBIN DIRECT URINE BILIRUBIN TOTAL SERUM UREA -MONO",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12 March",
+      "2026 12-06",
+      "2026 12-06",
+      "2026 15-45",
+      "2026 12-06",
+      "2026 15-45",
+      "12 March",
+      "2026 12-06",
+      "12 March",
+      "2026 12-06",
+      "12 March",
+      "2026 12-06"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

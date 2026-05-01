@@ -1,0 +1,35 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name .... 2024062570844 SHEET PIMS No 14/5/26  ClSB : Entrance fever. 101.2°F @ 10pm (1 hr) – Ceftriaxone 1.5g BD Vitals : stable U/O (11:11 6pm) - 7.3 ml/kg/hr (from RAM) S/E : PLA : soft, not, liver palpable. A.N.B. RAH liver span 10.5 cm. Plan : 1) Continue IV Antibiotics 2) N/F 3) To send CBC + RBP on next pick.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "14/5/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.4,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "fever"
+    ],
+    "treatments": [
+      "ceftriaxone"
+    ]
+  }
+}

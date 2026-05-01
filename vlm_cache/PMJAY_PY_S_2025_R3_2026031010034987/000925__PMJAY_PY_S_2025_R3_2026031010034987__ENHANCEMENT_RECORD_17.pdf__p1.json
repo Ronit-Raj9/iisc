@@ -1,0 +1,42 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "Patient's Name NAD PROGRESS SHEET PIMS No. 8/10/26 child unwell clsb (SF) yesterday spike - 100.9 F @ 12 pm Vitals 38+ 1. PLA soft, NR, liver palpable 1cm J. RC RL-10.5 cm 1) IV Dolut 2) Send CBC, EPS, CRP A) WLE Complications No Clo Fever spike yesterday @ 12 pm - 100.9 F No Clo Nasal discharge We Clo Abdominal Pain No Clo Altered Consciousness No Clo Head Ache",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "8/10/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.3,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "unwell",
+      "abdominal pain",
+      "altered consciousness",
+      "head ache",
+      "nasal discharge"
+    ],
+    "treatments": [
+      "iv dolut",
+      "cbc",
+      "eps",
+      "crp"
+    ]
+  }
+}

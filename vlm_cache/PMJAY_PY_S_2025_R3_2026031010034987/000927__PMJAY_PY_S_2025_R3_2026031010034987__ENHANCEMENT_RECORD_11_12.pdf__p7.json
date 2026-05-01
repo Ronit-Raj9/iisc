@@ -1,0 +1,29 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name PROGRESS SHEET PIMS No 11/3/26 5 pm PR RR BP SpO2 12.8 min 30/min 100/60 mmHg 98.1 +/+ 1.15 min 1.15 min 271 min 110/80 mmHg 99.7 ++ 5 AM 100 min 28/min 110/70 mmHg 98.1 ++ 7 AM 105 min 26/min 110/70 mmHg 98.1 +",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/3/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "ADDRESS: DOKMADI KHADI RAJESHBHAI CHALIR OOM NO 12 WARD: FEMALE MEDICAL WARD (E) DISCHARGE SUMMARY IPD No: 683908 DOA: 24/03/2026 DOD / TIME: 26/03/2026 / 13:51:34 AGE: 41 Years / FEMALE TEST NAME: SERUM CREATININE Sr. No 1 PARAMETERS SERUM CREATININE DATE: 24/03/2026 Result 0.57 Unit null Normal Value (MIN-MAX)",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "41",
+    "dates_found": [
+      "24/03/2026",
+      "26/03/2026"
+    ],
+    "doa": "24/03/2026",
+    "dod": "26/03/2026",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

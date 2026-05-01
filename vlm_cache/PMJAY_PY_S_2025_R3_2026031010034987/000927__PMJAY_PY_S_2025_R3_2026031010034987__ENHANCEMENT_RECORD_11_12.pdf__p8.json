@@ -1,0 +1,37 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name Date & Time 19/03/26 7:05 AM ENTERIC FEVER Co fever at 1:30 AM (104°F) No co vomiting No co oral intake No co lethargy No co headache & abdominal pains No co reduced urine output. child was active & alert HR - 96/min RR - 28 min SpO2 - 94%.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "19/03/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 40.0,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "fever",
+      "vomiting",
+      "lethargy",
+      "headache",
+      "abdominal pain"
+    ],
+    "treatments": []
+  }
+}

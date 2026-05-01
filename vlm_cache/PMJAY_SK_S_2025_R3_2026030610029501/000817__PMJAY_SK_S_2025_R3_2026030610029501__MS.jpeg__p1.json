@@ -1,0 +1,27 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "Standard declaration form Shri/Smt working at Namchi District Hospital hereby authenticate the fact that adhaar card authentication for Shri /Smt ...son/daughter/wife of Shri ...having AB-PMJAY...could not be undertaken due to Emergency Situation. Technical error.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

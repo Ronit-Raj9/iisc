@@ -1,0 +1,30 @@
+{
+  "doc_type": "xray_ct_knee",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "CHEST AP 18 03 2026 12 45 01 CR Viewer 20 03 2026 12 12 EL-876 DI 4.8 AQ35 0.10 mm/pixel",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 1
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "18/03/2026",
+      "20/03/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

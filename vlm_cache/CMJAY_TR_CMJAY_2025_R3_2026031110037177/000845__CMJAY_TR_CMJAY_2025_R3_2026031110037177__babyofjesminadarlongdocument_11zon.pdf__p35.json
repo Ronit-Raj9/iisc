@@ -1,0 +1,36 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.8,
+  "ocr_snippet": "NURSING CARE PLAN GOODS TO ACHIEVE NURSING INTERVENTIONS EVALUATION / OUTCOME CHILDREN WARD co patient to general condition. -> Assess the patient & cough & recorded, -> vital area related to the patient -> I.O.chart Condition. Maintains -> All medication given as per DR. advice. -> S/O Continue onderman & obs",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "3/31/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "cold",
+      "cough"
+    ],
+    "symptoms": [
+      "cough"
+    ],
+    "treatments": [
+      "medication"
+    ]
+  }
+}

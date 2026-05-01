@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.75,
+  "ocr_snippet": "PROGRESS RECORD DOCTOR ORDER 17/8/24 c/s/p  D. sweets Baby mod ache Euthemito c.t. < 35 sec AP flat, ope cos - 5/6 B-BGG ⑨ BBG conn. iva soft CNS - n/a",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "17/8/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "bronchopneumonia"
+    ],
+    "symptoms": [
+      "mod ache"
+    ],
+    "treatments": []
+  }
+}

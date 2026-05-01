@@ -1,0 +1,34 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "INITIAL ASSESSMENT BY DOCTOR UHID no.: JH Dr. Name: Date: 4/06/26 Time of Arrival: Vital Sensation: Temperature: 97.8°F Pulse: ___/min. BP: ___ mmHg Respiration: 27 /min CBG: ___ Height: ___ Weight: ___Chief Complaints: History of intermittent fever since last 3 weeks. Difficulty stool from 3-5 days. First-day feeling which enters since getting the hospital. Patient started with rising in the above stool and passing immediate relief of the above after passing the stool. Fever persistent roughly since 5e.",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "4/06/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 36.5,
+    "fever_duration_days": 21,
+    "diagnoses": [
+      "intermittent fever"
+    ],
+    "symptoms": [
+      "fever",
+      "difficulty stool"
+    ],
+    "treatments": []
+  }
+}

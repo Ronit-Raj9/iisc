@@ -1,0 +1,33 @@
+{
+  "doc_type": "investigation_pre",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Sample Rec. : 10-Mar-2026 03:16 pm/ Sample Coll. : 10-Mar-2026 03:14 pm/ Report Date : 11-Mar-2026 08:04 AM CRP: Serum Specimen : Serum * 77 mg/l Turbidometric Immuno assay (Tulip) Positive for C-Reactive Protein",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "10-Mar-2026 03:14 pm",
+      "10-Mar-2026 03:16 pm",
+      "11-Mar-2026 08:04 AM"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "positive for c-reactive protein"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

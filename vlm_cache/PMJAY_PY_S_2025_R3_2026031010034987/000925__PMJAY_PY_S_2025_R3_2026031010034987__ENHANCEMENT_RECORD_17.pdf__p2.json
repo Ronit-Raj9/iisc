@@ -1,0 +1,35 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Active/Alert/Afebrile. Temp - 100.5°F. RR - 22/min. SpO2 - 98%. E Room Air. PK - 108/min. Livers Span: 10cm. R3- B/L NHS- No focal neurological deficit.CVS - S1S2 D.  Cough, Fever spike Last fever spike - yesterday at 12 pm-100.5°F No new. Compliments",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/13/26",
+      "17/13/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      9.0
+    ],
+    "temperature_celsius": 38.05,
+    "fever_duration_days": 1,
+    "diagnoses": [],
+    "symptoms": [
+      "cough",
+      "fever"
+    ],
+    "treatments": []
+  }
+}

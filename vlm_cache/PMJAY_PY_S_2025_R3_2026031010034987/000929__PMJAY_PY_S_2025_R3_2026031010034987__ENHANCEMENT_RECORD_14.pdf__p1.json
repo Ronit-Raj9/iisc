@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Patient's Name..................................................................PIMS No.................................................Date & Time 14/12/23 9:45 AM ENTERIC FEVER O/E: Loose stools 1-episode. Temp: 100.4°F PR: 100/min SpO2: 98% Room Air SIE: IA, Soft, nontender, Liver palpable 4 cm from CRS: S/I 3...",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "14/12/23"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.9,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "loose stools"
+    ],
+    "treatments": []
+  }
+}

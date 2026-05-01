@@ -1,0 +1,39 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Though he continued to have fever spikes at 1 week of hospital stay, he improved symptomatically declining toward decining trend. Defeverescence was attained on day 7 of antibiotics. Iv antibiotics was continued on day 8. Parents were explained regarding the nature of the need to continue oral antibiotics for 7 days after the afebrile period. Parents were counselled on hand hygiene and preventive measures. Currently, child is hemodynamically stable, active, alert and with good intake. Hence he is being discharged with following advice.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.0,
+    "fever_duration_days": 7,
+    "diagnoses": [
+      "enteric fever",
+      "febrile illness"
+    ],
+    "symptoms": [
+      "fever spikes",
+      "decline"
+    ],
+    "treatments": [
+      "ceftriaxone",
+      "cefixime",
+      "paracetamol",
+      "ondansetron",
+      "high fiber diet"
+    ]
+  }
+}

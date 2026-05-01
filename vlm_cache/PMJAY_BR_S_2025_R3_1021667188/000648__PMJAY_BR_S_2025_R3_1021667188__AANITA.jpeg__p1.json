@@ -1,0 +1,32 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "COMPLETE BLOOD COUNT (C.B.C.) Haemoglobin 10.0 gm/dl (68.2%) Red Blood Cells (RBC) Count 3.85 x106/µl PCV / Haematocrit (HCT) 35.5 % Mean Cell Volume (MCV) 92.21 fl Mean Cell Haemoglobin (MCH) 25.97 pg Mean Cell Haemoglobin Concentration (MCHC) 32.0 - 36.0 g/dl Mean Plasma Volume (MPV) 10.9 fl Platelet Count 135 x103/µl Platelet Distribution Width (PDW) 15.9 Total Leucocyte Count (TLC) 10.0 - 18.0 x10^9/µl Differential Leucocyte Count Neutrophil 70 Lymphocyte 20 Eosinophil 06 Monocyte 04 Basophil 00 Absolute Neutrophil Count 8.82 x10^9/µl Lymphocyte Absolute Count 2.0 x10^9/µl Eosinophil Absol",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "39",
+    "dates_found": [
+      "16/02/2026",
+      "16:03"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      10.0
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

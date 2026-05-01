@@ -1,0 +1,31 @@
+{
+  "doc_type": "usg_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "ULTRASOUND WHOLE ABDOMEN Sub-optimal evaluation due to excessive bowel gas. Liver is normal in size (13-4cm) & shows raised periportal echogenicity - ? Subjective ?? Viral etiology. HBR are not dilated. PV & CBD are of normal caliber. No focal lesion is seen. Gall bladder is partially visualized. Humen appears echo free.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38 Years",
+    "dates_found": [
+      "11-Feb-2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "viral etiology"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

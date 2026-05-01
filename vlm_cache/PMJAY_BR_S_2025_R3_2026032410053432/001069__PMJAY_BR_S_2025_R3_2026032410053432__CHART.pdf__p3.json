@@ -1,0 +1,34 @@
+{
+  "doc_type": "treatment_details",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "Name of Patient :  Sex :  M/F  Age :  Ward :  Observed Weakness  BP  R  SP02  Time  IV  NFD  Inhale  Stool  Urine  Ascites  Abdominal Assessment :  Rx:  Fluids Advised :  1/10/2021  13.00  I/N Saline 20ml",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "1/10/2021"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "observed weakness"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "fluids advised",
+      "saline"
+    ]
+  }
+}

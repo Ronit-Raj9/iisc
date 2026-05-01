@@ -1,0 +1,29 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "GNS CHART\n8/5/24\n7 AM 98.8°F 32.8blm 130/80 96% 48/\n8 AM 98.8°F 32.8blm 130/80 96% 48/\n9 AM 99°F 32.8blm 130/80 97% 46/\n10 AM 98.8°F 32.8blm 130/80 98% 47/\n11 AM 98.8°F 32.8blm 116/76 97% 46/\n12 PM 98.8°F 32.8blm 130/80 97% 47/\n1 PM 99°F 33blm 130/80 99% 46/\n2 PM 98.8°F 32blm 130/80 98% 47/\n3 PM 99°F 33blm 128/80 99% 46/\n4 PM 98.8°F 32blm 130/80 98% 47/\n5 PM 98.8°F 32blm 130/80 98% 47/\n6 PM 98.8°F 33blm 130/80 99% 48/\n7 PM 98.8°F 30blm 112/80 98% 48/\n8 PM 98.8°F 30blm 112/80 98% 48/\n9 PM 98.6°F 30blm 112/80 97% 48/\n10 PM 98.8°F 30blm 112/80 98% 47/\n11 PM 99°F 30blm 112/80 99% 47/\n12 AM 99°F 30",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "08/05/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

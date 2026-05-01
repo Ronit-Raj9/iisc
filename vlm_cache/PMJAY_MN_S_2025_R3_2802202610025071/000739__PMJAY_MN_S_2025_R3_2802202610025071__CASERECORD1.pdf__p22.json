@@ -1,0 +1,34 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "Doctors Order Hospital Name of patient Bed No. Age/Sex Date / Time Progress Report / Advice BP - 100/60 HR - 90 Spo - 96 Temp - 40.5. Rbs - 135. SpO2 -Enc. O2 - 3L. per min. Tab. Azithromycin 500 mg 1+0. Stat. Injection 5.1. Tab. Alprazolam 0.5mg OD. Inj. Human Albumin 50ml aft b/f lunch. Start Defect B/W. Blood sugar Fbs. ",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 40.5,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [
+      "right hypochondrium pain"
+    ],
+    "treatments": [
+      "azithromycin",
+      "alprazolam",
+      "human albumin",
+      "defact"
+    ]
+  }
+}

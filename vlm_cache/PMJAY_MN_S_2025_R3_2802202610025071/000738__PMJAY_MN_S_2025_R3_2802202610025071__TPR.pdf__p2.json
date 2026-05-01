@@ -1,0 +1,36 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "NURSE'S RECORD SHEET. Pulse Temp. Resp. B.P. Nurse's Record. 130/80mHg PT sound done. 802: 997. Vital sign checked. 12:4N Evening duty PT record done. 14 98°f 981 20/m 110/80mHg PT sound done. 802: 997. Medicine given.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "6:30am",
+      "7:30am",
+      "12:4N",
+      "1:30pm",
+      "6:30pm",
+      "802"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 36.9,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "medicine given"
+    ]
+  }
+}

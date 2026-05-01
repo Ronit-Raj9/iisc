@@ -1,0 +1,36 @@
+{
+  "doc_type": "discharge_summary",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "DISCHARGE SLIP Admission No: 9549 Name: Date of Admission 3/2/26 Date of Discharge 10/3/26 Time of Arrival 10.30am Time of discharge 2:15pm Summary of case/treatment given: Patient  treated for Typhoid.  LypWhite 5(B) serial 6 (B) calouli (B) drug treatment dysentery",
+  "language": "en|hi",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "3/2/26",
+      "10/3/26"
+    ],
+    "doa": "03/02/26",
+    "dod": "10/03/26",
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": 7,
+    "diagnoses": [
+      "typhoid",
+      "dysentery"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "lypwhite",
+      "calouli"
+    ]
+  }
+}

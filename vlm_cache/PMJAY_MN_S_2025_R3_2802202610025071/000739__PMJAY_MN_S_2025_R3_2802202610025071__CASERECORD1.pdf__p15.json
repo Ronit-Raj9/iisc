@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "Name of patient, Hospital No.____, Age/Sex____, Consultant: Advice/ Investigation 9/5/24 HR 9/5/24. a/e 130/min. BP 130/80 MM HG HR 98 /min. Temp 99.5 F. Flu like, a/e, on 1t with ephedrine + p/n. pt. o/e TI 100 followed by normal investigations, CT Scan Rt. Kidney upto POD + all routine investigations with B.S. fasting & PP.",
+  "language": "en|hi",
+  "is_blurry": 1,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "9/5/24"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.5,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "flu like"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "ephedrine"
+    ]
+  }
+}

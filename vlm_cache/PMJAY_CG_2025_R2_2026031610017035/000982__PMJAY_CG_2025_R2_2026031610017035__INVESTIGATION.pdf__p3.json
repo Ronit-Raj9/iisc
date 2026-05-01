@@ -1,0 +1,29 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "Vitals Chart Patient Name: MRN30457 Age/Sex: ICU-3  : 12/22/26 8pm 98.4 25/min 94/61  100% 25.00 8pm 98.2 28/min 94/65 100% 26.00 8pm 98.4 28/min 94/65 100% 26.00 8pm 98.6 30/min 94/61 100% 27.00 9pm 98.4 30/min 94/61 100% 27.00 ",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "12/22/26"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.0,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

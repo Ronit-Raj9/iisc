@@ -1,0 +1,31 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "PA: 1220ml+ DBP\nSpO2: 93%\nTemp: 97°F\n71: 220ml + DBP\n-T/20: x/p urination\n1x 37oof paracetamol\nTo tomorrow to down\nPlan DC\nplease",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/03/2026"
+    ],
+    "doa": "11/03/2026",
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 36.1,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": [
+      "paracetamol"
+    ]
+  }
+}

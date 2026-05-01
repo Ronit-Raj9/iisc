@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.9,
+  "ocr_snippet": "This is a Screening test. A Negative result implies that no anti HIV 1 or anti HIV 2 antibodies have been detected by this method. However, it does not rule out possibility of exposure to or infection with HIV 1 or 2. This could also mean that either patient has not been exposed with HIV 1 and 2 sample has been tested during window phase before development of detectable antibodies. Therefore, for a subject suspected of HIV Exposure, it is advisable to repeat the test after 3 months.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "38",
+    "dates_found": [
+      "11/02/2026 22:21",
+      "12/02/2026 09:38"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "hiv exposure",
+      "hiv"
+    ],
+    "symptoms": [],
+    "treatments": []
+  }
+}

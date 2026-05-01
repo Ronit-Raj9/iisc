@@ -1,0 +1,30 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "11/11/11 EES 109 HR: 71 BP: 110/60 BT: 101.8° F - - - - - - - - - - - TF 102.2° F PR: 88 - - - - - - - - - - - - - - - - - - - - - - - - - Ag- 124 Mg 1.7 200 - 11/11313 - Ag - 123.8 mgct1.7 211",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "11/11/11",
+      "11/11313"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.8,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

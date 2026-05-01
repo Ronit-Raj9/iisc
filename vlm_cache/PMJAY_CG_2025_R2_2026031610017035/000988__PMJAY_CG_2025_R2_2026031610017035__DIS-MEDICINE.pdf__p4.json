@@ -1,0 +1,40 @@
+{
+  "doc_type": "cbc_hb_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "SERUM CREATININE 1.45 LIVER FUNCTION TEST (LFT) COMPLETE BLOOD COUNT (CBC) COMPLETE BLOOD COUNT (CBC) HEMOGLOBIN (UNCONJUGATED) SERUM BILIRUBIN DIRECT SERUM BILIRUBIN INDIRECT SGOT, ASPARTATE AMINOTRANSFERASE (AST), ALANINE AMINOTRANSFERASE (ALT) Monocytes Eosinophils TOTAL PROTINALBUMIN ALPHA-GLOBULIN BETA-GLOBULIN GAMMA-GLOBULIN C-REACTIVE PROTEIN (CRP) ESR",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "15 March 2026",
+      "15 March 2026 10:07",
+      "15 March 2026 10:07",
+      "15 March 2026 10:07",
+      "15 March 2026 10:07",
+      "15 March 2026 10:07",
+      "15 March 2026 10:07",
+      "15 March 2026 10:07",
+      "15 March 2026 10:07"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [
+      8.3,
+      8.05
+    ],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "doc_type": "extra_document",
+  "doc_type_confidence": 0.75,
+  "ocr_snippet": "नाम - विकासलक्षी दल HRC धान्या कुणाची स्थूलिया भविष्य विंताजनक बदलामध्ये कृपया मला इथेकार्डी आकर्षण बेन्याब मदआर आहेत उपचारा दरम्यान कुणाशी संवाद काहीं थोडा निर्माण असल्याास आम्ही स्वतःचा जबाबदार राहणार.",
+  "language": "mr",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 1,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [
+      "16/03/2016"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}

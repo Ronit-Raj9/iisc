@@ -1,0 +1,36 @@
+{
+  "doc_type": "vitals_treatment",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "NURSES REPORT. Nurses Notes. Child slept well. Maintaining vital signs 36.0. Handed over. Child is conscious and oriented. vital signs.  Temperature 37.4 °C Aldol + Reinforcement given. About Tomato chutney. IV flush given. Inj. Reflujace 150mg diluted & send me IV 30ml given.",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "6y",
+    "dates_found": [
+      "18/3"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 37.4,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [
+      "pain"
+    ],
+    "treatments": [
+      "iv flush",
+      "inj reflujace"
+    ]
+  }
+}

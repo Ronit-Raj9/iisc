@@ -1,0 +1,33 @@
+{
+  "doc_type": "clinical_notes",
+  "doc_type_confidence": 0.85,
+  "ocr_snippet": "Doctors Order Name of patient Progress Report / Advice Date / Time Investigation BP 140/90 Pulse 99 Temp 101.5 F Stool So.W K/s T.B.S. Sip... By R.N. 20 ml tds By Syrup Contal - 2.5 mg B.D. B.M. By Syrup 20 ml tds By Injection 8.5mg BD By Calium S/S 30 mg TDS - By Infusion-Ornage BD IV",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 1,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 0,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": null,
+    "dates_found": [],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": 38.6,
+    "fever_duration_days": null,
+    "diagnoses": [
+      "enteric fever"
+    ],
+    "symptoms": [],
+    "treatments": [
+      "calcium s/s",
+      "syrup",
+      "infusion"
+    ]
+  }
+}

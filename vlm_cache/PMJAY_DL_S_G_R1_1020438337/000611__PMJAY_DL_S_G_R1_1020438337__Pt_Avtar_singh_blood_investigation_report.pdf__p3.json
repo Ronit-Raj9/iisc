@@ -1,0 +1,29 @@
+{
+  "doc_type": "lft_report",
+  "doc_type_confidence": 0.95,
+  "ocr_snippet": "EXTENDED KIDNEY FUNCTION TEST SERUM UREA 20.2 mg/dl RCI.600001563 23/Jan/2026 03:09PM Serum Creatinine 1.47 mg/dl AGE/Gender : 58Y/M/M Client Code : 10085295 SERUM URIC ACID 4.70 mg/dl Blood Urea Nitrogen (BUN) 9.62 mg/dl TOTAL PROTEINS 6.50 g/m©l GLOBULIN 3.50 g/m©l A/G RATIO 1.17 1.0-2.0 SERUM SODIUM 138.0 mmol/l SERUM POTASSIUM 4.30 mmol/l SERUM CALCIUM 9.0 meq/l Ureais the end product of protein catabolism and Urea undergoes filtrations at the glomerulus as well as non kidney related disorders. ",
+  "language": "en",
+  "is_blurry": 0,
+  "visual_elements": {
+    "has_stamp": 0,
+    "has_signature": 0,
+    "has_photo_evidence": 0,
+    "has_implant_sticker": 0,
+    "has_table": 1,
+    "has_xray": 0
+  },
+  "entities": {
+    "patient_age": "58",
+    "dates_found": [
+      "23/Jan/2026"
+    ],
+    "doa": null,
+    "dod": null,
+    "hb_values": [],
+    "temperature_celsius": null,
+    "fever_duration_days": null,
+    "diagnoses": [],
+    "symptoms": [],
+    "treatments": []
+  }
+}
